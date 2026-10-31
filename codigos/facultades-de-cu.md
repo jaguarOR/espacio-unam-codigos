@@ -238,6 +238,7 @@
 | `S7H7BF` | Investigación Biomédica Básica | doc |
 | `DH5LMV` | Médico Cirujano | doc |
 | `KVJNQD` | Médico Cirujano | doc |
+| `S9VSRR` | Médico Cirujano | doc |
 | `NU9ED2` | Médico Cirujano | doc |
 | `NN2BAN` | Médico Cirujano | doc |
 | `HXNPTW` | Médico Cirujano | doc |
@@ -538,6 +539,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `YPHDQH` | Administración | doc |
 | `9MEAAP` | Administración | doc |
 | `9ZP2AZ` | Administración | doc |
 | `VBDF4E` | Administración | doc |
@@ -633,6 +635,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `PBNGNC` | Derecho | doc |
 | `QMDEAM` | Derecho | doc |
 | `CF4UBR` | Derecho | doc |
 | `MFCF6H` | Derecho | doc |

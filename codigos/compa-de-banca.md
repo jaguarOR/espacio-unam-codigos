@@ -155,8 +155,9 @@
 | `H6F4BA` | GEOGRAFIA (2019🧑‍🦳) | doc |
 | `Z7V2DL` | OPTOMETRÍA ENES LEÓN 2023 | doc |
 | `6DXUFC` | ESTUDIOS LATINOAMERICANOS 2023 | doc |
-| `UM2YKB` | Ing. Eléctrica Electrónica FI / 2021 / | doc |
-| `V569QT` | / 2025 | doc |
+| `UM2YKB` | FI 2021 | doc |
+| `V569QT` | 2025 | doc |
+| `3WLQSH` | FI 2019 | doc |
 | `ZVD8Z4` | Facultad de Odontología Cirujano Dentista / 2023 | doc |
 | `9R45UR` | Facultad de Odontología / 2021 / | doc |
 | `PYADLG` | Ingeniería Agrícola: 2025 / | doc |

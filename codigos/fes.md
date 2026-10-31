@@ -27,7 +27,10 @@
 | `SMC4YU` | Matemáticas Aplicadas y Computación | doc |
 | `D4RXRA` | Matemáticas Aplicadas y Computación | doc |
 | `EEVT74` | Matemáticas Aplicadas y Computación | doc |
-| `GUT5DE` | DRSMPR, HF 95VA | doc |
+| `DRSMPR` | Matemáticas Aplicadas y Computación | doc |
+| `HF95VA` | Matemáticas Aplicadas y Computación | doc |
+| `GUT5DE` | Matemáticas Aplicadas y Computación | doc |
+| `HUUGQ5` | Matemáticas Aplicadas y Computación | doc |
 | `ALVDTP` | Políticas y Administración Pública | doc |
 | `R9DENV` | Políticas y Administración Pública | doc |
 | `T827MU` | Políticas y Administración Pública | doc |
@@ -372,6 +375,7 @@
 | `UZK9Z4` | Biología | doc |
 | `X74JDR` | Biología | doc |
 | `ZWLYNY` | Médico Cirujano | doc |
+| `S9VSRR` | Médico Cirujano | doc |
 | `K7HSZT` | Médico Cirujano | doc |
 | `7WBMZG` | Médico Cirujano | doc |
 | `Z5B27L` | Médico Cirujano | doc |
