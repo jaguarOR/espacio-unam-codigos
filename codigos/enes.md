@@ -7,9 +7,11 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `JN9LZY` | Agrogenómicas | doc |
+| `ZGKH37` | Fisioterapia | doc |
 | `Z7V2DL` | Optometría | doc |
 | `ARWJMZ` | Administración Agropecuária | doc |
 | `SYGFBM` | Desarrollo territorial | doc |
+| `ZGKH37` | Desarrollo territorial | doc |
 | `H8W2VQ` | Economía Industrial | doc |
 | `BASB5W` | Relaciones Internacionales SUA | doc |
 | `NLX7FH` | Turismo y Desarrollo Sostenible | doc |
@@ -22,6 +24,7 @@
 | `7PDUXU` | Traducción | doc |
 | `4L2U5Q` | Traducción | doc |
 | `EA87CQ` | Traducción | doc |
+| `ZGKH37` | Etnomusicologia | doc |
 | `GTTYS2` | Ingeniería Eléctrica y Electrónica | doc |
 | `F783Q6` | Ingeniería Eléctrica y Electrónica | doc |
 | `LKAE3D` | 5 | doc |
@@ -44,6 +47,7 @@
 | `Z6NQMM` | Ingeniería Industrial | doc |
 | `NSZWUK` | Ingeniería Industrial | doc |
 | `JF5XLG` | Ingeniería Industrial | doc |
+| `ZGKH37` | Pedagogía | doc |
 | `M6984K` | Planificación para el Desarrollo Agropecuario | doc |
 | `UUN8K5` | Planificación para el Desarrollo Agropecuario | doc |
 | `LPD6S2` | Planificación para el Desarrollo Agropecuario | doc |
@@ -57,6 +61,7 @@
 | `MZA7HY` | Relaciones Internacionales | doc |
 | `8AH8Y9` | Relaciones Internacionales | doc |
 | `B32HHM` | Sociología | doc |
+| `ZGKH37` | Sociología | doc |
 | `EZLREM` | Derecho Sua | doc |
 | `B32HHM` | Derecho Sua | doc |
 
@@ -75,6 +80,7 @@
 | `Q6PZ9U` | Ingeniería en Energías Renovables | doc |
 | `RJ863T` | Ingeniería en Energías Renovables | doc |
 | `UU7ANV` | Matemáticas para el Desarrollo | doc |
+| `ZGKH37` | Matemáticas para el Desarrollo | doc |
 | `ATQRXX` | Tecnología | doc |
 | `UAMFRN` | Tecnología | doc |
 | `CQGBPC` | Tecnología | doc |
@@ -94,6 +100,7 @@
 | `TT9QJA` | Órtesis y Prótesis | doc |
 | `8DAUF2` | Órtesis y Prótesis | doc |
 | `SWCUS3` | Psicología | doc |
+| `ZGKH37` | Psicología | doc |
 | `FNXSDN` | Historia | doc |
 | `W7PL3L` | Negocios Internacionales | doc |
 
@@ -103,8 +110,10 @@
 |---|---|---|
 | `2YCHDH` | Geociencias | doc |
 | `PMATBR` | Geociencias | doc |
+| `ZGKH37` | Etnomusicología | doc |
 | `6TABQR` | Tecnologías para la Información en ciencias | doc |
 | `58ZH4F` | Ciencias Ambientales | doc |
+| `ZGKH37` | Ecología | doc |
 | `G5ZJ2S` | Estudios Sociales y Gestión Local | doc |
 | `HL67XM` | Administración | doc |
 | `2C99TJ` | Administración | doc |
@@ -114,10 +123,12 @@
 | `TPKQ9B` | Arte y Diseño | doc |
 | `PW5KSH` | Arte y Diseño | doc |
 | `RNQ5GZ` | Geohistoria | doc |
+| `ZGKH37` | Geohistoria | doc |
 | `SYCLSN` | Historia del Arte | doc |
 | `5NT3GR` | Historia del Arte | doc |
 | `U58UYF` | Literatura Intercultural | doc |
 | `5VSKLQ` | Música y Artística | doc |
+| `ZGKH37` | Música y Artística | doc |
 | `N3APR4` | Ciencias Agroforestales | doc |
 
 ## ENES Oaxaca
@@ -129,6 +140,7 @@
 | `SUAW4X` | Contaduría | doc |
 | `2AAE5B` | Informática | doc |
 | `KR5R3H` | Informática | doc |
+| `ZGKH37` | Informática | doc |
 | `VR3N9H` | Negocios Internacionales | doc |
 | `JH3PY7` | Negocios Internacionales | doc |
 | `FNXSDN` | Historia | doc |
@@ -142,8 +154,11 @@
 | `P2Z3FB` | Ciencias de la Tierra | doc |
 | `T53TWT` | Ciencias de la Tierra | doc |
 | `YLA386` | Ingeniería en Computación | doc |
+| `ZGKH37` | Ingeniería en Computación | doc |
+| `ZGKH37` | Ciencias ambientales | doc |
 | `RGVNRQ` | Manejo Sustentable de Zonas Costeras | doc |
 | `2CPSVN` | Geografía Aplicada | doc |
 | `VMHDRH` | Sociología Aplicada | doc |
 | `F38M8G` | Desarrollo y Gestión Interculturales | doc |
 | `RGVNRQ` | Ecología | doc |
+| `ZGKH37` | Ecología | doc |

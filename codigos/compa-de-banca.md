@@ -26,6 +26,7 @@
 | `2G5REG` | PSICOLOGÍA SUAyED /Facultad de Estudios Superiores Iztacala / 2024 | doc |
 | `A9U467` | BIOLOGÍA/FACULTAD DE ESTUDIOS SUPERIORES IZTACALA/2019 | doc |
 | `9ZP2AZ` | 2026 | doc |
+| `ZGKH37` | 2026 | doc |
 | `UMZHHH` | Psicología SUA CU 2023 | doc |
 | `LH4MD7` | Psicología SUA CU 2023 | doc |
 | `SKBZDL` | Psicología CU 2017 | doc |
@@ -39,12 +40,14 @@
 | `QK7GDH` | / | doc |
 | `6UQTGW` | derecho CU 2022 / Derecho CU 2022-2026 | doc |
 | `CF4UBR` | Derecho CU 2025 | doc |
+| `ZGKH37` | Derecho CU 2025 | doc |
 | `7Z9MNW` | DERECHO/FES ARAGON | doc |
 | `8GHZQ5` | / | doc |
 | `27YHVB` | Generación 2027 (nuevo ingreso) | doc |
 | `PQX8FT` | Generación 2027 (nuevo ingreso) | doc |
 | `7NSF65` | Generación 2026-1 | doc |
 | `NQK8TW` | (2027) | doc |
+| `ZGKH37` | (2027) | doc |
 | `S5VEZU` | ECONOMÍA/Facultad de Economía/ SUAyED/2023/ | doc |
 | `7M3MNC` | ECONOMÍA/Facultad de Economía/ SUAyED/2023/ | doc |
 | `BHXKZL` | ECONOMÍA/Facultad de Economia/ SUAyED/2022/ | doc |
@@ -68,6 +71,7 @@
 | `NU9ED2` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2023 | doc |
 | `HXNPTW` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2023 | doc |
 | `33RUTW` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2024 | doc |
+| `ZGKH37` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2024 | doc |
 | `DBY6Z4` | MÉDICO CIRUJANO/ Facultad de Medicina/2025 | doc |
 | `NMMG83` | MÉDICO CIRUJANO/ Facultad de Medicina/2025 | doc |
 | `EGV5ZC` | MÉDICO CIRUJANO/ Facultad de Medicina/2025 | doc |
@@ -78,10 +82,12 @@
 | `F5Z27H` | MÉDICO CIRUJANO / FES IZTACALA 2025 | doc |
 | `92B2W3` | MÉDICO CIRUJANO / FES IZTACALA 2025 | doc |
 | `2K9FK5` | — | doc |
+| `ZGKH37` | — | doc |
 | `P7PAUD` | MÉDICO CIRUJANO / FES IZTACALA 2021 | doc |
 | `BELPYW` | 2020 | doc |
 | `T8VYDC` | / | doc |
 | `Y9DWP5` | 2026 | doc |
+| `ZGKH37` | 2024 | doc |
 | `J4QES4` | 2025 | doc |
 | `5SYS4J` | ARQUITECTURA CU 2020-2021 | doc |
 | `X4BZBK` | ARQUITECTURA CU 2021 | doc |
@@ -92,6 +98,7 @@
 | `28TBBT` | Ingeniería Química/FQ/2024 | doc |
 | `43MNSA` | INFORMATICA / 2021 | doc |
 | `BXAMZP` | CONTADURÍA / FCA / 2021 | doc |
+| `ZGKH37` | CONTADURÍA / FCA / 2021 | doc |
 | `8JH9PL` | QFB / FES Zaragoza / 2021 | doc |
 | `DMZQWU` | QFB / FES Zaragoza / 2020 | doc |
 | `YURFCE` | Quimica Farmaceutica Biologica / Facultad de Química / 2023 | doc |
@@ -106,6 +113,7 @@
 | `5RMV32` | Trabajo Social/SUAyED/2023 | doc |
 | `7UJJVP` | Trabajo Social/SUAyED/2023 | doc |
 | `2AVJJ6` | Trabajo social 2023 | doc |
+| `ZGKH37` | Trabajo social 2023 | doc |
 | `NYSCU3` | FÍSICA/ 2021/ | doc |
 | `B9ELGM` | QUÍMICA/ CU/ 2020 | doc |
 | `QE4UEL` | QUÍMICA/CU/ 2025 | doc |
@@ -137,6 +145,7 @@
 | `VD522A` | RELACIONES INTERNACIONALES. FCPYS | doc |
 | `2FB5UB` | 2022 | doc |
 | `L6KQTK` | 2019 | doc |
+| `ZGKH37` | 2022 | doc |
 | `GD53DM` | 2024 | doc |
 | `75CQF3` | 2021 | doc |
 | `P3ZRE5` | 2023 | doc |
@@ -150,10 +159,12 @@
 | `PGPXPL` | 2020 | doc |
 | `HR5TVK` | INGENIERIA EN ALIMENTOS / FESC / 2023 | doc |
 | `TUQWSQ` | Ingeniería Civil CU 2021 | doc |
+| `ZGKH37` | Ingeniería Civil CU 2021 | doc |
 | `T827MU` | POLITICAS Y ADMINISTRACION PUBLICA. FESA | doc |
 | `G4K6JE` | GEOGRAFIA SUA/ 2024 | doc |
 | `H6F4BA` | GEOGRAFIA (2019🧑‍🦳) | doc |
 | `Z7V2DL` | OPTOMETRÍA ENES LEÓN 2023 | doc |
+| `ZGKH37` | OPTOMETRÍA ENES LEÓN 2023 | doc |
 | `6DXUFC` | ESTUDIOS LATINOAMERICANOS 2023 | doc |
 | `UM2YKB` | FI 2021 | doc |
 | `V569QT` | 2025 | doc |

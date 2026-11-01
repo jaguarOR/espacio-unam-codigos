@@ -60,6 +60,7 @@
 | `RWSHM3` | Física Biomédica | doc |
 | `NYSCU3` | Física y Matemáticas | doc |
 | `QCXM4B` | Física y Matemáticas | doc |
+| `ZGKH37` | Física y Matemáticas | doc |
 | `3P2YMH` | Matemáticas | doc |
 | `L3YB7T` | Matemáticas | doc |
 | `BC769Z` | Matemáticas | doc |
@@ -77,6 +78,7 @@
 | `4A4LJJ` | Matemáticas Aplicadas | doc |
 | `KDTKR8` | Matemáticas Aplicadas | doc |
 | `UU7ANV` | Matemáticas para el desarrollo | doc |
+| `ZGKH37` | Matemáticas para el desarrollo | doc |
 
 ## Facultad de Ingeniería
 
@@ -92,6 +94,7 @@
 | `CBEPWS` | Ingeniería Aeroespacial | doc |
 | `HR5TVK` | Ingeniería En Alimentos | doc |
 | `985XKC` | Ingeniería En Alimentos | doc |
+| `ZGKH37` | Ingeniería En Alimentos | doc |
 | `QZ35PS` | Ingeniería Ambiental | doc |
 | `4RTEPW` | Ingeniería Ambiental | doc |
 | `7QYUTX` | Ingeniería Ambiental | doc |
@@ -185,6 +188,7 @@
 | `CGEFS2` | Ingeniería Petrolera | doc |
 | `55VVA9` | Ingeniería Petrolera | doc |
 | `8T2H42` | ## Ingeniería topográfica y geodésica | doc |
+| `ZGKH37` | ## Ingeniería topográfica y geodésica | doc |
 | `9BCKYJ` | Ingeniería eléctrica y electrónica; Marco Tulio; Torres; 25; 2020 | comunidad |
 
 ## Facultad de Arquitectura
@@ -229,6 +233,7 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `KB2U7B` | Ciencia de la Nutrición Humana | doc |
+| `ZGKH37` | Ciencia de la Nutrición Humana | doc |
 | `LRYEUK` | Fisioterapia | doc |
 | `3TGEAC` | Fisioterapia | doc |
 | `G9HCLW` | Fisioterapia | doc |
@@ -371,6 +376,7 @@
 | `X82MPH` | Química Farmacéutico Biológica | doc |
 | `BD452P` | Química Farmacéutico Biológica | doc |
 | `MXM4V3` | Química Farmacéutico Biológica | doc |
+| `T3CJMF` | Química Farmacéutico Biológica | doc |
 | `K9W559` | Química Industrial | doc |
 | `3PXTU2` | Trabajo Social | doc |
 | `DNLR3P` | Trabajo Social | doc |
@@ -464,6 +470,7 @@
 | `JMRJPL` | Letras Clásicas | doc |
 | `MRAV79` | Letras Clásicas | doc |
 | `SYCLSN` | Historia del arte | doc |
+| `ZGKH37` | Historia del arte | doc |
 
 ## Facultad de Ciencias Políticas y Sociales
 
@@ -585,6 +592,7 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `NPCGN7` | Arte y Diseño | doc |
+| `ZGKH37` | Arte y Diseño | doc |
 | `W3FLD6` | Artes Visuales | doc |
 | `SZEXJ3` | Artes Visuales | doc |
 | `ZEX4TV` | Artes Visuales | doc |

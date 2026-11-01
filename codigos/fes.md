@@ -19,6 +19,7 @@
 | `5DE3MV` | Arquitectura | doc |
 | `DEPQX9` | Arquitectura | doc |
 | `L4RHWU` | Ciencia de Datos | doc |
+| `ZGKH37` | Ciencia de Datos | doc |
 | `GAVUGY` | Ingeniería Civil | doc |
 | `7BATH7` | Ingeniería Civil | doc |
 | `9X7TGT` | Ingeniería Civil | doc |
@@ -61,6 +62,7 @@
 | `6S9FH3` | Derecho sua | doc |
 | `PTHAMJ` | Economía | doc |
 | `LXYBNV` | Economía | doc |
+| `ZGKH37` | Economía | doc |
 | `ZEWEKJ` | Relaciones Internacionales | doc |
 | `JPLRZG` | Relaciones Internacionales | doc |
 | `XV6KAN` | Relaciones Internacionales | doc |
@@ -82,16 +84,18 @@
 | `Z9D3BT` | Diseño Gráfico | doc |
 | `T7XCPM` | Diseño Gráfico | doc |
 | `JE8MNE` | Enseñanza de Inglés ‘como Lengua Extranjera | doc |
+| `ZGKH37` | Enseñanza de Aleman como Lengua Extranjera | doc |
 | `TVPG8X` | Enseñanza de Francés como Lengua Extranjera | doc |
 | `G45DBK` | Enseñanza de Español como Lengua Extranjera | doc |
 | `T7EEMY` | Enseñanza de Español como Lengua Extranjera | doc |
 | `EDWUCZ` | Enseñanza de Español como Lengua Extranjera | doc |
 | `4QQA2Z` | Enseñanza de Español como Lengua Extranjera | doc |
-| `SXFJVK` | Enseñanza de Italiano | doc |
+| `ZGKH37` | Enseñanza de Italiano | doc |
 | `3FWPDJ` | Enseñanza de ingles | doc |
 | `GM2S6V` | Enseñanza de ingles | doc |
 | `LGRZ65` | Enseñanza de ingles | doc |
 | `NZQBK9` | Filosofía | doc |
+| `ZGKH37` | Filosofía | doc |
 | `AQDZJ4` | Historia | doc |
 | `99YS7A` | Historia | doc |
 | `DW3N8A` | Lengua y Literaturas Hispánicas | doc |
@@ -102,6 +106,7 @@
 | `MAT54P` | Pedagogía | doc |
 | `5KDYK6` | Pedagogía | doc |
 | `3UNCXG` | Pedagogía | doc |
+| `L83HF5` | Pedagogía | doc |
 
 ## FES Aragón
 
@@ -143,6 +148,7 @@
 | `QV8YWM` | Economía | doc |
 | `84HDNQ` | Economía | doc |
 | `4E5D5N` | Economía SUAyED | doc |
+| `ZGKH37` | Economía SUAyED | doc |
 | `BZJX2A` | Ingeniería Civil | doc |
 | `UEYKGM` | Ingeniería Civil | doc |
 | `GAVUGY` | Ingeniería Civil | doc |
@@ -227,6 +233,7 @@
 | `M8PN5M` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `9QDPTW` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `K4RNJH` | Ingeniería Industrial | doc |
+| `ZGKH37` | Ingeniería Industrial | doc |
 | `VPRKQA` | Diseño y Visual | doc |
 | `3W5HLK` | Diseño y Visual | doc |
 | `AV5UAQ` | Diseño y Visual | doc |
@@ -280,6 +287,7 @@
 | `FTJ9YB` | Química Industrial | doc |
 | `HFAAS9` | Ingeniería En Alimentos | doc |
 | `985XKC` | Ingeniería En Alimentos | doc |
+| `ZGKH37` | Ingeniería En Alimentos | doc |
 | `47JVS9` | Ingeniería Agrícola 🌽 | doc |
 | `6U3VWW` | Ingeniería Agrícola 🌽 | doc |
 | `PYADLG` | Ingeniería Agrícola 🌽 | doc |
@@ -292,6 +300,7 @@
 | `CQ4TYX` | Informática | doc |
 | `VW5TB8` | Informática | doc |
 | `GKBNW8` | Comunicación gráfica | doc |
+| `ZGKH37` | Comunicación gráfica | doc |
 | `3BYYCV` | Medicina Veterinaria Y Zootecnia. Gonzalez. Salma. 3 diciembre | comunidad |
 
 ## FES Iztacala
@@ -304,6 +313,7 @@
 | `8VA22G` | Medicina | doc |
 | `Y6352H` | Medicina | doc |
 | `YU7DW5` | Ecología | doc |
+| `ZGKH37` | Ecología | doc |
 | `Q2KLU8` | Biología | doc |
 | `A28B7B` | Biología | doc |
 | `49ACHB` | Biología | doc |
@@ -407,6 +417,7 @@
 | `EUSGCL` | Enfermería | doc |
 | `EBY6TR` | Enfermería | doc |
 | `G5GKTE` | Enfermería y Obstetricia | doc |
+| `ZGKH37` | Enfermería y Obstetricia | doc |
 | `4BJ4EV` | Ingeniería Química | doc |
 | `S5G28G` | Ingeniería Química | doc |
 | `ZUAMAT` | Ingeniería Química | doc |

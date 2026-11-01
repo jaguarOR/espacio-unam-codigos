@@ -491,6 +491,7 @@
 | `LHPSC9` | DICIEMBRE | doc |
 | `3C5MX2` | DICIEMBRE | doc |
 | `KWRTRY` | DICIEMBRE | doc |
+| `LXYBNV` | DICIEMBRE | doc |
 | `TPZWY9` | Aguascalientes | doc |
 | `UEW98C` | Baja California Sur | doc |
 | `KVMVNM` | Baja California Sur | doc |
@@ -503,6 +504,7 @@
 | `W7AHQ2` | Chiapas | doc |
 | `YTGL83` | Chiapas | doc |
 | `R6TE6Q` | Chihuahua | doc |
+| `ZGKH37` | Chihuahua | doc |
 | `4TB6ZC` | Ciudad de México | doc |
 | `4C7WHL` | Ciudad de México | doc |
 | `CF4UBR` | Ciudad de México | doc |
@@ -556,8 +558,10 @@
 | `T7XCPM` | Ciudad de México | doc |
 | `J6VTDU` | Ciudad de México | doc |
 | `MFCF6H` | Ciudad de México | doc |
+| `LXYBNV` | Ciudad de México | doc |
 | `Y2S7KV` | Coahuila | doc |
 | `79U7RY` | Colima | doc |
+| `ZGKH37` | Colima | doc |
 | `9ASR8W` | Durango | doc |
 | `VUELXG` | Durango | doc |
 | `VG39JT` | RJ863WSSGKMT | doc |
@@ -607,6 +611,7 @@
 | `4R4MNQ` | Estado de México | doc |
 | `5KDYK6` | Estado de México | doc |
 | `XBR3NR` | Estado de México | doc |
+| `ZGKH37` | Estado de México | doc |
 | `ZFHZNJ` | Guanajuato | doc |
 | `4QQA2Z` | Guanajuato | doc |
 | `CYSVAV` | Guanajuato | doc |
@@ -620,11 +625,13 @@
 | `NWB7JG` | Hidalgo | doc |
 | `9JUAP7` | Hidalgo | doc |
 | `5MMQ9F` | Jalisco | doc |
+| `ZGKH37` | Jalisco | doc |
 | `7GJ83S` | Michoacán | doc |
 | `PW5KSH` | Michoacán | doc |
 | `DGSDUJ` | Morelos | doc |
 | `6EJ8H5` | Morelos | doc |
 | `K334YB` | Nayarit | doc |
+| `ZGKH37` | Nayarit | doc |
 | `SCFY3G` | Nuevo León | doc |
 | `3C9YXF` | Nuevo León | doc |
 | `UQQGXT` | Oaxaca | doc |
@@ -641,23 +648,25 @@
 | `UDXDSE` | Querétaro | doc |
 | `ER4UV5` | Querétaro | doc |
 | `NJCREN` | Quintana Roo | doc |
+| `ZGKH37` | Quintana Roo | doc |
 | `E377RP` | San Luis Potosí | doc |
 | `ADBZNZ` | San Luis Potosí | doc |
 | `XFX8U7` | San Luis Potosí | doc |
 | `DSN67E` | Sinaloa | doc |
 | `W6JDTE` | Sonora | doc |
 | `X5NADC` | Tabasco | doc |
+| `ZGKH37` | Tabasco | doc |
 | `CBU3CE` | Tamaulipas | doc |
 | `4G7JK7` | Tlaxcala | doc |
 | `P3ZRE5` | Tlaxcala | doc |
 | `9KPM49` | Tlaxcala | doc |
-| `NZV72B` | Veracruz | doc |
 | `DH3XJL` | Veracruz | doc |
 | `CZ32GG` | Veracruz | doc |
 | `N8UE5V` | Veracruz | doc |
 | `NTQFMQ` | Veracruz | doc |
 | `MTXZ58` | Veracruz | doc |
 | `UBQJR5` | Yucatán | doc |
+| `ZGKH37` | Yucatán | doc |
 | `KWRTRY` | Zacatecas | doc |
 | `X2SV2Y` | Zacatecas | doc |
 | `FHG5GS` | — | doc |

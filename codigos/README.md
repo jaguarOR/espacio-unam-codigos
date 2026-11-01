@@ -2,26 +2,26 @@
 
 Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos a mano**: se sobrescriben en cada sincronización. Para aportar un código abre un [issue de aportación](../../../issues/new?template=aporte-codigo.yml).
 
-- Códigos del Google Doc: **4963**
+- Códigos del Google Doc: **5032**
 - Aportaciones vía GitHub: **9**
 
 | Sección | Códigos |
 |---|---:|
 | [Inicio](inicio.md) | 2 |
 | [Medallas secretas](medallas-secretas.md) | 9 |
-| [Carreras que ya no existen o cambiaron de nombre](carreras-que-ya-no-existen-o-cambiaron-de-nombre.md) | 11 |
-| [CCH](cch.md) | 17 |
-| [Prepas](prepas.md) | 20 |
-| [ENES](enes.md) | 121 |
-| [FES](fes.md) | 404 |
-| [Facultades de CU](facultades-de-cu.md) | 672 |
-| [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 35 |
-| [Tocayo](tocayo.md) | 1000 |
-| [Casi familia](casi-familia.md) | 966 |
-| [Pastel compartido](pastel-compartido.md) | 662 |
-| [Casi gemelos](casi-gemelos.md) | 447 |
+| [Carreras que ya no existen o cambiaron de nombre](carreras-que-ya-no-existen-o-cambiaron-de-nombre.md) | 14 |
+| [CCH](cch.md) | 18 |
+| [Prepas](prepas.md) | 22 |
+| [ENES](enes.md) | 136 |
+| [FES](fes.md) | 415 |
+| [Facultades de CU](facultades-de-cu.md) | 680 |
+| [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 38 |
+| [Tocayo](tocayo.md) | 1001 |
+| [Casi familia](casi-familia.md) | 968 |
+| [Pastel compartido](pastel-compartido.md) | 671 |
+| [Casi gemelos](casi-gemelos.md) | 450 |
 | [Cazadora de mitos](cazadora-de-mitos.md) | 14 |
-| [Compa de banca](compa-de-banca.md) | 182 |
+| [Compa de banca](compa-de-banca.md) | 193 |
 | [Otros](otros.md) | 2 |
 | [Grupo de WhatsApp](grupo-de-whatsapp.md) | 303 |
 | [Anuncios de la comunidad](anuncios-de-la-comunidad.md) | 101 |
