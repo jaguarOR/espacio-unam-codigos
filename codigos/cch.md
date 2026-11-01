@@ -12,7 +12,6 @@
 | `RC3V95` | CCH Naucalpan | doc |
 | `AMJL9T` | CCH Naucalpan | doc |
 | `RGUKR3` | CCH Vallejo | doc |
-| `ZGKH37` | CCH Vallejo | doc |
 | `G5SHBK` | CCH Oriente | doc |
 | `U5EJBZ` | CCH Oriente | doc |
 | `MVXDPM` | CCH Oriente | doc |

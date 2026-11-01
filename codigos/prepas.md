@@ -6,7 +6,6 @@
 |---|---|---|
 | `KU6394` | Iniciacion Universitaria | doc |
 | `H4E7FE` | Iniciacion Universitaria | doc |
-| `ZGKH37` | Iniciacion Universitaria | doc |
 | `2VFHHS` | Prepa 1 | doc |
 | `2EYZ62` | Prepa 1 | doc |
 | `Q78WJ7` | Prepa 1 | doc |
@@ -15,7 +14,6 @@
 | `HXMFZH` | Prepa 3 | doc |
 | `KZKXYV` | Prepa 4 | doc |
 | `AR9HSX` | Prepa 5 | doc |
-| `ZGKH37` | Prepa 5 | doc |
 | `T9UJMP` | Prepa 6 | doc |
 | `JG276B` | Prepa 7 | doc |
 | `9TBEQ9` | Prepa 7 | doc |

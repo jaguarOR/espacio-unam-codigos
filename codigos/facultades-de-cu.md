@@ -60,7 +60,6 @@
 | `RWSHM3` | Física Biomédica | doc |
 | `NYSCU3` | Física y Matemáticas | doc |
 | `QCXM4B` | Física y Matemáticas | doc |
-| `ZGKH37` | Física y Matemáticas | doc |
 | `3P2YMH` | Matemáticas | doc |
 | `L3YB7T` | Matemáticas | doc |
 | `BC769Z` | Matemáticas | doc |
@@ -78,7 +77,6 @@
 | `4A4LJJ` | Matemáticas Aplicadas | doc |
 | `KDTKR8` | Matemáticas Aplicadas | doc |
 | `UU7ANV` | Matemáticas para el desarrollo | doc |
-| `ZGKH37` | Matemáticas para el desarrollo | doc |
 
 ## Facultad de Ingeniería
 
@@ -94,7 +92,6 @@
 | `CBEPWS` | Ingeniería Aeroespacial | doc |
 | `HR5TVK` | Ingeniería En Alimentos | doc |
 | `985XKC` | Ingeniería En Alimentos | doc |
-| `ZGKH37` | Ingeniería En Alimentos | doc |
 | `QZ35PS` | Ingeniería Ambiental | doc |
 | `4RTEPW` | Ingeniería Ambiental | doc |
 | `7QYUTX` | Ingeniería Ambiental | doc |
@@ -188,7 +185,6 @@
 | `CGEFS2` | Ingeniería Petrolera | doc |
 | `55VVA9` | Ingeniería Petrolera | doc |
 | `8T2H42` | ## Ingeniería topográfica y geodésica | doc |
-| `ZGKH37` | ## Ingeniería topográfica y geodésica | doc |
 | `9BCKYJ` | Ingeniería eléctrica y electrónica; Marco Tulio; Torres; 25; 2020 | comunidad |
 
 ## Facultad de Arquitectura
@@ -232,8 +228,6 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `KB2U7B` | Ciencia de la Nutrición Humana | doc |
-| `ZGKH37` | Ciencia de la Nutrición Humana | doc |
 | `LRYEUK` | Fisioterapia | doc |
 | `3TGEAC` | Fisioterapia | doc |
 | `G9HCLW` | Fisioterapia | doc |
@@ -400,6 +394,7 @@
 | `ZG5ZBZ` | Bibliotecología y Estudios de la Información | doc |
 | `C44NTV` | Bibliotecología y Estudios de la Información | doc |
 | `57EYLG` | Bibliotecología y Estudios de la Información | doc |
+| `RZT3LL` | Bibliotecología y Estudios de la Información | doc |
 | `M33DPN` | Administración de Archivos y Gestión Documental | doc |
 | `5DV4P9` | Filosofía | doc |
 | `9JURAL` | Filosofía | doc |
@@ -412,7 +407,6 @@
 | `H6F4BA` | Geografía | doc |
 | `G4K6JE` | Geografía | doc |
 | `VNMPZ9` | Lengua y Literaturas Hispánicas | doc |
-| `DUZ6ZW` | Lengua y Literaturas Hispánicas | doc |
 | `2B9BEB` | Lengua y Literaturas Hispánicas | doc |
 | `MD2YTA` | Lengua y Literaturas Hispánicas | doc |
 | `CWFTUP` | Lengua y Literaturas Hispánicas | doc |
@@ -429,10 +423,10 @@
 | `MZZQ3K` | Lengua y Literaturas Modernas Inglesas | doc |
 | `VECKTJ` | Lengua y Literaturas Modernas Inglesas | doc |
 | `5GBMQ7` | Lengua y Literaturas Modernas Italianas | doc |
+| `AMUKVV` | Lengua y Literaturas Modernas Italianas | doc |
 | `JBND4D` | Lengua y Literaturas Modernas Portuguesas | doc |
 | `6NDDAC` | Literatura Dramática y Teatro | doc |
 | `ZUACTS` | Literatura Dramática y Teatro | doc |
-| `5VSKLQ` | Literatura Dramática y Teatro | doc |
 | `P447L7` | Literatura Dramática y Teatro | doc |
 | `FUEQZD` | Literatura Dramática y Teatro | doc |
 | `BU4DMD` | Literatura Dramática y Teatro | doc |
@@ -470,17 +464,14 @@
 | `JMRJPL` | Letras Clásicas | doc |
 | `MRAV79` | Letras Clásicas | doc |
 | `SYCLSN` | Historia del arte | doc |
-| `ZGKH37` | Historia del arte | doc |
 
 ## Facultad de Ciencias Políticas y Sociales
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `TWC27T` | Antropología | doc |
 | `C3EXMD` | Antropología | doc |
 | `P79ZDH` | Antropología | doc |
 | `8MT3SY` | Antropología | doc |
-| `ARA68T` | Antropología | doc |
 | `FFHFFF` | Antropología | doc |
 | `MGHG7B` | Antropología | doc |
 | `75CQF3` | Ciencias de la Comunicación (Periodismo) | doc |
@@ -540,7 +531,6 @@
 | `VFL56D` | Ciencias de la Comunicación (SUAyED) | doc |
 | `BHJJJA` | Ciencias de la Comunicación (SUAyED) | doc |
 | `DFTXBL` | Ciencias de la Comunicación (SUAyED) | doc |
-| `P3ZRE5` | Ciencias de la Comunicación (SUAyED) | doc |
 
 ## Facultad de Contaduría y Administración
 
@@ -592,7 +582,6 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `NPCGN7` | Arte y Diseño | doc |
-| `ZGKH37` | Arte y Diseño | doc |
 | `W3FLD6` | Artes Visuales | doc |
 | `SZEXJ3` | Artes Visuales | doc |
 | `ZEX4TV` | Artes Visuales | doc |
@@ -600,6 +589,8 @@
 | `L8GE4V` | Artes Visuales | doc |
 | `W3ZPUK` | Artes Visuales | doc |
 | `RANETR` | Artes Visuales | doc |
+| `3EADS3` | Diseño y Comunicación Visual | doc |
+| `WMWPYR` | Diseño y Comunicación Visual | doc |
 | `J8LGHK` | Diseño y Comunicación Visual | doc |
 | `BFJ5ZB` | Diseño y Comunicación Visual | doc |
 | `XJWH5V` | Diseño y Comunicación Visual | doc |
