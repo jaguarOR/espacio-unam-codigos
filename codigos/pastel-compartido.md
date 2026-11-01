@@ -143,7 +143,6 @@
 | `HR5TVK` | ABRIL | doc |
 | `FDSTL4` | ABRIL | doc |
 | `X4WFYP` | ABRIL | doc |
-| `S9VSRR` | ABRIL | doc |
 | `ARCUK3` | ABRIL | doc |
 | `Z85GPC` | ABRIL | doc |
 | `ETW2ZZ` | ABRIL | doc |
@@ -370,6 +369,7 @@
 | `UAW9AA` | ' | doc |
 | `MJPW9K` | ' | doc |
 | `CY5CX8` | ' | doc |
+| `GHSX27` | OCTUBRE | doc |
 | `VNMPZ9` | OCTUBRE | doc |
 | `ESN8G3` | OCTUBRE | doc |
 | `8C9ST8` | OCTUBRE | doc |
@@ -566,7 +566,6 @@
 | `VG39JT` | RJ863WSSGKMT | doc |
 | `E7MD3K` | Estado de México | doc |
 | `6CRCR2` | Estado de México | doc |
-| `S9VSRR` | Estado de México | doc |
 | `JV4M3U` | Estado de México | doc |
 | `27YHVB` | Estado de México | doc |
 | `SPMU3V` | Estado de México | doc |
@@ -616,7 +615,6 @@
 | `PA7FWF` | Guerrero | doc |
 | `M33WL2` | Guerrero | doc |
 | `ACZ97F` | Guerrero | doc |
-| `9MS8MM` | Guerrero | doc |
 | `Z7V2DL` | Guerrero | doc |
 | `3C5MX2` | Hidalgo | doc |
 | `FZC5EB` | Hidalgo | doc |

@@ -85,6 +85,7 @@
 | `J4QES4` | 2025 | doc |
 | `5SYS4J` | ARQUITECTURA CU 2020-2021 | doc |
 | `X4BZBK` | ARQUITECTURA CU 2021 | doc |
+| `GHSX27` | ARQUITECTURA CU 2018-2023 | doc |
 | `Z2PFT2` | ARQUITECTURA CU 2018-2023 | doc |
 | `ZUAMAT` | INGENIERÍA QUÍMICA / FES Zaragoza /2024 | doc |
 | `S5G28G` | yo soy d tu generación | doc |

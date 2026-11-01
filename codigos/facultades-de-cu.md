@@ -122,13 +122,12 @@
 | `T2UL6E` | Ingeniería en Computación | doc |
 | `JN42QP` | Ingeniería en Computación | doc |
 | `QXN8JQ` | Ingeniería en Computación | doc |
-| `ZH8RDP` | Ingeniería en Computación | doc |
-| `BPGFSP` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
-| `ELUYC2` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
-| `95Y7HN` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
-| `EGJGMB` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
-| `7Y4N48` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
-| `WWTRWU` | (¡Nueva medalla: Bisiesto! Formaste un lazo con alguien que nació un 29 de febrero: cumple | doc |
+| `BPGFSP` | Ingeniería en Computación | doc |
+| `ELUYC2` | Ingeniería en Computación | doc |
+| `95Y7HN` | Ingeniería en Computación | doc |
+| `EGJGMB` | Ingeniería en Computación | doc |
+| `7Y4N48` | Ingeniería en Computación | doc |
+| `WWTRWU` | Ingeniería en Computación | doc |
 | `BLL2CA` | Ingeniería en Sistemas Biomédicos | doc |
 | `QBHNZB` | Ingeniería en Sistemas Biomédicos | doc |
 | `8H46ZM` | Ingeniería en Sistemas Biomédicos | doc |
@@ -570,6 +569,7 @@
 | `EVKRFU` | Contaduría | doc |
 | `MDW9W3` | Contaduría | doc |
 | `LH9W8W` | Contaduría | doc |
+| `ZTAQVJ` | Contaduría | doc |
 | `2AAE5B` | Informática | doc |
 | `CDPCQC` | Informática | doc |
 | `H3WUX3` | Informática | doc |
@@ -649,7 +649,6 @@
 | `WMRUKV` | Derecho | doc |
 | `LM2U7L` | Derecho | doc |
 | `MXA4B9` | Derecho | doc |
-| `MJLUUU` | Derecho | doc |
 | `MTZ6TZ` | Derecho | doc |
 | `PV9QBS` | Derecho | doc |
 | `UU6VPQ` | Derecho | doc |

@@ -337,6 +337,7 @@
 | `M3SNLV` | Garcia | doc |
 | `SB3S58` | Garcia | doc |
 | `P992QH` | Garcia | doc |
+| `GHSX27` | García | doc |
 | `JV4M3U` | García | doc |
 | `FA7FL7` | García | doc |
 | `MXA4B9` | García | doc |
@@ -910,6 +911,7 @@
 | `CLQ8NT` | Valdés | doc |
 | `XCHMUY` | Valdés | doc |
 | `TZXDBB` | Valdez | doc |
+| `XZFTND` | Valdez | doc |
 | `9GNVRV` | Valderrama | doc |
 | `UALS83` | Valderrama | doc |
 | `UEYKGM` | Valdovinos | doc |

@@ -796,6 +796,14 @@ porra de la Prepa 1 «Gabino Barreda», esa que todo el plantel se sabe de memor
 
 Serie «Mujeres que hicieron la UNAM»: Ana María Cetto, física del Instituto de Física e impulsora de la ciencia abierta en América Latina. Idea de Zuri. Medalla secreta.
 
+**S1LV14**
+
+Serie «Mujeres que hicieron la UNAM»: Silvia Torres Castilleja, primera mujer mexicana con doctorado en astronomía e investigadora emérita del Instituto de Astronomía. Idea de Zuri. Medalla secreta.
+
+**K4T14**
+
+**OSTROSKY**
+
 ¿Alguien tiene el código de la “startup"?
 
 * **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta
@@ -962,7 +970,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Órtesis y Prótesis:**  KQHYGR, TT9QJA, 8DAUF2
 
-**Psicología:** c
+**Psicología:**
 
 **Historia:** FNXSDN
 
@@ -1038,7 +1046,9 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Ecología:** RGVNRQ
 
-## **A**
+##
+
+##
 
 ## **FES** {#fes}
 
@@ -1070,7 +1080,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Sociología:** 46Q2KK, 7UHFHJ, XT3Z2W,. SPN24H, WW36CR
 
-**Diseño Gráfico:**  BAK93R, HM8VPD, SJHBNY , NC53MT, Z9D3BT, **T7XCPM**
+**Diseño Gráfico:**  BAK93R, HM8VPD, SJHBNY , NC53MT, Z9D3BT, T7XCPM
 
 **Enseñanza de Inglés ‘como  Lengua Extranjera:** JE8MNE,
 
@@ -1156,9 +1166,9 @@ Bioquímica Diagnóstica:**JL85MQ,** **ALKPT3, 2WFKWY, P8AEN8, WNP6JM, GVT6M9**
 
 Tecnología:
 
-Ingeniería química: **WNYKCD**, 8HVPLY, **DQ5KTT, J5NJ47,  ME6AAR, D99CEH, XAYS2Y**
+Ingeniería química: **WNYKCD, 8HVPLY, DQ5KTT, J5NJ47,  ME6AAR, D99CEH, XAYS2Y**
 
-Farmacia: **3C99SZ , VUGKWY,** VBL7L6
+Farmacia: **3C99SZ , VUGKWY, VBL7L6**
 
 Química Industrial: **K9W559, N3MF6K, FTJ9YB**
 
@@ -1256,7 +1266,7 @@ Ingeniería en Minas y Metalurgia:**, TZ7S35, 4VP5BY , R6YX47**
 
 Ingeniería Eléctrica y Electrónica: **F783Q6, DWWWCX, V569QT, WEP2HC, 3GML34**
 
-Ingeniería en Computación:VL4D8Y, **NZ5A8V**, **9ZULZT** **V3HNZA**, **TFX6ZG**, **5EFYQV**, **7HE78F**, **T2UL6E , JN42QP, QXN8JQ, ZH8RDP (¡Nueva medalla: Bisiesto\! Formaste un lazo con alguien que nació un 29 de febrero: cumple años de verdad una vez cada cuatro. Idea de Krizia. Medalla secreta.), BPGFSP, ELUYC2, 95Y7HN, EGJGMB, 7Y4N48, WWTRWU**
+Ingeniería en Computación:VL4D8Y, **NZ5A8V**, **9ZULZT** **V3HNZA**, **TFX6ZG**, **5EFYQV**, **7HE78F**, **T2UL6E , JN42QP, QXN8JQ, BPGFSP, ELUYC2, 95Y7HN, EGJGMB, 7Y4N48, WWTRWU**
 
 Ingeniería en Sistemas Biomédicos: **BLL2CA, QBHNZB, 8H46ZM,  Q79VDT, CEA9QT, WLMRPY, 8PAUA9**
 
@@ -1423,7 +1433,7 @@ Ciencias de la Comunicación (SUAyED): **75CQF3, XSLEPM, VFL56D, BHJJJA, DFTXBL,
 Administración: YPHDQH, 9MEAAP,  **9ZP2AZ, VBDF4E, FFWLPX, HL67XM**
 Administración SUAYED a distancia: **FZC5EB, UVJ83P**
 
-Contaduría: **DVW383**, **4TB6ZC**, **3C5MX2, N54J7V, ZMY6X9, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, LH9W8W**
+Contaduría: **DVW383**, **4TB6ZC**, **3C5MX2, N54J7V, ZMY6X9, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, LH9W8W, ZTAQVJ**
 
 Informática: **2AAE5B,CDPCQC, H3WUX3**
 
@@ -1449,7 +1459,7 @@ Economia SUAyED**: S5VEZU, BHXKZL,42DDXA AGLLPJ, 4G7JK7, J6VTDU**
 
 ### ***Facultad de Derecho*** {#facultad-de-derecho}
 
-Derecho: **PBNGNC,** **QMDEAM**, **CF4UBR, MFCF6H, UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MJLUUU, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K**
+Derecho: **PBNGNC,** **QMDEAM**, **CF4UBR, MFCF6H, UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K**
 
 Derecho SUAYED: **RVT6RY, 9ASR8W, 47BH5C, 74KTUS,  7UGZTJ, UU6VPQ, YFF678, 6S9FH3, CEB2F7, M8MRDM, XJ65S3,**
 
@@ -1503,7 +1513,7 @@ Lingüística Aplicada: **7JA7UX, , KSQA7Y, LH2NV7**
 
 Teatro y actuación: **DNX7NY** (*Centro de Nanos y Nano (Ensenada):*
 
-Nanotecnología: **DLFZY8, BXCKLK**
+Nanotecnología: **c, BXCKLK**
 
 ###
 
@@ -1513,13 +1523,11 @@ Tecnología: CH2DGW
 
 ### ***Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—PASENLOOOOO ES EL UNICO QUE FALTA*** {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)-pasenlo-lo-borraron—pasenlooooo-es-el-unico-que-falta}
 
-### ***x2***
-
-CIencias :
+### **CIencias :**
 
 Ecologia:
 
-Ciencias Agroforestales: N3APR4
+Ciencias Agroforestales:
 
 ### ***Instituto de Energías Renovables (Temixco)*** {#instituto-de-energías-renovables-(temixco)}
 
@@ -1555,7 +1563,7 @@ YA NO LO BORREN
 XEYR24 \- **Elian** AARUZQ-**Elías**
 V4LUEE \- **Elideth** 4M6RG7 \- **Elisa**  45KGQP, 3ZQQKP, GTYWRN \- **Elizabeth** BPY827 **\- Elvira**  HE4X2K \- **Elsy**  4NGH85 \- **Emanuel**  6TBAMV \- **Emma** 5RF2MC, BUJP37 \- **Emmanuel** KW9UF5 \- **Emilia** UJ6HJA, BL2SEC, DRVR87 \- **Emiliano**  LJ3UDT,VFYFQQ, CZFK4A, JF5XLG \- **Emilio** M7ABXK, CY6ATS, Q92CDU- **Emily** G8ZWJ9 \- **Ennovi** 47AFVH \- **Enrique** 6DERTR \- **Enzi** RSJUH3 \- **Erandi** SSY4TG \- **Erandy** DPL3TW**\- Eric** JUF5W6 \- **Erick** 85XQ5L, S8LNQW \- **Erik** X4WFYP, ZCDEZZ, R5UKGS \- **Erika** YJ3MH8 **\- Esperanza** A39J8V \- **Esmeralda**  AQDZJ4 \- **Estefania** 8468UT \- **Estefanya** E76VKM **\- Estela** BHXKZL \- **Esther**  33DBC2 \- **Estrella** WQPRJZ \- **Ethan** 7XMBB9 \- **Eithan**  VUGKWY \- **Ethel** DL95TY \- **Etienne** RRB4ZF \- **Eumir**  9K99R3 \- **Eva QC4WVW \- Eva** WNYKCD \- **Evelin QCDXFG \- Evelin** JPJXQW, 742NB2 \- **Evelyn** UPWQ74- **Ever** 27XX4P \- **Ezequiel 79U7RY Efrain**  |
 | **F** |
-| 87WWAG \- **Fabián** MCJU5D \- **Fabio** 5K4A9V, FTJ9YB, 6A43KN \- **Fabiola** UM2YKB \- **Fabricio** CCQBM9 **\- Farrah** QLXHKW \- **Farid** 7L4QKK \- **Fatima**  46ZU4M \- **Fausto** H47GVV**\- Federico**  VZDJGS \- **Felix** ZKCCMK, YK9XG3, MTXZ58, 8EJFYT,7V69QX  \- **Fernanda** EBAGVV, 8R5W24 \- **Fernando** Y6352H, 9JUXJP, 74MYW8 \- **Francisco** 7STSNM, Z9D3BT \- **Frida** |
+| 87WWAG \- **Fabián** MCJU5D \- **Fabio** 5K4A9V, FTJ9YB, 6A43KN \- **Fabiola** UM2YKB \- **Fabricio** CCQBM9 **\- Farrah** QLXHKW \- **Farid** 7L4QKK \- **Fatima**  46ZU4M \- **Fausto** H47GVV**\- Federico**  VZDJGS \- **Felix** GHSX27, ZKCCMK, YK9XG3, MTXZ58, 8EJFYT,7V69QX  \- **Fernanda** EBAGVV, 8R5W24 \- **Fernando** Y6352H, 9JUXJP, 74MYW8 \- **Francisco** 7STSNM, Z9D3BT \- **Frida** |
 | **G** |
 | QV8YWM, H6RDXQ \- **Gabriel** AFJHRE, 2G5REG \- **Gabriela** NU9ED2 \- **Gael** 6GNP6P \- **Gamaliel** T4MZ7S \- **Genesis**  6QTNCX, LJ3UDT, ELYMMJ \- **Gerardo** UU7ANV \- **Gerónimo  5D4C6P \=  Giancarlo  S9VSRR \= Gianina** AQK9HC, SWCUS3 \- **Gibran** PYWASS \- **Gilberto** ZB3X47 \- **Giovanni 3C9YXF \- GiovannA** ULS7F3 \- **Giovanny** L6KQTK \- **Giselle** H5G886 \- **Gonzalo** XFLRJV \- **Grace** UJCX2D \- **Grecia** KWRTRY \- **Gregorio**  JA9ZR3 , CJXGS2 \- **Guadalupe**  ZL5WRA, 3WLQSH, PQ5YP6 \- **Gustavo** |
 | **H** |
@@ -1896,7 +1904,7 @@ LJWZXM  \-  Gallegos
 QLDMEH  \-  Gámez
 9U3QWM \- Garavito
 S785KG, M3SNLV, SB3S58, P992QH \-Garcia
-JV4M3U, FA7FL7, MXA4B9, AQQ37Y, 4A4LJJ,  J5HYY2 \-  García
+GHSX27, JV4M3U, FA7FL7, MXA4B9, AQQ37Y, 4A4LJJ,  J5HYY2 \-  García
 325FC5 \- Garduño
 8MT3SY  \-  Garduño
 27ZGCW, SYULLG \- Garrido
@@ -2299,7 +2307,7 @@ GSKBMJ \- VÁZQUEZ
 QC4WVW \- Vázquez
 KBL9AS \- Valadez
 CLQ8NT, XCHMUY \- Valdés
-TZXDBB  \-  Valdez
+TZXDBB, XZFTND  \-  Valdez
 9GNVRV, UALS83   \- Valderrama
 UEYKGM \- Valdovinos
 764BK4  \-  Valenzuela
@@ -2365,13 +2373,13 @@ SSD55C \- Zunun
 | ----- |
 | **FEBRERO** 6CRCR2, GTTYS2 , GFE3DQ, Z42WRW, H6YEY8, AQ3GS6,  CUBTQU, VLM6JA, E44DJW, BW6HC7, 8T9YUR, WUJYVC, W2CA3T, ER4UV5, PV9QBS, J4QES4**,** XP4SYA, T827MU, L92K5P, UM2YKB, GDEP4Z, 4JQBNS, 8AH8Y9, HE4X2K, SHYLDR, PWGZE8, J5HYY2, QXVWPA, 4HU2PV, ELUYC2, JAY662, BTHEFM, XP2KK8, AARUZQ, EMXTCA, ER4UV5, L55SRC, 6CRCR2, 8R5W24, CF4UBR, WWTRWU, XBR3NR |
 | **MARZO** T9L84A**,** K7HSZT,  YYSEV5,   NQQBE5, QK7GDH,M7ABXK, CBMN94, QE4UEL,  MXA4B9**,** BBVWWW, 54CXKN, 6UQTGW, V8NHYS, UWJK4T, KWAFZM, LJ5HRN, YBN3XW, BFAPC5, ZV7JT3, WZ6CAL, PYADLG, 8YFL8T,  BELPYW 3RX6LZ , KNK7Y4, VZ4TY9, BVX339, 2AVJJ6, 7Y9LVV, MAT54P, WZ6CAL, 2STNBU, 68QU64 PYADLG, 9MQNWS, 2CSXD, DEPQX9, CM8RT8, PLDRZE, W9THGT, HAAYEY, JEYZRQ, 3UA93V, 2AVJJ6, MDW9W3, N7AA4Q  |
-| **ABRIL** Z2PFT2, QVC32M, HR5TVK, FDSTL4, X4WFYP, **S9VSRR**, ARCUK3, Z85GPC, ETW2ZZ, PMZUG6, 3W5HLK, MTUVQH, 6F25A8, ADBZNZ, 2WFKWY, JN42QP, B9ELGM, YULUPY, NQK8TW, RPEUKJ, Z2PFT2, 7LX92Y, Y7ZM9H,  FZTJCT, UZJXUG, ZQ7D4T, BDJ43Q, P79ZDH,BKY7PY, H47GVV, BDJ43Q, JN42QP, QP8C79, 9G29YH, Q3Q9LU, LH2NV7 |
+| **ABRIL** Z2PFT2, QVC32M, HR5TVK, FDSTL4, X4WFYP, ARCUK3, Z85GPC, ETW2ZZ, PMZUG6, 3W5HLK, MTUVQH, 6F25A8, ADBZNZ, 2WFKWY, JN42QP, B9ELGM, YULUPY, NQK8TW, RPEUKJ, Z2PFT2, 7LX92Y, Y7ZM9H,  FZTJCT, UZJXUG, ZQ7D4T, BDJ43Q, P79ZDH,BKY7PY, H47GVV, BDJ43Q, JN42QP, QP8C79, 9G29YH, Q3Q9LU, LH2NV7 |
 | **MAYO** VL4D8Y, M8RMH9, GVALGQ**,** YG7BHR ,LBK24D, ZUACTS, DL7ZKB, F9TZFU, APSHVP,T2UL6E, TE86WP, TT6442, WHRPQ7, X3DZYF, FB5CLB, T3L5C5, XMKRM8 , E5VNTW, EL5ESZ, EGGBNP, R3Y27V, 6HAJFC, 2G5REG, 8EJFYT, GTYWRN, 2G5REG, V569QT, GVALGQ, GNPVXS, X4XZKY, HB9TUV, GFES9K, 8GHZQ5, YTGL83, MRAV79, WJH8ME, 57EYLG, KBH4QN |
 | **JUNIO** 6NDDAC, CEB2F7, 4QSM4X**,** 7M3MNC**,** L5GPBK, GMXC4A, 3LX4CZ, 5WL3J2, P8AEN8 ,GHCDJB, LWPJ6V, E6FYLQ, MB8M3H, CF4UBR, 3BQQCQ, HKDG94, JMDE8U, A39J8V, LTU3JQ, PQ5YP6 , ZEWEKJ; XKYNQ8, MDTK49 FHTEF8, 27NGUN, 45XLW5, 8PAUA9, GSZHQW, Y9DWP5, NWX4TN, QDXBQ9, BHEFGR, E3ADVA, KNLS2K, V58MF3, U243SW, UBXD7M, M6Q9JV |
 | **JULIO** KVJNQD, H6U52K, JUBN3N, HGGMCD, E92887 ,DFTXBL,ZZ6AE3, JUBN3N,99MYX7, VFYFQQ, YE83KR, FDR434, 5KX44U, DS7SU5, 3TGEAC, A28B7B, SYGFBM, 6DXUFC, 47X28G, KQTXQ3,BP23LR, Y6JME9, ZEDTNW, GC6HKG, KBCGJE, NBDGLB, X4XHYB, TNHMSN, M28V7D, E7MD3K, QW57KK, JQEG3U, V7QEMW, G8ZWJ9, V8NSTH, 8CYDV9, XTEKTV, 4G7JK7, WFK9M9, JQEG3U, XTEKTV, N7RKPL, QW57KK, C2E6DR, FUEQZD, SKNEPP, 5KDYK6, Z7V2DL, 95Y7HN |
 | **AGOSTO** FBTPB7, M8PN5M**,** TP7G2U, BLL2CA , 374S23, 96DD2T, M33DPN, 4TG2S7, S5G28G, E22JQT, 8Y89R9, CSYUZN, KNFKMV, EX43MU AK6ZWR, D5GYZY, YURFCE, ZVD8Z4, 8N24Z3 , KNWN28, N3MF6K, S4S24L, V6ZKQ8, PZBGYV, 4THUMF, AC6R6Z, FTJ9YB, TUBLX3, 3C9YXF, 7HQ8FR, 76J4U9, PGPXPL, P94HEN, TVGL8J, 7Q64Z9, M8PN5M, DZ239X, QC4WVW, ZT76GT, U9FRDX, XJE3HZ, SPMU3V, M7B54S |
 | **SEPTIEMBRE** HZ6A9Z, RZ6XRU**,** GLWNDS, BYF2UV, X87RX3, RUR545, 9MVBUH, BVWBB6, USVWAX, FMBLNQ, FL5998, LEH2JS', JPLRZG, U44QDA, DUP9YP, HMZ3AD, UUN8K5, UH9C9E. QMDEAM, YK9XG3, 82H488,9RE3VP, Z7BAJP, 74MYW8, X4BZBK, W3AQ9D, HERGCA, CRWXDZ, CXZGG6, CBHD9N, BK3FVG, NKMK4D**,** 6LV4PL, WPWR7B, ZTQ9QP, EGRGG2, UAW9AA, MJPW9K, CY5CX8 |
-| **OCTUBRE** VNMPZ9, ESN8G3, 8C9ST8, TZ3CU6, LDGQ8R, DX388V, F783Q6, KXQAX2, Z9D3BT, QCDXFG, UQQGXT, FFWLPX, TJ5QL3, WZ73LP, P7PAUD, 3SPJYT, T6DEYV, 92B2W3, SDPBTV, ZAX4D8, LH9W8W, 7GW9UE,77S9EC, NZZ4RS, MFCF6H |
+| **OCTUBRE** GHSX27, VNMPZ9, ESN8G3, 8C9ST8, TZ3CU6, LDGQ8R, DX388V, F783Q6, KXQAX2, Z9D3BT, QCDXFG, UQQGXT, FFWLPX, TJ5QL3, WZ73LP, P7PAUD, 3SPJYT, T6DEYV, 92B2W3, SDPBTV, ZAX4D8, LH9W8W, 7GW9UE,77S9EC, NZZ4RS, MFCF6H |
 | **NOVIEMBRE** 2K9FK5, CBU3CE, JL85MQ**,** C77D29**,**, VPRKQA**,** 74KTUS, 6WM8QZ, , K4P832, F698MD, QY3VQ9, NEKJCK, FHQXMQ, 9RDDKY, W3FLD6, VZ36RJ, 2M56EN, W8LHZL, HFAAS9, UN34WK, RWSHM3, 33DBC2, UMZHHH, L3CJV6, 4CYKPC, 6PHCHQ, PW5KSH, CY6ATS , CJXGS2, ALKPT3, GTMTH9, K7AFKF, Y2SM92, NQPMGB, 6DT6SY, CJXGS2, HC2CCM, UJ4PZC, M3XBS3, 8JH9PL, VG39JT, 6MURMS, 3EADS3, T7XCPM, J6VTDU,  |
 | **DICIEMBRE** RGUKR3,Y6352H,UU6VPQ, XJWH5V, MNM229,T9UJMP, P8E4PW, TAZL6P, MGQ845,VKR49Z  9DT7WG, VU4EAW, M8MRDM, RMNQ7T, QR4PLZ, 27YHVB, MP7Y6M, ZWLYNY, 4CDW4N, 9TSJ9S, RWKVVL, JCDSEA, MHLNQF,NWG754, QGLTRC, EE55CC,B3FPGG, ACZ97F, 4VP5BY, M7PS49, XLWSAA, F5Z27H, 39GFZJ, 9HHDZS ALVDTP, DRVR87, BPY827, KB5FFD, HLTR92, DRVR87,BTJWYA, GSWGUF, SQVJ7P, KEPNNC, PQX8FT, DRVR87, ZWLYNY, ZT5TXN, 79LV2Z, ACZ97F, YGTGPZ, G9HCLW, W25A2E, QAN9U2, 634MZ6, LHPSC9, 3C5MX2,KWRTRY, LXYBNV |
 
@@ -2388,9 +2396,9 @@ SSD55C \- Zunun
 | **Coahuila:** Y2S7KV,  |
 | **Colima:**79U7RY |
 | **Durango:** 9ASR8W, VUELXG, RJ863WSSGKMT, VG39JT |
-| **Estado de México:** E7MD3K, 6CRCR2, **S9VSRR**, JV4M3U, 27YHVB, SPMU3V, WNYKCD, JN42QP, FFWLPX, GVALGQ, BP8YXK, 45KGQP, T9L84A**,** BPY827, 62CSXD, MB8M3H, ZZ6AE3, G5CQWJ, T4MZ7S, E92887, M7PS49, XLWSAA, ALKPT3, ALVDTP, GTYWRN, BP4BSQ, 6PHCHQ, SHYLDR, BVAQGH, QC4WVW, PYADLG, URT7XH, AARUZQ, 8GHZQ5, 92B2W3, 82H488, WWTRWU, 2AVJJ6, WJH8ME, ZAX4D8, VYGM4N, MDW9W3, UZJXUG, 4R4MNQ, 5KDYK6, XBR3NR |
+| **Estado de México:** E7MD3K, 6CRCR2,, JV4M3U, 27YHVB, SPMU3V, WNYKCD, JN42QP, FFWLPX, GVALGQ, BP8YXK, 45KGQP, T9L84A**,** BPY827, 62CSXD, MB8M3H, ZZ6AE3, G5CQWJ, T4MZ7S, E92887, M7PS49, XLWSAA, ALKPT3, ALVDTP, GTYWRN, BP4BSQ, 6PHCHQ, SHYLDR, BVAQGH, QC4WVW, PYADLG, URT7XH, AARUZQ, 8GHZQ5, 92B2W3, 82H488, WWTRWU, 2AVJJ6, WJH8ME, ZAX4D8, VYGM4N, MDW9W3, UZJXUG, 4R4MNQ, 5KDYK6, XBR3NR |
 | **Guanajuato:** ZFHZNJ, 4QQA2Z, CYSVAV |
-| **Guerrero:** PA7FWF, M33WL2, ACZ97F, 9MS8MM, Z7V2DL |
+| **Guerrero:** PA7FWF, M33WL2, ACZ97F, Z7V2DL |
 | **Hidalgo:** 3C5MX2, FZC5EB, NWB7JG, 9JUAP7,  |
 | **Jalisco:** 5MMQ9F |
 | **Michoacán:** 7GJ83S, PW5KSH |
@@ -2746,7 +2754,7 @@ SSD55C \- Zunun
 ***4 WNYKCD***, ***CBU3CE,***
 ***5 6DT6SY, 4TYNFK***
 ***6 Q92CDU, MTB58U***
-***7***
+***7 PCG7FM***
 ***8.-*** **2PNPJH**
 ***9 CJXGS2***
 ***10.- HC2CCM, RWSHM3***
@@ -2777,7 +2785,7 @@ SSD55C \- Zunun
 ***4 GSWGUF,*** **UU6VPQ**
 ***5  ALVDTP***
 ***6 7GADBP***
-***7 8J76TG***
+***7 8J76TG, XZFTND***
 ***8 Z6HQVD***
 ***9 NQYJ5W  F7E3UH***
 ***10 3SCLAP***
@@ -2927,7 +2935,7 @@ ARQUITECTURA CU 2020-2021  5SYS4J
 
 ARQUITECTURA CU 2021  X4BZBK
 
-ARQUITECTURA CU 2018-2023 Z2PFT2
+ARQUITECTURA CU 2018-2023 GHSX27, Z2PFT2
 
 INGENIERÍA QUÍMICA / FES Zaragoza /2024 \- ZUAMAT yo soy d tu generación S5G28G
 
@@ -3061,7 +3069,7 @@ OPTOMETRÍA ENES LEÓN 2023 Z7V2DL
 ESTUDIOS LATINOAMERICANOS 2023: 6DXUFC
 
 | Ineniería Electríca Electrónica. |  |  |
-| :---: | :---: | :---: |
+| :---: | :---: | ----- |
 | **Localidad** | **Generación** | **Código** |
 | FI | 2021 | UM2YKB |
 |  | 2025 | V569QT |
@@ -3171,7 +3179,7 @@ Saludos desde Tijuana🤠
 
 # Usen fotos de la web\!\! O google maps, incluso capturas de pantalla de videos
 
-ajaja yo estaba guardando este secreto la verdad, pero me caen bien comunidad, yo sinceramente lo hice descargando fotos de la web, lo acepta y detecta q es cu así que no hay problema, en media hora lo complete todo xd sin tener q ir a cu, además me queda bien perro lejos 😞, pero si banda, solo descarguen fotos de lo q les pide la página y ya (si es q les queda bien perro lejos ceu como a mi) pero si son de alguna facultad de cu mi recomendación es q (si no tienen pareja) se inviten a un liguesillo a tomar las fotos juntos por cu jeje y ya pasan el rato juntos, no se w, cosas de enamorados ya ustedes saben; o en caso contrario pasen el rato con sus parejas o amigos, incluso con su familia si es posible :3, apapachenlos y cuidenlos mucho, valen oro pq la gran mayoría estamos donde esTamos gracias a la familia, pero eso es todo por hoy chicos, disfruten el rato recolectando o descargando las fotos en ceu, los tqm ATT: Hn🪢
+ajaja yo estaba guardando este secreto la verdad, pero me caen bien comunidad, yo sinceramente lo hice descargando fotos de la web, lo acepta y detecta q es cu así que no hay problema, en media hora lo complete todo xd sin tener q ir a cu, además me queda bien perro lejos 😞, pero si banda, solo descarguen fotos de lo q les pide la página y ya (si es q les queda bien perro lejos ceu como a mi) pero si son de alguna facultad de cu mi recomendación es q (si no tienen pareja) se inviten a un liguesillo a tomar las fotos juntos por cu jeje y ya pasan el rato juntos, no se w, cosas de enamorados ya ustedes saben; o en caso contrario pasen el rato con sus parejas o amigos, incluso con su familia si es posible :3, apapachenlos y cuidenlos mucho, valen oro pq la gran mayoría estamos donde estamos gracias a la familia, pero eso es todo por hoy chicos, disfruten el rato recolectando o descargando las fotos en ceu, los tqm ATT: Hn🪢
 
 Ese de arriba del liguesillo está perro, jajajaja. Dice el wey que si quieren hasta con sus amantes. Ei. Cada quien.
 

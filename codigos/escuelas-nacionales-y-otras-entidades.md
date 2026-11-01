@@ -49,20 +49,13 @@
 | `KSQA7Y` | Lingüística Aplicada | doc |
 | `LH2NV7` | Lingüística Aplicada | doc |
 | `DNX7NY` | Teatro y actuación | doc |
-| `DLFZY8` | Nanotecnología | doc |
-| `BXCKLK` | Nanotecnología | doc |
+| `BXCKLK` | Nanotecnología: c | doc |
 
 ## Centro de Física Aplicada y Avanzada (Juriquilla)
 
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `CH2DGW` | Tecnología | doc |
-
-## x2
-
-| Código | Etiqueta | Origen |
-|---|---|---|
-| `N3APR4` | Ciencias Agroforestales | doc |
 
 ## Instituto de Energías Renovables (Temixco)
 
