@@ -16,6 +16,7 @@
 | `E92887` | DERECHO FES ACATLAN/ GEN 2026 | doc |
 | `AJ8KGJ` | Relaciones Internacionales/ GEN 2020 | doc |
 | `BASB5W` | Relaciones Internacionales SUA/ GEN 2021 | doc |
+| `RZ3FZJ` | Relaciones Internacionales SUA/ GEN 2021 | doc |
 | `VPRKQA` | DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán 2023 | doc |
 | `6HAJFC` | DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán 2024 | doc |
 | `V6ZKQ8` | DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán SUAYED 2025 | doc |
@@ -64,6 +65,7 @@
 | `U44QDA` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2021 | doc |
 | `6NFGQN` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2021 | doc |
 | `BTJWYA` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2021 | doc |
+| `YFJFHK` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2021 | doc |
 | `KVJNQD` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2022 | doc |
 | `NU9ED2` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2023 | doc |
 | `HXNPTW` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2023 | doc |
@@ -128,6 +130,7 @@
 | `P8E4PW` | Administracion/ FCA / 2024/ | doc |
 | `YPHDQH` | Administracion/ FCA / 2024/ | doc |
 | `HL67XM` | Administracion/ FCA / 2024/ | doc |
+| `G4G9C6` | / | doc |
 | `VZ4TY9` | 2020 | doc |
 | `EE55CC` | 2022 | doc |
 | `VZ36RJ` | 2024 | doc |

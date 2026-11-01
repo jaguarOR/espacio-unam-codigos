@@ -227,6 +227,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `KB2U7B` | Ciencia de la Nutrición Humana | doc |
 | `LRYEUK` | Fisioterapia | doc |
 | `3TGEAC` | Fisioterapia | doc |
 | `G9HCLW` | Fisioterapia | doc |
@@ -370,6 +371,7 @@
 | `BD452P` | Química Farmacéutico Biológica | doc |
 | `MXM4V3` | Química Farmacéutico Biológica | doc |
 | `T3CJMF` | Química Farmacéutico Biológica | doc |
+| `JQAF7Q` | Química Farmacéutico Biológica | doc |
 | `K9W559` | Química Industrial | doc |
 | `3PXTU2` | Trabajo Social | doc |
 | `DNLR3P` | Trabajo Social | doc |
@@ -458,6 +460,7 @@
 | `FELBKL` | Historia | doc |
 | `F38M8G` | Desarrollo y Gestión Intercultural | doc |
 | `Z7BAJP` | Desarrollo y Gestión Intercultural | doc |
+| `6DXUFC` | Estudios Latinoamericanos | doc |
 | `EJ7H9W` | Letras Clásicas | doc |
 | `6BX7JC` | Letras Clásicas | doc |
 | `JMRJPL` | Letras Clásicas | doc |
@@ -717,6 +720,7 @@
 | `E3ADVA` | Psicología | doc |
 | `JCDSEA` | Psicología | doc |
 | `H7GEQM` | Psicología | doc |
+| `AZU86R` | Psicología | doc |
 | `EMR2XF` | Psicología SUA | doc |
 | `U37TKR` | Psicología SUA | doc |
 | `UMZHHH` | Psicología SUA | doc |

@@ -291,6 +291,7 @@
 | `E7REA4` | Informática | doc |
 | `CQ4TYX` | Informática | doc |
 | `VW5TB8` | Informática | doc |
+| `CSYUZN` | Informática | doc |
 | `GKBNW8` | Comunicación gráfica | doc |
 | `3BYYCV` | Medicina Veterinaria Y Zootecnia. Gonzalez. Salma. 3 diciembre | comunidad |
 
@@ -426,6 +427,7 @@
 | `AVJUJF` | Química Farmacéutica Biológica | doc |
 | `T6DEYV` | Química Farmacéutica Biológica | doc |
 | `P5TDP6` | Química Farmacéutica Biológica | doc |
+| `TE48FW` | Química Farmacéutica Biológica | doc |
 | `LDJN7P` | Cirujano dentista | doc |
 | `QQN4JV` | Cirujano dentista | doc |
 | `MTW6EY` | Cirujano dentista | doc |
