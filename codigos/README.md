@@ -2,24 +2,24 @@
 
 Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos a mano**: se sobrescriben en cada sincronización. Para aportar un código abre un [issue de aportación](../../../issues/new?template=aporte-codigo.yml).
 
-- Códigos del Google Doc: **4997**
+- Códigos del Google Doc: **5009**
 - Aportaciones vía GitHub: **9**
 
 | Sección | Códigos |
 |---|---:|
 | [Inicio](inicio.md) | 2 |
-| [Medallas secretas](medallas-secretas.md) | 9 |
+| [Medallas secretas](medallas-secretas.md) | 8 |
 | [Carreras que ya no existen o cambiaron de nombre](carreras-que-ya-no-existen-o-cambiaron-de-nombre.md) | 11 |
 | [CCH](cch.md) | 17 |
 | [Prepas](prepas.md) | 20 |
 | [ENES](enes.md) | 116 |
-| [FES](fes.md) | 406 |
-| [Facultades de CU](facultades-de-cu.md) | 674 |
+| [FES](fes.md) | 407 |
+| [Facultades de CU](facultades-de-cu.md) | 677 |
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 33 |
-| [Tocayo](tocayo.md) | 1008 |
-| [Casi familia](casi-familia.md) | 972 |
-| [Pastel compartido](pastel-compartido.md) | 663 |
-| [Casi gemelos](casi-gemelos.md) | 464 |
+| [Tocayo](tocayo.md) | 1011 |
+| [Casi familia](casi-familia.md) | 973 |
+| [Pastel compartido](pastel-compartido.md) | 665 |
+| [Casi gemelos](casi-gemelos.md) | 467 |
 | [Cazadora de mitos](cazadora-de-mitos.md) | 14 |
 | [Compa de banca](compa-de-banca.md) | 186 |
 | [Otros](otros.md) | 2 |

@@ -54,6 +54,7 @@
 | `3BQQCQ` | Física | doc |
 | `367Y2Q` | Física | doc |
 | `XBR3NR` | Física | doc |
+| `PC8XCL` | Física | doc |
 | `4EVPB3` | Física Biomédica | doc |
 | `6JPQ4R` | Física Biomédica | doc |
 | `GC6HKG` | Física Biomédica | doc |
@@ -152,6 +153,7 @@
 | `ETW2ZZ` | Ingeniería Geomática | doc |
 | `3A7PQZ` | Ingeniería Geomática | doc |
 | `CTPGJB` | Ingeniería Geomática | doc |
+| `D96DBA` | Ingeniería Industrial | doc |
 | `U243SW` | Ingeniería Industrial | doc |
 | `X4WFYP` | Ingeniería Industrial | doc |
 | `6EH4SX` | Ingeniería Industrial | doc |
@@ -217,6 +219,7 @@
 | `KNFKMV` | Diseño Industrial | doc |
 | `ZR8YJF` | Diseño Industrial | doc |
 | `SMNMJW` | Diseño Industrial | doc |
+| `TJX2NU` | Diseño Industrial | doc |
 | `8ZYAK5` | Urbanismo | doc |
 | `S6FD5B` | Urbanismo | doc |
 | `5YLFA4` | Urbanismo | doc |
@@ -538,8 +541,8 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `YPHDQH` | Administración | doc |
 | `9MEAAP` | Administración | doc |
+| `YPHDQH` | Administración | doc |
 | `9ZP2AZ` | Administración | doc |
 | `VBDF4E` | Administración | doc |
 | `FFWLPX` | Administración | doc |
