@@ -11,7 +11,7 @@
 
 **Se creó un repositorio en github y una pagina web  para buscar de forma mas sencilla los codigos**
 
-[**https\://jaFguaror.github.io/espacioLKAE3D-unam-codigos/**](https://jaguaror.github.io/espacio-unam-codigos/)
+[**https\://jaguaror.github.io/espacioLKAE3D-unam-codigos/**](https://jaguaror.github.io/espacio-unam-codigos/)
 
 [**https\://github.com/jaguarOR/espacio-unam-codigos/tree/main**](https://github.com/jaguarOR/espacio-unam-codigos/tree/main)
 
@@ -200,7 +200,7 @@ Para el de: No lo se Rick 🤔
 **TR4NQU1**
 Para la de: Oye tranquilo viejo
 
-**ESTR3LL4AS**
+**ESTR3LL4**
 Para la de estrellita en la frente**.**
 
 **T0RR3S**
@@ -427,6 +427,9 @@ Para la comunidad del Sistema Incorporado: preparatorias, CCH y licenciaturas in
 **CH4Y0**
 Para Rosario Castellanos, escritora que estudió en la Facultad de Filosofía y Letras. Serie «Mujeres que hicieron la UNAM». Idea de Alejandra.
 
+**B3T1T0**
+~~Para Betito, el capibara mascota cultural de la Facultad de Ingeniería. Idea de Emanuel Escobar y Andrea Rosales. Serie «Mascotas de mi escuela». Medalla secreta.~~
+
 **H3L14**
 Serie «Mujeres que hicieron la UNAM»: Helia Bravo Hollis, primera bióloga titulada en México y gran estudiosa de los cactus. Idea de Víctor Ramón, Mariana Jaired, Yelena y Brenda.
 
@@ -622,6 +625,38 @@ Para Hikaru, el panda mascota del Departamento de Psiquiatría y Salud Mental de
 
 Para Justo Sierra, que fundó la Universidad Nacional en 1910\. Idea de Johan, Dylan y Saúl. Serie «Personajes de la UNAM». Medalla secreta.
 
+**CH0RN3**
+
+Dedicada a Margarita Chorné y Salazar, la primera dentista titulada de México (1886) y de América Latina. *Idea de Daniel Flores.*
+
+**M4R1ASU**
+
+Dedicada a María Asunción Sandoval, la primera mujer abogada titulada en México (1898). *Idea de Yari Natalia y Ana Esperanza.*
+
+**1F1G3N1A**
+
+Dedicada a Ifigenia Martínez, destacada economista y primera mujer en dirigir la Escuela Nacional de Economía. *Idea de Daniela.*
+
+**J41D4R**
+
+Dedicada a Alejandra Jaidar, una de las primeras físicas de México, egresada de la Facultad de Ciencias y pionera de la física nuclear.
+
+**W4FFL3S**
+
+Inspirada en "Waffles", el famoso perro de la comunidad del CCH Oriente. (Serie «Mascotas de mi escuela»). *Idea de Brian Lucas.*
+
+**C4CHORR0 / 3R4SM0**
+
+En honor a los Cachorros pumas, la comunidad estudiantil y deportiva de la Prepa 2 «Erasmo Castellanos Quinto».
+
+**P1K4CHU**
+
+Dedicada al "Pikachu", el emblemático monumento (la escultura amarilla) de la FES Acatlán. *Idea de Iván, Eibraham, Johan y 6 personas más.*
+
+**B0PUM3**
+
+Dedicada al *B/O El Puma*, el buque oceanográfico de la UNAM encargado de estudiar los mares de México. *Idea de Salvador y Ximena.*
+
 **4STR0N4UT4**
 
 Para Rodolfo Neri Vela, egresado de Ingeniería de la UNAM y primer astronauta mexicano (1985). Idea de Jonathan y Dylan. Ah Medalla secreta
@@ -766,7 +801,7 @@ Serie «Mujeres que hicieron la UNAM»: Silvia Torres Castilleja, primera mujer 
 
 Serie «Mujeres que hicieron la UNAM»: Katia Itzel García, egresada de la Facultad de Ciencias Políticas y Sociales y exjugadora del equipo femenil de la UNAM, primera árbitra central mexicana en un Mundial varonil; las canchas de la FCPyS llevan su nombre. Idea de Jeison y Hugo Jair. Medalla secreta.
 
-**OSTROSKY**
+**0STR0SKY**
 
 Serie «Mujeres que hicieron la UNAM»: Feggy Ostrosky, pionera de la neuropsicología en México desde la Facultad de Psicología. Idea de Zuri. Medalla secreta.
 
@@ -781,6 +816,18 @@ Serie «Mujeres que hicieron la UNAM»: Irasema Alcántara-Ayala, geógrafa del 
 **FR3NK**
 
 Serie «Mujeres que hicieron la UNAM»: Gabriela Frenk, pianista y maestra que dirigió la Escuela Nacional de Música, hoy Facultad de Música. Idea de Sayuri. Medalla secreta.
+
+**LU1S4J0**
+
+\*\*AGREGAR\*\*
+
+**C4ST4N3D4**
+
+La Prepa 8 está en Plateros, en terrenos que fueron parte de La Castañeda (1910-1968), el gran hospital psiquiátrico de la Ciudad de México. Una medalla para recordar con respeto la historia del lugar que hoy es casa de estudiantes. Idea de José Arturo. Medalla secreta.
+
+**F4M0S0S**
+
+\*\*AGREGAR\*\*
 
 ¿Alguien tiene el código de la “startup"?
 
@@ -1241,7 +1288,7 @@ Ingeniería En Alimentos: **HR5TVK, 985XKC**
 
 Ingeniería Ambiental: **QZ35PS**,**4RTEPW, 7QYUTX, W9L88G, 6B76H7, NJSE4T**
 
-Ingeniería Civil: **ZT5TXN, UQQGXT**, **99T3U8**, **USVWAX**, **KE6HNZ, K3DVAH**
+Ingeniería Civil: **ZT5TXN, UQQGXT**, **99T3U8**, **USVWAX**, **KE6HNZ, K3DVAH, SH5L2W**
 
 Ingeniería en Minas y Metalurgia:**, TZ7S35, 4VP5BY , R6YX47**
 
@@ -1345,7 +1392,7 @@ Química Industrial: **K9W559**
 
 Trabajo Social: **3PXTU2,** **DNLR3P**, **VTPBQ4**, **V**, **H5MYK4**, **UGW46F, M7B54S, ZAX4D8**
 
-Trabajo Social SUAyED: **FYZLQT, D58HBT, X4XHYB, V8NSTH, 2AVJJ6**
+Trabajo Social SUAyED: **FYZLQT, D58HBT, X4XHYB, V8NSTH, 2AVJJ6, B7RRJR**
 
 Estudios sociales y gestión local: **G5ZJ2S**
 
@@ -2528,7 +2575,7 @@ SSD55C \- Zunun
 ***18*** **HDYHEQ**
 ***19 BDJ43Q, XZ5A7P***
 ***20***
-***21***
+***216YBBN7***
 ***22 JN42QP,*****DGW9R8, CM8RT8**
 ***23*** **QVC32M, QP8C79**
 ***24 7Y4N48***
@@ -3071,6 +3118,8 @@ Ing. en computación FI / 2021 / NQYJ5W
 LADR7U/ARAGON/2025
 
 Ing Civil FI / 2021 / TUKWSQ
+
+Ing Civil FI / 2023 / SH5L2W
 
 Desarrollo y gestión interculturales FFyL 2022 \- Z7BAJP
 

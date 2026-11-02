@@ -105,6 +105,7 @@
 | `USVWAX` | Ingeniería Civil | doc |
 | `KE6HNZ` | Ingeniería Civil | doc |
 | `K3DVAH` | Ingeniería Civil | doc |
+| `SH5L2W` | Ingeniería Civil | doc |
 | `TZ7S35` | Ingeniería en Minas y Metalurgia | doc |
 | `4VP5BY` | Ingeniería en Minas y Metalurgia | doc |
 | `R6YX47` | Ingeniería en Minas y Metalurgia | doc |
@@ -388,6 +389,7 @@
 | `X4XHYB` | Trabajo Social SUAyED | doc |
 | `V8NSTH` | Trabajo Social SUAyED | doc |
 | `2AVJJ6` | Trabajo Social SUAyED | doc |
+| `B7RRJR` | Trabajo Social SUAyED | doc |
 | `G5ZJ2S` | Estudios sociales y gestión local | doc |
 
 ## Facultad de Filosofía y Letras
