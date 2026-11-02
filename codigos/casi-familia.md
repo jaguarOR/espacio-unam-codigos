@@ -411,6 +411,7 @@
 | `ZUACTS` | Hernández | doc |
 | `BXAMZP` | Hernández | doc |
 | `LH2NV7` | Hernández | doc |
+| `AZU86R` | Hernández | doc |
 | `36562B` | Herrera | doc |
 | `TNHMSN` | Herrera | doc |
 | `2AVJJ6` | Herrera | doc |
@@ -704,6 +705,7 @@
 | `G9HCLW` | Pérez | doc |
 | `RGUKR3` | Pérez | doc |
 | `MFCF6H` | Pérez | doc |
+| `4QY6A9` | Pérez | doc |
 | `JLCAW9` | Perfecto | doc |
 | `44UQUR` | Pedro | doc |
 | `BGY7UX` | Peña | doc |
@@ -875,6 +877,7 @@
 | `L29XDT` | Tejero | doc |
 | `DHG68M` | Tavera | doc |
 | `N7AA4Q` | Tavera | doc |
+| `H8T4LE` | Tavera | doc |
 | `QUQKEZ` | Téllez | doc |
 | `6WSK45` | Terán | doc |
 | `57EYLG` | Tinajero | doc |

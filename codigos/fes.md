@@ -407,7 +407,6 @@
 | `6R89TY` | Desarrollo Comunitario para el Envejecimiento | doc |
 | `T7EPF6` | Desarrollo Comunitario para el Envejecimiento | doc |
 | `EUSGCL` | Enfermería | doc |
-| `EBY6TR` | Enfermería | doc |
 | `G5GKTE` | Enfermería y Obstetricia | doc |
 | `4BJ4EV` | Ingeniería Química | doc |
 | `S5G28G` | Ingeniería Química | doc |

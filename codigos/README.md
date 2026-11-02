@@ -2,7 +2,7 @@
 
 Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos a mano**: se sobrescriben en cada sincronización. Para aportar un código abre un [issue de aportación](../../../issues/new?template=aporte-codigo.yml).
 
-- Códigos del Google Doc: **5012**
+- Códigos del Google Doc: **5029**
 - Aportaciones vía GitHub: **9**
 
 | Sección | Códigos |
@@ -13,15 +13,15 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 | [CCH](cch.md) | 17 |
 | [Prepas](prepas.md) | 20 |
 | [ENES](enes.md) | 116 |
-| [FES](fes.md) | 407 |
-| [Facultades de CU](facultades-de-cu.md) | 679 |
+| [FES](fes.md) | 406 |
+| [Facultades de CU](facultades-de-cu.md) | 681 |
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 33 |
-| [Tocayo](tocayo.md) | 1011 |
-| [Casi familia](casi-familia.md) | 973 |
-| [Pastel compartido](pastel-compartido.md) | 665 |
-| [Casi gemelos](casi-gemelos.md) | 467 |
+| [Tocayo](tocayo.md) | 1016 |
+| [Casi familia](casi-familia.md) | 976 |
+| [Pastel compartido](pastel-compartido.md) | 669 |
+| [Casi gemelos](casi-gemelos.md) | 470 |
 | [Cazadora de mitos](cazadora-de-mitos.md) | 14 |
-| [Compa de banca](compa-de-banca.md) | 187 |
+| [Compa de banca](compa-de-banca.md) | 188 |
 | [Otros](otros.md) | 2 |
 | [Grupo de WhatsApp](grupo-de-whatsapp.md) | 303 |
 | [Anuncios de la comunidad](anuncios-de-la-comunidad.md) | 101 |

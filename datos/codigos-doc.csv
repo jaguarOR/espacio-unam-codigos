@@ -552,7 +552,6 @@ P992QH,FES,FES Zaragoza,Psicología
 6R89TY,FES,FES Zaragoza,Desarrollo Comunitario para el Envejecimiento
 T7EPF6,FES,FES Zaragoza,Desarrollo Comunitario para el Envejecimiento
 EUSGCL,FES,FES Zaragoza,Enfermería
-EBY6TR,FES,FES Zaragoza,Enfermería
 G5GKTE,FES,FES Zaragoza,Enfermería y Obstetricia
 4BJ4EV,FES,FES Zaragoza,Ingeniería Química
 S5G28G,FES,FES Zaragoza,Ingeniería Química
@@ -676,6 +675,7 @@ SH5L2W,Facultades de CU,Facultad de Ingeniería,Ingeniería Civil
 TZ7S35,Facultades de CU,Facultad de Ingeniería,Ingeniería en Minas y Metalurgia
 4VP5BY,Facultades de CU,Facultad de Ingeniería,Ingeniería en Minas y Metalurgia
 R6YX47,Facultades de CU,Facultad de Ingeniería,Ingeniería en Minas y Metalurgia
+M94YBG,Facultades de CU,Facultad de Ingeniería,Ingeniería en Minas y Metalurgia
 F783Q6,Facultades de CU,Facultad de Ingeniería,Ingeniería Eléctrica y Electrónica
 DWWWCX,Facultades de CU,Facultad de Ingeniería,Ingeniería Eléctrica y Electrónica
 V569QT,Facultades de CU,Facultad de Ingeniería,Ingeniería Eléctrica y Electrónica
@@ -915,6 +915,7 @@ BD452P,Facultades de CU,Facultad de Química,Química Farmacéutico Biológica
 MXM4V3,Facultades de CU,Facultad de Química,Química Farmacéutico Biológica
 T3CJMF,Facultades de CU,Facultad de Química,Química Farmacéutico Biológica
 JQAF7Q,Facultades de CU,Facultad de Química,Química Farmacéutico Biológica
+4QY6A9,Facultades de CU,Facultad de Química,Química Farmacéutico Biológica
 K9W559,Facultades de CU,Facultad de Química,Química Industrial
 3PXTU2,Facultades de CU,Facultad de Química,Trabajo Social
 DNLR3P,Facultades de CU,Facultad de Química,Trabajo Social
@@ -1415,6 +1416,7 @@ Q6QP7H,Tocayo,,Argenis
 RZT3LL,Tocayo,,Argenis
 XV6KAN,Tocayo,,Arelys
 MVNWXC,Tocayo,,Ariana
+AZU86R,Tocayo,,Ariana
 FKWYFZ,Tocayo,,Armando
 7Z9MNW,Tocayo,,Arturo
 JQEG3U,Tocayo,,Ashley
@@ -1690,6 +1692,7 @@ ZB3X47,Tocayo,,Giovanni
 3C9YXF,Tocayo,,GiovannA
 ULS7F3,Tocayo,,Giovanny
 L6KQTK,Tocayo,,Giselle
+M94YBG,Tocayo,,Giselle
 H5G886,Tocayo,,Gonzalo
 XFLRJV,Tocayo,,Grace
 UJCX2D,Tocayo,,Grecia
@@ -1940,6 +1943,7 @@ KN7BSP,Tocayo,,Luis
 B9ELGM,Tocayo,,Luis
 UH9C9E,Tocayo,,Luis
 8CYDV9,Tocayo,,Luis
+AZU86R,Tocayo,,Luisa
 UWTZBJ,Tocayo,,Luz
 DQ7HBE,Tocayo,,Luz
 JYEF89,Tocayo,,Magali
@@ -1959,6 +1963,7 @@ FGJEJV,Tocayo,,Marely
 LTU3JQ,Tocayo,,María
 RUYFGM,Tocayo,,María
 DBY6Z4,Tocayo,,María
+AZU86R,Tocayo,,María
 PFMXND,Tocayo,,Marian
 3LX4CZ,Tocayo,,Marian
 JUPMS4,Tocayo,,Mariana
@@ -2103,6 +2108,7 @@ F2AYJ4,Tocayo,,Patrick
 8UFMYP,Tocayo,,Paula
 UZJXUG,Tocayo,,Paula
 9R45UR,Tocayo,,Paula
+4QY6A9,Tocayo,,Paula
 BTHEFM,Tocayo,,Paulina
 9QDPTW,Tocayo,,Paulina
 VR3N9H,Tocayo,,Paulina
@@ -2701,6 +2707,7 @@ H6U52K,Casi familia,,Hernández
 ZUACTS,Casi familia,,Hernández
 BXAMZP,Casi familia,,Hernández
 LH2NV7,Casi familia,,Hernández
+AZU86R,Casi familia,,Hernández
 36562B,Casi familia,,Herrera
 TNHMSN,Casi familia,,Herrera
 2AVJJ6,Casi familia,,Herrera
@@ -2994,6 +3001,7 @@ V569QT,Casi familia,,Pérez
 G9HCLW,Casi familia,,Pérez
 RGUKR3,Casi familia,,Pérez
 MFCF6H,Casi familia,,Pérez
+4QY6A9,Casi familia,,Pérez
 JLCAW9,Casi familia,,Perfecto
 44UQUR,Casi familia,,Pedro
 BGY7UX,Casi familia,,Peña
@@ -3165,6 +3173,7 @@ WFH3U4,Casi familia,,Tenorio
 L29XDT,Casi familia,,Tejero
 DHG68M,Casi familia,,Tavera
 N7AA4Q,Casi familia,,Tavera
+H8T4LE,Casi familia,,Tavera
 QUQKEZ,Casi familia,,Téllez
 6WSK45,Casi familia,,Terán
 57EYLG,Casi familia,,Tinajero
@@ -3508,6 +3517,7 @@ V58MF3,Pastel compartido,,JUNIO
 U243SW,Pastel compartido,,JUNIO
 UBXD7M,Pastel compartido,,JUNIO
 M6Q9JV,Pastel compartido,,JUNIO
+AZU86R,Pastel compartido,,JUNIO
 H6U52K,Pastel compartido,,JULIO KVJNQD
 JUBN3N,Pastel compartido,,JULIO KVJNQD
 HGGMCD,Pastel compartido,,JULIO KVJNQD
@@ -3635,6 +3645,7 @@ UAW9AA,Pastel compartido,,'
 MJPW9K,Pastel compartido,,'
 CY5CX8,Pastel compartido,,'
 YFJFHK,Pastel compartido,,'
+4QY6A9,Pastel compartido,,'
 GHSX27,Pastel compartido,,OCTUBRE
 VNMPZ9,Pastel compartido,,OCTUBRE
 ESN8G3,Pastel compartido,,OCTUBRE
@@ -3702,6 +3713,7 @@ M3XBS3,Pastel compartido,,NOVIEMBRE
 VG39JT,Pastel compartido,,NOVIEMBRE
 6MURMS,Pastel compartido,,NOVIEMBRE
 3EADS3,Pastel compartido,,NOVIEMBRE
+659JAD,Pastel compartido,,NOVIEMBRE
 T7XCPM,Pastel compartido,,NOVIEMBRE
 J6VTDU,Pastel compartido,,NOVIEMBRE
 RGUKR3,Pastel compartido,,DICIEMBRE
@@ -3825,6 +3837,7 @@ T7XCPM,Pastel compartido,,Ciudad de México
 J6VTDU,Pastel compartido,,Ciudad de México
 MFCF6H,Pastel compartido,,Ciudad de México
 LXYBNV,Pastel compartido,,Ciudad de México
+4QY6A9,Pastel compartido,,Ciudad de México
 Y2S7KV,Pastel compartido,,Coahuila
 79U7RY,Pastel compartido,,Colima
 9ASR8W,Pastel compartido,,Durango
@@ -4073,6 +4086,7 @@ URS4PZ,Casi gemelos,Marzo,17
 HDYHEQ,Casi gemelos,Marzo,18
 BDJ43Q,Casi gemelos,Marzo,19
 XZ5A7P,Casi gemelos,Marzo,19
+6YBBN7,Casi gemelos,Marzo,21
 JN42QP,Casi gemelos,Marzo,22
 DGW9R8,Casi gemelos,Marzo,22
 CM8RT8,Casi gemelos,Marzo,22
@@ -4243,9 +4257,11 @@ CRWXDZ,Casi gemelos,Marzo,1
 Y7J263,Casi gemelos,Marzo,2
 4BJN6Q,Casi gemelos,Marzo,3
 CXZGG6,Casi gemelos,Marzo,4
+4QY6A9,Casi gemelos,Marzo,6
 CBHD9N,Casi gemelos,Marzo,9
 EHKDLJ,Casi gemelos,Marzo,11
 RZ6XRU,Casi gemelos,Marzo,12
+JLCAW9,Casi gemelos,Marzo,13
 MV2UYP,Casi gemelos,Marzo,14
 FHG5GS,Casi gemelos,Marzo,15
 UFEUD2,Casi gemelos,Marzo,16
@@ -4525,6 +4541,7 @@ QE4UEL,Compa de banca,,QUÍMICA/CU/ 2025
 HE4X2K,Compa de banca,,Química/CU/2026
 MHLNQF,Compa de banca,,Química/ CU/ 2027
 GA7BM5,Compa de banca,,Químico Farmacológico biológico/FQ/2021
+4QY6A9,Compa de banca,,Químico Farmacológico biológico/FQ/2021
 6QTNCX,Compa de banca,,Químico Farmacológico biológico/FQ/2022
 S8LNQW,Compa de banca,,Químico Farmacológico biológico/FQ/2023
 9TSJ9S,Compa de banca,,CONTADURÍA / FES Cuautitlan / 2027

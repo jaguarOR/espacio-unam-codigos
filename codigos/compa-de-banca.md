@@ -116,6 +116,7 @@
 | `HE4X2K` | Química/CU/2026 | doc |
 | `MHLNQF` | Química/ CU/ 2027 | doc |
 | `GA7BM5` | Químico Farmacológico biológico/FQ/2021 | doc |
+| `4QY6A9` | Químico Farmacológico biológico/FQ/2021 | doc |
 | `6QTNCX` | Químico Farmacológico biológico/FQ/2022 | doc |
 | `S8LNQW` | Químico Farmacológico biológico/FQ/2023 | doc |
 | `9TSJ9S` | CONTADURÍA / FES Cuautitlan / 2027 | doc |

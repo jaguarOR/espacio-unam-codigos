@@ -109,6 +109,7 @@
 | `TZ7S35` | Ingeniería en Minas y Metalurgia | doc |
 | `4VP5BY` | Ingeniería en Minas y Metalurgia | doc |
 | `R6YX47` | Ingeniería en Minas y Metalurgia | doc |
+| `M94YBG` | Ingeniería en Minas y Metalurgia | doc |
 | `F783Q6` | Ingeniería Eléctrica y Electrónica | doc |
 | `DWWWCX` | Ingeniería Eléctrica y Electrónica | doc |
 | `V569QT` | Ingeniería Eléctrica y Electrónica | doc |
@@ -376,6 +377,7 @@
 | `MXM4V3` | Química Farmacéutico Biológica | doc |
 | `T3CJMF` | Química Farmacéutico Biológica | doc |
 | `JQAF7Q` | Química Farmacéutico Biológica | doc |
+| `4QY6A9` | Química Farmacéutico Biológica | doc |
 | `K9W559` | Química Industrial | doc |
 | `3PXTU2` | Trabajo Social | doc |
 | `DNLR3P` | Trabajo Social | doc |
