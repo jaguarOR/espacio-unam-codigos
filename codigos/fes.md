@@ -150,6 +150,7 @@
 | `R7ZS2S` | Ingeniería Civil | doc |
 | `GTTYS2` | Ingeniería Eléctrica y Electrónica | doc |
 | `XTGNQB` | Ingeniería Eléctrica y Electrónica | doc |
+| `8ZEKK9` | Ingeniería Eléctrica y Electrónica | doc |
 | `LKAE3D` | Ingeniería Eléctrica y Electrónica | doc |
 | `2ST249` | Ingeniería en Computación | doc |
 | `UDHBH3` | Ingeniería en Computación | doc |
@@ -216,6 +217,7 @@
 | `RZQRJ4` | Administración | doc |
 | `BDJ43Q` | Administración | doc |
 | `4DB2PC` | Administración | doc |
+| `G4G9C6` | Administración | doc |
 | `C24B7W` | Conta | doc |
 | `W3FLD6` | Artes Visuales | doc |
 | `NZV72B` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
@@ -420,6 +422,7 @@
 | `EQYUEB` | Nutriología | doc |
 | `K9BYHX` | Nutriología | doc |
 | `PPXSFF` | Nutriología | doc |
+| `V2K3NW` | Nutriología | doc |
 | `WLW4WT` | Química Farmacéutica Biológica | doc |
 | `ZY78VD` | Química Farmacéutica Biológica | doc |
 | `AL6N8L` | Química Farmacéutica Biológica | doc |

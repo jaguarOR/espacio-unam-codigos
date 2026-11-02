@@ -747,9 +747,6 @@ Gracias al Metro y a quienes lo hacen funcionar: cada día lleva a miles de puma
 **R3DR1U**
 Para la Red Inalámbrica Universitaria: internet gratuito para toda la comunidad, en cada sede. Idea de Emmanuel André, Francisco, Andrés, José Martín y Jhonathan. Medalla secreta.
 
-**6S9FH3**
- Tengo Medalla **«Segunda carrera»**, así que quien forme un lazo contigo cuenta para «2x1», la medalla de lazo con alguien que estudia dos carreras. Compartir tu código ayuda a que otras personas la consigan.
-
 **G4RR4S0**
 Para Garras, el perrito querido del Campo 4 de la FES Cuautitlán, que acompaña a su comunidad. Idea de Kevin. Serie «Mascotas de mi escuela». Medalla secreta.
 
@@ -828,11 +825,21 @@ Para Ráfagas de Pensamiento, las cápsulas de filosofía de la Facultad de Filo
 
 La porra de la Prepa 8 «Miguel E. Schulz», la de Plateros, que se escucha fuerte en cada partido y en cada encuentro de su comunidad. Idea de Crista Fernanda. Serie «Porras». Medalla secreta.
 
+**R1V3R4G**
+
+**P0RR4OTE**
+
+**T4RD3C0RR**
+
+**3SP3R4ND0**
+
+Para quienes proponen ideas y esperan con paciencia a que elijan la suya. Spoiler: las leemos todas. Idea de Yalim Yaretzi, Sara Sheccid y Oziel.
+
 ¿Alguien tiene el código de la “startup"?
 
 * **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta
 * **Quizás funcione:** Escribir un código erroneo 5 veces
-* **Bisiesto**: Hacer un lazo con alguien que nació el 29 de febrero
+* **Bisiesto**: Hacer un lazo con alguien que nació el 29 de febrero \- RVRBV4
 * **Quedé**: Errar en un intento de adivinar la ofrenda en **Medalla Ultrarrara Megaofrenda 2026**
 * **Soñador:** Empezaste a estudiar en la UNAM a los 25 años o más
 * *Hay una medalla por el top 100 en el mini juego secreto* 🤫
@@ -1045,7 +1052,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Contaduría:** VU4EAW, SUAW4X
 
-**Informática: 2AAE5B, KR5R3H**
+**Informática:** 2AAE5B, KR5R3H
 
 **Negocios Internacionales:** VR3N9H, JH3PY7
 
@@ -1059,7 +1066,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Ingeniería en Computación:**  YLA386
 
-**Biología:** Faltaa u.u
+**Biología:**
 
 **Ciencias ambientales:**
 
@@ -1147,7 +1154,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Ingeniería Civil:** BZJX2A, UEYKGM, GAVUGY, GR5YLN,  QLNMF5, R7ZS2S
 
-**Ingeniería Eléctrica y Electrónica:**  GTTYS2, XTGNQB, LKAE3D,
+**Ingeniería Eléctrica y Electrónica:**  GTTYS2, XTGNQB, 8ZEKK9, LKAE3D,
 
 **Ingeniería en Computación:** 2ST249, UDHBH3, V8VEEB, DUQTLH, VQ8HT4 ,GK234W, C77D4V, PKJWXH, 62MWGU, RXMWFZ, LTVR5B, U4S826, FS9FAU, 8J76TG
 
@@ -1169,7 +1176,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 ### ***FES Cuautitlán*** {#fes-cuautitlán}
 
-Administración: **BP8YXK, RZQRJ4, BDJ43Q, 4DB2PC**
+Administración: **BP8YXK, RZQRJ4, BDJ43Q, 4DB2PC,G4G9C6**
 
 Conta **C24B7W**
 
@@ -1247,7 +1254,7 @@ Enfermería y Obstetricia**: G5GKTE**
 
 Ingeniería Química: **4BJ4EV, S5G28G, ZUAMAT, FL5998, FADDM5, 9SXR95, 742NB2, AC6R6Z**
 
-Nutriología: **KQTXQ3,** **EQYUEB,** **K9BYHX**, **PPXSFF**
+Nutriología: **KQTXQ3,** **EQYUEB,** **K9BYHX**, **PPXSFF, V2K3NW**
 
 Química Farmacéutica Biológica: **WLW4WT**, **ZY78VD, AL6N8L, RP824B, AVJUJF, T6DEYV, P5TDP6, TE48FW**
 
@@ -2651,7 +2658,7 @@ SSD55C \- Zunun
 ***1***   **E92887**
 ***2***  **EHX8WQ**
 ***3***  **MG9MBE**
-***4***  **95Y7HN**
+***4***  **95Y7HN GC6HKG**
 ***5***
 ***6 U4SXG7***
 ***7*** **G5CQWJ**
@@ -2668,7 +2675,7 @@ SSD55C \- Zunun
 ***18 5KDYK6***
 ***19*** **4G7JK7**
 ***20 KSNC3B, E7MD3K***
-***21***
+***21 ZAY7EV***
 ***22 BP23LR, 4BDJKK***
 ***23***   **JUBN3N, XTEKTV**
 ***24*** **YX23L5**
@@ -3098,9 +3105,9 @@ ESTUDIOS LATINOAMERICANOS 2023: 6DXUFC
 | Ineniería Electríca Electrónica. |  |  |
 | :---: | :---: | ----- |
 | **Localidad** | **Generación** | **Código** |
+| FI | 2019 | 3WLQSH |
 | FI | 2021 | UM2YKB |
 |  | 2025 | V569QT |
-| FI | 2019 | 3WLQSH |
 |  |  |  |
 |  |  |  |
 
@@ -3249,6 +3256,8 @@ Otra cosa nadie quiere perder el acceso, no cambien los códigos, hagan su letre
 
 **Hola Compañeros de Bachillerato a Distancia e Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia), ¿Podrían agregarme por favor? Graciaaas \<3**
 **4C7WHL**
+
+**Porfa agregenme los del Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) 🥹 6YLFPN**
 
 **Porfi agregueme alguien de bachillerato a distancia, aún nadie :( 634MZ6   (29/10/2016)**
 
