@@ -773,3 +773,9 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `8N24Z3` | Lengua y literatura hispanicas | comunidad |
+
+## Facultad de Trabajo Social
+
+| Código | Etiqueta | Origen |
+|---|---|---|
+| `D7SDXS` | Trabajo Social | comunidad |

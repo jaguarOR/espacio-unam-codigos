@@ -3,7 +3,7 @@
 Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos a mano**: se sobrescriben en cada sincronización. Para aportar un código abre un [issue de aportación](../../../issues/new?template=aporte-codigo.yml).
 
 - Códigos del Google Doc: **5069**
-- Aportaciones vía GitHub: **9**
+- Aportaciones vía GitHub: **10**
 
 | Sección | Códigos |
 |---|---:|
@@ -14,7 +14,7 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 | [Prepas](prepas.md) | 20 |
 | [ENES](enes.md) | 116 |
 | [FES](fes.md) | 414 |
-| [Facultades de CU](facultades-de-cu.md) | 682 |
+| [Facultades de CU](facultades-de-cu.md) | 683 |
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 33 |
 | [Tocayo](tocayo.md) | 1024 |
 | [Casi familia](casi-familia.md) | 980 |
