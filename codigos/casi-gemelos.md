@@ -496,3 +496,9 @@
 | `QBHNZB` | 30 | doc |
 | `6AJGJP` | 31 | doc |
 | `EDWUCZ` | 31 | doc |
+
+## Octubre
+
+| Código | Etiqueta | Origen |
+|---|---|---|
+| `6RU9N8` | 7 | comunidad |
