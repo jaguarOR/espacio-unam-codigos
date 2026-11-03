@@ -133,6 +133,7 @@
 | `BDJ43Q` | Bravo | doc |
 | `WW36CR` | Bravo | doc |
 | `8B5R2K` | Breton | doc |
+| `XSU4PF` | Brito | doc |
 | `7XFJ3N` | Buendía | doc |
 | `2KZGV6` | Buitrón | doc |
 | `RLMNKN` | Bustamante | doc |
@@ -425,6 +426,7 @@
 | `NZS26K` | Ibarra | doc |
 | `WQPRJZ` | Izquierdo | doc |
 | `X4BZBK` | Illescas | doc |
+| `5AGTU8` | Iniestra | doc |
 | `ZAJ8ZN` | Islas | doc |
 | `GCAVKF` | Ibañez | doc |
 | `6RQUDB` | Isidoro | doc |
@@ -858,6 +860,7 @@
 | `E2N3KY` | Sanjuan | doc |
 | `2AAE5B` | Suárez | doc |
 | `BUUQPW` | Solano | doc |
+| `5AGTU8` | Solorzano | doc |
 | `8AH8Y9` | Solis | doc |
 | `C77D29` | Soria | doc |
 | `YE83KR` | Soriano | doc |

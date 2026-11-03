@@ -45,7 +45,7 @@
 
 **Disclaimer 10:** Los códigos resaltados, subrayados o con otro color de letra, se tomarán como erróneos y **SERÁN ELIMINADOS**. (exceptuando la sección de Pokemones muy difíciles
 ***¡Esta persona está spameando su código en prácticamente todas las carreras poco comunes, aguas\!: ZGKH37, MJLUUU \- Al que se le cache spameando su código, será borrado. No sean NyEs***
-ÍNDICEs
+ÍNDICES
 
 [Códigos para platinar Espacio UNAM](#códigos-para-platinar-espacio-unam)
 
@@ -154,8 +154,6 @@
 [Fotos para que completes tus sellos](#fotos-para-que-completes-tus-sellos)
 
 [Te va a aceptar foto de cualquier cosa siempre que la tomes en ese momento.](#te-va-a-aceptar-foto-de-cualquier-cosa-siempre-que-la-tomes-en-ese-momento.)
-
-##
 
 ##
 
@@ -278,6 +276,7 @@ Para quienes estudiaron en la UNAM durante la pandemia de COVID-19 (2020–2022)
 
 **V14J3R0**
  Para quienes hacen dos horas o más de camino a su facultad o sede, sobreviviendo al tráfico en un viaje interdimensional diario: cada día llegan y eso ya es un logro. Idea de Yocelyn y Jhosep. Medalla secreta.
+
 **2DEOCT**
 En memoria del movimiento estudiantil de 1968 y de quienes lo dieron todo: a esa generación le debemos mucho de lo que hoy tenemos. Las cosas han mejorado, pero todavía hay causas por las cuales luchar. «Somos nietos de la Revolución, hijos del 68 y hermanos de los 43.» Idea de Jonathan, Jorge Pavel y Cecilia. Medalla secreta.
 
@@ -465,19 +464,16 @@ Para quienes ya no pueden con tantas medallas nuevas…y aún así siguen juntá
 Para quienes comparten salones, pasillos y profes pero casi nunca se ven: el turno de la mañana y el de la ta8rde son una sola comunidad. Idea de Sarahí Guerrero. Medalla secreta.
 
 **VIRUS**
-
-*Se contagia, alguien con la medalla te lo debe pasar al agregarte*
+Se contagia, alguien con la medalla te lo debe pasar al agregarte
 
 **ZOSC9R**
 
 Encontraste el código secreto de El Apagón: en su primer día, a Espacio UNAM se le fue la luz… y aun así encendió.
 
 **H1L4R10**
-
 Para Hilario, el perrito que se volvió mascota de la Prepa 3 «Justo Sierra». Idea de Ximena Hernández. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **CU4TR3R0S**
-
 La porra de la Prepa 4 «Vidal Castañeda y Nájera», la casa de los Cuatreros de Tacubaya. Idea de Ángela Marina Cordero. Serie «Porras». Medalla secreta.
 
 **SU4D3R0**
@@ -878,9 +874,25 @@ Para Mario Pani y Enrique del Moral, que encabezaron el plan maestro de Ciudad U
 **T4RD3C0RR**
 Para quienes cruzan el campus corriendo para llegar a tiempo y suben la rampa como si fuera maratón. Cardio universitario. Idea de Aury Sahid, Jenny Alondra y Maely. Solo se gana con su código secreto.
 
+**COMONOT3**
+El canto que la afición universitaria entona con todo el corazón en el Estadio Olímpico Universitario. Idea de Ángel Daniel.
+Serie «Porras». Medalla secreta.
+
+**3XP3R1M**
+Así no era la reacción
+Para quienes han roto un matraz, sacado un 800% de rendimiento o visto a un experimento tomar vida propia. Así también se hace ciencia. Idea de Ilse Andrea, Ángel y Luis Daniel. Solo se gana con su código secreto.
+
+**EX0RC1ST4**
+
+Para la famosa leyenda del exorcismo de la Facultad de Psicología, la historia que pasa de generación en generación por sus pasillos. Idea de Aide. Medalla secreta.
+
+**J4C0B0**
+Para Jacobo Grinberg, investigador de la Facultad de Psicología que estudió la conciencia y el cerebro con una curiosidad que sigue inspirando. Idea de Aide. Medalla secreta.
+
 ¿Alguien tiene el código de la “startup"?
 
-* **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta
+**No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta
+
 * **Quizás funcione:** Escribir un código erroneo 5 veces
 * **Bisiesto**: Hacer un lazo con alguien que nació el 29 de febrero \- RVRBV4
 * **Quedé**: Errar en un intento de adivinar la ofrenda en **Medalla Ultrarrara Megaofrenda 2026**
@@ -1317,7 +1329,7 @@ Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS): **5C9MQ9, D6ZCHZ, 7GW9UE**
 
 Física: **XNFFUS**, **5WL3J2, JZC46F, NYSCU3**, **3BQQCQ,367Y2Q, XBR3NR, PC8XCL**
 
-Física Biomédica: **4EVPB3**, **6JPQ4R, GC6HKG, RWSHM3, JDHWGM**
+Física Biomédica: **4EVPB3** , **6JPQ4R, GC6HKG, RWSHM3, JDHWGM**
 
 Física y Matemáticas: **NYSCU3** , **QCXM4B**
 
@@ -1491,7 +1503,7 @@ Historia del arte**: SYCLSN**
 
 Antropología:, **C3EXMD, P79ZDH, 8MT3SY,, FFHFFF, MGHG7B**
 
-Ciencias de la Comunicación (Periodismo): **75CQF3**,  **L6KQTK, XSLEPM (SUA), YXLJ6H, KJY9A8, 4C7WHL, UJ6HJA**, **FDSTL4**, **Z85GPC**, **YAMC7X**, **3H7QTD**, , **KMKJZT**, **MW3B8F, XZBWUT, TW75Y9  (SUA), QPNKGB, U2LRPH, 4QRXH7, PTRGRY, UEYXQY, XH2446,  U7D5JF, Q2KS8F, B6PXK6, D4SJJL, KJY9A8, CRGQXT, 5X5NKZ, HHBKQS**
+Ciencias de la Comunicación (Periodismo): **75CQF3**,  **L6KQTK, XSLEPM (SUA), YXLJ6H, KJY9A8, 4C7WHL, UJ6HJA**, **FDSTL4**, **Z85GPC**, **YAMC7X**, **3H7QTD**, , **KMKJZT**, **MW3B8F, XZBWUT, TW75Y9  (SUA), QPNKGB, U2LRPH, 4QRXH7, PTRGRY, UEYXQY, XH2446,  U7D5JF, Q2KS8F, B6PXK6, D4SJJL, KJY9A8, CRGQXT, 5X5NKZ, HHBKQS, UAW9AA**
 
 Políticas y Administración Pública: **EBAGVV**, **UWTZBJ**, **XH2446, ZTKJWR,, YK4BPW, V7QEMW, PGPXPL**
 
@@ -1814,6 +1826,7 @@ YFF678 \- Borja
 H47GVV \- Borrego
 EUCUPZ, 4Y3TKD, BDJ43Q, WW36CR \- Bravo
 8B5R2K \- Breton
+XSU4PF \- Brito
 7XFJ3N  \-  Buendía
 2KZGV6 \- Buitrón
 RLMNKN \- Bustamante
@@ -2028,6 +2041,7 @@ KWRTRY \- Huizar
 NZS26K  \-  Ibarra
 WQPRJZ \- Izquierdo
 X4BZBK \- Illescas
+5AGTU8 \- Iniestra
 ZAJ8ZN \- Islas
 GCAVKF \- Ibañez
 6RQUDB \- Isidoro
@@ -2331,6 +2345,7 @@ SFTYGK, WRVUAF, CF4UBR, JEYZRQ \-Serrano
 E2N3KY \- Sanjuan
 2AAE5B \- Suárez
 BUUQPW \- Solano
+5AGTU8 \- Solorzano
 8AH8Y9 \- Solis
 C77D29 \- Soria
 YE83KR- Soriano
@@ -2618,7 +2633,7 @@ SSD55C \- Zunun
 ***10*** **BKY7PY**
 ***11 Z2PFT2, TJBK73***
 ***12 4NGH85*****, H47GVV**
-***13*** **S9VSRR**
+***13*** **S9VSRR  JSKV6D**
 ***14***
 ***15***
 ***16 LDJN7P***
@@ -2752,7 +2767,7 @@ SSD55C \- Zunun
 ***18*** **U6489M**
 ***19 N67VWW***
 ***20***   **M8PN5M**
-***21  6GKXF9***
+***21  6GKXF9, XSU4PF***
 ***22***   **DH3XJL**
 ***23 AKASBM***
 ***24***
@@ -2859,7 +2874,7 @@ SSD55C \- Zunun
 ***30 YFV6LU***
 **Diciembre**
 ***1\. GD53DM***
-***2\. 27YHVB, NYB27K***
+***2\. 27YHVB, NYB27K, QGLTRC***
 ***3 ; 76P6V4 \- M7PS49 \-*** **M8MRDM, HVZSUK, BTJWYA**
 ***4 GSWGUF,*** **UU6VPQ**
 ***5  ALVDTP***

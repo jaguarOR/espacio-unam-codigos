@@ -2,7 +2,7 @@
 
 Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos a mano**: se sobrescriben en cada sincronización. Para aportar un código abre un [issue de aportación](../../../issues/new?template=aporte-codigo.yml).
 
-- Códigos del Google Doc: **5083**
+- Códigos del Google Doc: **5090**
 - Aportaciones vía GitHub: **12**
 
 | Sección | Códigos |
@@ -14,12 +14,12 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 | [Prepas](prepas.md) | 20 |
 | [ENES](enes.md) | 116 |
 | [FES](fes.md) | 415 |
-| [Facultades de CU](facultades-de-cu.md) | 686 |
+| [Facultades de CU](facultades-de-cu.md) | 687 |
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 33 |
 | [Tocayo](tocayo.md) | 1027 |
-| [Casi familia](casi-familia.md) | 980 |
+| [Casi familia](casi-familia.md) | 983 |
 | [Pastel compartido](pastel-compartido.md) | 679 |
-| [Casi gemelos](casi-gemelos.md) | 481 |
+| [Casi gemelos](casi-gemelos.md) | 484 |
 | [Cazadora de mitos](cazadora-de-mitos.md) | 14 |
 | [Compa de banca](compa-de-banca.md) | 192 |
 | [Lazo de cumpleaños](lazo-de-cumpleanos.md) | 2 |
