@@ -65,6 +65,7 @@
 | `WVBJN2` | Aparicio | doc |
 | `49ACHB` | Avalos | doc |
 | `ZAX7PL` | Avila | doc |
+| `9VVQ6V` | Avilez | doc |
 | `YURFEC` | Aviña | doc |
 | `HG6QQX` | Aguilar | doc |
 | `DELLRV` | Aguilar | doc |
@@ -239,6 +240,7 @@
 | `MGHG7B` | Cuenca | doc |
 | `Q2KLU8` | Crisantos | doc |
 | `M2Q6WT` | Cervantes | doc |
+| `3DDLSL` | Conrique | doc |
 | `GCZY6P` | Danna | doc |
 | `3LX4CZ` | De La Cruz | doc |
 | `DQ7HBE` | De La Cruz | doc |
@@ -560,6 +562,7 @@
 | `ZYKAWY` | Mendoza | doc |
 | `UJ6HJA` | Mendoza | doc |
 | `XP4SYA` | Mendoza | doc |
+| `79NL4H` | Mendoza | doc |
 | `FDRDFV` | Méndez | doc |
 | `YTGL83` | Méndez | doc |
 | `WMWPYR` | Mendoza | doc |
@@ -945,6 +948,7 @@
 | `HKDG94` | Vidal | doc |
 | `245BFU` | Vieyra | doc |
 | `Z8YBVP` | Vilchis | doc |
+| `V2K3NW` | Vilchis | doc |
 | `3P2YMH` | Villa | doc |
 | `9RE3VP` | Villa | doc |
 | `D9GXLV` | Villalobos | doc |

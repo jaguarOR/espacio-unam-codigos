@@ -10,6 +10,7 @@
 | `99S7TP` | Actuaría | doc |
 | `NSBZJK` | Actuaría | doc |
 | `VG39JT` | Actuaría | doc |
+| `79NL4H` | Actuaría | doc |
 | `BKY3KF` | Arquitectura | doc |
 | `Z2PFT2` | Arquitectura | doc |
 | `73VSTT` | Arquitectura | doc |
@@ -56,6 +57,7 @@
 | `E92887` | Derecho | doc |
 | `XHYP6B` | Derecho | doc |
 | `62CSXD` | Derecho | doc |
+| `VVQGNR` | Derecho | doc |
 | `MP7Y6M` | Derecho sua | doc |
 | `6S9FH3` | Derecho sua | doc |
 | `PTHAMJ` | Economía | doc |
@@ -137,6 +139,7 @@
 | `YY4XRF` | Derecho | doc |
 | `2KNNQY` | Derecho | doc |
 | `HQX32E` | Derecho | doc |
+| `DYGJCP` | Derecho | doc |
 | `X87RX3` | Economía | doc |
 | `B6N39M` | Economía | doc |
 | `QV8YWM` | Economía | doc |
@@ -219,6 +222,7 @@
 | `4DB2PC` | Administración | doc |
 | `G4G9C6` | Administración | doc |
 | `C24B7W` | Conta | doc |
+| `9KKRES` | Conta | doc |
 | `W3FLD6` | Artes Visuales | doc |
 | `NZV72B` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
 | `W2CA3T` | Ingeniería en Telecom, Sistemas y Electrónica | doc |
@@ -378,6 +382,7 @@
 | `UZK9Z4` | Biología | doc |
 | `X74JDR` | Biología | doc |
 | `XX6TTD` | Biología | doc |
+| `QZEQHG` | Biología | doc |
 | `ZWLYNY` | Médico Cirujano | doc |
 | `S9VSRR` | Médico Cirujano | doc |
 | `K7HSZT` | Médico Cirujano | doc |

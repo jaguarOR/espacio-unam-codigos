@@ -43,7 +43,6 @@
 | `DBFAJH` | Ciencias de la Computación | doc |
 | `NWG754` | Ciencias de la Computación | doc |
 | `QFJ94L` | Ciencias de la Computación | doc |
-| `EGJGMB` | Ciencias de la Computación | doc |
 | `5C9MQ9` | Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS) | doc |
 | `D6ZCHZ` | Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS) | doc |
 | `7GW9UE` | Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS) | doc |
@@ -461,6 +460,7 @@
 | `WW7T4K` | Pedagogía SUAyED | doc |
 | `X8VAHT` | Pedagogía SUAyED | doc |
 | `FENCHJ` | Pedagogía SUAyED | doc |
+| `3DDLSL` | Pedagogía SUAyED | doc |
 | `42GEXU` | Historia | doc |
 | `RAUU69` | Historia | doc |
 | `Z729FV` | Historia | doc |
@@ -615,6 +615,7 @@
 | `LR4WLT` | Diseño y Comunicación Visual | doc |
 | `CTKX8D` | Diseño y Comunicación Visual | doc |
 | `EC4755` | Diseño y Comunicación Visual | doc |
+| `WUJNCD` | Diseño y Comunicación Visual | doc |
 | `CTKX8D` | Diseño y Comunicación Visual | comunidad |
 
 ## Facultad de Economía

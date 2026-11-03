@@ -8,6 +8,7 @@
 | `8R5W24` | Gen 2026 | doc |
 | `8FWQFZ` | ACTUARIA / FES ACATLAN / GEN 2023 | doc |
 | `ZNFGAC` | ACTUARIA / FES ACATLAN / GEN 2023 | doc |
+| `79NL4H` | ACTUARIA/ FES ACATLAN / GEN 2026 | doc |
 | `J7PAEG` | Actuaria Facultad de Ciencias Gen 2021 | doc |
 | `PW5KSH` | ARTE Y DISEÑO/ ENES MORELIA/ 2020 | doc |
 | `FRTNXJ` | Bibliotecología | doc |
@@ -186,8 +187,10 @@
 | `GTYWRN` | Ingeniería en Telecomunicaciones, Sistemas y Electrónica FESC : (2026) | doc |
 | `4HU2PV` | Psicología, FES Zaragoza (2018) | doc |
 | `LFBBEX` | Filosofía, SUA, CU (2027) | doc |
+| `3DDLSL` | Pedagogía SUAYED (2023) | doc |
 | `QC4WVW` | Literatura dramática y teatro, Facultad de filosofía (2023) | doc |
 | `XTEKTV` | Geografía (escolarizado, generación 2024) | doc |
+| `79NL4H` | Actuaria/2026 | doc |
 | `Z9D3BT` | 2023 | doc |
 | `T7XCPM` | 2026 | doc |
 | `5KDYK6` | PEDAGOGÍA/ GEN 2026 | doc |
