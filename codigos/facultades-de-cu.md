@@ -242,7 +242,6 @@
 | `S7H7BF` | Investigación Biomédica Básica | doc |
 | `DH5LMV` | Médico Cirujano | doc |
 | `KVJNQD` | Médico Cirujano | doc |
-| `S9VSRR` | Médico Cirujano | doc |
 | `NU9ED2` | Médico Cirujano | doc |
 | `NN2BAN` | Médico Cirujano | doc |
 | `HXNPTW` | Médico Cirujano | doc |
@@ -700,6 +699,7 @@
 | `CEB2F7` | Derecho SUAYED | doc |
 | `M8MRDM` | Derecho SUAYED | doc |
 | `XJ65S3` | Derecho SUAYED | doc |
+| `WGV9N9` | Derecho SUAYED | doc |
 
 ## Facultad de Psicología
 

@@ -295,6 +295,7 @@
 | `5KDYK6` | JULIO KVJNQD | doc |
 | `Z7V2DL` | JULIO KVJNQD | doc |
 | `95Y7HN` | JULIO KVJNQD | doc |
+| `QERZ9Y` | JULIO KVJNQD | doc |
 | `FBTPB7` | AGOSTO | doc |
 | `M8PN5M` | AGOSTO | doc |
 | `TP7G2U` | AGOSTO | doc |
@@ -450,6 +451,7 @@
 | `659JAD` | NOVIEMBRE | doc |
 | `T7XCPM` | NOVIEMBRE | doc |
 | `J6VTDU` | NOVIEMBRE | doc |
+| `DK66GK` | NOVIEMBRE | doc |
 | `RGUKR3` | DICIEMBRE | doc |
 | `Y6352H` | DICIEMBRE | doc |
 | `UU6VPQ` | DICIEMBRE | doc |

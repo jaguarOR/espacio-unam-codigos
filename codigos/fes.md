@@ -384,7 +384,6 @@
 | `XX6TTD` | Biología | doc |
 | `QZEQHG` | Biología | doc |
 | `ZWLYNY` | Médico Cirujano | doc |
-| `S9VSRR` | Médico Cirujano | doc |
 | `K7HSZT` | Médico Cirujano | doc |
 | `7WBMZG` | Médico Cirujano | doc |
 | `Z5B27L` | Médico Cirujano | doc |
@@ -394,7 +393,6 @@
 | `BELPYW` | Médico Cirujano | doc |
 | `Y9DWP5` | Médico Cirujano | doc |
 | `WHRPQ7` | Médico Cirujano | doc |
-| `56XQJ8` | Médico Cirujano | doc |
 | `BKY7PY` | Psicología | doc |
 | `3ZQQKP` | Psicología | doc |
 | `TE86WP` | Psicología | doc |
@@ -429,6 +427,7 @@
 | `K9BYHX` | Nutriología | doc |
 | `PPXSFF` | Nutriología | doc |
 | `V2K3NW` | Nutriología | doc |
+| `NSD8VZ` | Nutriología | doc |
 | `WLW4WT` | Química Farmacéutica Biológica | doc |
 | `ZY78VD` | Química Farmacéutica Biológica | doc |
 | `AL6N8L` | Química Farmacéutica Biológica | doc |

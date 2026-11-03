@@ -48,7 +48,6 @@
 | `7NSF65` | Generación 2026-1 | doc |
 | `NQK8TW` | (2027) | doc |
 | `S5VEZU` | ECONOMÍA/Facultad de Economía/ SUAyED/2023/ | doc |
-| `7M3MNC` | ECONOMÍA/Facultad de Economía/ SUAyED/2023/ | doc |
 | `BHXKZL` | ECONOMÍA/Facultad de Economia/ SUAyED/2022/ | doc |
 | `8ERZAR` | ECONOMÍA/Facultad de Economía/Escolarizado/2021 | doc |
 | `KBH4QN` | loENFERMERÍA/ Facultad de enfermería y obstetricia/ 2023 | doc |
