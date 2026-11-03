@@ -58,6 +58,7 @@
 | `6JPQ4R` | Física Biomédica | doc |
 | `GC6HKG` | Física Biomédica | doc |
 | `RWSHM3` | Física Biomédica | doc |
+| `JDHWGM` | Física Biomédica | doc |
 | `NYSCU3` | Física y Matemáticas | doc |
 | `QCXM4B` | Física y Matemáticas | doc |
 | `3P2YMH` | Matemáticas | doc |
@@ -750,9 +751,11 @@
 | `TZ3CU6` | Cirujano Dentista | doc |
 | `74JVX7` | Cirujano Dentista | doc |
 | `H36HPZ` | Cirujano Dentista | doc |
+| `MQGWQZ` | Cirujano Dentista | doc |
 | `GL8ETS` | Cirujano Dentista | doc |
 | `7VPCWT` | Cirujano Dentista | doc |
 | `QV68T9` | Cirujano Dentista | doc |
+| `5AGTU8` | Cirujano Dentista | doc |
 | `C73DE3` | Odontologia | doc |
 | `9R45UR` | Odontologia | doc |
 

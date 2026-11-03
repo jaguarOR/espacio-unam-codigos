@@ -7,7 +7,6 @@
 | `CFLQMC` | # CÓDIGO CORRECTO | doc |
 | `6WSK45` | Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en E | doc |
 | `4C7WHL` | — | doc |
-| `6YLFPN` | Porfa agregenme los del Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Mor | doc |
 | `634MZ6` | Porfi agregueme alguien de bachillerato a distancia, aún nadie :( | doc |
 | `9ZULZT` | PORFAVOR AGREGAME BACHILLERATO A DISTANCIA | doc |
 | `E7MD3K` | — | doc |

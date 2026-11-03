@@ -55,6 +55,7 @@
 | `8NZHFL` | ENERO | doc |
 | `YY4XRF` | ENERO | doc |
 | `6QTNCX` | ENERO | doc |
+| `MQGWQZ` | ENERO | doc |
 | `6CRCR2` | FEBRERO | doc |
 | `GTTYS2` | FEBRERO | doc |
 | `GFE3DQ` | FEBRERO | doc |
@@ -652,6 +653,7 @@
 | `KVJNQD` | Puebla | doc |
 | `96DD2T` | Puebla | doc |
 | `CDPCQC` | Puebla | doc |
+| `MQGWQZ` | Puebla | doc |
 | `UU7ANV` | Querétaro | doc |
 | `FEZ8TL` | Querétaro | doc |
 | `UDXDSE` | Querétaro | doc |

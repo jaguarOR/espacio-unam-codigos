@@ -675,6 +675,7 @@
 | `A33PGG` | Maira | doc |
 | `6PHCHQ` | Maria | doc |
 | `GM5UZ6` | Maite | doc |
+| `5AGTU8` | Majetzi | doc |
 | `HMZ3AD` | Manuel | doc |
 | `75CQF3` | Manuel | doc |
 | `XXYX8U` | Marcelo | doc |
@@ -890,6 +891,7 @@
 | `7Y4N48` | Samantha | doc |
 | `634MZ6` | Samanta | doc |
 | `YNPKGP` | Sandra | doc |
+| `XSU4PF` | Sandra | doc |
 | `Z6NQMM` | Santiago | doc |
 | `GLWNDS` | Santiago | doc |
 | `6DT6SY` | Santiago | doc |

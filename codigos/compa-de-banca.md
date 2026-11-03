@@ -140,6 +140,8 @@
 | `GDEP4Z` | 2025 | doc |
 | `H6RRFW` | 2026 | doc |
 | `45KGQP` | 2020 | doc |
+| `5AGTU8` | Facultad de odontología 2022 | doc |
+| `MQGWQZ` | 2025 | doc |
 | `VD522A` | RELACIONES INTERNACIONALES. FCPYS | doc |
 | `2FB5UB` | 2022 | doc |
 | `L6KQTK` | 2019 | doc |
@@ -194,4 +196,3 @@
 | `Z9D3BT` | 2023 | doc |
 | `T7XCPM` | 2026 | doc |
 | `5KDYK6` | PEDAGOGÍA/ GEN 2026 | doc |
-| `YJ3MH8` | che documento todo hermoso te amo gracias por ayudarme solo me falta una… necesito una chi | doc |
