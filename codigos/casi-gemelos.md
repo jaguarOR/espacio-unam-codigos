@@ -376,6 +376,7 @@
 | `FSZLZC` | 6 | doc |
 | `NZZ4RS` | 6 | doc |
 | `SEDAKG` | 7 | doc |
+| `6RU9N8` | 7 | doc |
 | `M33WL2` | 8 | doc |
 | `77S9EC` | 8 | doc |
 | `A6QH5Y` | 9 | doc |

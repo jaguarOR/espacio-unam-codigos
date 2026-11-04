@@ -877,7 +877,6 @@ Para Mario Pani y Enrique del Moral, que encabezaron el plan maestro de Ciudad U
 Para quienes cruzan el campus corriendo para llegar a tiempo y suben la rampa como si fuera maratón. Cardio universitario. Idea de Aury Sahid, Jenny Alondra y Maely. Solo se gana con su código secreto.
 
 **3XP3R1M**
-Así no era la reacción
 Para quienes han roto un matraz, sacado un 800% de rendimiento o visto a un experimento tomar vida propia. Así también se hace ciencia. Idea de Ilse Andrea, Ángel y Luis Daniel. Solo se gana con su código secreto.
 
 **EX0RC1ST4**
@@ -1654,7 +1653,7 @@ V4LUEE \- **Elideth** 4M6RG7 \- **Elisa**  45KGQP, 3ZQQKP, GTYWRN \- **Elizabeth
 | **F** |
 | 87WWAG \- **Fabián** MCJU5D \- **Fabio** 5K4A9V, FTJ9YB, 6A43KN \- **Fabiola** UM2YKB \- **Fabricio** CCQBM9 **\- Farrah** QLXHKW \- **Farid** 7L4QKK \- **Fatima**  46ZU4M \- **Fausto** H47GVV**\- Federico**  VZDJGS \- **Felix** GHSX27, ZKCCMK, YK9XG3, MTXZ58, 8EJFYT,7V69QX  \- **Fernanda** EBAGVV, 8R5W24, PC8XCL- **Fernando** Y6352H, 9JUXJP, 74MYW8 \- **Francisco** 7STSNM, Z9D3BT \- **Frida** |
 | **G** |
-| QV8YWM, H6RDXQ \- **Gabriel** AFJHRE, 2G5REG \- **Gabriela** NU9ED2 \- **Gael** 6GNP6P \- **Gamaliel** T4MZ7S \- **Genesis**  6QTNCX, LJ3UDT, ELYMMJ \- **Gerardo** UU7ANV \- **Gerónimo  5D4C6P \=  Giancarlo  S9VSRR \= Gianina** AQK9HC, SWCUS3 \- **Gibran** PYWASS \- **Gilberto** ZB3X47 \- **Giovanni 3C9YXF \- GiovannA** ULS7F3 \- **Giovanny** L6KQTK, M94YBG \- **Giselle** H5G886 \- **Gonzalo** XFLRJV \- **Grace** UJCX2D \- **Grecia** KWRTRY \- **Gregorio**  JA9ZR3 , CJXGS2 \- **Guadalupe**  ZL5WRA, 3WLQSH, PQ5YP6 \- **Gustavo** 79NL4H \- **Giovanny** |
+| QV8YWM, H6RDXQ \- **Gabriel** AFJHRE, 2G5REG \- **Gabriela** NU9ED2 \- **Gael** 6GNP6P \- **Gamaliel 6RU9N8 \- Genaro** T4MZ7S \- **Genesis**  6QTNCX, LJ3UDT, ELYMMJ \- **Gerardo** UU7ANV \- **Gerónimo  5D4C6P \=  Giancarlo  S9VSRR \= Gianina** AQK9HC, SWCUS3 \- **Gibran** PYWASS \- **Gilberto** ZB3X47 \- **Giovanni 3C9YXF \- GiovannA** ULS7F3 \- **Giovanny** L6KQTK, M94YBG \- **Giselle** H5G886 \- **Gonzalo** XFLRJV \- **Grace** UJCX2D \- **Grecia** KWRTRY \- **Gregorio**  JA9ZR3 , CJXGS2 \- **Guadalupe**  ZL5WRA, 3WLQSH, PQ5YP6 \- **Gustavo** 79NL4H \- **Giovanny** |
 | **H** |
 | GCAGCG \- **Hanadi**  YK4BYU \- **Hanna** ZAT8R9 \- **Hannah** RG2KM7 \- **Hannia**  V3HNZA \- **Hanniel**  QAN9U2 \- **Harumi** BFAJSX \- **Hayat** 4V8XK3 \- **Héctor** 4NMXPM \- **Heidy** ZQ7D4T **\- Heydi**  HXEZSH \- **Helen** Q2SZ3B, BNMEKR- **Helena** KWAFZM \- **Hernan**
 SGHGQT \- **Hiram**
@@ -2816,7 +2815,7 @@ SSD55C \- Zunun
 ***4***
 ***5 ESN8G3***
 ***6  8C9ST8, FSZLZC, NZZ4RS***
-***7*** **SEDAKG**
+***7*** **SEDAKG, 6RU9N8**
 ***8  M33WL2, 77S9EC***
 ***9*** **A6QH5Y, CCQBM9, VNMPZ9**
 ***10  FYZLQT***
