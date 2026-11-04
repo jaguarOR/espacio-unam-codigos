@@ -1,8 +1,6 @@
 <!-- Copia saneada de https://docs.google.com/document/d/1o8UgQYTTjpBznUktuLK0WDKmX9nV4Ao2UIWs1MJQ2-s/edit
      Generada automáticamente. Se omiten imágenes, cuentas de Instagram y enlaces de WhatsApp. -->
 
-####
-
 #### Códigos para platinar Espacio UNAM {#códigos-para-platinar-espacio-unam}
 
 **Muchas gracias a toda la comunidad de la UNAM por cooperar en la creación de este documento, cada carrera es importante en la universidad y ustedes son importantes, ¡a seguir obteniendo los códigos\! \- Etmis**
@@ -354,7 +352,7 @@ Para el árbol de la Facultad de Química que toda su comunidad conoce como «el
 En memoria de Mario Lenguas de Mileto, el perrito del CCH Naucalpan que acompañó a muchas generaciones y hoy tiene un mural en su biblioteca. Idea de María Jasmín, Arcelia, Andrea y 6 personas más. Medalla secreta.
 
 **V4MP1RO**
-Para el vampiro de filos.
+Para el vampiro de filos. Este código solo despierta en Halloween. 🧛
 
 **TUTS1**
 Para «MéXXico, el siglo lleva tu nombre», la escultura de la Facultad de Arquitectura que la comunidad llama la Tutsi Pop. Idea de Sergio, Oswald, Axel Emmanuel y 7 personas más. Medalla secreta.
@@ -369,7 +367,7 @@ Para Binni Sicarú, la nutria mascota de la ENES Oaxaca. Idea d un e Óscar Isid
 Hay lugares que se vuelven parte de nuestra historia: Las Islas son el corazón de Ciudad Universitaria. Idea de Celeste. Medalla secreta.
 
 **C0L1BR1**
-Para el colibrí de Trabajo Social, que dejó de ser Escuela y ahora es Facultad: un momento histórico. A su comunidad le llega sola. Idea de Karen, Karina, Daniela y 5 personas más. Medalla secreta.
+Para el colibrí de Trabajo Social, que dejó de ser Escuela y ahora es Facultad: un momento histórico. A su comunidad le llega sola. Idea de Karen, Karina, Daniela y 5 personas más. Meda,lla secreta.
 
 **TUZ4S0R**
 Para las tuzas que viven en los pastos del CCH Oriente. Idea de Santiago, Naomi, Rafael y 2 personas más. Medalla secreta.
@@ -870,9 +868,6 @@ El canto que la afición universitaria entona con todo el corazón en el Estadio
 **D3H3S4**
 Para María Luisa Dehesa Gómez Farías, que en 1939 se tituló en la Academia de San Carlos de la UNAM y fue la primera arquitecta de México. Idea de José Eliseo. Serie «Mujeres que hicieron la UNAM». Medalla secreta.
 
-**P4N1M0R4L**
-Para Mario Pani y Enrique del Moral, que encabezaron el plan maestro de Ciudad Universitaria, y para las decenas de arquitectas y arquitectos que la levantaron. Idea de José Eliseo. Serie «Personajes de la UNAM». Medalla secreta.
-
 **T4RD3C0RR**
 Para quienes cruzan el campus corriendo para llegar a tiempo y suben la rampa como si fuera maratón. Cardio universitario. Idea de Aury Sahid, Jenny Alondra y Maely. Solo se gana con su código secreto.
 
@@ -885,13 +880,24 @@ Para la famosa leyenda del exorcismo de la Facultad de Psicología, la historia 
 **J4C0B0**
 Para Jacobo Grinberg, investigador de la Facultad de Psicología que estudió la conciencia y el cerebro con una curiosidad que sigue inspirando. Idea de Aide. Medalla secreta.
 
-**M1G4J4S**
-Para quienes no se rinden nunca: una décima más, un lazo más, una oportunidad más. Pedir con cariño también es un arte.
-
 **B4NDAC1V**
 Para la Banda Cívica Universitaria de la FES Cuautitlán: tambores, cornetas y disciplina que acompañan los honores y las fiestas de su comunidad. Idea de Jocelyne y Elizabeth. Medalla secreta.
 
-S3RV1D0
+**Gallo Madrugador**
+Entraste a Espacio entre las 3:30 y las 6 de la mañana: para quienes madrugan para llegar a clases. Idea de Christian, Ángel Asiel, Bryan Ramiro y Jeremy Daniel.
+
+**T30LOYUC4N**
+Para el Observatorio Geomagnético de Teoloyucan, del Instituto de Geofísica de la UNAM, que desde 1914 mide el campo magnético de la Tierra y forma parte de una red mundial de observatorios. Idea de Kayden. Medalla secreta.
+
+**S3RV1D0**
+Para quienes hacen o hicieron su servicio social: personas que, sin hacer ruido, llevan lo que aprendieron en la UNAM más allá del aula y le devuelven a la sociedad lo que la Universidad les dio. Idea de Alejandro Rodríguez, Memo y Borre. Medalla secreta.
+
+**SUP3RC0MP**
+Para Miztli, la supercomputadora de la UNAM, donde investigadoras e investigadores hacen millones de cálculos para entender el clima, las moléculas, los sismos y el universo. Idea de Mario Alberto y Rubén Omar. Medalla secreta.
+
+**TUN4UN4M**
+
+Para las tunas de la UNAM, con sus capas, sus cintas y sus serenatas: una tradición que lleva décadas recorriendo facultades, como la Tuna de la Facultad de Ingeniería, con casi 60 años. Idea de Elías, Aurora y Ricardo Emmanuel. Medalla secreta.
 
 ¿Alguien tiene el código de la “startup"?
 
@@ -1187,7 +1193,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Enseñanza de Portugues:** ELIMINADO (POR AHORA)
 
-**Enseñanza de ingles:** , 3FWPDJ, GM2S6V, LGRZ65
+**Enseñanza de ingles:** , 3FWPDJ, GM2S6V, LGRZ65 ZY7TSL
 
 **Filosofía:** NZQBK9
 
