@@ -510,3 +510,7 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `6RU9N8` | 7 | comunidad |
+
+| Código | Etiqueta | Origen |
+|---|---|---|
+| `SGTHSE` | 20 de junio | comunidad |
