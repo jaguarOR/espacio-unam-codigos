@@ -917,7 +917,8 @@
 | `3JSZ6E` | Urban | doc |
 | `UYSLT3` | Ureña | doc |
 | `Z85GPC` | Urzua | doc |
-| `GSKBMJ` | VÁZQUEZ | doc |
+| `GSKBMJ` | Vázquez | doc |
+| `U7GRLW` | Vázquez | doc |
 | `QC4WVW` | Vázquez | doc |
 | `KBL9AS` | Valadez | doc |
 | `CLQ8NT` | Valdés | doc |
@@ -936,6 +937,7 @@
 | `RMNQ7T` | Vargas | doc |
 | `E92887` | Vargas | doc |
 | `ME6AAR` | Vázquez | doc |
+| `EBAGVV` | Vega | doc |
 | `NBDGLB` | Vega | doc |
 | `CSSVLE` | Velasco | doc |
 | `92B2W3` | Velasco | doc |

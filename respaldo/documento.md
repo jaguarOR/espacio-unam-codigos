@@ -159,7 +159,7 @@
 
 ##
 
-## **MEDALLAS SECRETAS** {#medallas-secretas}
+## MEDALLAS SECRETAS {#medallas-secretas}
 
 **3AKJEE**
 Este código es del mero mero, del jefazo (el creador de Espacio UNAM) les da medalla secreta ahhhh atte. Runix 🫰🏻
@@ -888,6 +888,11 @@ Para Jacobo Grinberg, investigador de la Facultad de Psicología que estudió la
 **M1G4J4S**
 Para quienes no se rinden nunca: una décima más, un lazo más, una oportunidad más. Pedir con cariño también es un arte.
 
+**B4NDAC1V**
+Para la Banda Cívica Universitaria de la FES Cuautitlán: tambores, cornetas y disciplina que acompañan los honores y las fiestas de su comunidad. Idea de Jocelyne y Elizabeth. Medalla secreta.
+
+S3RV1D0
+
 ¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta
@@ -903,7 +908,7 @@ En total, son muchas medallas secretas mis estimados (al menos eso me dijo GoIA,
 
 De antemano gracias a las personitas, pero van saliendo nuevos pokémons)(😂) (Tqm personita que propuso este word)(No hay de que)  (Si así se organizan para proyectos finales 😪) (Es que está más chistoso buscar a 135 personas de diferentes carreras) (Organicen una mega peda)  (Cuándo, cuándo) yo pongo casa
 
-## **Pokemones que ya no existen, y/o cambiaron de nombre o aún no hay alumnos** {#pokemones-que-ya-no-existen,-y/o-cambiaron-de-nombre-o-aún-no-hay-alumnos}
+## Pokemones que ya no existen, y/o cambiaron de nombre o aún no hay alumnos {#pokemones-que-ya-no-existen,-y/o-cambiaron-de-nombre-o-aún-no-hay-alumnos}
 
 **Ingeniería Topográfica y Geodésica:** actualmente se le conoce como *Ingeniería Geomática*, pero los códigos no validan ambas carreras ) hay una chica en FB que se lo pidió a un profesor que tiene esa licenciatura,  aún no lo tiene la profesora apenas hará el registro en “espacio UNAM”
 
@@ -935,7 +940,7 @@ Teatro y Actuación / CUT:  **DNX7NY** (La persona no dió su autorización para
 
 Ingeniería Topográfica y geodesica\!\!\!: **8T2H42**
 
-## **SEDES** {#sedes}
+## SEDES {#sedes}
 
 Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología:
 
@@ -945,14 +950,14 @@ Instituto de Investigaciones en Ecosistemas y Sustentabilidad Morelia / ecologí
 
 Instituto de Energías Renovables (Temixco):
 
-## **\*Platinado especial\***  {#*platinado-especial*}
+## \*Platinado especial\*  {#*platinado-especial*}
 
 Junta más de 100 lazos en cada carrera o sede (no da medalla, sólo añade brillo):
 
 Shiny
 Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con un aro tornasol, porque son más difíciles de conseguir.
 
-##  **CCH** {#cch}
+##  CCH {#cch}
 
 **CCH Azcapotzalco:** 8Q7DKQ, 5A9APH, BBUZSK, 27SLUR, 4JBFDU
 
@@ -964,7 +969,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **CCH Sur:** Q8LSSK, T38Q7T
 
-## **PREPAS** {#prepas}
+## PREPAS {#prepas}
 
 **Iniciacion Universitaria:** KU6394, H4E7FE
 
@@ -990,9 +995,9 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 ##
 
-## **ENES**  {#enes}
+## ENES  {#enes}
 
-### ***ENES León*** {#enes-león}
+### *ENES León* {#enes-león}
 
 **Agrogenómicas:** JN9LZY
 
@@ -1020,7 +1025,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Etnomusicologia:**
 
-**Ingeniería Eléctrica y Electrónica:** GTTYS2**, F783Q6**, 5, LKAE3D, 4THUMF, 8ZEKK9, V569QT
+**Ingeniería Eléctrica y Electrónica:** GTTYS2**,** F783Q6, 5, LKAE3D, 4THUMF, 8ZEKK9, V569QT
 
 **Ingeniería en Computación:** NQYJ5W, V8VEEB, DUQTLH, VQ8HT4, GK234W, C77D4V, PKJWXH, 62MWGU, RXMWFZ, LTVR5B, U4S826, FS9FAU 8J76TG,
 
@@ -1038,7 +1043,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Derecho Sua:** EZLREM
 
-### ***ENES Juriquilla*** {#enes-juriquilla}
+### *ENES Juriquilla* {#enes-juriquilla}
 
 **Ciencias de la Tierra:** SBT2UX, HGBPLC, L3CJV6
 
@@ -1066,7 +1071,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 ###
 
-### **ENES Morelia** {#enes-morelia}
+### ENES Morelia {#enes-morelia}
 
 **Geociencias:** 2YCHDH, PMATBR
 
@@ -1100,7 +1105,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Ciencias Agroforestales**: N3APR4
 
-### **ENES Oaxaca** {#enes-oaxaca}
+### ENES Oaxaca {#enes-oaxaca}
 
 **Administración:** ZL5WRA
 
@@ -1114,7 +1119,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 ###
 
-### ***ENES Mérida*** {#enes-mérida}
+### *ENES Mérida* {#enes-mérida}
 
  **Ciencias de la Tierra:** P2Z3FB, T53TWT
 
@@ -1138,9 +1143,9 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 ##
 
-## **FES** {#fes}
+## FES {#fes}
 
-### ***FES Acatlán*** {#fes-acatlán}
+### *FES Acatlán* {#fes-acatlán}
 
 **Actuaría:** 8FWQFZ, 99S7TP, NSBZJK, VG39JT, 79NL4H
 
@@ -1152,7 +1157,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Matemáticas Aplicadas y Computación:** CCH627**,** SYULLG, SMC4YU,  D4RXRA, EEVT74, DRSMPR, HF95VA, GUT5DE,HUUGQ5
 
-**Políticas y Administración Pública:** ALVDTP, R9DENV, T827MU, BH45YR, UN34WK,
+**Políticas y Administración Pública: EBAGVV,** ALVDTP, R9DENV, T827MU, BH45YR, UN34WK,
 
 **Comunicación:** 6CRCR2**,** Q2SZ3B, KBXVYT, UCHESZ, KMHUFX, BTV8F2, X8HHE5, DAYASH, N7AA4Q
 
@@ -1192,7 +1197,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Pedagogía:** EJQL5L, 7QHV8C, EX43MU, MAT54P, 5KDYK6, 3UNCXG, L83HF5
 
-### ***FES Aragón***  {#fes-aragón}
+### *FES Aragón*  {#fes-aragón}
 
 **Arquitectura:** T4MZ7S, Z2PFT2, ZYKAWY,JQEG3U,CD6E9R, 5SYS4J, 999SY7, RKUDH3
 
@@ -1202,7 +1207,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Derecho: 27YHVB,** TK24MU, SB3S58, 7NSF65, 8GHZQ5, AWLR5V, YY4XRF, 2KNNQY, HQX32E, DYGJCP
 
-**Economía:** X87RX3, B6N39M, QV8YWM , 84HDNQ
+**Economía:** X87RX3, B6N39M, QV8YWM , 84HDNQ, UTX29R
 
 **Economía SUAyED:** , 4E5D5N
 
@@ -1228,7 +1233,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 ###
 
-### ***FES Cuautitlán*** {#fes-cuautitlán}
+### *FES Cuautitlán* {#fes-cuautitlán}
 
 Administración: **BP8YXK, RZQRJ4, BDJ43Q, 4DB2PC, G4G9C6**
 
@@ -1272,7 +1277,7 @@ Comunicación gráfica: **GKBNW8**
 
 ###
 
-### ***FES Iztacala*** {#fes-iztacala}
+### *FES Iztacala* {#fes-iztacala}
 
 Medicina: **AY2E6M**, **P7PAUD**, **4YDJ8D, 8VA22G, Y6352H**
 
@@ -1292,7 +1297,7 @@ Psicología: **9AHF9R**, **JAJAFK, MY5REG**, **EGRGG2**, **AQ3GS6, R2H89V, 668YW
 
 Psicología SUAyED: **HZ6A9Z**, **5WHRX6, BYF2UV,**  **A6KFLN, FKWYFZ**, **MDTK49**, **96DD2T**, **3D6VW4**, **ZAZBK8**, **4TG2S7, E2254N, G5S3P7, LNVDTW, BFAPC5, XP4SYA, QXYCDC, 2G5REG, URT7XH, 8EJFYT**
 
-### ***FES Zaragoza*** {#fes-zaragoza}
+### *FES Zaragoza* {#fes-zaragoza}
 
 Biología: KWAFZM, **, NZS26K, ATFDWR, UZK9Z4, X74JDR, XX6TTD, QZEQHG**
 
@@ -1316,7 +1321,7 @@ Cirujano dentista: **LDJN7P**, **QQN4JV , MTW6EY, AARUZQ**
 
 **FACULTADES (CU)**
 
-### ***Facultad de Ciencias*** {#facultad-de-ciencias}
+### *Facultad de Ciencias* {#facultad-de-ciencias}
 
 Actuaría: **DD8TMC**, **GMXC4A, A855UZ, 7YEAR9, SAKNLC**, **2PCDYL**, **XF393W, DRA7FR,** **NLWHDB, MZ3SCJ, JA4E9T , CJXGS2, W3AQ9D, XJE3HZ, J7PAEG**
 
@@ -1340,7 +1345,7 @@ Matemáticas para el desarrollo: **UU7ANV**
 
 ###
 
-### ***Facultad de Ingeniería***  {#facultad-de-ingeniería}
+### *Facultad de Ingeniería*  {#facultad-de-ingeniería}
 
 Ingeniería Aeroespacial:**LWPJ6V, 5MMQ9F, 6F25A8, 7F4FNP, H6RDXQ, J7QZJW, ZQ7D4T, CBEPWS**
 
@@ -1376,11 +1381,11 @@ Ingeniería Mecatrónica: **KJ8P57**, **HKPU3S, SGHGQT, XM2G45, MWZVDU**
 
 Ingeniería Petrolera: **QVC32M**, **T8N7E2**, **H5G2EY,** **DSN67E, CGEFS2, 55VVA9**
 
-## **Ingeniería topográfica y geodésica:  8T2H42**
+## Ingeniería topográfica y geodésica:  8T2H42
 
 ###
 
-### ***Facultad de Arquitectura*** {#facultad-de-arquitectura}
+### *Facultad de Arquitectura* {#facultad-de-arquitectura}
 
 Arquitectura:  **Z2PFT2, 6PL54P, S4S24L, 4T9W9R, TAD88R, Y7J263, FDDWLX, 7FDNDL, 5SYS4J, X4BZBK, J8S4ZS, HAAYEY, 634MZ6,**  **UQDRBZ** , **37RXPE** ,  **TAD88R, NZZ4RS**
 
@@ -1392,7 +1397,7 @@ Urbanismo: **8ZYAK5**, **S6FD5B, 5YLFA4, WZ6CAL,,**
 
 ###
 
-### ***Facultad de Medicina*** {#facultad-de-medicina}
+### *Facultad de Medicina* {#facultad-de-medicina}
 
 Ciencia de la Nutrición Humana: **KB2U7B**
 
@@ -1406,7 +1411,7 @@ Neuro: **S6K38H**, **U7FQVT,** CSSVLE
 
 ###
 
-### ***Facultad de Medicina Veterinaria y Zootecnia*** {#facultad-de-medicina-veterinaria-y-zootecnia}
+### *Facultad de Medicina Veterinaria y Zootecnia* {#facultad-de-medicina-veterinaria-y-zootecnia}
 
 Medicina Veterinaria y Zootecnia: **4QSM4X**, **9UA5EN, ZW8MBV, 3J2QT2, SS2V9T, 6392QD, 9PLQ5A, VZ36RJ, ENP68N, YVWNP7, QYPDXV, T4LFVJ, Q5M9WY, VEXQQZ, EE55CC, RG2KM7, VZ4TY9, Y4SECU, H6RRFW, 8ALFYC, R5UKGS, QVVXC4, YJTX7G**
 
@@ -1416,7 +1421,7 @@ Enfermería: **JXMAQR**, **G5M54T**, **SFS8D8**, **ZAFCPW**, **AMPZ69, DW7V8V, 6
 
 Enfermería y Obstetricia: **GSKBMJ**, **RPGJKF, YUCQJJ,**
 
-### ***Facultad de Música*** {#facultad-de-música}
+### *Facultad de Música* {#facultad-de-música}
 
 Educación Musical: **DY74DM**
 
@@ -1432,7 +1437,7 @@ Música \- piano:  **YBN3XW**
 
 Música · Música y Tecnología Artistica: **5VSKLQ**
 
-### ***Facultad de Química***  {#facultad-de-química}
+### *Facultad de Química*  {#facultad-de-química}
 
 Ingeniería Química:  **B6QPMU**, **9GNVRV**, **Q2JACM, 24Q4N8, Z9V8YJ,** **S5G28G**, **LX96J7**, **FHQXMQ, ETYJEM, 28TBBT, AK6ZWR, RSJUH3, LHN8GW**
 
@@ -1458,7 +1463,7 @@ Estudios sociales y gestión local: **G5ZJ2S**
 
 ###
 
-### ***Facultad de Filosofía y Letras*** {#facultad-de-filosofía-y-letras}
+### *Facultad de Filosofía y Letras* {#facultad-de-filosofía-y-letras}
 
 Bibliotecología y Estudios de la Información: **A7YU5R, ZG5ZBZ, C44NTV, 57EYLG, RZT3LL**
 
@@ -1498,7 +1503,7 @@ Letras Clásicas: **EJ7H9W**, **6BX7JC, JMRJPL, MRAV79**
 
 Historia del arte**: SYCLSN**
 
-### ***Facultad de Ciencias Políticas y Sociales*** {#facultad-de-ciencias-políticas-y-sociales}
+### *Facultad de Ciencias Políticas y Sociales* {#facultad-de-ciencias-políticas-y-sociales}
 
 Antropología:, **C3EXMD, P79ZDH, 8MT3SY,, FFHFFF, MGHG7B**
 
@@ -1516,18 +1521,18 @@ Ciencias de la Comunicación (SUAyED): **75CQF3, XSLEPM, VFL56D, BHJJJA, DFTXBL*
 
 ###
 
-### ***Facultad de Contaduría y Administración*** {#facultad-de-contaduría-y-administración}
+### *Facultad de Contaduría y Administración* {#facultad-de-contaduría-y-administración}
 
 Administración: 9MEAAP, YPHDQH,  **9ZP2AZ, VBDF4E, FFWLPX, HL67XM**
 Administración SUAYED a distancia: **FZC5EB, UVJ83P**
 
-Contaduría: **DVW383**, **4TB6ZC**, **3C5MX2, N54J7V, ZMY6X9, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, LH9W8W, ZTAQVJ**
+Contaduría: **DVW383**, **4TB6ZC**, **3C5MX2, N54J7V, ZMY6X9, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, LH9W8W, ZTAQVJ, 2M5L75**
 
 Informática: **2AAE5B,CDPCQC, H3WUX3**
 
 Negocios Internacionales**: KGTXD3 , 9RE3VP, ZBFQAD**
 
-### ***Facultad de Artes y Diseño*** {#facultad-de-artes-y-diseño}
+### *Facultad de Artes y Diseño* {#facultad-de-artes-y-diseño}
 
 Arte y Diseño:  **NPCGN7**
 
@@ -1539,27 +1544,27 @@ Comunicación gráfica:
 
 ###
 
-### ***Facultad de Economía*** {#facultad-de-economía}
+### *Facultad de Economía* {#facultad-de-economía}
 
 Economía: **DRVR87, 7M3MNC**, **JUBN3N**, **FPN8E4**, **V8NHYS**, **D7E8UT**, **ZSNN9K, CCRE6J, QATJCM, 8ERZAR, UZJXUG, 39GFZJ,**
 
 Economia SUAyED**: S5VEZU, BHXKZL,42DDXA AGLLPJ, 4G7JK7, J6VTDU**
 
-### ***Facultad de Derecho*** {#facultad-de-derecho}
+### *Facultad de Derecho* {#facultad-de-derecho}
 
 Derecho: **PBNGNC,** **QMDEAM**, **CF4UBR, MFCF6H, UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K**
 
 Derecho SUAYED: **RVT6RY, 9ASR8W, 47BH5C, 74KTUS,  7UGZTJ, UU6VPQ, YFF678, 6S9FH3, CEB2F7, M8MRDM, XJ65S3, WGV9N9**
 
-### ***Facultad de Psicología*** {#facultad-de-psicología}
+### *Facultad de Psicología* {#facultad-de-psicología}
 
 Psicología: **JSKV6D, TJBK73,** **76P6V4**, **8EJFYT,**  **BBVWWW**, **PLDRZE**, **TK24MU**, **PYDJVG**, **XDRLB3, 89JNM3, QMVLT8**, **BYJNUA**, **245BFU, F9TZFU, ZCDEZZ, 78K5AB, EDVQEC, 5EEBMP,  ZAX7PL  WPWR7B, ES34RL, PFVZWY, E3ADVA, JCDSEA, H7GEQM, AZU86R**
 
 Psicología SUA: **EMR2XF, U37TKR UMZHHH, , 82H488, SUHQ7N, 2G5REG, LVD3EW**
 
-### ***Facultad de Odontología*** {#facultad-de-odontología}
+### *Facultad de Odontología* {#facultad-de-odontología}
 
-Cirujano Dentista: 2F4XDA, **KJ6ZGE**,**, QQN4JV,YSS7JK**, **VZD8Z4, 9ZHNXC, TZ3CU6, 74JVX7, H36HPZ, MQGWQZ, GL8ETS,7VPCWT, QV68T9, 5AGTU8, (pongan más para las 100 personas)**
+Cirujano Dentista: 2F4XDA, **KJ6ZGE, QQN4JV,YSS7JK**, **VZD8Z4, 9ZHNXC, TZ3CU6, 74JVX7, H36HPZ, MQGWQZ, GL8ETS,7VPCWT, QV68T9, 5AGTU8, W6X339**
 
 Odontologia: **C73DE3, 9R45UR**
 
@@ -1569,19 +1574,19 @@ Odontologia: **C73DE3, 9R45UR**
 
 ##
 
-## **ESCUELAS NACIONALES Y OTRAS ENTIDADES** {#escuelas-nacionales-y-otras-entidades}
+## ESCUELAS NACIONALES Y OTRAS ENTIDADES {#escuelas-nacionales-y-otras-entidades}
 
-### ***Escuela Nacional de Ciencias de la Tierra*** {#escuela-nacional-de-ciencias-de-la-tierra}
+### *Escuela Nacional de Ciencias de la Tierra* {#escuela-nacional-de-ciencias-de-la-tierra}
 
 Ciencia de la Tierra: **v, ZGPKFJ, 7GW9UE**
 
 Geografía Aplicada: **QWC8VS, WNU5V3, FZCENF, 8R5W24,QJ7RB6**
 
-### ***Escuela Nacional de Ciencias Forenses***   {#escuela-nacional-de-ciencias-forenses}
+### *Escuela Nacional de Ciencias Forenses*   {#escuela-nacional-de-ciencias-forenses}
 
 Forense: **G73Z9E,** **KKYHAT, PAVDZD,** **ZS32YZ**, **USQZVW, LEH2JS, 7TCYKC, BVZXZF, 28DXFJ**
 
-### ***IIMAS (Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas)*** {#iimas-(instituto-de-investigaciones-en-matemáticas-aplicadas-y-en-sistemas)}
+### *IIMAS (Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas)* {#iimas-(instituto-de-investigaciones-en-matemáticas-aplicadas-y-en-sistemas)}
 
 Ciencia de Datos: **S64AYZ**, **L4RHWU**
 
@@ -1591,7 +1596,7 @@ Matemáticas Aplicadas: **9K99R3**
 
 Cinematografía: **JFFLLG**, **XCWUT3**
 
-### ***ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)*** {#enallt-(escuela-nacional-de-lenguass,-lingüística-y-traducción)}
+### *ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)* {#enallt-(escuela-nacional-de-lenguass,-lingüística-y-traducción)}
 
 Traducción: **TF5R49, UBXD7M, ABHZXJ**
 
@@ -1605,33 +1610,33 @@ Nanotecnología: **c, BXCKLK**
 
 ###
 
-### ***Centro de Física Aplicada y Avanzada (Juriquilla)***  {#centro-de-física-aplicada-y-avanzada-(juriquilla)}
+### *Centro de Física Aplicada y Avanzada (Juriquilla)*  {#centro-de-física-aplicada-y-avanzada-(juriquilla)}
 
 Tecnología: CH2DGW
 
-### ***Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—PASENLOOOOO ES EL UNICO QUE FALTA PASENLO, ERA PARA AYER*** {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)-pasenlo-lo-borraron—pasenlooooo-es-el-unico-que-falta-pasenlo,-era-para-ayer}
+### *Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—PASENLOOOOO ES EL UNICO QUE FALTA PASENLO, ERA PARA AYER* {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)-pasenlo-lo-borraron—pasenlooooo-es-el-unico-que-falta-pasenlo,-era-para-ayer}
 
-### **CIencias :**
+### CIencias :
 
 Ecologia:
 
 Ciencias Agroforestales:
 
-### ***Instituto de Energías Renovables (Temixco)*** {#instituto-de-energías-renovables-(temixco)}
+### *Instituto de Energías Renovables (Temixco)* {#instituto-de-energías-renovables-(temixco)}
 
 Ingeniería en Energías Renovables : **6SRU4Q, BK3FVG**
 
-### ***Centro de  Genómicas (Cuernavaca)*** {#centro-de-genómicas-(cuernavaca)}
+### *Centro de  Genómicas (Cuernavaca)* {#centro-de-genómicas-(cuernavaca)}
 
  Genómicas: **5KX44U**
 
-### ***Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Mérida)*** {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(mérida)}
+### *Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Mérida)* {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(mérida)}
 
 Desarrollo y gestión interculturales:
 
 ##
 
-## **APARTADO PARA EL LOGRO DE TOCAYO**  {#apartado-para-el-logro-de-tocayo}
+## APARTADO PARA EL LOGRO DE TOCAYO  {#apartado-para-el-logro-de-tocayo}
 
 **Tocayo (FAVOR DE PONERLO ALFABÉTICAMENTE)**
 
@@ -1649,11 +1654,11 @@ YA NO LO BORREN
 | **E** |
 | 7XMBB9, DH5LMV **\- Eder** HR5TVK, C4S5F9 \- **Edgar** VPDHVT \- **Edgardo** Q3Q9LU **\- Edahi** 9MS2MK \- **Edmundo** 48WMEU \- **Edna** 5WL3J2, H6ET8G, HLTR92 \- **Eduardo** DVX6Y3 \- **Edwin** E44DJW, RRB4ZF \- **Efrén** J4C52P \- **Eibraham** 7XMBB9 \- **Eithan**  UTNDXQ \- **Elena** PXH6BE \- **Elí** 7C33QL \- **Eliam**
 XEYR24 \- **Elian** AARUZQ-**Elías**
-V4LUEE \- **Elideth** 4M6RG7 \- **Elisa**  45KGQP, 3ZQQKP, GTYWRN \- **Elizabeth** BPY827 **\- Elvira**  HE4X2K \- **Elsy**  4NGH85 \- **Emanuel**  6TBAMV \- **Emma** 5RF2MC, BUJP37 \- **Emmanuel** KW9UF5 \- **Emilia** UJ6HJA, BL2SEC, DRVR87 \- **Emiliano**  LJ3UDT,VFYFQQ, CZFK4A, JF5XLG \- **Emilio WH573S \- Emilli**  M7ABXK, CY6ATS, Q92CDU- **Emily** G8ZWJ9 \- **Ennovi** 47AFVH \- **Enrique** 6DERTR \- **Enzi** RSJUH3 \- **Erandi** SSY4TG \- **Erandy** DPL3TW**\- Eric** JUF5W6, LHPSC9 \- **Erick** 85XQ5L, S8LNQW \- **Erik** X4WFYP, ZCDEZZ, R5UKGS \- **Erika** YJ3MH8 **\- Esperanza** A39J8V \- **Esmeralda**  AQDZJ4 \- **Estefania** 8468UT \- **Estefanya** E76VKM **\- Estela** BHXKZL \- **Esther**  33DBC2 \- **Estrella** WQPRJZ \- **Ethan** 7XMBB9 \- **Eithan**  VUGKWY \- **Ethel** DL95TY \- **Etienne** RRB4ZF \- **Eumir**  9K99R3 \- **Eva QC4WVW \- Eva** WNYKCD \- **Evelin QCDXFG \- Evelin** JPJXQW, 742NB2 \- **Evelyn** UPWQ74- **Ever** 27XX4P \- **Ezequiel 79U7RY Efrain**  |
+V4LUEE \- **Elideth** 4M6RG7 \- **Elisa**  45KGQP, 3ZQQKP, GTYWRN \- **Elizabeth** BPY827 **\- Elvira**  HE4X2K \- **Elsy**  4NGH85 \- **Emanuel**  6TBAMV \- **Emma** 5RF2MC, BUJP37 \- **Emmanuel** KW9UF5 \- **Emilia** UJ6HJA, BL2SEC, DRVR87 \- **Emiliano**  LJ3UDT,VFYFQQ, CZFK4A, JF5XLG \- **Emilio** WH573S **\- Emilli**  M7ABXK, CY6ATS, Q92CDU- **Emily** G8ZWJ9 \- **Ennovi** 47AFVH \- **Enrique** 6DERTR \- **Enzi** RSJUH3 \- **Erandi** SSY4TG \- **Erandy** DPL3TW**\- Eric** JUF5W6, LHPSC9 \- **Erick** 85XQ5L, S8LNQW \- **Erik** X4WFYP, ZCDEZZ, R5UKGS \- **Erika** YJ3MH8 **\- Esperanza** A39J8V \- **Esmeralda**  AQDZJ4 \- **Estefania** 8468UT \- **Estefanya** E76VKM **\- Estela** BHXKZL \- **Esther**  33DBC2 \- **Estrella** WQPRJZ \- **Ethan** 7XMBB9 \- **Eithan**  VUGKWY \- **Ethel** DL95TY \- **Etienne** RRB4ZF \- **Eumir**  9K99R3 \- **Eva QC4WVW \- Eva** WNYKCD \- **Evelin QCDXFG \- Evelin** JPJXQW, 742NB2 \- **Evelyn** UPWQ74- **Ever** 27XX4P \- **Ezequiel 79U7RY Efrain**  |
 | **F** |
 | 87WWAG \- **Fabián** MCJU5D \- **Fabio** 5K4A9V, FTJ9YB, 6A43KN \- **Fabiola** UM2YKB \- **Fabricio** CCQBM9 **\- Farrah** QLXHKW \- **Farid** 7L4QKK \- **Fatima**  46ZU4M \- **Fausto** H47GVV**\- Federico**  VZDJGS \- **Felix** GHSX27, ZKCCMK, YK9XG3, MTXZ58, 8EJFYT,7V69QX  \- **Fernanda** EBAGVV, 8R5W24, PC8XCL- **Fernando** Y6352H, 9JUXJP, 74MYW8 \- **Francisco** 7STSNM, Z9D3BT \- **Frida** |
 | **G** |
-| QV8YWM, H6RDXQ \- **Gabriel** AFJHRE, 2G5REG \- **Gabriela** NU9ED2 \- **Gael** 6GNP6P \- **Gamaliel 6RU9N8 \- Genaro** T4MZ7S \- **Genesis**  6QTNCX, LJ3UDT, ELYMMJ \- **Gerardo** UU7ANV \- **Gerónimo  5D4C6P \=  Giancarlo  S9VSRR \= Gianina** AQK9HC, SWCUS3 \- **Gibran** PYWASS \- **Gilberto** ZB3X47 \- **Giovanni 3C9YXF \- GiovannA** ULS7F3 \- **Giovanny** L6KQTK, M94YBG \- **Giselle** H5G886 \- **Gonzalo** XFLRJV \- **Grace** UJCX2D \- **Grecia** KWRTRY \- **Gregorio**  JA9ZR3 , CJXGS2 \- **Guadalupe**  ZL5WRA, 3WLQSH, PQ5YP6 \- **Gustavo** 79NL4H \- **Giovanny** |
+| QV8YWM, H6RDXQ \- **Gabriel** AFJHRE, 2G5REG \- **Gabriela** NU9ED2 \- **Gael** 6GNP6P \- **Gamaliel** 6RU9N8 \- **Genaro** T4MZ7S \- **Genesis**  6QTNCX, LJ3UDT, ELYMMJ \- **Gerardo** UU7ANV \- **Gerónimo**  5D4C6P \-  **Giancarlo**  S9VSRR \- **Gianina** AQK9HC, SWCUS3 \- **Gibran** PYWASS \- **Gilberto** ZB3X47 \- **Giovanni** 3C9YXF \- **GiovannA** ULS7F3 \- **Giovanny** L6KQTK, M94YBG \- **Giselle** H5G886 \- **Gonzalo** XFLRJV \- **Grace** UJCX2D \- **Grecia** KWRTRY \- **Gregorio**  JA9ZR3 , CJXGS2 \- **Guadalupe**  ZL5WRA, 3WLQSH, PQ5YP6 \- **Gustavo** 79NL4H \- **Giovanny** |
 | **H** |
 | GCAGCG \- **Hanadi**  YK4BYU \- **Hanna** ZAT8R9 \- **Hannah** RG2KM7 \- **Hannia**  V3HNZA \- **Hanniel**  QAN9U2 \- **Harumi** BFAJSX \- **Hayat** 4V8XK3 \- **Héctor** 4NMXPM \- **Heidy** ZQ7D4T **\- Heydi**  HXEZSH \- **Helen** Q2SZ3B, BNMEKR- **Helena** KWAFZM \- **Hernan**
 SGHGQT \- **Hiram**
@@ -1700,7 +1705,7 @@ SKBZDL-**Sayra** XTEKTV \- **Scarlett** CC2JVA, VMXG5A, FDSTL4 \- **Sebastián**
 | X4XZKY \- **Zabdy** FWNJL3 \- **Zafiro** 6GNP6P \- **Zahid** TJDYH2 \- **Zaid** DEPQX9 **\- Zaira** 325FC5 \- **Zara** LFBBEX- **Zeltzin**  BTJWYA**\- Zuleica**
 QMDEAM, ATAT6C,  RVDYNM- **Zyanya** |
 
-## **APARTADO CASI FAMILIA** {#apartado-casi-familia}
+## APARTADO CASI FAMILIA {#apartado-casi-familia}
 
 **(Tener primer apellido igual al de alguien más, de lo contrario no funciona)  (Favor de colocarlo alfabéticamente)**
 
@@ -2396,8 +2401,7 @@ NVA94H   \-  Urquiza
 UYSLT3 \- Ureña
 Z85GPC  \-  Urzua
 **V**
-GSKBMJ \- VÁZQUEZ
-QC4WVW \- Vázquez
+GSKBMJ, U7GRLW, QC4WVW- Vázquez
 KBL9AS \- Valadez
 CLQ8NT, XCHMUY \- Valdés
 TZXDBB, XZFTND  \-  Valdez
@@ -2409,7 +2413,7 @@ BTHEFM, P7ALHB- Valencia
 AV5UAQ, P7PAUD \- Vallejo
 RMNQ7T ,  E92887 \-  Vargas
 ME6AAR \-  Vázquez
-NBDGLB \- Vega
+EBAGVV, NBDGLB \- Vega
 CSSVLE, 92B2W3 \- Velasco
 JPYYZ2, J7WBD7 \- Velez
 EMR2XF \- Vences
@@ -2458,11 +2462,11 @@ SSD55C \- Zunun
 
 ##
 
-## **APARTADO A EL LOGRO DE PASTEL COMPARTIDO**   {#apartado-a-el-logro-de-pastel-compartido}
+## APARTADO A EL LOGRO DE PASTEL COMPARTIDO   {#apartado-a-el-logro-de-pastel-compartido}
 
-## **DISCLAIMER:** Solo pongan el código en su mes, no pongan más datos por favor. Y separen igual con coma **(CASI GEMELOS SE ENCUENTRA EN OTRA SECCIÓN ).** {#disclaimer:-solo-pongan-el-código-en-su-mes,-no-pongan-más-datos-por-favor.-y-separen-igual-con-coma-(casi-gemelos-se-encuentra-en-otra-sección-).}
+## DISCLAIMER: Solo pongan el código en su mes, no pongan más datos por favor. Y separen igual con coma (CASI GEMELOS SE ENCUENTRA EN OTRA SECCIÓN ). {#disclaimer:-solo-pongan-el-código-en-su-mes,-no-pongan-más-datos-por-favor.-y-separen-igual-con-coma-(casi-gemelos-se-encuentra-en-otra-sección-).}
 
-| ENERO G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9, CF4UBR, KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL, YY4XRF, 6QTNCX, MQGWQZ |
+| ENERO G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9, CF4UBR, KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL, YY4XRF, 6QTNCX, MQGWQZ, U7GRLW |
 | ----- |
 | **FEBRERO** 6CRCR2, GTTYS2 , GFE3DQ, Z42WRW, H6YEY8, AQ3GS6,  CUBTQU, VLM6JA, E44DJW, BW6HC7, 8T9YUR, WUJYVC, W2CA3T, ER4UV5, PV9QBS, J4QES4**,** XP4SYA, T827MU, L92K5P, UM2YKB, GDEP4Z, 4JQBNS, 8AH8Y9, HE4X2K, SHYLDR, PWGZE8, J5HYY2, QXVWPA, 4HU2PV, ELUYC2, JAY662, BTHEFM, XP2KK8, AARUZQ, EMXTCA, ER4UV5, L55SRC, 6CRCR2, 8R5W24, CF4UBR, WWTRWU, XBR3NR, DYGJCP, 79NL4H |
 | **MARZO** T9L84A**,** K7HSZT,  YYSEV5,   NQQBE5, QK7GDH,M7ABXK, CBMN94, QE4UEL,  MXA4B9**,** BBVWWW, 54CXKN, 6UQTGW, V8NHYS, UWJK4T, KWAFZM, LJ5HRN, YBN3XW, BFAPC5, ZV7JT3, WZ6CAL, PYADLG, 8YFL8T,  BELPYW 3RX6LZ , KNK7Y4, VZ4TY9, BVX339, 2AVJJ6, 7Y9LVV, MAT54P, WZ6CAL, 2STNBU, 68QU64 PYADLG, 9MQNWS, 2CSXD, DEPQX9, CM8RT8, PLDRZE, W9THGT, HAAYEY, JEYZRQ, 3UA93V, 2AVJJ6, MDW9W3, N7AA4Q  |
@@ -2518,9 +2522,9 @@ SSD55C \- Zunun
 
 **FHG5GS, 8TQ47J,  7TCTV3, CBHD9N, VU4EAW, PGPXPL,**
 
-## **Apartado “Casi Gemelos”**  {#apartado-“casi-gemelos”}
+## Apartado “Casi Gemelos”  {#apartado-“casi-gemelos”}
 
-## **Enero**
+## Enero
 
 ***1 9ASR8W***
 ***2 URT7XH, B63GTY***
@@ -2554,7 +2558,7 @@ SSD55C \- Zunun
 ***30  BVAQGH***
 ***31***    **P3ZRE5**
 
-## **Febrero**
+## Febrero
 
 **1 ELUYC2, JAY662**
 ***2***    **4HU2PV**
@@ -2586,7 +2590,7 @@ SSD55C \- Zunun
 ***28***
 ***29***    **F3WH5B**
 
-## **Marzo**
+## Marzo
 
 ***1*** JEYZRQ
 ***2***
@@ -2904,13 +2908,13 @@ SSD55C \- Zunun
 ***30 QBHNZB***
 ***31 6AJGJP, EDWUCZ***
 
-## **APARTADO “CAZADORA DE MITOS”** {#apartado-“cazadora-de-mitos”}
+## APARTADO “CAZADORA DE MITOS” {#apartado-“cazadora-de-mitos”}
 
 8R5W24, 4DB2PC, GMXC4A, ZWLYNY, B6N39M, V68MGH, B6N39M, K9ABJD, YK4BPW, YPHDQH, RVDYNM, FTJ9YB, 6WCB38,
 GA7BM5 (da medalla de virus al ser agregado)
 V6ZKQ8
 
-##  **APARTADO A COMPA DE BANCA 🪑** {#apartado-a-compa-de-banca-🪑}
+##  APARTADO A COMPA DE BANCA 🪑 {#apartado-a-compa-de-banca-🪑}
 
 **Misma carrera, mismo plantel, misma generación: han sufrido los mismos exámenes.**
 
@@ -3137,9 +3141,17 @@ RELACIONES INTERNACIONALES. FCPYS. : VD522A
 2025: XSLEPM
 2026 SUAyED: BFFU5Q
 
+**Sociología \- FCPyS**
+
+2019-
+2020:
+2021: U7GRLW
+2022:
+2023:
+2024:
 **Ciencias Políticas y Admon Pública \- FCPyS**
 
-2025: V7QEMW
+2025: V7QEMW, H6YEY8
 
 2024: FBTPB7
 
@@ -3246,20 +3258,22 @@ Actuaria/2026: 79NL4H
 
 PEDAGOGÍA/ GEN 2026 \- 5KDYK6
 
-## **Lazo de cumpleaños**  {#lazo-de-cumpleaños}
+## Lazo de cumpleaños  {#lazo-de-cumpleaños}
 
-## **15 de febrero PWGZE8 •**
+## 15 de febrero PWGZE8 •
 
+11 de Enero \- U7GRLW
 4 de junio 7M3MNC
+
 12de agosto
 
-## **NVA94H**
+## NVA94H
 
 26
 
 ##
 
-##     **•     •     •**
+##     •     •     •
 
 Bueno al parecer todos son buena comunidad UNAM, gracias chicos (Gracias a ustedes por ayudar a encontrar gente de todos lados, suerte en la época de exámenes a los que ayudaron y a los que lean esto Atte: Etmis) ❤️‍🩹
 
@@ -3289,9 +3303,9 @@ Saludos desde Tijuana🤠
 
 ##
 
-## **Fotos para que completes tus sellos** {#fotos-para-que-completes-tus-sellos}
+## Fotos para que completes tus sellos {#fotos-para-que-completes-tus-sellos}
 
-## **Te va a aceptar foto de cualquier cosa siempre que la tomes en ese momento.**    {#te-va-a-aceptar-foto-de-cualquier-cosa-siempre-que-la-tomes-en-ese-momento.}
+## Te va a aceptar foto de cualquier cosa siempre que la tomes en ese momento.    {#te-va-a-aceptar-foto-de-cualquier-cosa-siempre-que-la-tomes-en-ese-momento.}
 
 (ayuda es que ocupo completar mis sellos) Pasen de metro cu y de un pumabus pofavooo también de frontones botánico y del escultórico si no es mucha molestia.
 

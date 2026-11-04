@@ -407,8 +407,8 @@
 | `LJ3UDT` | Gerardo | doc |
 | `ELYMMJ` | Gerardo | doc |
 | `UU7ANV` | Gerónimo | doc |
-| `5D4C6P` | = Giancarlo | doc |
-| `S9VSRR` | = Gianina | doc |
+| `5D4C6P` | Giancarlo | doc |
+| `S9VSRR` | Gianina | doc |
 | `AQK9HC` | Gibran | doc |
 | `SWCUS3` | Gibran | doc |
 | `PYWASS` | Gilberto | doc |

@@ -31,6 +31,7 @@
 | `HF95VA` | Matemáticas Aplicadas y Computación | doc |
 | `GUT5DE` | Matemáticas Aplicadas y Computación | doc |
 | `HUUGQ5` | Matemáticas Aplicadas y Computación | doc |
+| `EBAGVV` | Políticas y Administración Pública | doc |
 | `ALVDTP` | Políticas y Administración Pública | doc |
 | `R9DENV` | Políticas y Administración Pública | doc |
 | `T827MU` | Políticas y Administración Pública | doc |
@@ -144,6 +145,7 @@
 | `B6N39M` | Economía | doc |
 | `QV8YWM` | Economía | doc |
 | `84HDNQ` | Economía | doc |
+| `UTX29R` | Economía | doc |
 | `4E5D5N` | Economía SUAyED | doc |
 | `BZJX2A` | Ingeniería Civil | doc |
 | `UEYKGM` | Ingeniería Civil | doc |

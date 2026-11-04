@@ -581,6 +581,7 @@
 | `MDW9W3` | Contaduría | doc |
 | `LH9W8W` | Contaduría | doc |
 | `ZTAQVJ` | Contaduría | doc |
+| `2M5L75` | Contaduría | doc |
 | `2AAE5B` | Informática | doc |
 | `CDPCQC` | Informática | doc |
 | `H3WUX3` | Informática | doc |
@@ -757,6 +758,7 @@
 | `7VPCWT` | Cirujano Dentista | doc |
 | `QV68T9` | Cirujano Dentista | doc |
 | `5AGTU8` | Cirujano Dentista | doc |
+| `W6X339` | Cirujano Dentista | doc |
 | `C73DE3` | Odontologia | doc |
 | `9R45UR` | Odontologia | doc |
 
