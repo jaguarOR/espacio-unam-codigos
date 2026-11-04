@@ -1033,3 +1033,4 @@
 | `ATAT6C` | Zyanya | doc |
 | `RVDYNM` | Zyanya | doc |
 | `6RU9N8` | Genaro | comunidad |
+| `SGTHSE` | LEON | comunidad |
