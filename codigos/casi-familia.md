@@ -988,3 +988,9 @@
 | `VKVDLU` | Zuñiga | doc |
 | `ZCDEZZ` | Zuñiga | doc |
 | `SSD55C` | Zunun | doc |
+
+## Facmed
+
+| Código | Etiqueta | Origen |
+|---|---|---|
+| `SGTHSE` | Carmona | comunidad |
