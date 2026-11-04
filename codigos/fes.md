@@ -247,6 +247,7 @@
 | `KBCGJE` | diseño y visual suayed | doc |
 | `V6ZKQ8` | diseño y visual suayed | doc |
 | `4TYNFK` | diseño y visual suayed | doc |
+| `VK7DPU` | diseño y visual suayed | doc |
 | `CBU3CE` | Ingeniería Mecánica Eléctrica | doc |
 | `A33PGG` | Ingeniería Mecánica Eléctrica | doc |
 | `TSG2P2` | Ingeniería Mecánica Eléctrica | doc |

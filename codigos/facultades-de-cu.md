@@ -6,6 +6,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `KDRM9K` | Actuaría | doc |
 | `DD8TMC` | Actuaría | doc |
 | `GMXC4A` | Actuaría | doc |
 | `A855UZ` | Actuaría | doc |
@@ -272,6 +273,7 @@
 | `S6YQL2` | Médico Cirujano | doc |
 | `6GKXF9` | Médico Cirujano | doc |
 | `BBHUBB` | Médico Cirujano | doc |
+| `V9RX8Z` | Médico Cirujano | doc |
 | `S6K38H` | Neuro | doc |
 | `U7FQVT` | Neuro | doc |
 | `CSSVLE` | Neuro | doc |
@@ -601,6 +603,7 @@
 | `L8GE4V` | Artes Visuales | doc |
 | `W3ZPUK` | Artes Visuales | doc |
 | `RANETR` | Artes Visuales | doc |
+| `C6J3MN` | Diseño y Comunicación Visual | doc |
 | `3EADS3` | Diseño y Comunicación Visual | doc |
 | `WMWPYR` | Diseño y Comunicación Visual | doc |
 | `J8LGHK` | Diseño y Comunicación Visual | doc |
@@ -732,6 +735,7 @@
 | `JCDSEA` | Psicología | doc |
 | `H7GEQM` | Psicología | doc |
 | `AZU86R` | Psicología | doc |
+| `ZHSJL4` | Psicología | doc |
 | `EMR2XF` | Psicología SUA | doc |
 | `U37TKR` | Psicología SUA | doc |
 | `UMZHHH` | Psicología SUA | doc |

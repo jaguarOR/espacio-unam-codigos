@@ -44,6 +44,7 @@
 | `XZBWUT` | Alejandro | doc |
 | `E7U7YA` | Alejandro | doc |
 | `J4QES4` | Alessandra | doc |
+| `V9RX8Z` | Alessandra | doc |
 | `ETYJEM` | Alexa | doc |
 | `TC2RHZ` | Alexa | doc |
 | `TL83CB` | Alexa | doc |
@@ -592,6 +593,7 @@
 | `CEB2F7` | Karla | doc |
 | `YTGL83` | Karla | doc |
 | `2KC976` | Karla | doc |
+| `84HDNQ` | Karime | doc |
 | `DL95TY` | Karlo | doc |
 | `ZLK3YB` | Karol | doc |
 | `J4MQAK` | Katerine | doc |
