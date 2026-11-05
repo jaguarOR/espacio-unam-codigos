@@ -423,6 +423,7 @@
 | `3VQ66U` | Hubert | doc |
 | `AEXBFW` | Huerta | doc |
 | `KWRTRY` | Huizar | doc |
+| `V9RX8Z` | Hidalgo | doc |
 | `NZS26K` | Ibarra | doc |
 | `WQPRJZ` | Izquierdo | doc |
 | `X4BZBK` | Illescas | doc |
@@ -513,6 +514,7 @@
 | `V2XP99` | Magos | doc |
 | `QV8YWM` | Maldonado | doc |
 | `RWSHM3` | Maldonado | doc |
+| `R79SQG` | Maldonado | doc |
 | `E5YKZ7` | Mandujano | doc |
 | `AFJHRE` | Manriquez | doc |
 | `BQMXZT` | Manzo | doc |
@@ -719,9 +721,10 @@
 | `HNELMV` | Peza | doc |
 | `EGV5ZC` | Peñaloza | doc |
 | `5KDYK6` | Pichardo | doc |
-| `NQQBE5` | Pineda | doc |
 | `WALUUQ` | Piedra | doc |
+| `NKNAFP` | Pineda | doc |
 | `ULFNRU` | Pineda | doc |
+| `NQQBE5` | Pineda | doc |
 | `7LX92Y` | Pinto | doc |
 | `JNYG3R` | Piña | doc |
 | `BP8YXK` | Piñón | doc |
@@ -764,6 +767,7 @@
 | `HB9TUV` | Rangel | doc |
 | `7LZ5TF` | Razo | doc |
 | `EZLREM` | Razo | doc |
+| `HXGJEF` | Rebollar | doc |
 | `6A43KN` | Regalado | doc |
 | `8R5W24` | Regalado | doc |
 | `2WFKWY` | Reyes | doc |
@@ -827,6 +831,7 @@
 | `H9L5AJ` | Salas | doc |
 | `KJSMF5` | Salas | doc |
 | `NZEU6J` | Saldaña | doc |
+| `NKNAFP` | Saldivar | doc |
 | `GC6HKG` | Salgado | doc |
 | `BKY7PY` | Salmerón | doc |
 | `YK4BPW` | Samano | doc |

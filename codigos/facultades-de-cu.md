@@ -371,6 +371,7 @@
 | `4R4MNQ` | Química de Alimentos | doc |
 | `AWFUWK` | Química e Ingeniería en Materiales | doc |
 | `QE4UEL` | Química e Ingeniería en Materiales | doc |
+| `LX6WZD` | Química Farmacéutico Biológica | doc |
 | `6QTNCX` | Química Farmacéutico Biológica | doc |
 | `PA7FWF` | Química Farmacéutico Biológica | doc |
 | `X82MPH` | Química Farmacéutico Biológica | doc |
@@ -423,6 +424,7 @@
 | `8N24Z3` | Lengua y Literaturas Hispánicas | doc |
 | `LHVZE2` | Lengua y Literaturas Hispánicas | doc |
 | `4ZBCV9` | Lengua y Literaturas Hispánicas | doc |
+| `LMHY3H` | Lengua y Literaturas Hispánicas | doc |
 | `TVPG8X` | Lengua y Literaturas Modernas Francesas | doc |
 | `AB3MHG` | Lengua y Literaturas Modernas Francesas | doc |
 | `865U4C` | Lengua y Literaturas Modernas Francesas | doc |

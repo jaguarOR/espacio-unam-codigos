@@ -16,6 +16,7 @@
 | `4XAJYP` | DERECHO FES ACATLÁN/ GEN 2022 | doc |
 | `E92887` | DERECHO FES ACATLAN/ GEN 2026 | doc |
 | `AJ8KGJ` | Relaciones Internacionales/ GEN 2020 | doc |
+| `NKNAFP` | Relaciones Internacionales SUA/ GEN 2021 | doc |
 | `BASB5W` | Relaciones Internacionales SUA/ GEN 2021 | doc |
 | `RZ3FZJ` | Relaciones Internacionales SUA/ GEN 2021 | doc |
 | `VPRKQA` | DISEÑO Y COMUNICACIÓN VISUAL / FES Cuautitlán 2023 | doc |
@@ -83,6 +84,7 @@
 | `P7PAUD` | MÉDICO CIRUJANO / FES IZTACALA 2021 | doc |
 | `BELPYW` | 2020 | doc |
 | `T8VYDC` | / | doc |
+| `NKNAFP` | 2021 | doc |
 | `Y9DWP5` | 2026 | doc |
 | `J4QES4` | 2025 | doc |
 | `5SYS4J` | ARQUITECTURA CU 2020-2021 | doc |

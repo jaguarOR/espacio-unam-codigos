@@ -67,9 +67,9 @@
 | `JPLRZG` | Relaciones Internacionales | doc |
 | `XV6KAN` | Relaciones Internacionales | doc |
 | `EFJWGK` | Relaciones Internacionales | doc |
-| `78UUJ3` | Relaciones Internacionales | doc |
 | `VD522A` | Relaciones Internacionales | doc |
 | `AJ8KGJ` | Relaciones Internacionales | doc |
+| `NKNAFP` | Relaciones Internacionales SUAYED | doc |
 | `BASB5W` | Relaciones Internacionales SUAYED | doc |
 | `VD522A` | Relaciones Internacionales SUAYED | doc |
 | `46Q2KK` | Sociología | doc |

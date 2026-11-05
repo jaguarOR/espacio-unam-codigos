@@ -270,6 +270,7 @@
 | `WUJYVC` | Demián | doc |
 | `ETW2ZZ` | Denis | doc |
 | `6WGN6F` | Denisse | doc |
+| `NKNAFP` | Deniz | doc |
 | `6RQUDB` | Dennis | doc |
 | `E8QL98` | Derek | doc |
 | `JSDWQM` | Desireé | doc |
@@ -680,6 +681,7 @@
 | `BFFU5Q` | Magdalena | doc |
 | `A33PGG` | Maira | doc |
 | `6PHCHQ` | Maria | doc |
+| `MKMR38` | Mara | doc |
 | `GM5UZ6` | Maite | doc |
 | `5AGTU8` | Majetzi | doc |
 | `HMZ3AD` | Manuel | doc |
@@ -833,6 +835,7 @@
 | `47X28G` | Paola | doc |
 | `ZZ6AE3` | Paola | doc |
 | `C77D29` | Paris | doc |
+| `NKNAFP` | Patricia | doc |
 | `96DD2T` | Patricia | doc |
 | `HUM9FU` | Patricia | doc |
 | `9MQNWS` | Patricia | doc |
@@ -968,8 +971,10 @@
 | `5WQ587` | Victoria | doc |
 | `XH4JFV` | Vielka | doc |
 | `KLLK4N` | Viridiana | doc |
+| `LMHY3H` | Viridiana | doc |
 | `QDXBQ9` | Viviana | doc |
 | `QLDMEH` | Verónica | doc |
+| `LH4ZR3` | Valeria | doc |
 | `6MURMS` | Wendy - Williams | doc |
 | `M74RPM` | Wendy - Williams | doc |
 | `RPJXBK` | Wendy - Williams | doc |

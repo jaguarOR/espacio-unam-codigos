@@ -4,59 +4,59 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `G73Z9E` | ENERO | doc |
-| `JV4M3U` | ENERO | doc |
-| `BFFU5Q` | ENERO | doc |
-| `45KGQP` | ENERO | doc |
-| `4C7WHL` | ENERO | doc |
-| `DW7V8V` | ENERO | doc |
-| `LV3YJU` | ENERO | doc |
-| `NYSCU3` | ENERO | doc |
-| `62MWGU` | ENERO | doc |
-| `S785KG` | ENERO | doc |
-| `ZAZBK8` | ENERO | doc |
-| `MDTK49` | ENERO | doc |
-| `VQW8C2` | ENERO | doc |
-| `YA9M8A` | ENERO | doc |
-| `ZCDEZZ` | ENERO | doc |
-| `9DT2GX` | ENERO | doc |
-| `6S9FH3` | ENERO | doc |
-| `82M4TX` | ENERO | doc |
-| `Z9V8YJ` | ENERO | doc |
-| `E2N3KY` | ENERO | doc |
-| `ZR8YJF` | ENERO | doc |
-| `S5VEZU` | ENERO | doc |
-| `VVG2NM` | ENERO | doc |
-| `ESZSG5` | ENERO | doc |
-| `7SVT9D` | ENERO | doc |
-| `5QQJBV` | ENERO | doc |
-| `HPGXDE` | ENERO | doc |
-| `DBY6Z4` | ENERO | doc |
-| `Q2SZ3B` | ENERO | doc |
-| `BHJJJA` | ENERO | doc |
-| `EGV5ZC` | ENERO | doc |
-| `WGM2KG` | ENERO | doc |
-| `P3ZRE5` | ENERO | doc |
-| `9JUAP7` | ENERO | doc |
-| `URT7XH` | ENERO | doc |
-| `9R45UR` | ENERO | doc |
-| `H6RRFW` | ENERO | doc |
-| `B63GTY` | ENERO | doc |
-| `H7GEQM` | ENERO | doc |
-| `5D4C6P` | ENERO | doc |
-| `WRVUAF` | ENERO | doc |
-| `Z5K8S9` | ENERO | doc |
-| `CF4UBR` | ENERO | doc |
-| `KN6UYX` | ENERO | doc |
-| `56XQJ8` | ENERO | doc |
-| `W57TBG` | ENERO | doc |
-| `VVZKGP` | ENERO | doc |
-| `ZTAQVJ` | ENERO | doc |
-| `8NZHFL` | ENERO | doc |
-| `YY4XRF` | ENERO | doc |
-| `6QTNCX` | ENERO | doc |
-| `MQGWQZ` | ENERO | doc |
-| `U7GRLW` | ENERO | doc |
+| `G73Z9E` | ENERO NKNAFP | doc |
+| `JV4M3U` | ENERO NKNAFP | doc |
+| `BFFU5Q` | ENERO NKNAFP | doc |
+| `45KGQP` | ENERO NKNAFP | doc |
+| `4C7WHL` | ENERO NKNAFP | doc |
+| `DW7V8V` | ENERO NKNAFP | doc |
+| `LV3YJU` | ENERO NKNAFP | doc |
+| `NYSCU3` | ENERO NKNAFP | doc |
+| `62MWGU` | ENERO NKNAFP | doc |
+| `S785KG` | ENERO NKNAFP | doc |
+| `ZAZBK8` | ENERO NKNAFP | doc |
+| `MDTK49` | ENERO NKNAFP | doc |
+| `VQW8C2` | ENERO NKNAFP | doc |
+| `YA9M8A` | ENERO NKNAFP | doc |
+| `ZCDEZZ` | ENERO NKNAFP | doc |
+| `9DT2GX` | ENERO NKNAFP | doc |
+| `6S9FH3` | ENERO NKNAFP | doc |
+| `82M4TX` | ENERO NKNAFP | doc |
+| `Z9V8YJ` | ENERO NKNAFP | doc |
+| `E2N3KY` | ENERO NKNAFP | doc |
+| `ZR8YJF` | ENERO NKNAFP | doc |
+| `S5VEZU` | ENERO NKNAFP | doc |
+| `VVG2NM` | ENERO NKNAFP | doc |
+| `ESZSG5` | ENERO NKNAFP | doc |
+| `7SVT9D` | ENERO NKNAFP | doc |
+| `5QQJBV` | ENERO NKNAFP | doc |
+| `HPGXDE` | ENERO NKNAFP | doc |
+| `DBY6Z4` | ENERO NKNAFP | doc |
+| `Q2SZ3B` | ENERO NKNAFP | doc |
+| `BHJJJA` | ENERO NKNAFP | doc |
+| `EGV5ZC` | ENERO NKNAFP | doc |
+| `WGM2KG` | ENERO NKNAFP | doc |
+| `P3ZRE5` | ENERO NKNAFP | doc |
+| `9JUAP7` | ENERO NKNAFP | doc |
+| `URT7XH` | ENERO NKNAFP | doc |
+| `9R45UR` | ENERO NKNAFP | doc |
+| `H6RRFW` | ENERO NKNAFP | doc |
+| `B63GTY` | ENERO NKNAFP | doc |
+| `H7GEQM` | ENERO NKNAFP | doc |
+| `5D4C6P` | ENERO NKNAFP | doc |
+| `WRVUAF` | ENERO NKNAFP | doc |
+| `Z5K8S9` | ENERO NKNAFP | doc |
+| `CF4UBR` | ENERO NKNAFP | doc |
+| `KN6UYX` | ENERO NKNAFP | doc |
+| `56XQJ8` | ENERO NKNAFP | doc |
+| `W57TBG` | ENERO NKNAFP | doc |
+| `VVZKGP` | ENERO NKNAFP | doc |
+| `ZTAQVJ` | ENERO NKNAFP | doc |
+| `8NZHFL` | ENERO NKNAFP | doc |
+| `YY4XRF` | ENERO NKNAFP | doc |
+| `6QTNCX` | ENERO NKNAFP | doc |
+| `MQGWQZ` | ENERO NKNAFP | doc |
+| `U7GRLW` | ENERO NKNAFP | doc |
 | `6CRCR2` | FEBRERO | doc |
 | `GTTYS2` | FEBRERO | doc |
 | `GFE3DQ` | FEBRERO | doc |
@@ -654,6 +654,7 @@
 | `A3WLU9` | Oaxaca | doc |
 | `FNXSDN` | Oaxaca | doc |
 | `X4WFYP` | Oaxaca | doc |
+| `NKNAFP` | Puebla | doc |
 | `TVPG8X` | Puebla | doc |
 | `FYZLQT` | Puebla | doc |
 | `7Y9LVV` | Puebla | doc |
