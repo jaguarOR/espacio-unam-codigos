@@ -453,6 +453,7 @@
 | `T7XCPM` | NOVIEMBRE | doc |
 | `J6VTDU` | NOVIEMBRE | doc |
 | `DK66GK` | NOVIEMBRE | doc |
+| `AVJUJF` | NOVIEMBRE | doc |
 | `RGUKR3` | DICIEMBRE | doc |
 | `Y6352H` | DICIEMBRE | doc |
 | `UU6VPQ` | DICIEMBRE | doc |
@@ -581,6 +582,7 @@
 | `9ASR8W` | Durango | doc |
 | `VUELXG` | Durango | doc |
 | `VG39JT` | RJ863WSSGKMT | doc |
+| `KZUHQL` | Estado de México | doc |
 | `E7MD3K` | Estado de México | doc |
 | `6CRCR2` | Estado de México | doc |
 | `JV4M3U` | Estado de México | doc |
@@ -649,7 +651,9 @@
 | `3C9YXF` | Nuevo León | doc |
 | `UQQGXT` | Oaxaca | doc |
 | `5VFXAG` | Oaxaca | doc |
+| `A3WLU9` | Oaxaca | doc |
 | `FNXSDN` | Oaxaca | doc |
+| `X4WFYP` | Oaxaca | doc |
 | `TVPG8X` | Puebla | doc |
 | `FYZLQT` | Puebla | doc |
 | `7Y9LVV` | Puebla | doc |

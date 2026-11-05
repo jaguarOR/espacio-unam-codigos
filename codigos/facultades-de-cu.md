@@ -379,6 +379,7 @@
 | `T3CJMF` | Química Farmacéutico Biológica | doc |
 | `JQAF7Q` | Química Farmacéutico Biológica | doc |
 | `4QY6A9` | Química Farmacéutico Biológica | doc |
+| `GNTMN6` | Química Farmacéutico Biológica | doc |
 | `K9W559` | Química Industrial | doc |
 | `3PXTU2` | Trabajo Social | doc |
 | `DNLR3P` | Trabajo Social | doc |
@@ -450,6 +451,7 @@
 | `JUDSPC` | Pedagogía | doc |
 | `Z5KZQ5` | Pedagogía | doc |
 | `QDXBQ9` | Pedagogía | doc |
+| `KZUHQL` | Pedagogía | doc |
 | `6XMXC5` | Lengua y literaturas Hispanicas SUAYED | doc |
 | `9MVBUH` | Lengua y literaturas Hispanicas SUAYED | doc |
 | `8N24Z3` | Lengua y literaturas Hispanicas SUAYED | doc |
@@ -603,7 +605,6 @@
 | `L8GE4V` | Artes Visuales | doc |
 | `W3ZPUK` | Artes Visuales | doc |
 | `RANETR` | Artes Visuales | doc |
-| `C6J3MN` | Diseño y Comunicación Visual | doc |
 | `3EADS3` | Diseño y Comunicación Visual | doc |
 | `WMWPYR` | Diseño y Comunicación Visual | doc |
 | `J8LGHK` | Diseño y Comunicación Visual | doc |

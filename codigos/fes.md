@@ -240,14 +240,14 @@
 | `AV5UAQ` | Diseño y Visual | doc |
 | `6HAJFC` | Diseño y Visual | doc |
 | `3EMQCQ` | Diseño y Visual | doc |
-| `VPRKQA` | diseño y visual suayed | doc |
-| `99MYX7` | diseño y visual suayed | doc |
-| `LHDWAY` | diseño y visual suayed | doc |
-| `CC2JVA` | diseño y visual suayed | doc |
-| `KBCGJE` | diseño y visual suayed | doc |
-| `V6ZKQ8` | diseño y visual suayed | doc |
-| `4TYNFK` | diseño y visual suayed | doc |
-| `VK7DPU` | diseño y visual suayed | doc |
+| `VPRKQA` | d iseño y visual suayed | doc |
+| `99MYX7` | d iseño y visual suayed | doc |
+| `LHDWAY` | d iseño y visual suayed | doc |
+| `CC2JVA` | d iseño y visual suayed | doc |
+| `KBCGJE` | d iseño y visual suayed | doc |
+| `V6ZKQ8` | d iseño y visual suayed | doc |
+| `4TYNFK` | d iseño y visual suayed | doc |
+| `VK7DPU` | d iseño y visual suayed | doc |
 | `CBU3CE` | Ingeniería Mecánica Eléctrica | doc |
 | `A33PGG` | Ingeniería Mecánica Eléctrica | doc |
 | `TSG2P2` | Ingeniería Mecánica Eléctrica | doc |
@@ -417,6 +417,7 @@
 | `T7EPF6` | Desarrollo Comunitario para el Envejecimiento | doc |
 | `EUSGCL` | Enfermería | doc |
 | `PAAFWE` | Enfermería | doc |
+| `3RX6LZ` | Enfermería | doc |
 | `G5GKTE` | Enfermería y Obstetricia | doc |
 | `4BJ4EV` | Ingeniería Química | doc |
 | `S5G28G` | Ingeniería Química | doc |

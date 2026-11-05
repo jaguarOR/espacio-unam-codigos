@@ -433,6 +433,7 @@
 | `5KBMKG` | Jacinto | doc |
 | `BBVWWW` | Jácome | doc |
 | `DEUE26` | Jacobo | doc |
+| `KZUHQL` | Jaime | doc |
 | `YATFRA` | Jaimez | doc |
 | `VVXVRV` | Jahuey | doc |
 | `J6VTDU` | Janetzy | doc |
@@ -611,10 +612,9 @@
 | `ZJJYZU` | Moras | doc |
 | `8T9YUR` | Moran | doc |
 | `YJTX7G` | Moral | doc |
-| `8GUZQ5` | Moreno | doc |
-| `K7AFKF` | Moreno | doc |
-| `V6ZKQ8` | Moreno | doc |
-| `LXYBNV` | Moreno | doc |
+| `K7AFKF` | 68GUZQ5 | doc |
+| `V6ZKQ8` | 68GUZQ5 | doc |
+| `LXYBNV` | 68GUZQ5 | doc |
 | `VJWGJX` | Morcillo | doc |
 | `L3CJV6` | Morteo | doc |
 | `VQW8C2` | Motte | doc |
@@ -662,6 +662,8 @@
 | `T827MU` | Osorio | doc |
 | `NWG754` | Osorio | doc |
 | `X4WFYP` | Ordaz | doc |
+| `A3WLU9` | Ordaz | doc |
+| `QVC32M` | Ordaz | doc |
 | `FBTPB7` | Obispo | doc |
 | `53JT8P` | Ordoñez | doc |
 | `E22JQT` | Ornelas | doc |
