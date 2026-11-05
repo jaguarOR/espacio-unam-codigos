@@ -285,7 +285,6 @@
 | `VUGKWY` | Farmacia | doc |
 | `VBL7L6` | Farmacia | doc |
 | `K9W559` | Química Industrial | doc |
-| `N3MF6K` | Química Industrial | doc |
 | `FTJ9YB` | Química Industrial | doc |
 | `HFAAS9` | Ingeniería En Alimentos | doc |
 | `985XKC` | Ingeniería En Alimentos | doc |
@@ -398,6 +397,7 @@
 | `BELPYW` | Médico Cirujano | doc |
 | `Y9DWP5` | Médico Cirujano | doc |
 | `WHRPQ7` | Médico Cirujano | doc |
+| `7D3VH8` | Médico Cirujano | doc |
 | `BKY7PY` | Psicología | doc |
 | `3ZQQKP` | Psicología | doc |
 | `TE86WP` | Psicología | doc |

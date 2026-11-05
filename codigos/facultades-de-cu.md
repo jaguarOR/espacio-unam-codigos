@@ -6,6 +6,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
+| `F5554F` | Actuaría | doc |
 | `KDRM9K` | Actuaría | doc |
 | `DD8TMC` | Actuaría | doc |
 | `GMXC4A` | Actuaría | doc |
@@ -241,6 +242,8 @@
 | `YB7DRB` | Investigación Biomédica Básica | doc |
 | `QKQC8H` | Investigación Biomédica Básica | doc |
 | `S7H7BF` | Investigación Biomédica Básica | doc |
+| `E7METL` | Médico Cirujano | doc |
+| `ELGLPY` | Médico Cirujano | doc |
 | `DH5LMV` | Médico Cirujano | doc |
 | `KVJNQD` | Médico Cirujano | doc |
 | `NU9ED2` | Médico Cirujano | doc |
@@ -389,6 +392,7 @@
 | `UGW46F` | V | doc |
 | `M7B54S` | V | doc |
 | `ZAX4D8` | V | doc |
+| `N9FPUH` | V | doc |
 | `FYZLQT` | Trabajo Social SUAyED | doc |
 | `D58HBT` | Trabajo Social SUAyED | doc |
 | `X4XHYB` | Trabajo Social SUAyED | doc |
@@ -558,6 +562,7 @@
 | `VBDF4E` | Administración | doc |
 | `FFWLPX` | Administración | doc |
 | `HL67XM` | Administración | doc |
+| `U8C9G3` | Administración | doc |
 | `FZC5EB` | Administración SUAYED a distancia | doc |
 | `UVJ83P` | Administración SUAYED a distancia | doc |
 | `DVW383` | Contaduría | doc |
@@ -766,6 +771,7 @@
 | `QV68T9` | Cirujano Dentista | doc |
 | `5AGTU8` | Cirujano Dentista | doc |
 | `W6X339` | Cirujano Dentista | doc |
+| `8GVP6J` | Cirujano Dentista | doc |
 | `C73DE3` | Odontologia | doc |
 | `9R45UR` | Odontologia | doc |
 

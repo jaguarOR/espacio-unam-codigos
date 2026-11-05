@@ -142,7 +142,6 @@ W7PL3L,ENES,ENES Juriquilla,Negocios Internacionales
 PMATBR,ENES,ENES Morelia,Geociencias
 6TABQR,ENES,ENES Morelia,Tecnologías para la Información en ciencias
 58ZH4F,ENES,ENES Morelia,Ciencias Ambientales
-G5ZJ2S,ENES,ENES Morelia,Estudios Sociales y Gestión Local
 HL67XM,ENES,ENES Morelia,Administración
 2C99TJ,ENES,ENES Morelia,Administración
 WA2DEC,ENES,ENES Morelia,Administración de Archivos y Gestión Documental
@@ -152,7 +151,6 @@ TPKQ9B,ENES,ENES Morelia,Arte y Diseño
 PW5KSH,ENES,ENES Morelia,Arte y Diseño
 RNQ5GZ,ENES,ENES Morelia,Geohistoria
 SYCLSN,ENES,ENES Morelia,Historia del Arte
-5NT3GR,ENES,ENES Morelia,Historia del Arte
 U58UYF,ENES,ENES Morelia,Literatura Intercultural
 N3APR4,ENES,ENES Morelia,Ciencias Agroforestales
 ZL5WRA,ENES,ENES Oaxaca,Administración
@@ -443,7 +441,6 @@ XAYS2Y,FES,FES Cuautitlán,Ingeniería química
 VUGKWY,FES,FES Cuautitlán,Farmacia
 VBL7L6,FES,FES Cuautitlán,Farmacia
 K9W559,FES,FES Cuautitlán,Química Industrial
-N3MF6K,FES,FES Cuautitlán,Química Industrial
 FTJ9YB,FES,FES Cuautitlán,Química Industrial
 HFAAS9,FES,FES Cuautitlán,Ingeniería En Alimentos
 985XKC,FES,FES Cuautitlán,Ingeniería En Alimentos
@@ -543,6 +540,7 @@ T8VYDC,FES,FES Zaragoza,Médico Cirujano
 BELPYW,FES,FES Zaragoza,Médico Cirujano
 Y9DWP5,FES,FES Zaragoza,Médico Cirujano
 WHRPQ7,FES,FES Zaragoza,Médico Cirujano
+7D3VH8,FES,FES Zaragoza,Médico Cirujano
 BKY7PY,FES,FES Zaragoza,Psicología
 3ZQQKP,FES,FES Zaragoza,Psicología
 TE86WP,FES,FES Zaragoza,Psicología
@@ -591,6 +589,7 @@ LDJN7P,FES,FES Zaragoza,Cirujano dentista
 QQN4JV,FES,FES Zaragoza,Cirujano dentista
 MTW6EY,FES,FES Zaragoza,Cirujano dentista
 AARUZQ,FES,FES Zaragoza,Cirujano dentista
+F5554F,Facultades de CU,Facultad de Ciencias,Actuaría
 KDRM9K,Facultades de CU,Facultad de Ciencias,Actuaría
 DD8TMC,Facultades de CU,Facultad de Ciencias,Actuaría
 GMXC4A,Facultades de CU,Facultad de Ciencias,Actuaría
@@ -809,6 +808,8 @@ UB6DHX,Facultades de CU,Facultad de Medicina,Fisioterapia
 YB7DRB,Facultades de CU,Facultad de Medicina,Investigación Biomédica Básica
 QKQC8H,Facultades de CU,Facultad de Medicina,Investigación Biomédica Básica
 S7H7BF,Facultades de CU,Facultad de Medicina,Investigación Biomédica Básica
+E7METL,Facultades de CU,Facultad de Medicina,Médico Cirujano
+ELGLPY,Facultades de CU,Facultad de Medicina,Médico Cirujano
 DH5LMV,Facultades de CU,Facultad de Medicina,Médico Cirujano
 KVJNQD,Facultades de CU,Facultad de Medicina,Médico Cirujano
 NU9ED2,Facultades de CU,Facultad de Medicina,Médico Cirujano
@@ -941,6 +942,7 @@ H5MYK4,Facultades de CU,Facultad de Química,V
 UGW46F,Facultades de CU,Facultad de Química,V
 M7B54S,Facultades de CU,Facultad de Química,V
 ZAX4D8,Facultades de CU,Facultad de Química,V
+N9FPUH,Facultades de CU,Facultad de Química,V
 FYZLQT,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
 D58HBT,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
 X4XHYB,Facultades de CU,Facultad de Química,Trabajo Social SUAyED
@@ -1095,6 +1097,7 @@ YPHDQH,Facultades de CU,Facultad de Contaduría y Administración,Administració
 VBDF4E,Facultades de CU,Facultad de Contaduría y Administración,Administración
 FFWLPX,Facultades de CU,Facultad de Contaduría y Administración,Administración
 HL67XM,Facultades de CU,Facultad de Contaduría y Administración,Administración
+U8C9G3,Facultades de CU,Facultad de Contaduría y Administración,Administración
 FZC5EB,Facultades de CU,Facultad de Contaduría y Administración,Administración SUAYED a distancia
 UVJ83P,Facultades de CU,Facultad de Contaduría y Administración,Administración SUAYED a distancia
 DVW383,Facultades de CU,Facultad de Contaduría y Administración,Contaduría
@@ -1277,6 +1280,7 @@ GL8ETS,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 QV68T9,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 5AGTU8,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 W6X339,Facultades de CU,Facultad de Odontología,Cirujano Dentista
+8GVP6J,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 C73DE3,Facultades de CU,Facultad de Odontología,Odontologia
 9R45UR,Facultades de CU,Facultad de Odontología,Odontologia
 ZGPKFJ,Escuelas nacionales y otras entidades,Escuela Nacional de Ciencias de la Tierra,Ciencia de la Tierra: v
@@ -1303,6 +1307,7 @@ XCWUT3,Escuelas nacionales y otras entidades,IIMAS (Instituto de Investigaciones
 TF5R49,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Traducción
 UBXD7M,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Traducción
 ABHZXJ,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Traducción
+33TFQ9,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Traducción
 7JA7UX,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Lingüística Aplicada
 KSQA7Y,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Lingüística Aplicada
 LH2NV7,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Lingüística Aplicada
@@ -1938,6 +1943,7 @@ GDEP4Z,Tocayo,,Laura
 N3MF6K,Tocayo,,Laura
 Q6UC7G,Tocayo,,Laura
 HTZ424,Tocayo,,Laura
+ELGLPY,Tocayo,,Laura
 FED72D,Tocayo,,Legna
 ENP68N,Tocayo,,Leilany
 NGP3Q4,Tocayo,,Lenin
@@ -1988,6 +1994,7 @@ DQ7HBE,Tocayo,,Luz
 JYEF89,Tocayo,,Magali
 BFFU5Q,Tocayo,,Magdalena
 A33PGG,Tocayo,,Maira
+ELGLPY,Tocayo,,Margarita
 6PHCHQ,Tocayo,,Maria
 MKMR38,Tocayo,,Mara
 GM5UZ6,Tocayo,,Maite
@@ -2265,6 +2272,7 @@ R5QWA8,Tocayo,,Valeria
 HXNPTW,Tocayo,,Valeria
 2C99TJ,Tocayo,,Valeria
 FENCHJ,Tocayo,,Valeria
+LH4ZR3,Tocayo,,Valeria
 FUEQZD,Tocayo,,Valentina
 BGBH9J,Tocayo,,Vanessa
 XBR3NR,Tocayo,,Vanessa
@@ -2282,7 +2290,6 @@ KLLK4N,Tocayo,,Viridiana
 LMHY3H,Tocayo,,Viridiana
 QDXBQ9,Tocayo,,Viviana
 QLDMEH,Tocayo,,Verónica
-LH4ZR3,Tocayo,,Valeria
 6MURMS,Tocayo,,Wendy - Williams
 M74RPM,Tocayo,,Wendy - Williams
 RPJXBK,Tocayo,,Wendy - Williams
@@ -2808,6 +2815,7 @@ Z6NQMM,Casi familia,,Lagunas
 XLB7Z2,Casi familia,,Landa
 QFJ94L,Casi familia,,Landeros
 ZAX4D8,Casi familia,,Landeros
+ELGLPY,Casi familia,,Lara
 QR4PLZ,Casi familia,,Lara
 Z5KZQ5,Casi familia,,Larios
 4BDJKK,Casi familia,,Laureano
@@ -2961,9 +2969,10 @@ UGVD3C,Casi familia,,Mora
 ZJJYZU,Casi familia,,Moras
 8T9YUR,Casi familia,,Moran
 YJTX7G,Casi familia,,Moral
-K7AFKF,Casi familia,,68GUZQ5
-V6ZKQ8,Casi familia,,68GUZQ5
-LXYBNV,Casi familia,,68GUZQ5
+8GUZQ5,Casi familia,,Moreno
+K7AFKF,Casi familia,,Moreno
+V6ZKQ8,Casi familia,,Moreno
+LXYBNV,Casi familia,,Moreno
 VJWGJX,Casi familia,,Morcillo
 L3CJV6,Casi familia,,Morteo
 VQW8C2,Casi familia,,Motte
@@ -3012,7 +3021,6 @@ T827MU,Casi familia,,Osorio
 NWG754,Casi familia,,Osorio
 X4WFYP,Casi familia,,Ordaz
 A3WLU9,Casi familia,,Ordaz
-QVC32M,Casi familia,,Ordaz
 FBTPB7,Casi familia,,Obispo
 53JT8P,Casi familia,,Ordoñez
 E22JQT,Casi familia,,Ornelas
@@ -3795,7 +3803,6 @@ J6VTDU,Pastel compartido,,NOVIEMBRE
 DK66GK,Pastel compartido,,NOVIEMBRE
 AVJUJF,Pastel compartido,,NOVIEMBRE
 RGUKR3,Pastel compartido,,DICIEMBRE
-Y6352H,Pastel compartido,,DICIEMBRE
 UU6VPQ,Pastel compartido,,DICIEMBRE
 XJWH5V,Pastel compartido,,DICIEMBRE
 MNM229,Pastel compartido,,DICIEMBRE
@@ -4017,6 +4024,7 @@ CBU3CE,Pastel compartido,,Tamaulipas
 4G7JK7,Pastel compartido,,Tlaxcala
 P3ZRE5,Pastel compartido,,Tlaxcala
 9KPM49,Pastel compartido,,Tlaxcala
+LM2U7L,Pastel compartido,,Veracruz
 DH3XJL,Pastel compartido,,Veracruz
 CZ32GG,Pastel compartido,,Veracruz
 N8UE5V,Pastel compartido,,Veracruz
@@ -4238,6 +4246,7 @@ GTYWRN,Casi gemelos,Marzo,27
 57EYLG,Casi gemelos,Marzo,31
 GA7BM5,Casi gemelos,Marzo,31
 RR6U5D,Casi gemelos,Marzo,1
+V58MF3,Casi gemelos,Marzo,2
 AJ8KGJ,Casi gemelos,Marzo,3
 6A43KN,Casi gemelos,Marzo,3
 3LX4CZ,Casi gemelos,Marzo,4
@@ -4268,6 +4277,7 @@ C4CR5W,Casi gemelos,Marzo,20
 YATFRA,Casi gemelos,Marzo,21
 CEB2F7,Casi gemelos,Marzo,21
 9VVQ6V,Casi gemelos,Marzo,21
+8PAUA9,Casi gemelos,Marzo,22
 FTE4UJ,Casi gemelos,Marzo,23
 NSZV7K,Casi gemelos,Marzo,26
 4DB2PC,Casi gemelos,Marzo,26

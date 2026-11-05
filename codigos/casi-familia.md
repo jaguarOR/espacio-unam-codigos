@@ -461,6 +461,7 @@
 | `XLB7Z2` | Landa | doc |
 | `QFJ94L` | Landeros | doc |
 | `ZAX4D8` | Landeros | doc |
+| `ELGLPY` | Lara | doc |
 | `QR4PLZ` | Lara | doc |
 | `Z5KZQ5` | Larios | doc |
 | `4BDJKK` | Laureano | doc |
@@ -614,9 +615,10 @@
 | `ZJJYZU` | Moras | doc |
 | `8T9YUR` | Moran | doc |
 | `YJTX7G` | Moral | doc |
-| `K7AFKF` | 68GUZQ5 | doc |
-| `V6ZKQ8` | 68GUZQ5 | doc |
-| `LXYBNV` | 68GUZQ5 | doc |
+| `8GUZQ5` | Moreno | doc |
+| `K7AFKF` | Moreno | doc |
+| `V6ZKQ8` | Moreno | doc |
+| `LXYBNV` | Moreno | doc |
 | `VJWGJX` | Morcillo | doc |
 | `L3CJV6` | Morteo | doc |
 | `VQW8C2` | Motte | doc |
@@ -665,7 +667,6 @@
 | `NWG754` | Osorio | doc |
 | `X4WFYP` | Ordaz | doc |
 | `A3WLU9` | Ordaz | doc |
-| `QVC32M` | Ordaz | doc |
 | `FBTPB7` | Obispo | doc |
 | `53JT8P` | Ordoñez | doc |
 | `E22JQT` | Ornelas | doc |

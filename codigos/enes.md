@@ -101,7 +101,6 @@
 | `PMATBR` | Geociencias | doc |
 | `6TABQR` | Tecnologías para la Información en ciencias | doc |
 | `58ZH4F` | Ciencias Ambientales | doc |
-| `G5ZJ2S` | Estudios Sociales y Gestión Local | doc |
 | `HL67XM` | Administración | doc |
 | `2C99TJ` | Administración | doc |
 | `WA2DEC` | Administración de Archivos y Gestión Documental | doc |
@@ -111,7 +110,6 @@
 | `PW5KSH` | Arte y Diseño | doc |
 | `RNQ5GZ` | Geohistoria | doc |
 | `SYCLSN` | Historia del Arte | doc |
-| `5NT3GR` | Historia del Arte | doc |
 | `U58UYF` | Literatura Intercultural | doc |
 | `N3APR4` | Ciencias Agroforestales | doc |
 
