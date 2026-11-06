@@ -162,6 +162,10 @@
 **3AKJEE**
 Este código es del mero mero, del jefazo (el creador de Espacio UNAM) les da medalla secreta ahhhh atte. Runix 🫰🏻
 
+**T0M43ST0**
+
+**Noviembre**
+
 **T3NAZ7**
 Otro código secreto, se premia nuestra perseverancia.
 
@@ -418,13 +422,16 @@ Para los Leopardos, la mascota que ruge por la Prepa 8 «Miguel E. Schulz». Ide
 Para los Coyotes, emblema y equipos de la Prepa 6 «Antonio Caso» en Coyoacán. Idea de Raúl Coronado, Elías Macotela, Amos Vega y más. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **0SC4R**
-Para Alfonso Cuarón y Emmanuel Lubezki, que estudiaron cine en la UNAM y ganaron el Óscar. Idea de Dylan, Denis, Frida Sabina y Letizia. Medalla secreta.
+Para Alfonso Cuarón y Emmanuel Lubezki, que estudiaron  cine en la UNAM y ganaron el Óscar. Idea de Dylan, Denis, Frida Sabina y Letizia. Medalla secreta.
 
 **DG1R3**
 Para la comunidad del Sistema Incorporado: preparatorias, CCH y licenciaturas incorporadas que también son parte de la UNAM. Idea de Mariana Celeste. Medalla secreta.
 
 **CH4Y0**
 Para Rosario Castellanos, escritora que estudió en la Facultad de Filosofía y Letras. Serie «Mujeres que hicieron la UNAM». Idea de Alejandra.
+
+**K4R1M**
+Para Karim, el gatito que adoptó la comunidad de la ENaCiF. Idea de Hashli, Ángel Daniel, Gabriela y Jeon. Serie "Mascotas de mi escuela". Medalla secreta.
 
 **B3T1T0**
 Para Betito, el capibara mascota cultural de la Facultad de Ingeniería. Idea de Emanuel Escobar y Andrea Rosales. Serie «Mascotas de mi escuela». Medalla secreta.
@@ -898,6 +905,10 @@ Azul y oro en el emparrillado: para el equipo de fútbol americano Pumas CU, par
 **1GU1N1Z**
 Para Juan Bautista Iguíniz Vizcaíno, pionero de la bibliotecología en México: fundó la carrera de Biblioteconomía en la Facultad de Filosofía y Letras y dirigió la Biblioteca Nacional. Idea de Ángel. Serie «Personajes de la UNAM». Medalla secreta.
 
+**T0M43ST0**
+
+Toma esto\! Para quienes crecieron con un control en la mano, una espada de madera y un mundo enorme por explorar: para los videojuegos que nos dieron infancia, las tardes de aventura, los cofres que se abrían con música y las mazmorras que nos enseñaron a no rendirnos. Su código solo despierta en noviembre de 2026\. Medalla ultrarrara.
+
 ¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta
@@ -1130,7 +1141,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Ingeniería en Computación:**  YLA386
 
-**Biología:** UEZKHZ
+**Biología:**
 
 **Ciencias ambientales:**
 
@@ -1166,7 +1177,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Comunicación:** 6CRCR2**,** Q2SZ3B, KBXVYT, UCHESZ, KMHUFX, BTV8F2, X8HHE5, DAYASH, N7AA4Q
 
-**Derecho:** ACZ97F, 6PHCHQ, 7Z9MNW, ZZ6AE3, APSHVP, XEJ383, Q8294S, METDCV, CY5CX8, E92887, XHYP6B, 62CSXD, VVQGNR
+**Derecho: N9UZZA,** ACZ97F, 6PHCHQ, 7Z9MNW, ZZ6AE3, APSHVP, XEJ383, Q8294S, METDCV, CY5CX8, E92887, XHYP6B, 62CSXD, VVQGNR
 
 **Derecho sua:** MP7Y6M, 6S9FH3
 
@@ -1230,7 +1241,7 @@ Ingeniería **Industrial:**Z6NQMM, NSZWUK,JF5XLG, Y9TEP9, M2UHSN
 
 **Ingeniería Mecánica:** 88RTJY, LV3YJU, EBKL2G, JPYYZ2, PZBGYV, Q25JJU, 6DT6SY , RVDYNM, W9THGT
 
-**Relaciones Internacionales:** F2AYJ4, A6QH5Y, MZA7HY, 8AH8Y9, 2UAYY2, 3PPWQ5
+**Relaciones Internacionales:** F2AYJ4, A6QH5Y, MZA7HY, 8AH8Y9, 2UAYY2, 3PPWQ5,8XCFFV
 
 **Sociología:** B32HHM
 
@@ -1260,7 +1271,7 @@ Medicina Veterinaria y Zootecnia: **DJPT7S**, **45KGQP,** **4NHT3T, BNMEKR**,**Z
 
 Química: **YA8C2Q, V4LUEE,  B9ELGM, F3WH5B**
 
-Bioquímica Diagnóstica:**JL85MQ,** **ALKPT3, 2WFKWY, P8AEN8, WNP6JM, GVT6M9**
+Bioquímica Diagnóstica:**JL85MQ,** **ALKPT3, 2WFKWY, P8AEN8, WNP6JM, GVT6M9, TDZD9Y**
 
 Tecnología:
 
@@ -1410,7 +1421,7 @@ Fisioterapia: **LRYEUK, 3TGEAC, G9HCLW, UB6DHX**
 
 Investigación Biomédica Básica:  **YB7DRB, QKQC8H, S7H7BF**
 
-Médico Cirujano: E7METL, **ELGLPY**, **DH5LMV, KVJNQD,**  **NU9ED2, NN2BAN, HXNPTW, 8VA22G, 8B7XR6, H97KQ2, XB4HM4, Z5B27L, UL6QXT, J4QES4, ZV7JT3, 6NFGQN,VVG2NM, 8YFL8T, FHTEF8, DBY6Z4  NMMG83, 8RYZLX, ZWB5GG, BVX339, SHYLDR, GNPVXS, AX92JQ, GTMTH9, HLTR92, BTJWYA, 37SGX9, S6YQL2, 6GKXF9, BBHUBB, V9RX8Z**
+Médico Cirujano: E7METL, **ELGLPY**, **DH5LMV, KVJNQD,**  **NU9ED2, NN2BAN, HXNPTW, 8VA22G, 8B7XR6, H97KQ2, XB4HM4, Z5B27L, UL6QXT, J4QES4, ZV7JT3, 6NFGQN,VVG2NM, 8YFL8T, FHTEF8, DBY6Z4  NMMG83, 8RYZLX, ZWB5GG, BVX339, SHYLDR, GNPVXS, AX92JQ, GTMTH9, HLTR92, BTJWYA, 37SGX9, S6YQL2, 6GKXF9, BBHUBB, V9RX8Z, PNXKWW**
 
 Neuro: **S6K38H**, **U7FQVT,** CSSVLE
 
@@ -1472,11 +1483,11 @@ Estudios sociales y gestión local: **G5ZJ2S**
 
 Bibliotecología y Estudios de la Información: **A7YU5R, ZG5ZBZ, C44NTV, 57EYLG, RZT3LL**
 
-Administración de Archivos y Gestión Documental: **M33DPN,**
+Administración de Archivos y Gestión ***Documental***: **M33DPN,**
 
 Filosofía:, **5DV4P9**, **9JURAL, KJFPHV, AFV9RM**
 
-Geografía: **6YLFPN, 3SCR3U, 3W637B,  , XTEKTV, H6F4BA, G4K6JE,**
+Geografía: **6YLFPN, 6YLFPN, 3W637B,  , XTEKTV, H6F4BA, G4K6JE,**
 
 Lengua y Literaturas Hispánicas: **VNMPZ9,** **2B9BEB, MD2YTA, CWFTUP, 8N24Z3, LHVZE2, 4ZBCV9, LMHY3H**
 
@@ -1518,7 +1529,7 @@ Políticas y Administración Pública: **EBAGVV**, **UWTZBJ**, **XH2446, ZTKJWR,
 
 Relaciones Internacionales **6DULNS**,  **NK254K, S7HWRK, E8S6NE, ADBZNZ, DSWH9X, 2FB5UB, JYEF89, QAN9U2, VD522A(sua)**
 
-Sociología: **BJ4SN6, S5Y4U2, SPN24H, UH9C9E, UJZHQQ, 2Q2JR9, 78WFBX**
+S**o**ciología: **BJ4SN6, S5Y4U2,** SPN24H**, UH9C9E, UJZHQQ, 2Q2JR9, 78WFBX**
 
 Ciencias Políticas y AP A DISTANCIA NUEVO INGRESO: **V7QEMW**
 
@@ -1528,10 +1539,10 @@ Ciencias de la Comunicación (SUAyED): **75CQF3, XSLEPM, VFL56D, BHJJJA, DFTXBL*
 
 ### ***Facultad de Contaduría y Administración*** {#facultad-de-contaduría-y-administración}
 
-Administración: 9MEAAP, YPHDQH,  **9ZP2AZ, VBDF4E, FFWLPX, HL67XM U8C9G3**
+Administración: 9MEAAP, YPHDQH,  **9ZP2AZ, VBDF4E, , HL67XM U8C9G3**
 Administración SUAYED a distancia: **FZC5EB, UVJ83P**
 
-Contaduría: **DVW383**, **4TB6ZC**, **3C5MX2, N54J7V, ZMY6X9, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, LH9W8W, ZTAQVJ, 2M5L75**
+**FFWLPX**Contaduría: **DVW383**, **4TB6ZC**, **3C5MX2, N54J7V, ZMY6X9, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, LH9W8W, ZTAQVJ, 2M5L75**
 
 Informática: **2AAE5B,CDPCQC, H3WUX3**
 
@@ -1557,7 +1568,7 @@ Economia SUAyED**: S5VEZU, BHXKZL,42DDXA AGLLPJ, 4G7JK7, J6VTDU**
 
 ### ***Facultad de Derecho*** {#facultad-de-derecho}
 
-Derecho: **PBNGNC,** **QMDEAM**, **CF4UBR, MFCF6H, UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K**
+Derecho: **PBNGNC,** **QMDEAM**, **CF4UBR, MFCF6H, UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K, QMDEAM**
 
 Derecho SUAYED: **RVT6RY, 9ASR8W, 47BH5C, 74KTUS,  7UGZTJ, UU6VPQ, YFF678, 6S9FH3, CEB2F7, M8MRDM, XJ65S3, WGV9N9**
 
@@ -1609,7 +1620,9 @@ Lingüística Aplicada: **7JA7UX, , KSQA7Y, LH2NV7**
 
 ***CUT (Centro Universitario de Teatro)***
 
-Teatro y actuación: **DNX7NY** (*Centro de Nanos y Nano (Ensenada):*
+Teatro y actuación: **DNX7NY**
+
+ (*Centro de Nanos y Nano (Ensenada):*
 
 Nanotecnología: **c, BXCKLK**
 
@@ -1619,7 +1632,7 @@ Nanotecnología: **c, BXCKLK**
 
 Tecnología: CH2DGW
 
-### ***Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—PASENLOOOOO ES EL UNICO QUE FALTA PASENLO, ERA PARA AYER*** {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)-pasenlo-lo-borraron—pasenlooooo-es-el-unico-que-falta-pasenlo,-era-para-ayer}
+# Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—PASENLOOOOO ES EL UNICO QUE FALTA PASENLO, ERA PARA AYER {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)-pasenlo-lo-borraron—pasenlooooo-es-el-unico-que-falta-pasenlo,-era-para-ayer}
 
 ### **CIencias :**
 
@@ -1653,7 +1666,7 @@ YA NO LO BORREN
 | **B** |
 | HG6QQX \- **Barbara**  M8MRDM \- **Bárbara**  XKYNQ8 \- **Beatriz**  8MT3SY \- **Belem** LDJN7P **\- Belén**  42GEXU \- **Betzabeth** DGHY32, AWLR5V \- **Berenice** 73VSTT \- **Bersheva** E76VKM \- **Blanca** CYSVAV- **Brandon** D3NJY3, JTWXGC \- **Braulio** SLYBSD \- **Brayan** VZ36RJ, UU6VPQ, WW7T4K, 7FDNDL, TVPG8X- **Brenda** GKZCFU, 7BSNQB \- **Brian** XFX8U7 **\- Briana** UALS83 \- **Brigitte** KNM6SQ \- **Briseida** 2PFVA4, JNFJKW \- **Bruno** 668YW9 \- **Bryan** |
 | **C** |
-| BP23LR, EE55CC, 3MXTEL \- **Camila** QP8C79 \- **Catherine 2K9FK5 \- CALEB** FNXSDNNEKJCK \- **Carla** XVNKKN \- **Carlo** JHCABD, ACZ97F \- **Carlos** 5WZDUP, 78K5AB, KB5FFD \- **Carmen** GC6HKG, 46Q2KK \- **Carol** KQTXQ3, \- **Carolina** 6UQTGW \- **Casandra** DBUTNQ \- **Cassandra**  K6APFR \- **Cecilia** Z7BAJP \- **Celic** SBP82Q \- **César** 5P477Q , XJWH5V \- **Christian** METDCV \- **Christofer**  ZCZAKQ \- **Christopher**  \- **Cielo** HYSHQ5 \- **Cindy** LEH2JS \- **Citlali** NYHVEN \- **Citlalli** 4C7WHL \- **Citlalmina**  PQ2FWE, NWG754 \- **Claudia** HU9HCY, KFWUSC \- **Constanza** GHCDJB, X5S4VQ, TRAGDN \- **Cristal** SQMUC6 \- **Cristian** GRFFUL, 7TUCT5, 7P9WUS \- **Cristina**  YTVD9L **\- Crista** F5JCTS \- **Cynthia** RJ863T **\- Citlaly**  YQKYA4 \- **Cuauhtémoc**  |
+| BP23LR, EE55CC, 3MXTEL \- **Camila** QP8C79 \- **Catherine 2K9FK5 \- CALEB** FNXSDN NEKJCK \- **Carla** XVNKKN \- **Carlo** JHCABD, ACZ97F \- **Carlos** 5WZDUP, 78K5AB, KB5FFD \- **Carmen** GC6HKG, 46Q2KK \- **Carol** KQTXQ3, \- **Carolina** 6UQTGW \- **Casandra** DBUTNQ \- **Cassandra**  K6APFR \- **Cecilia** Z7BAJP \- **Celic** SBP82Q \- **César** 5P477Q , XJWH5V \- **Christian** METDCV \- **Christofer**  ZCZAKQ \- **Christopher**  \- **Cielo** HYSHQ5 \- **Cindy** LEH2JS \- **Citlali** NYHVEN \- **Citlalli** 4C7WHL \- **Citlalmina**  PQ2FWE, NWG754 \- **Claudia** HU9HCY, KFWUSC \- **Constanza** GHCDJB, X5S4VQ, TRAGDN \- **Cristal** SQMUC6 \- **Cristian** GRFFUL, 7TUCT5, 7P9WUS \- **Cristina**  YTVD9L **\- Crista** F5JCTS \- **Cynthia** RJ863T **\- Citlaly**  YQKYA4 \- **Cuauhtémoc**  |
 | **D** |
 | VVG2NM \- **Dafne 3PPWQ5 \- Daphne** ESNV5Y \- **Dalí**  RWSHM3, KLVKPA  \- **Dalia** 36562B \- **Damaris** AQQ37Y \- **Damian**  VVXVRV \- **Dana**  JWZJ9R  \- **Danae**  VKVDLU \- **Danna** D34KZG, DBFAJH, ZE3R39, J7WBD7 \- **Daniel** YXVL5Z, PWGZE8, S5VEZU, EBKB4C, JCDSEA \- **Daniela** 5FT2AY, NWX4TN \- **Daira** F7E3UH \- **Dara** L3CJV6 \- **Darien** NEARSC \- **Darik** DBJCGD **\- Darinka** JUBN3N \- **Darío** AXFFAE \- **Dasha** 9GE77M \- **Dante** YBN3XW, YBN3XW- **David** 9ZULZT \- **DAYNA ( No Dayana)** JUJB7X \- **Dayana** L29XDT \- **Dayane** YK9XG3 \- **Dayra** FNXSDN \- **Delia** WUJYVC \- **Demián**  ETW2ZZ \- **Denis** 6WGN6F \- **Denisse NKNAFP \- Deniz** 6RQUDB \- **Dennis** E8QL98 \- **Derek** JSDWQM \- **Desireé** CBMN94, XRE63S, VEXQQZ, ESZSG5, 8AH8Y9 \- **Diana** 7FJGHH \- **Diane** 4T9W9R, HPGXDE, FZTJCT, AV5UAQ, APSHVP, J8S4ZS, NWB7JG \- **Diego** 9DT2GX \- **Dinorah** G8ZWJ9,  YFJFHK \- **Donají** ZBV554 \- **Donovan** HNXP56 \- **Dorian** RDFGD3, 7RKM4V, YY4XRF- **Dulce** |
 | **E** |
@@ -2638,7 +2651,7 @@ SSD55C \- Zunun
 ***31 UDXDSE***
 **Abril**
 ***1DQ7HBE***
-***2   XQST48 ,*** **2EYZ62, EHJ3Q2, LH2NV7**
+***2    XQST48 ,*** **2EYZ62, EHJ3Q2, LH2NV7, HENQS4**
 ***3  SMNMJW***
 ***4***  **P79ZDH**
 ***5 3UA93V***
@@ -3104,6 +3117,8 @@ CONTADURÍA / Facultad de Contaduría y Administración / Escolarizado / 2021 / 
 
 CONTADURÍA/FCA/Escolarizado/ 2024 B3FPGG
 
+Contaduría /FCA/ED/ 2027/ 4B
+
 ADMINISTRACIÓN/FCA/SUA/2025 M8RMH9, CM8RT8
 
 Administracion/ FCA / 2024/ P8E4PW- YPHDQH, HL67XM/G4G9C6
@@ -3194,6 +3209,10 @@ GEOGRAFIA (2019🧑‍🦳) \- H6F4BA
 OPTOMETRÍA ENES LEÓN 2023 Z7V2DL
 
 ESTUDIOS LATINOAMERICANOS 2023: 6DXUFC
+
+**CIRUJANO DENTISTA FES IZTACALA**
+
+2023- HENQS4
 
 | Ineniería Electríca Electrónica. |  |  |
 | :---: | :---: | ----- |
@@ -3316,6 +3335,7 @@ Saludos a mis piches, mi manad \-C 🐺💋 awww bro tqm \- T.
 PONGAN CAIFANESSSSSS
 Saludos a toda la bandita con con de clase y antisionista de corazón 🗣
 Saludos desde Tijuana🤠
+Daniel Eduardo Gonzales Santos que va en filosofia y letras CHINGAS A TU MIERDA (amo a tu familia pero te vaz a la chingada)
 **Plis agreguen apartado de “paisanas” para los extranjeros por país, dice GoIA que solo se puede conseguir para extranjeros si agregan a alguien nacido en su mismo país ??**
 
 ##

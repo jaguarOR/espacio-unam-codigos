@@ -276,6 +276,7 @@
 | `6GKXF9` | Médico Cirujano | doc |
 | `BBHUBB` | Médico Cirujano | doc |
 | `V9RX8Z` | Médico Cirujano | doc |
+| `PNXKWW` | Médico Cirujano | doc |
 | `S6K38H` | Neuro | doc |
 | `U7FQVT` | Neuro | doc |
 | `CSSVLE` | Neuro | doc |
@@ -415,7 +416,6 @@
 | `KJFPHV` | Filosofía | doc |
 | `AFV9RM` | Filosofía | doc |
 | `6YLFPN` | Geografía | doc |
-| `3SCR3U` | Geografía | doc |
 | `3W637B` | Geografía | doc |
 | `XTEKTV` | Geografía | doc |
 | `H6F4BA` | Geografía | doc |
@@ -537,13 +537,13 @@
 | `JYEF89` | Relaciones Internacionales | doc |
 | `QAN9U2` | Relaciones Internacionales | doc |
 | `VD522A` | Relaciones Internacionales | doc |
-| `BJ4SN6` | Sociología | doc |
-| `S5Y4U2` | Sociología | doc |
-| `SPN24H` | Sociología | doc |
-| `UH9C9E` | Sociología | doc |
-| `UJZHQQ` | Sociología | doc |
-| `2Q2JR9` | Sociología | doc |
-| `78WFBX` | Sociología | doc |
+| `BJ4SN6` | S o ciología | doc |
+| `S5Y4U2` | S o ciología | doc |
+| `SPN24H` | S o ciología | doc |
+| `UH9C9E` | S o ciología | doc |
+| `UJZHQQ` | S o ciología | doc |
+| `2Q2JR9` | S o ciología | doc |
+| `78WFBX` | S o ciología | doc |
 | `V7QEMW` | Ciencias Políticas y AP A DISTANCIA NUEVO INGRESO | doc |
 | `75CQF3` | Ciencias de la Comunicación (SUAyED) | doc |
 | `XSLEPM` | Ciencias de la Comunicación (SUAyED) | doc |
@@ -559,39 +559,39 @@
 | `YPHDQH` | Administración | doc |
 | `9ZP2AZ` | Administración | doc |
 | `VBDF4E` | Administración | doc |
-| `FFWLPX` | Administración | doc |
 | `HL67XM` | Administración | doc |
 | `U8C9G3` | Administración | doc |
 | `FZC5EB` | Administración SUAYED a distancia | doc |
 | `UVJ83P` | Administración SUAYED a distancia | doc |
-| `DVW383` | Contaduría | doc |
-| `4TB6ZC` | Contaduría | doc |
-| `3C5MX2` | Contaduría | doc |
-| `N54J7V` | Contaduría | doc |
-| `ZMY6X9` | Contaduría | doc |
-| `ZG27YE` | Contaduría | doc |
-| `HGGMCD` | Contaduría | doc |
-| `SUAW4X` | Contaduría | doc |
-| `BE5FU9` | Contaduría | doc |
-| `5QQJBV` | Contaduría | doc |
-| `C7NXLY` | Contaduría | doc |
-| `MU69T3` | Contaduría | doc |
-| `PZK7RS` | Contaduría | doc |
-| `374S23` | Contaduría | doc |
-| `WNR2GC` | Contaduría | doc |
-| `ARMS6Z` | Contaduría | doc |
-| `BXAMZP` | Contaduría | doc |
-| `M2P8C9` | Contaduría | doc |
-| `MVNWXC` | Contaduría | doc |
-| `5WK7AX` | Contaduría | doc |
-| `NWX4TN` | Contaduría | doc |
-| `B3FPGG` | Contaduría | doc |
-| `6VMRJF` | Contaduría | doc |
-| `EVKRFU` | Contaduría | doc |
-| `MDW9W3` | Contaduría | doc |
-| `LH9W8W` | Contaduría | doc |
-| `ZTAQVJ` | Contaduría | doc |
-| `2M5L75` | Contaduría | doc |
+| `FFWLPX` | Contaduría | doc |
+| `DVW383` | — | doc |
+| `4TB6ZC` | — | doc |
+| `3C5MX2` | — | doc |
+| `N54J7V` | — | doc |
+| `ZMY6X9` | — | doc |
+| `ZG27YE` | — | doc |
+| `HGGMCD` | — | doc |
+| `SUAW4X` | — | doc |
+| `BE5FU9` | — | doc |
+| `5QQJBV` | — | doc |
+| `C7NXLY` | — | doc |
+| `MU69T3` | — | doc |
+| `PZK7RS` | — | doc |
+| `374S23` | — | doc |
+| `WNR2GC` | — | doc |
+| `ARMS6Z` | — | doc |
+| `BXAMZP` | — | doc |
+| `M2P8C9` | — | doc |
+| `MVNWXC` | — | doc |
+| `5WK7AX` | — | doc |
+| `NWX4TN` | — | doc |
+| `B3FPGG` | — | doc |
+| `6VMRJF` | — | doc |
+| `EVKRFU` | — | doc |
+| `MDW9W3` | — | doc |
+| `LH9W8W` | — | doc |
+| `ZTAQVJ` | — | doc |
+| `2M5L75` | — | doc |
 | `2AAE5B` | Informática | doc |
 | `CDPCQC` | Informática | doc |
 | `H3WUX3` | Informática | doc |

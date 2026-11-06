@@ -46,6 +46,7 @@
 | `X8HHE5` | Comunicación | doc |
 | `DAYASH` | Comunicación | doc |
 | `N7AA4Q` | Comunicación | doc |
+| `N9UZZA` | Derecho | doc |
 | `ACZ97F` | Derecho | doc |
 | `6PHCHQ` | Derecho | doc |
 | `7Z9MNW` | Derecho | doc |
@@ -210,6 +211,7 @@
 | `8AH8Y9` | Relaciones Internacionales | doc |
 | `2UAYY2` | Relaciones Internacionales | doc |
 | `3PPWQ5` | Relaciones Internacionales | doc |
+| `8XCFFV` | Relaciones Internacionales | doc |
 | `B32HHM` | Sociología | doc |
 | `EZLREM` | Derecho Sua | doc |
 | `7V7782` | Derecho Sua | doc |
@@ -274,6 +276,7 @@
 | `P8AEN8` | Bioquímica Diagnóstica | doc |
 | `WNP6JM` | Bioquímica Diagnóstica | doc |
 | `GVT6M9` | Bioquímica Diagnóstica | doc |
+| `TDZD9Y` | Bioquímica Diagnóstica | doc |
 | `WNYKCD` | Ingeniería química | doc |
 | `8HVPLY` | Ingeniería química | doc |
 | `DQ5KTT` | Ingeniería química | doc |
