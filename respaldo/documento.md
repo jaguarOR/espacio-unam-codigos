@@ -692,7 +692,7 @@ Empezaste a llenar tu Pasaporte porque todo mundo lo estaba llenando y no te lo 
 **V4C4ESF3R4**
 Supongamos una vaca esférica en el vacío... El chiste clásico de Física, para quienes simplifican el problema hasta que sale. Idea de Metztli. Medalla secreta
 
-**C0NQU3S0**
+**C0NQU3S0 (está mal)**
 La pregunta más famosa de CCH azcapo. ¿Conqueso tus papas?
 
 **G4B1N1T0**
@@ -1223,9 +1223,9 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Derecho: 27YHVB,** TK24MU, SB3S58, 7NSF65, 8GHZQ5, AWLR5V, YY4XRF, 2KNNQY, HQX32E, DYGJCP
 
-**Economía:** X87RX3, B6N39M, QV8YWM , 84HDNQ, UTX29R
+**Economía:** X87RX3, B6N39M, QV8YWM , 84HDNQ, UTX29R,
 
-**Economía SUAyED:** , 4E5D5N
+**Economía SUAyED:** , 4E5D5N, ZST9W8
 
 **Ingeniería Civil:** BZJX2A, UEYKGM, GAVUGY, GR5YLN,  QLNMF5, R7ZS2S
 
@@ -1281,7 +1281,7 @@ Farmacia: **3C99SZ , VUGKWY, VBL7L6 , 7AAN8J**
 
 Química Industrial: **K9W559,, FTJ9YB**
 
-Ingeniería En Alimentos: **HFAAS9, 985XKC**
+Ingeniería En Alimentos: WNWLP8, **HFAAS9, 985XKC**
 
 Ingeniería Agrícola 🌽 : **47JVS9** , **6U3VWW , PYADLG**
 
@@ -1465,7 +1465,7 @@ Química de Alimentos: **KLVKPA, G7J6WU**,  **U6P443**, **7ZSVSC,** **WQPRJZ**, 
 
 Química e Ingeniería en Materiales: **AWFUWK, QE4UEL,**
 
-Química Farmacéutico Biológica: **LX6WZD**,  **6QTNCX**, **PA7FWF**, **X82MPH, BD452P, MXM4V3, T3CJMF JQAF7Q, 4QY6A9, GNTMN6**
+Química Farmacéutico Biológica: **LX6WZD**,  **6QTNCX**, **PA7FWF**, **X82MPH, BD452P, MXM4V3, T3CJMF JQAF7Q, 4QY6A9, GNTMN6, ASGK4F**
 
 Química Industrial: **K9W559**
 
@@ -1614,7 +1614,7 @@ Cinematografía: **JFFLLG**, **XCWUT3**
 
 ### ***ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)*** {#enallt-(escuela-nacional-de-lenguass,-lingüística-y-traducción)}
 
-Traducción: **TF5R49, UBXD7M, ABHZXJ, 33TFQ9**
+Traducción: **TF5R49, UBXD7M, ABHZXJ, 33TFQ9, 6XAWZW**
 
 Lingüística Aplicada: **7JA7UX, , KSQA7Y, LH2NV7**
 
@@ -2312,7 +2312,7 @@ VPRKQA, KB5FFD, HB9TUV \-  Rangel
 HXGJEF \-Rebollar
 
 6A43KN, 8R5W24 \- Regalado
-2WFKWY, FZCENF  \-  Reyes
+2WFKWY, FZCENF,***ZST9W8***\-  Reyes
 KNWN28, TC2RHZ, \- Reyes
 4SPRWY \- Resendiz
 MHLNQF \- Reséndiz
@@ -2494,7 +2494,7 @@ SSD55C \- Zunun
 | ----- |
 | **FEBRERO** 6CRCR2, GTTYS2 , GFE3DQ, Z42WRW, H6YEY8, AQ3GS6,  CUBTQU, VLM6JA, E44DJW, BW6HC7, 8T9YUR, WUJYVC, W2CA3T, ER4UV5, PV9QBS, J4QES4**,** XP4SYA, T827MU, L92K5P, UM2YKB, GDEP4Z, 4JQBNS, 8AH8Y9, HE4X2K, SHYLDR, PWGZE8, J5HYY2, QXVWPA, 4HU2PV, ELUYC2, JAY662, BTHEFM, XP2KK8, AARUZQ, EMXTCA, ER4UV5, L55SRC, 6CRCR2, 8R5W24, CF4UBR, WWTRWU, XBR3NR, DYGJCP, 79NL4H |
 | **MARZO** T9L84A**,** K7HSZT,  YYSEV5,   NQQBE5, QK7GDH,M7ABXK, CBMN94, QE4UEL,  MXA4B9**,** BBVWWW, 54CXKN, 6UQTGW, V8NHYS, UWJK4T, KWAFZM, LJ5HRN, YBN3XW, BFAPC5, ZV7JT3, WZ6CAL, PYADLG, 8YFL8T,  BELPYW 3RX6LZ , KNK7Y4, VZ4TY9, BVX339, 2AVJJ6, 7Y9LVV, MAT54P, WZ6CAL, 2STNBU, 68QU64 PYADLG, 9MQNWS, 2CSXD, DEPQX9, CM8RT8, PLDRZE, W9THGT, HAAYEY, JEYZRQ, 3UA93V, 2AVJJ6, MDW9W3, N7AA4Q,   |
-| **ABRIL** Z2PFT2, QVC32M, HR5TVK, FDSTL4, X4WFYP, ARCUK3, Z85GPC, ETW2ZZ, PMZUG6, 3W5HLK, MTUVQH, 6F25A8, ADBZNZ, 2WFKWY, JN42QP, B9ELGM, YULUPY, NQK8TW, RPEUKJ, Z2PFT2, 7LX92Y, Y7ZM9H,  FZTJCT, UZJXUG, ZQ7D4T, BDJ43Q, P79ZDH,BKY7PY, H47GVV, BDJ43Q, JN42QP, QP8C79, 9G29YH, Q3Q9LU, LH2NV7,8ZEKK9, V2K3NW |
+| **ABRIL** Z2PFT2, QVC32M, HR5TVK, FDSTL4, X4WFYP, ARCUK3, Z85GPC, ETW2ZZ, PMZUG6, 3W5HLK, MTUVQH, 6F25A8, ADBZNZ, 2WFKWY, JN42QP, B9ELGM, YULUPY, NQK8TW, RPEUKJ, Z2PFT2, 7LX92Y, Y7ZM9H,  FZTJCT, UZJXUG, ZQ7D4T, BDJ43Q, P79ZDH,BKY7PY, H47GVV, BDJ43Q, JN42QP, QP8C79, 9G29YH, Q3Q9LU, LH2NV7,8ZEKK9, V2K3NW,ZST9W8 |
 | **MAYO** VL4D8Y, M8RMH9, GVALGQ**,** YG7BHR ,LBK24D, ZUACTS, DL7ZKB, F9TZFU, APSHVP,T2UL6E, TE86WP, TT6442, WHRPQ7, X3DZYF, FB5CLB, T3L5C5, XMKRM8 , E5VNTW, EL5ESZ, EGGBNP, R3Y27V, 6HAJFC, 2G5REG, 8EJFYT, GTYWRN, 2G5REG, V569QT, GVALGQ, GNPVXS, X4XZKY, HB9TUV, GFES9K, 8GHZQ5, YTGL83, MRAV79, WJH8ME, 57EYLG, KBH4QN, PC8XCL |
 | **JUNIO** 6NDDAC, CEB2F7, 4QSM4X**,** 7M3MNC**,** L5GPBK, GMXC4A, 3LX4CZ, 5WL3J2, P8AEN8 ,GHCDJB, LWPJ6V, E6FYLQ, MB8M3H, CF4UBR, 3BQQCQ, HKDG94, JMDE8U, A39J8V, LTU3JQ, PQ5YP6 , ZEWEKJ; XKYNQ8, MDTK49 FHTEF8, 27NGUN, 45XLW5, 8PAUA9, GSZHQW, Y9DWP5, NWX4TN, QDXBQ9, BHEFGR, E3ADVA, KNLS2K, V58MF3, U243SW, UBXD7M, M6Q9JV, AZU86R |
 | **JULIO** KVJNQD, H6U52K, JUBN3N, HGGMCD, E92887 ,DFTXBL,ZZ6AE3, JUBN3N,99MYX7, VFYFQQ, YE83KR, FDR434, 5KX44U, DS7SU5, 3TGEAC, A28B7B, SYGFBM, 6DXUFC, 47X28G, KQTXQ3,BP23LR, Y6JME9, ZEDTNW, GC6HKG, KBCGJE, NBDGLB, X4XHYB, TNHMSN, M28V7D, E7MD3K, QW57KK, JQEG3U, V7QEMW, G8ZWJ9, V8NSTH, 8CYDV9, XTEKTV, 4G7JK7, WFK9M9, JQEG3U, XTEKTV, N7RKPL, QW57KK, C2E6DR, FUEQZD, SKNEPP, 5KDYK6, Z7V2DL, 95Y7HN, QERZ9Y |
@@ -2512,7 +2512,7 @@ SSD55C \- Zunun
 | **Baja California:** BKY7PY, J5HYY2 |
 | **Campeche:**  SMBPQF, ZUH73Z |
 | **Chiapas:** XZXA2V, JUBN3N, W7AHQ2, YTGL83,  |
-| **Chihuahua:** R6TE6Q |
+| **Chihuahua:** R6TE6Q, F9TZFU |
 | **Ciudad de México:** 4TB6ZC**,** 4C7WHL, **CF4UBR, 5D4C6P ,Q2SZ3B**, G5SHBK H6U52K G73Z9E, Y2SM92, ZWLYNY, BFFU5Q, 4QSM4X, QVC32M, Q92CDU, HZ6A9Z, RZ6XRU, GTTYS2, CXZGG6, PFMXND, HE4X2K, QDXBQ9, ZQ7D4T, V6ZKQ8, LH4MD7, M7B54S, V569QT,7NSF65, E3ADVA, H6RRFW, EZLREM, DRVR87, LJ3UDT, 8EJFYT, P79ZDH, CEB2F7, 6DT6SY, GNPVXS, BTJWYA, JQEG3U, TVGL8J, CM8RT8, HAAYEY, UU6VPQ, LX6WZD, 57EYLG, GMXC4A, 8R5W24, KBH4QN, 95Y7HN, MJPW9K, T7XCPM, J6VTDU, MFCF6H,  LXYBNV, 4QY6A9, 8ZEKK9 |
 | **Coahuila:** Y2S7KV,  |
 | **Colima:** 79U7RY |
@@ -2654,8 +2654,8 @@ SSD55C \- Zunun
 ***4***  **P79ZDH**
 ***5 3UA93V***
 ***6  43MNSA***
-***7 KEGKRZ***
-***8 FELBKL***
+***7 KEGKRZ, ZST9W8***
+***8 FELBKL, SPN24H,***
 ***9***
 ***10*** **BKY7PY**
 ***11 Z2PFT2, TJBK73***
@@ -3288,6 +3288,8 @@ Actuaria/2026: 79NL4H
 
 PEDAGOGÍA/ GEN 2026 \- 5KDYK6
 
+Sociologia 2022 Fes Acatlán SPN24H
+
 ## **Lazo de cumpleaños**  {#lazo-de-cumpleaños}
 
 ## **De 15 de febrero PWGZE8 •**
@@ -3564,7 +3566,7 @@ Otra cosa nadie quiere perder el acceso, no cambien los códigos, hagan su letre
 **Bachillerato a distancia, porfa agrégame  👌🏽 533L3Q**
  **NYSCU3 Agrégame Porfa RRB4ZF🥹**
 **Este es mi código bachillerato RRB4ZF**
-**Gente de *Bachillerato a distancia, CEPHCIS Mérida, IIES , Enseñanza de Italiano y Aleman como lengua extranjera, Ingeniería Topográfica y geodésica , Química Cosmética Industrial y Iniciación Univesitaria*:**
+**Gente de *Bachillerato a distancia, CEPHCIS Mérida, IIES , Enseñanza de Italiano y Aleman como lengua extranjera, Ingeniería Topográfica ygeodésica , Química Cosmética Industrial y Iniciación Univesitaria*:**
 ***Bachillerato a distancia ayudame RRB4ZF***
 **Añadanme porfa :c**
 ***Les regalo una paleta 🍭***

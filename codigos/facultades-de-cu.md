@@ -385,6 +385,7 @@
 | `JQAF7Q` | Química Farmacéutico Biológica | doc |
 | `4QY6A9` | Química Farmacéutico Biológica | doc |
 | `GNTMN6` | Química Farmacéutico Biológica | doc |
+| `ASGK4F` | Química Farmacéutico Biológica | doc |
 | `K9W559` | Química Industrial | doc |
 | `3PXTU2` | Trabajo Social | doc |
 | `DNLR3P` | Trabajo Social | doc |

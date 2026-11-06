@@ -46,6 +46,7 @@
 | `UBXD7M` | Traducción | doc |
 | `ABHZXJ` | Traducción | doc |
 | `33TFQ9` | Traducción | doc |
+| `6XAWZW` | Traducción | doc |
 | `7JA7UX` | Lingüística Aplicada | doc |
 | `KSQA7Y` | Lingüística Aplicada | doc |
 | `LH2NV7` | Lingüística Aplicada | doc |

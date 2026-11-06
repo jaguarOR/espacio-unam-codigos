@@ -155,7 +155,9 @@
 | `3UA93V` | 5 | doc |
 | `43MNSA` | 6 | doc |
 | `KEGKRZ` | 7 | doc |
+| `ZST9W8` | 7 | doc |
 | `FELBKL` | 8 | doc |
+| `SPN24H` | 8 | doc |
 | `BKY7PY` | 10 | doc |
 | `Z2PFT2` | 11 | doc |
 | `TJBK73` | 11 | doc |

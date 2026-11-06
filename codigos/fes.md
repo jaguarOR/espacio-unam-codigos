@@ -149,6 +149,7 @@
 | `84HDNQ` | Economía | doc |
 | `UTX29R` | Economía | doc |
 | `4E5D5N` | Economía SUAyED | doc |
+| `ZST9W8` | Economía SUAyED | doc |
 | `BZJX2A` | Ingeniería Civil | doc |
 | `UEYKGM` | Ingeniería Civil | doc |
 | `GAVUGY` | Ingeniería Civil | doc |
@@ -290,6 +291,7 @@
 | `7AAN8J` | Farmacia | doc |
 | `K9W559` | Química Industrial | doc |
 | `FTJ9YB` | Química Industrial | doc |
+| `WNWLP8` | Ingeniería En Alimentos | doc |
 | `HFAAS9` | Ingeniería En Alimentos | doc |
 | `985XKC` | Ingeniería En Alimentos | doc |
 | `47JVS9` | Ingeniería Agrícola 🌽 | doc |

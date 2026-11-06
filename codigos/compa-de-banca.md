@@ -200,4 +200,5 @@
 | `Z9D3BT` | 2023 | doc |
 | `T7XCPM` | 2026 | doc |
 | `5KDYK6` | PEDAGOGÍA/ GEN 2026 | doc |
+| `SPN24H` | Sociologia 2022 Fes Acatlán | doc |
 | `SGTHSE` | Medicina/facmed/2024 | comunidad |
