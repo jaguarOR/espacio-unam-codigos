@@ -50,7 +50,7 @@
 | `KSQA7Y` | Lingüística Aplicada | doc |
 | `LH2NV7` | Lingüística Aplicada | doc |
 | `DNX7NY` | Teatro y actuación | doc |
-| `BXCKLK` | Nanotecnología: c | doc |
+| `BXCKLK` | Nanotecnología | doc |
 
 ## Centro de Física Aplicada y Avanzada (Juriquilla)
 

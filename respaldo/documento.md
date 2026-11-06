@@ -422,7 +422,7 @@ Para los Leopardos, la mascota que ruge por la Prepa 8 «Miguel E. Schulz». Ide
 Para los Coyotes, emblema y equipos de la Prepa 6 «Antonio Caso» en Coyoacán. Idea de Raúl Coronado, Elías Macotela, Amos Vega y más. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **0SC4R**
-Para Alfonso Cuarón y Emmanuel Lubezki, que estudiaron  cine en la UNAM y ganaron el Óscar. Idea de Dylan, Denis, Frida Sabina y Letizia. Medalla secreta.
+Para Alfonso Cuarón y Emmanuel Lubezki, que estudiaron cine en la UNAM y ganaron el Óscar. Idea de Dylan, Denis, Frida Sabina y Letizia. Medalla secreta.
 
 **DG1R3**
 Para la comunidad del Sistema Incorporado: preparatorias, CCH y licenciaturas incorporadas que también son parte de la UNAM. Idea de Mariana Celeste. Medalla secreta.
@@ -1233,7 +1233,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Ingeniería en Computación:** 2ST249, UDHBH3, V8VEEB, DUQTLH, VQ8HT4 ,GK234W, C77D4V, PKJWXH, 62MWGU, RXMWFZ, LTVR5B, U4S826, FS9FAU, 8J76TG
 
-Ingeniería **Industrial:**Z6NQMM, NSZWUK,JF5XLG, Y9TEP9, M2UHSN
+**Ingeniería Industrial:**Z6NQMM, NSZWUK,JF5XLG, Y9TEP9, M2UHSN
 
 **Pedagogía:** HBZN3T**,** XTEJ8P, GLWNDS, TTHKXZ, 764BK4, 84AEE7, QCS6CU, EBKB4C, A39J8V, FZTJCT, YYSEV5, Q92CDU, SQMUC6,DQ7HBE,
 
@@ -1341,13 +1341,13 @@ Cirujano dentista: **LDJN7P**, **QQN4JV , MTW6EY, AARUZQ**
 
 Actuaría:F5554F,  KDRM9K, **DD8TMC**, **GMXC4A, A855UZ, 7YEAR9, SAKNLC**, **2PCDYL**, **XF393W, DRA7FR,** **NLWHDB, MZ3SCJ, JA4E9T , CJXGS2, W3AQ9D, XJE3HZ, J7PAEG**
 
-Biología: **G4HDC9**, **VUMWSG, 4SPRWY, C77D29, 6G9NY5, ATAT6C,5H874P, 8HY6EJ, ABK4DC,H4CMXL, XLB7Z2, 659JADJZC46F**
+Biología: **G4HDC9**, **VUMWSG, 4SPRWY, C77D29, 6G9NY5, ATAT6C,5H874P, 8HY6EJ, ABK4DC,H4CMXL, XLB7Z2, 659JAD, JZC46F**
 
  Ciencias de la Computación: AKASBM, **C5WC8U YBCTES, NEARSC, VFYFQQ, T9L84A, CS6WBV, DBFAJH, NWG754, QFJ94L,**
 
 Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS): **5C9MQ9, D6ZCHZ, 7GW9UE**
 
-Física: **XNFFUS**, **5WL3J2, JZC46F, NYSCU3**, **3BQQCQ,367Y2Q, XBR3NR, PC8XCL**
+Física: **XNFFUS**, **5WL3J2, , NYSCU3**, **3BQQCQ,367Y2Q, XBR3NR, PC8XCL**
 
 Física Biomédica: **4EVPB3** , **6JPQ4R, GC6HKG, RWSHM3, JDHWGM**
 
@@ -1580,7 +1580,7 @@ Psicología SUA: **EMR2XF, U37TKR UMZHHH, , 82H488, SUHQ7N, 2G5REG, LVD3EW**
 
 ### ***Facultad de Odontología*** {#facultad-de-odontología}
 
-Cirujano Dentista: 2F4XDA, **KJ6ZGE, QQN4JV,YSS7JK**, **VZD8Z4, 9ZHNXC, TZ3CU6, 74JVX7, H36HPZ, MQGWQZ, GL8ETS,7VPCWT, QV68T9, 5AGTU8, W6X339, 8GVP6J**
+Cirujano Dentista: 2F4XDA, **KJ6ZGE, QQN4JV,YSS7JK, 9ZHNXC, TZ3CU6, 74JVX7, H36HPZ, MQGWQZ, GL8ETS,7VPCWT, QV68T9, 5AGTU8, W6X339, 8GVP6J**
 
 Odontologia: **C73DE3, 9R45UR**
 
@@ -1622,9 +1622,9 @@ Lingüística Aplicada: **7JA7UX, , KSQA7Y, LH2NV7**
 
 Teatro y actuación: **DNX7NY**
 
- (*Centro de Nanos y Nano (Ensenada):*
+(*Centro de Nanos y Nano (Ensenada):*
 
-Nanotecnología: **c, BXCKLK**
+Nanotecnología: **BXCKLK**
 
 ###
 
@@ -1666,7 +1666,7 @@ YA NO LO BORREN
 | **B** |
 | HG6QQX \- **Barbara**  M8MRDM \- **Bárbara**  XKYNQ8 \- **Beatriz**  8MT3SY \- **Belem** LDJN7P **\- Belén**  42GEXU \- **Betzabeth** DGHY32, AWLR5V \- **Berenice** 73VSTT \- **Bersheva** E76VKM \- **Blanca** CYSVAV- **Brandon** D3NJY3, JTWXGC \- **Braulio** SLYBSD \- **Brayan** VZ36RJ, UU6VPQ, WW7T4K, 7FDNDL, TVPG8X- **Brenda** GKZCFU, 7BSNQB \- **Brian** XFX8U7 **\- Briana** UALS83 \- **Brigitte** KNM6SQ \- **Briseida** 2PFVA4, JNFJKW \- **Bruno** 668YW9 \- **Bryan** |
 | **C** |
-| BP23LR, EE55CC, 3MXTEL \- **Camila** QP8C79 \- **Catherine 2K9FK5 \- CALEB** FNXSDN NEKJCK \- **Carla** XVNKKN \- **Carlo** JHCABD, ACZ97F \- **Carlos** 5WZDUP, 78K5AB, KB5FFD \- **Carmen** GC6HKG, 46Q2KK \- **Carol** KQTXQ3, \- **Carolina** 6UQTGW \- **Casandra** DBUTNQ \- **Cassandra**  K6APFR \- **Cecilia** Z7BAJP \- **Celic** SBP82Q \- **César** 5P477Q , XJWH5V \- **Christian** METDCV \- **Christofer**  ZCZAKQ \- **Christopher**  \- **Cielo** HYSHQ5 \- **Cindy** LEH2JS \- **Citlali** NYHVEN \- **Citlalli** 4C7WHL \- **Citlalmina**  PQ2FWE, NWG754 \- **Claudia** HU9HCY, KFWUSC \- **Constanza** GHCDJB, X5S4VQ, TRAGDN \- **Cristal** SQMUC6 \- **Cristian** GRFFUL, 7TUCT5, 7P9WUS \- **Cristina**  YTVD9L **\- Crista** F5JCTS \- **Cynthia** RJ863T **\- Citlaly**  YQKYA4 \- **Cuauhtémoc**  |
+| BP23LR, EE55CC, 3MXTEL \- **Camila** QP8C79 \- **Catherine 2K9FK5 \- CALEB** NEKJCK \- **Carla** XVNKKN \- **Carlo** JHCABD, ACZ97F \- **Carlos** 5WZDUP, 78K5AB, KB5FFD \- **Carmen** GC6HKG, 46Q2KK \- **Carol** KQTXQ3, \- **Carolina** 6UQTGW \- **Casandra** DBUTNQ \- **Cassandra**  K6APFR \- **Cecilia** Z7BAJP \- **Celic** SBP82Q \- **César** 5P477Q , XJWH5V \- **Christian** METDCV \- **Christofer**  ZCZAKQ \- **Christopher**  \- **Cielo** HYSHQ5 \- **Cindy** LEH2JS \- **Citlali** NYHVEN \- **Citlalli** 4C7WHL \- **Citlalmina**  PQ2FWE, NWG754 \- **Claudia** HU9HCY, KFWUSC \- **Constanza** GHCDJB, X5S4VQ, TRAGDN \- **Cristal** SQMUC6 \- **Cristian** GRFFUL, 7TUCT5, 7P9WUS \- **Cristina**  YTVD9L **\- Crista** F5JCTS \- **Cynthia** RJ863T **\- Citlaly**  YQKYA4 \- **Cuauhtémoc**  |
 | **D** |
 | VVG2NM \- **Dafne 3PPWQ5 \- Daphne** ESNV5Y \- **Dalí**  RWSHM3, KLVKPA  \- **Dalia** 36562B \- **Damaris** AQQ37Y \- **Damian**  VVXVRV \- **Dana**  JWZJ9R  \- **Danae**  VKVDLU \- **Danna** D34KZG, DBFAJH, ZE3R39, J7WBD7 \- **Daniel** YXVL5Z, PWGZE8, S5VEZU, EBKB4C, JCDSEA \- **Daniela** 5FT2AY, NWX4TN \- **Daira** F7E3UH \- **Dara** L3CJV6 \- **Darien** NEARSC \- **Darik** DBJCGD **\- Darinka** JUBN3N \- **Darío** AXFFAE \- **Dasha** 9GE77M \- **Dante** YBN3XW, YBN3XW- **David** 9ZULZT \- **DAYNA ( No Dayana)** JUJB7X \- **Dayana** L29XDT \- **Dayane** YK9XG3 \- **Dayra** FNXSDN \- **Delia** WUJYVC \- **Demián**  ETW2ZZ \- **Denis** 6WGN6F \- **Denisse NKNAFP \- Deniz** 6RQUDB \- **Dennis** E8QL98 \- **Derek** JSDWQM \- **Desireé** CBMN94, XRE63S, VEXQQZ, ESZSG5, 8AH8Y9 \- **Diana** 7FJGHH \- **Diane** 4T9W9R, HPGXDE, FZTJCT, AV5UAQ, APSHVP, J8S4ZS, NWB7JG \- **Diego** 9DT2GX \- **Dinorah** G8ZWJ9,  YFJFHK \- **Donají** ZBV554 \- **Donovan** HNXP56 \- **Dorian** RDFGD3, 7RKM4V, YY4XRF- **Dulce** |
 | **E** |
@@ -2490,8 +2490,6 @@ SSD55C \- Zunun
 
 ## **DISCLAIMER:** Solo pongan el código en su mes, no pongan más datos por favor. Y separen igual con coma **(CASI GEMELOS SE ENCUENTRA EN OTRA SECCIÓN ).** {#disclaimer:-solo-pongan-el-código-en-su-mes,-no-pongan-más-datos-por-favor.-y-separen-igual-con-coma-(casi-gemelos-se-encuentra-en-otra-sección-).}
 
-##
-
 | ENERO NKNAFP, G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9, CF4UBR, KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL, YY4XRF, 6QTNCX, MQGWQZ, U7GRLW |
 | ----- |
 | **FEBRERO** 6CRCR2, GTTYS2 , GFE3DQ, Z42WRW, H6YEY8, AQ3GS6,  CUBTQU, VLM6JA, E44DJW, BW6HC7, 8T9YUR, WUJYVC, W2CA3T, ER4UV5, PV9QBS, J4QES4**,** XP4SYA, T827MU, L92K5P, UM2YKB, GDEP4Z, 4JQBNS, 8AH8Y9, HE4X2K, SHYLDR, PWGZE8, J5HYY2, QXVWPA, 4HU2PV, ELUYC2, JAY662, BTHEFM, XP2KK8, AARUZQ, EMXTCA, ER4UV5, L55SRC, 6CRCR2, 8R5W24, CF4UBR, WWTRWU, XBR3NR, DYGJCP, 79NL4H |
@@ -2744,7 +2742,7 @@ SSD55C \- Zunun
 ***29 UKLSY5***
 ***30 WZJWL5***
 **Julio**
-***1***   **E92887**
+***1***   **E92887, 7PDWCY**
 ***2***  **EHX8WQ**
 ***3***  **MG9MBE**
 ***4***  **95Y7HN, GC6HKG**
@@ -2936,10 +2934,7 @@ SSD55C \- Zunun
 
 ## **APARTADO “CAZADORA DE MITOS”** {#apartado-“cazadora-de-mitos”}
 
-##### 8R5W24, 4DB2PC, GMXC4A, ZWLYNY, B6N39M, V68MGH, B6N39M, K9ABJD, YK4BPW, YPHDQH, RVDYNM, FTJ9YB, 6WCB38,
-
-GA7BM5 (da medalla de virus al ser agregado)
-V6ZKQ8
+8R5W24, 4DB2PC, GMXC4A, ZWLYNY, B6N39M, V68MGH, B6N39M, K9ABJD, YK4BPW, YPHDQH, RVDYNM, FTJ9YB, 6WCB38, GA7BM5
 
 ##  **APARTADO A COMPA DE BANCA 🪑** {#apartado-a-compa-de-banca-🪑}
 
@@ -3029,7 +3024,7 @@ MÉDICO CIRUJANO/  Facultad de Medicina/ 2022 \- KVJNQD,
 
 MÉDICO CIRUJANO/  Facultad de Medicina/ 2023 \- NU9ED2, HXNPTW
 
-MÉDICO CIRUJANO/  Facultad de Medicina/ 2024- 33 RUTE33RUTW
+MÉDICO CIRUJANO/  Facultad de Medicina/ 2024- 33RUTW
 
 MÉDICO CIRUJANO/ Facultad de Medicina/2025- DBY6Z4 NMMG83, EGV5ZC, GNPVXS
 

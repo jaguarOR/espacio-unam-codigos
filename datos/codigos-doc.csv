@@ -621,6 +621,8 @@ ATAT6C,Facultades de CU,Facultad de Ciencias,Biología
 ABK4DC,Facultades de CU,Facultad de Ciencias,Biología
 H4CMXL,Facultades de CU,Facultad de Ciencias,Biología
 XLB7Z2,Facultades de CU,Facultad de Ciencias,Biología
+659JAD,Facultades de CU,Facultad de Ciencias,Biología
+JZC46F,Facultades de CU,Facultad de Ciencias,Biología
 AKASBM,Facultades de CU,Facultad de Ciencias,Ciencias de la Computación
 C5WC8U,Facultades de CU,Facultad de Ciencias,Ciencias de la Computación
 YBCTES,Facultades de CU,Facultad de Ciencias,Ciencias de la Computación
@@ -636,7 +638,6 @@ D6ZCHZ,Facultades de CU,Facultad de Ciencias,Ciencias de la Tierra (YA NO ESTÁ 
 7GW9UE,Facultades de CU,Facultad de Ciencias,Ciencias de la Tierra (YA NO ESTÁ EN CIENCIAS)
 XNFFUS,Facultades de CU,Facultad de Ciencias,Física
 5WL3J2,Facultades de CU,Facultad de Ciencias,Física
-JZC46F,Facultades de CU,Facultad de Ciencias,Física
 NYSCU3,Facultades de CU,Facultad de Ciencias,Física
 3BQQCQ,Facultades de CU,Facultad de Ciencias,Física
 367Y2Q,Facultades de CU,Facultad de Ciencias,Física
@@ -1272,7 +1273,6 @@ LVD3EW,Facultades de CU,Facultad de Psicología,Psicología SUA
 KJ6ZGE,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 QQN4JV,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 YSS7JK,Facultades de CU,Facultad de Odontología,Cirujano Dentista
-VZD8Z4,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 9ZHNXC,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 TZ3CU6,Facultades de CU,Facultad de Odontología,Cirujano Dentista
 74JVX7,Facultades de CU,Facultad de Odontología,Cirujano Dentista
@@ -1315,7 +1315,7 @@ ABHZXJ,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lengua
 KSQA7Y,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Lingüística Aplicada
 LH2NV7,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Lingüística Aplicada
 DNX7NY,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Teatro y actuación
-BXCKLK,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Nanotecnología: c
+BXCKLK,Escuelas nacionales y otras entidades,"ENALLT (Escuela Nacional de Lenguass, Lingüística y Traducción)",Nanotecnología
 CH2DGW,Escuelas nacionales y otras entidades,Centro de Física Aplicada y Avanzada (Juriquilla),Tecnología
 6SRU4Q,Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia,Instituto de Energías Renovables (Temixco),Ingeniería en Energías Renovables
 BK3FVG,Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia,Instituto de Energías Renovables (Temixco),Ingeniería en Energías Renovables
@@ -1511,8 +1511,7 @@ BP23LR,Tocayo,,Camila
 EE55CC,Tocayo,,Camila
 3MXTEL,Tocayo,,Camila
 QP8C79,Tocayo,,Catherine
-2K9FK5,Tocayo,,CALEB FNXSDN
-NEKJCK,Tocayo,,Carla
+2K9FK5,Tocayo,,CALEB NEKJCK - Carla
 XVNKKN,Tocayo,,Carlo
 JHCABD,Tocayo,,Carlos
 ACZ97F,Tocayo,,Carlos
@@ -4295,6 +4294,7 @@ JMDE8U,Casi gemelos,Marzo,28
 UKLSY5,Casi gemelos,Marzo,29
 WZJWL5,Casi gemelos,Marzo,30
 E92887,Casi gemelos,Marzo,1
+7PDWCY,Casi gemelos,Marzo,1
 EHX8WQ,Casi gemelos,Marzo,2
 MG9MBE,Casi gemelos,Marzo,3
 95Y7HN,Casi gemelos,Marzo,4
@@ -4551,20 +4551,19 @@ KZUHQL,Casi gemelos,Marzo,30
 QBHNZB,Casi gemelos,Marzo,30
 6AJGJP,Casi gemelos,Marzo,31
 EDWUCZ,Casi gemelos,Marzo,31
-8R5W24,Cazadora de mitos,,#####
-4DB2PC,Cazadora de mitos,,#####
-GMXC4A,Cazadora de mitos,,#####
-ZWLYNY,Cazadora de mitos,,#####
-B6N39M,Cazadora de mitos,,#####
-V68MGH,Cazadora de mitos,,#####
-K9ABJD,Cazadora de mitos,,#####
-YK4BPW,Cazadora de mitos,,#####
-YPHDQH,Cazadora de mitos,,#####
-RVDYNM,Cazadora de mitos,,#####
-FTJ9YB,Cazadora de mitos,,#####
-6WCB38,Cazadora de mitos,,#####
-GA7BM5,Cazadora de mitos,,(da medalla de virus al ser agregado)
-V6ZKQ8,Cazadora de mitos,,
+8R5W24,Cazadora de mitos,,
+4DB2PC,Cazadora de mitos,,
+GMXC4A,Cazadora de mitos,,
+ZWLYNY,Cazadora de mitos,,
+B6N39M,Cazadora de mitos,,
+V68MGH,Cazadora de mitos,,
+K9ABJD,Cazadora de mitos,,
+YK4BPW,Cazadora de mitos,,
+YPHDQH,Cazadora de mitos,,
+RVDYNM,Cazadora de mitos,,
+FTJ9YB,Cazadora de mitos,,
+6WCB38,Cazadora de mitos,,
+GA7BM5,Cazadora de mitos,,
 7GW9UE,Compa de banca,,Ciencias de la Tierra ENCiT / gen 2025
 8R5W24,Compa de banca,,Gen 2026
 8FWQFZ,Compa de banca,,ACTUARIA / FES ACATLAN / GEN 2023
@@ -4631,6 +4630,7 @@ YFJFHK,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/ 2021
 KVJNQD,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/ 2022
 NU9ED2,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/ 2023
 HXNPTW,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/ 2023
+33RUTW,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/ 2024
 DBY6Z4,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/2025
 NMMG83,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/2025
 EGV5ZC,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/2025

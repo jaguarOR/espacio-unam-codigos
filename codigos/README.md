@@ -17,12 +17,12 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 | [Facultades de CU](facultades-de-cu.md) | 702 |
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 31 |
 | [Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia](instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-morelia.md) | 3 |
-| [Tocayo](tocayo.md) | 1044 |
+| [Tocayo](tocayo.md) | 1043 |
 | [Casi familia](casi-familia.md) | 997 |
 | [Pastel compartido](pastel-compartido.md) | 687 |
-| [Casi gemelos](casi-gemelos.md) | 508 |
-| [Cazadora de mitos](cazadora-de-mitos.md) | 14 |
-| [Compa de banca](compa-de-banca.md) | 196 |
+| [Casi gemelos](casi-gemelos.md) | 509 |
+| [Cazadora de mitos](cazadora-de-mitos.md) | 13 |
+| [Compa de banca](compa-de-banca.md) | 197 |
 | [Lazo de cumpleaños](lazo-de-cumpleanos.md) | 7 |
 | [Otros](otros.md) | 2 |
 | [Grupo de WhatsApp](grupo-de-whatsapp.md) | 303 |

@@ -70,6 +70,7 @@
 | `KVJNQD` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2022 | doc |
 | `NU9ED2` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2023 | doc |
 | `HXNPTW` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2023 | doc |
+| `33RUTW` | MÉDICO CIRUJANO/ Facultad de Medicina/ 2024 | doc |
 | `DBY6Z4` | MÉDICO CIRUJANO/ Facultad de Medicina/2025 | doc |
 | `NMMG83` | MÉDICO CIRUJANO/ Facultad de Medicina/2025 | doc |
 | `EGV5ZC` | MÉDICO CIRUJANO/ Facultad de Medicina/2025 | doc |
