@@ -4,7 +4,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `PWGZE8` | ## 15 de febrero | doc |
+| `PWGZE8` | ## De 15 de febrero | doc |
 | `U7GRLW` | 11 de Enero | doc |
 | `7M3MNC` | 4 de junio | doc |
 | `YG3PZF` | 23 de abril | doc |

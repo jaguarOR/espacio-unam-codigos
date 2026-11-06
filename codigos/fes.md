@@ -284,6 +284,7 @@
 | `3C99SZ` | Farmacia | doc |
 | `VUGKWY` | Farmacia | doc |
 | `VBL7L6` | Farmacia | doc |
+| `7AAN8J` | Farmacia | doc |
 | `K9W559` | Química Industrial | doc |
 | `FTJ9YB` | Química Industrial | doc |
 | `HFAAS9` | Ingeniería En Alimentos | doc |

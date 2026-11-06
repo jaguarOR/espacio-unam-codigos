@@ -34,7 +34,6 @@
 | `ABK4DC` | Biología | doc |
 | `H4CMXL` | Biología | doc |
 | `XLB7Z2` | Biología | doc |
-| `659JAD` | Biología | doc |
 | `AKASBM` | Ciencias de la Computación | doc |
 | `C5WC8U` | Ciencias de la Computación | doc |
 | `YBCTES` | Ciencias de la Computación | doc |

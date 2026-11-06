@@ -266,6 +266,7 @@
 | `77S9EC` | Diaz | doc |
 | `QC4WVW` | Díaz | doc |
 | `B9ELGM` | Diego | doc |
+| `JDHWGM` | Diego | doc |
 | `UWTZBJ` | Del Valle | doc |
 | `WZ73LP` | Diosdado | doc |
 | `SE28C2` | Dorantes | doc |
@@ -325,6 +326,7 @@
 | `R7ZS2S` | Filomeno | doc |
 | `R3PD59` | Florián | doc |
 | `DUP9YP` | Fuentes | doc |
+| `JDHWGM` | Geronimo | doc |
 | `8FWQFZ` | Galindo | doc |
 | `7Y9LVV` | Galindo | doc |
 | `RPX2XG` | Galicia | doc |

@@ -1130,7 +1130,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Ingeniería en Computación:**  YLA386
 
-**Biología:**
+**Biología:** UEZKHZ
 
 **Ciencias ambientales:**
 
@@ -1266,7 +1266,7 @@ Tecnología:
 
 Ingeniería química: **WNYKCD, 8HVPLY, DQ5KTT, J5NJ47,  ME6AAR, D99CEH, XAYS2Y**
 
-Farmacia: **3C99SZ , VUGKWY, VBL7L6**
+Farmacia: **3C99SZ , VUGKWY, VBL7L6 , 7AAN8J**
 
 Química Industrial: **K9W559,, FTJ9YB**
 
@@ -1330,7 +1330,7 @@ Cirujano dentista: **LDJN7P**, **QQN4JV , MTW6EY, AARUZQ**
 
 Actuaría:F5554F,  KDRM9K, **DD8TMC**, **GMXC4A, A855UZ, 7YEAR9, SAKNLC**, **2PCDYL**, **XF393W, DRA7FR,** **NLWHDB, MZ3SCJ, JA4E9T , CJXGS2, W3AQ9D, XJE3HZ, J7PAEG**
 
-Biología: **G4HDC9**, **VUMWSG, 4SPRWY, C77D29, 6G9NY5, ATAT6C,5H874P, 8HY6EJ, ABK4DC,H4CMXL, XLB7Z2, 659JAD**
+Biología: **G4HDC9**, **VUMWSG, 4SPRWY, C77D29, 6G9NY5, ATAT6C,5H874P, 8HY6EJ, ABK4DC,H4CMXL, XLB7Z2, 659JADJZC46F**
 
  Ciencias de la Computación: AKASBM, **C5WC8U YBCTES, NEARSC, VFYFQQ, T9L84A, CS6WBV, DBFAJH, NWG754, QFJ94L,**
 
@@ -1942,7 +1942,7 @@ NEKJCK  \-  Díaz
 SPMU3V- Diaz
 77S9EC- Diaz
 QC4WVW **\-** Díaz
-B9ELGM \- Diego
+B9ELGM, JDHWGM \- Diego
 UWTZBJ \- Del Valle
 WZ73LP \- Diosdado
 SE28C2-Dorantes
@@ -1994,6 +1994,7 @@ R7ZS2S \- Filomeno
 R3PD59 \- Florián
 DUP9YP  \-  Fuentes
 **G**
+JDHWGM \- Geronimo
 8FWQFZ \- Galindo
 7Y9LVV \- Galindo
 RPX2XG \- Galicia
@@ -2476,6 +2477,8 @@ SSD55C \- Zunun
 
 ## **DISCLAIMER:** Solo pongan el código en su mes, no pongan más datos por favor. Y separen igual con coma **(CASI GEMELOS SE ENCUENTRA EN OTRA SECCIÓN ).** {#disclaimer:-solo-pongan-el-código-en-su-mes,-no-pongan-más-datos-por-favor.-y-separen-igual-con-coma-(casi-gemelos-se-encuentra-en-otra-sección-).}
 
+##
+
 | ENERO NKNAFP, G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9, CF4UBR, KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL, YY4XRF, 6QTNCX, MQGWQZ, U7GRLW |
 | ----- |
 | **FEBRERO** 6CRCR2, GTTYS2 , GFE3DQ, Z42WRW, H6YEY8, AQ3GS6,  CUBTQU, VLM6JA, E44DJW, BW6HC7, 8T9YUR, WUJYVC, W2CA3T, ER4UV5, PV9QBS, J4QES4**,** XP4SYA, T827MU, L92K5P, UM2YKB, GDEP4Z, 4JQBNS, 8AH8Y9, HE4X2K, SHYLDR, PWGZE8, J5HYY2, QXVWPA, 4HU2PV, ELUYC2, JAY662, BTHEFM, XP2KK8, AARUZQ, EMXTCA, ER4UV5, L55SRC, 6CRCR2, 8R5W24, CF4UBR, WWTRWU, XBR3NR, DYGJCP, 79NL4H |
@@ -2799,7 +2802,7 @@ SSD55C \- Zunun
 ***5***
 ***6 4QY6A9***
 ***7***
-***8***
+***8 N9UZZA***
 ***9 \- CBHD9N***
 ***10***
 ***11 EHKDLJ***
@@ -2865,13 +2868,13 @@ SSD55C \- Zunun
 ***8.-*** **2PNPJH**
 ***9 CJXGS2***
 ***10.- HC2CCM, RWSHM3, A94467***
-***11\. BJXGSZ***
+***11\. BJXGSZ, 659JAD***
 ***12***
 ***13 R2CPA3, XJ65S3***
 ***14 UJ4PZC***
 ***15 4YDJ8D***
 ***16 MU5Q4Z***
-***17***
+***17 GN33YY***
 ***18*** M3XBS3*, TE48FW*
 ***19\. 8JH9PL, GTMTH9***
 ***20 PMXRXP***
@@ -2920,7 +2923,8 @@ SSD55C \- Zunun
 
 ## **APARTADO “CAZADORA DE MITOS”** {#apartado-“cazadora-de-mitos”}
 
-8R5W24, 4DB2PC, GMXC4A, ZWLYNY, B6N39M, V68MGH, B6N39M, K9ABJD, YK4BPW, YPHDQH, RVDYNM, FTJ9YB, 6WCB38,
+##### 8R5W24, 4DB2PC, GMXC4A, ZWLYNY, B6N39M, V68MGH, B6N39M, K9ABJD, YK4BPW, YPHDQH, RVDYNM, FTJ9YB, 6WCB38,
+
 GA7BM5 (da medalla de virus al ser agregado)
 V6ZKQ8
 
@@ -3012,7 +3016,7 @@ MÉDICO CIRUJANO/  Facultad de Medicina/ 2022 \- KVJNQD,
 
 MÉDICO CIRUJANO/  Facultad de Medicina/ 2023 \- NU9ED2, HXNPTW
 
-MÉDICO CIRUJANO/  Facultad de Medicina/ 2024- 33RUTW
+MÉDICO CIRUJANO/  Facultad de Medicina/ 2024- 33 RUTE33RUTW
 
 MÉDICO CIRUJANO/ Facultad de Medicina/2025- DBY6Z4 NMMG83, EGV5ZC, GNPVXS
 
@@ -3272,7 +3276,7 @@ PEDAGOGÍA/ GEN 2026 \- 5KDYK6
 
 ## **Lazo de cumpleaños**  {#lazo-de-cumpleaños}
 
-## **15 de febrero PWGZE8 •**
+## **De 15 de febrero PWGZE8 •**
 
 11 de Enero \- U7GRLW
 4 de junio 7M3MNC

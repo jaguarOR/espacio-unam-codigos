@@ -136,6 +136,7 @@
 | `P2Z3FB` | Ciencias de la Tierra | doc |
 | `T53TWT` | Ciencias de la Tierra | doc |
 | `YLA386` | Ingeniería en Computación | doc |
+| `UEZKHZ` | Biología | doc |
 | `RGVNRQ` | Manejo Sustentable de Zonas Costeras | doc |
 | `2CPSVN` | Geografía Aplicada | doc |
 | `VMHDRH` | Sociología Aplicada | doc |

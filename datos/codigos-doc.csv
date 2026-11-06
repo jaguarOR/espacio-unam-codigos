@@ -167,6 +167,7 @@ A3WLU9,ENES,ENES Oaxaca,Historia
 P2Z3FB,ENES,ENES Mérida,Ciencias de la Tierra
 T53TWT,ENES,ENES Mérida,Ciencias de la Tierra
 YLA386,ENES,ENES Mérida,Ingeniería en Computación
+UEZKHZ,ENES,ENES Mérida,Biología
 RGVNRQ,ENES,ENES Mérida,Manejo Sustentable de Zonas Costeras
 2CPSVN,ENES,ENES Mérida,Geografía Aplicada
 VMHDRH,ENES,ENES Mérida,Sociología Aplicada
@@ -440,6 +441,7 @@ XAYS2Y,FES,FES Cuautitlán,Ingeniería química
 3C99SZ,FES,FES Cuautitlán,Farmacia
 VUGKWY,FES,FES Cuautitlán,Farmacia
 VBL7L6,FES,FES Cuautitlán,Farmacia
+7AAN8J,FES,FES Cuautitlán,Farmacia
 K9W559,FES,FES Cuautitlán,Química Industrial
 FTJ9YB,FES,FES Cuautitlán,Química Industrial
 HFAAS9,FES,FES Cuautitlán,Ingeniería En Alimentos
@@ -617,7 +619,6 @@ ATAT6C,Facultades de CU,Facultad de Ciencias,Biología
 ABK4DC,Facultades de CU,Facultad de Ciencias,Biología
 H4CMXL,Facultades de CU,Facultad de Ciencias,Biología
 XLB7Z2,Facultades de CU,Facultad de Ciencias,Biología
-659JAD,Facultades de CU,Facultad de Ciencias,Biología
 AKASBM,Facultades de CU,Facultad de Ciencias,Ciencias de la Computación
 C5WC8U,Facultades de CU,Facultad de Ciencias,Ciencias de la Computación
 YBCTES,Facultades de CU,Facultad de Ciencias,Ciencias de la Computación
@@ -2620,6 +2621,7 @@ SPMU3V,Casi familia,,Diaz
 77S9EC,Casi familia,,Diaz
 QC4WVW,Casi familia,,Díaz
 B9ELGM,Casi familia,,Diego
+JDHWGM,Casi familia,,Diego
 UWTZBJ,Casi familia,,Del Valle
 WZ73LP,Casi familia,,Diosdado
 SE28C2,Casi familia,,Dorantes
@@ -2679,6 +2681,7 @@ DFTXBL,Casi familia,,Fernández de Lara
 R7ZS2S,Casi familia,,Filomeno
 R3PD59,Casi familia,,Florián
 DUP9YP,Casi familia,,Fuentes
+JDHWGM,Casi familia,,Geronimo
 8FWQFZ,Casi familia,,Galindo
 7Y9LVV,Casi familia,,Galindo
 RPX2XG,Casi familia,,Galicia
@@ -4378,6 +4381,7 @@ Y7J263,Casi gemelos,Marzo,2
 4BJN6Q,Casi gemelos,Marzo,3
 CXZGG6,Casi gemelos,Marzo,4
 4QY6A9,Casi gemelos,Marzo,6
+N9UZZA,Casi gemelos,Marzo,8
 CBHD9N,Casi gemelos,Marzo,9
 EHKDLJ,Casi gemelos,Marzo,11
 RZ6XRU,Casi gemelos,Marzo,12
@@ -4460,11 +4464,13 @@ HC2CCM,Casi gemelos,Marzo,10
 RWSHM3,Casi gemelos,Marzo,10
 A94467,Casi gemelos,Marzo,10
 BJXGSZ,Casi gemelos,Marzo,11
+659JAD,Casi gemelos,Marzo,11
 R2CPA3,Casi gemelos,Marzo,13
 XJ65S3,Casi gemelos,Marzo,13
 UJ4PZC,Casi gemelos,Marzo,14
 4YDJ8D,Casi gemelos,Marzo,15
 MU5Q4Z,Casi gemelos,Marzo,16
+GN33YY,Casi gemelos,Marzo,17
 M3XBS3,Casi gemelos,Marzo,18
 TE48FW,Casi gemelos,Marzo,18
 8JH9PL,Casi gemelos,Marzo,19
@@ -4541,18 +4547,18 @@ KZUHQL,Casi gemelos,Marzo,30
 QBHNZB,Casi gemelos,Marzo,30
 6AJGJP,Casi gemelos,Marzo,31
 EDWUCZ,Casi gemelos,Marzo,31
-8R5W24,Cazadora de mitos,,
-4DB2PC,Cazadora de mitos,,
-GMXC4A,Cazadora de mitos,,
-ZWLYNY,Cazadora de mitos,,
-B6N39M,Cazadora de mitos,,
-V68MGH,Cazadora de mitos,,
-K9ABJD,Cazadora de mitos,,
-YK4BPW,Cazadora de mitos,,
-YPHDQH,Cazadora de mitos,,
-RVDYNM,Cazadora de mitos,,
-FTJ9YB,Cazadora de mitos,,
-6WCB38,Cazadora de mitos,,
+8R5W24,Cazadora de mitos,,#####
+4DB2PC,Cazadora de mitos,,#####
+GMXC4A,Cazadora de mitos,,#####
+ZWLYNY,Cazadora de mitos,,#####
+B6N39M,Cazadora de mitos,,#####
+V68MGH,Cazadora de mitos,,#####
+K9ABJD,Cazadora de mitos,,#####
+YK4BPW,Cazadora de mitos,,#####
+YPHDQH,Cazadora de mitos,,#####
+RVDYNM,Cazadora de mitos,,#####
+FTJ9YB,Cazadora de mitos,,#####
+6WCB38,Cazadora de mitos,,#####
 GA7BM5,Cazadora de mitos,,(da medalla de virus al ser agregado)
 V6ZKQ8,Cazadora de mitos,,
 7GW9UE,Compa de banca,,Ciencias de la Tierra ENCiT / gen 2025
@@ -4621,7 +4627,6 @@ YFJFHK,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/ 2021
 KVJNQD,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/ 2022
 NU9ED2,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/ 2023
 HXNPTW,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/ 2023
-33RUTW,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/ 2024
 DBY6Z4,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/2025
 NMMG83,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/2025
 EGV5ZC,Compa de banca,,MÉDICO CIRUJANO/ Facultad de Medicina/2025
@@ -4750,7 +4755,7 @@ XTEKTV,Compa de banca,,"Geografía (escolarizado, generación 2024)"
 Z9D3BT,Compa de banca,,2023
 T7XCPM,Compa de banca,,2026
 5KDYK6,Compa de banca,,PEDAGOGÍA/ GEN 2026
-PWGZE8,Lazo de cumpleaños,,## 15 de febrero
+PWGZE8,Lazo de cumpleaños,,## De 15 de febrero
 U7GRLW,Lazo de cumpleaños,,11 de Enero
 7M3MNC,Lazo de cumpleaños,,4 de junio
 YG3PZF,Lazo de cumpleaños,,23 de abril
