@@ -216,7 +216,6 @@
 | `B32HHM` | Sociología | doc |
 | `EZLREM` | Derecho Sua | doc |
 | `7V7782` | Derecho Sua | doc |
-| `H388MB` | Derecho Sua | doc |
 
 ## FES Cuautitlán
 

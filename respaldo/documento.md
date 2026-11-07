@@ -23,7 +23,7 @@
 
 **PASEN CÓDIGO DE SISTEMA ABIERTO**
 
-(Los códigos secretos fueron restaurados abajo, favor de seguir escribiendolos en las siguientes páginas
+(Los códigos secretos fueron restaurados aba  jo, favor de seguir escribiendolos en las siguientes páginas
 
 **Disclaimer 1**: Prácticamente todos los códigos se han publicado en FB, este es más que nada un recopilatorio.  Los IG están en otra pestaña del documento en “Insta´s pa seguirnos”
 
@@ -326,10 +326,10 @@ Para quien pone un poco de sí para hacer de este mundo un lugar mejor. Medalla 
 **G1S3S**
 Para «Los Gises», la escultura de Helen Escobedo que identifica a la FES Iztacala. Idea de Cynthia, Joshua, Alyzon y 14 personas más; ícono de Edgar David. Medalla secreta.
 
-**4XOLOT**
+**c4XOLOT**
 Para los ajolotes, tan queridos en la FAD de Xochimilco. Idea de Nathalia. Medalla secreta.
 
-**AGU1LAAGU1LA**
+**AGU1LA**
 Para el águila del pilar de la UNAM, la facultad de Derecho. Idea de Zyanya, Frida, Javier y 5 personas más. Medalla secreta.
 
 **T4K1S**
@@ -872,8 +872,8 @@ La porra del CCH Sur, la que se escucha en sus canchas y en cada encuentro de su
 **C0M0N0T3**
 El canto que la afición universitaria entona con todo el corazón en el Estadio Olímpico Universitario. Idea de Ángel Daniel. Serie «Porras». Medalla secreta.
 
-**un3XP3R1M**
-Para quienes han roto un matraz, sacado un 800% de rendimiento o visto a un experimento tomar vida propia. Así también se hace ciencia. Idea de Ilse Andrea, Ángel y Luis Daniel. Solo  se gana con su código secreto.
+**3XP3R1M**
+Para quienes han roto un matraz, sacado un 800% de rendimiento o visto a un experimento tomar vida propia. Así también se hace ciencia. Idea de Ilse Andrea, Ángel y Luis Daniel. Solo se gana con su código secreto.
 
 **EX0RC1ST4**
 Para la famosa leyenda del exorcismo de la Facultad de Psicología, la historia que pasa de generación en generación por sus pasillos. Idea de Aide. Medalla secreta.
@@ -1245,7 +1245,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Sociología:** B32HHM
 
-**Derecho Sua:** EZLREM, 7V7782, H388MB
+**Derecho Sua:** EZLREM, 7V7782,
 
 ###
 
@@ -1493,7 +1493,7 @@ Lengua y Literaturas Hispánicas: **VNMPZ9,** **2B9BEB, MD2YTA, CWFTUP, 8N24Z3, 
 
 Lengua y Literaturas Modernas Francesas: **TVPG8X, AB3MHG, 865U4C, 3GEXKK, XEMANH, H47GVV**
 
-Lengua y Literaturas Modernas Alemanas:C **DBT5GV**
+Lengua y Literaturas Modernas Alemanas: **DBT5GV**
 
 Lengua y Literaturas Modernas Inglesas: **MZZQ3K, VECKTJ**
 
@@ -1683,7 +1683,7 @@ SGHGQT \- **Hiram**
 T4CVFZ, 6DULNS \- **Hugo**
 L9A6EJ \- **Humberto** 6A755S **\- Hansel** |
 | **I** |
-| CP69HF, EGRGG2 \- **Ian**  ZH8RDP \- **Iann**  JQZR96 \- **Idalia** M7J8JU \- **Ihsahn**  UP638M \- **Iker** R3Y27V \- **Ikki** U54DJC \- **Ilse** QUQ7A4 \- **Imanol** PW5KSH \- **Indra** NQQBE5, UEYXQY \- **Ingrid** XAYS2Y \- **Irais** M2P8C9 \- **Irán** 8C9ST8 \- **Irene** 7Y9LVV **\- Irene**  NDB5AU \- **Iris** FF9N3A \- **Irvin** X2UKCH \- **Irving** EGGBNP, LV6ACX **\- Isaac** JBSBZL**,** KBL9AS, XLWSAA **\- Isabel** NZCWBW \- **Isabella** NN2BAN, 5NP88H \- **Isis** EC2MCG \- **Ismael** PQ8SMT \- **Ismerai** XMKRM8 \- **Israel**  AQK9HC \- **Istvan** ZCAWGA \- **Italy** 6ZBET4 \- Itsani 7GADBP \- **Itza** 8JH9PL, BDJ43Q \- **Itzel** DHXMPS, 2VLF4M, T827MU \- **Ivan** 82H488, URT7XH, 4TYNFK \- **Ivonne** YR3TKQ \- **Ixchel** WARSUJ**\- Inés  DX388V \- Iliana UVJ83P \- Izébel**  |
+| CP69HF, EGRGG2 \- **Ian**  ZH8RDP \- **Iann**  JQZR96 \- **Idalia** M7J8JU \- **Ihsahn**  UP638M \- **Iker** R3Y27V \- **Ikki** U54DJC \- **Ilse** QUQ7A4 \- **Imanol** PW5KSH \- **Indra** NQQBE5, UEYXQY \- **Ingrid** XAYS2Y \- **Irais** M2P8C9 \- **Irán** 8C9ST8 \- **Irene** 7Y9LVV **\- Irene**  NDB5AU \- **Iris** FF9N3A \- **Irvin** X2UKCH \- **Irving** EGGBNP, LV6ACX **\- Isaac** JBSBZL**,** KBL9AS, XLWSAA **\- Isabel** NZCWBW \- **Isabella** NN2BAN, 5NP88H \- **Isis** EC2MCG \- **Ismael** PQ8SMT \- **Ismerai** XMKRM8 \- **Israel**  AQK9HC \- **Istvan** ZCAWGA \- **Italy** 6ZBET4 \- Itsani 7GADBP \- **Itza** 8JH9PL, BDJ43Q \- **Itzel** DHXMPS, 2VLF4M, T827MU \- **Ivan** 82H488, URT7XH, 4TYNFK \- **Ivonne** YR3TKQ \- **Ixchel** WARSUJ**\- Inés  DX388V \- Iliana UVJ83P \- Izébel  JXVZDU- ilani** |
 | **J** |
 | FA7FL7, MG9MBE, VQT3ZX \- **Jacqueline**  BPY827 **\- Jaqueline** ZAZBK8 \- **Jade** 6S9FH3 \- **Jael** BXAMZP, QERZ9Y \- **Jair** G5VSUZ \- **Janet** BV6XE8 \- **Janette** ASFT6Z **\- Jared** XCDN8J \- **Jasiel** 3AHQQ8 \- **Jatziri** 9JUXJP 8CYDV9 \- **Javier** V7QEMW, VD522A \- **Jazmin** 89G6U2 \- **Jean** BHJJJA \- **Jeison** 4WKRNM \- **Jenifer** ZV7JT3, BELPYW \- **Jennifer** G9HCLW- **Jenny GSWGUF, KRYNU4- Jeremy** ZHSJL4 \- **Jesica** 8YFL8T, YYSEV5 \- **Jessica 4DTUW6 \- Jesua** XH2446 \- **Jeshua**  6QTNCX, LCGMTK, WKT9XN, UFEUD2 \- **Jesús** ZEDTNW, ZQRPGW \- **Jimena** ATVRUU \- **Joan** VZ4TY9 \- **Joana** 7U3R9D \- **Joanna** T9UJMP \- **Joaquín**  U9ZV92 \- **Job**  J5HYY2 \- **Jocelyn** CU6X4E, BP4BSQ \- **Joel** MMTHB4, H4LK2K \- **Johan**  ASGK4F \- **Johanna**  V4LUEE \- **Johenna** MKH4HC, 4NGH85, QXVWPA \- **Jonatan** 8T9YUR \- **Jonathan JUDSPC- Jhonathan (sí, con dos h)** X3TE7F, BK3FVG \- **Jorge** D8VY2V \- **Josceline** JNUXUA, ZE3R39, X4BZBK, RKUDH3, K7AFKF, JN42QP \- **José**  74KTUS \- **Joselyn** KRN9CS, LKAE3D \- **Josh tuua** 8QFQER 8ZEKK9 **Joshua** K8KLF2, G2SQMG \- **Josué** FL5998 \- **Jothan** HQX32E \- **Jovany** H3DW2S, B54D8Z \-B63GTY, WWTRWU **Juan** R9DENV, CSZCKD \- **Judith** SSGL8J, M3SNLV \- **Julia** QE4UEL, 99YS7A \- **Julian**  9DT7WG \- **Juliana** UN34WK \- **Julieta 7GW9UE \- Julieta** CA469K \- **Julio** |
 | **K** |
@@ -2688,7 +2688,7 @@ SSD55C \- Zunun
 ***7***  **GVALGQ, GNPVXS**
 ***8 KBH4QN,***
 ***9 9ZP2AZ, X4XZKY,  FWAU7T***
-***10***
+***10 JDHWGM***
 ***11 RLTSWT***
 ***12 HB9TUV***
 ***13 M8RMH9,*** GFES9K, ZK2VQW
@@ -2934,7 +2934,7 @@ SSD55C \- Zunun
 
 ## **APARTADO “CAZADORA DE MITOS”** {#apartado-“cazadora-de-mitos”}
 
-8R5W24, 4DB2PC, GMXC4A, ZWLYNY, B6N39M, V68MGH, B6N39M, K9ABJD, YK4BPW, YPHDQH, RVDYNM, FTJ9YB, 6WCB38, GA7BM5
+8R5W24, 4DB2PC, GMXC4A, ZWLYNY, B6N39M, V68MGH, B6N39M, K9ABJD, YK4BPW, YPHDQH, RVDYNM, FTJ9YB, 6WCB38, GA7BM5,  JDHWGM
 
 ##  **APARTADO A COMPA DE BANCA 🪑** {#apartado-a-compa-de-banca-🪑}
 
@@ -3299,6 +3299,7 @@ Sociologia 2022 Fes Acatlán SPN24H
 23 de abril \- YG3PZF
 12de agosto
 23 de mayo- YG7BHR
+10 de mayo \- JDHWGM
 
 ## **NVA94H**
 
