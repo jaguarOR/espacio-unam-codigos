@@ -70,6 +70,7 @@
 | `EFJWGK` | Relaciones Internacionales | doc |
 | `VD522A` | Relaciones Internacionales | doc |
 | `AJ8KGJ` | Relaciones Internacionales | doc |
+| `5T9VMQ` | Relaciones Internacionales | doc |
 | `NKNAFP` | Relaciones Internacionales SUAYED | doc |
 | `BASB5W` | Relaciones Internacionales SUAYED | doc |
 | `VD522A` | Relaciones Internacionales SUAYED | doc |
