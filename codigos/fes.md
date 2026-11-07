@@ -348,6 +348,7 @@
 | `74JVX7` | Cirujano Dentista | doc |
 | `8KTVEE` | Cirujano Dentista | doc |
 | `MEB379` | Cirujano Dentista | doc |
+| `JXVZDU` | Cirujano Dentista | doc |
 | `JKTGSW` | Optometría | doc |
 | `H8CZP8` | Optometría | doc |
 | `PZ3X8E` | Optometría | doc |

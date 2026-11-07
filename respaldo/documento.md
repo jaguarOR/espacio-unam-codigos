@@ -1041,7 +1041,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Etnomusicologia:**
 
-**Ingeniería Eléctrica y Electrónica:** GTTYS2**,** F783Q6, 5, LKAE3D, 4THUMF, 8ZEKK9, V569QT
+**Ingeniería Eléctrica y Electrónica:** GTTYS2**,** F783Q6, 5, LKAE3D, 4THUMF, 8ZEKK9, QT
 
 **Ingeniería en Computación:** NQYJ5W, V8VEEB, DUQTLH, VQ8HT4, GK234W, C77D4V, PKJWXH, 62MWGU, RXMWFZ, LTVR5B, U4S826, FS9FAU 8J76TG,
 
@@ -1305,7 +1305,7 @@ Enfermería: **RAUM9Z**, **X7BTUA,  HXYHZQ**
 
 Médico Cirujano: **7HQ8FR, M6Q9JV, 92B2W3, 6A6RSY, 2M7NP7**
 
-Cirujano Dentista: **HENQS4, 74JVX7, 8KTVEE, MEB379**
+Cirujano Dentista: **HENQS4, 74JVX7, 8KTVEE, MEB379, JXVZDU**
 
 Optometría: **JKTGSW, H8CZP8, PZ3X8E**
 

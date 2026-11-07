@@ -12,8 +12,8 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 | [Carreras que ya no existen o cambiaron de nombre](carreras-que-ya-no-existen-o-cambiaron-de-nombre.md) | 11 |
 | [CCH](cch.md) | 17 |
 | [Prepas](prepas.md) | 20 |
-| [ENES](enes.md) | 117 |
-| [FES](fes.md) | 427 |
+| [ENES](enes.md) | 116 |
+| [FES](fes.md) | 428 |
 | [Facultades de CU](facultades-de-cu.md) | 704 |
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 32 |
 | [Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia](instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-morelia.md) | 3 |

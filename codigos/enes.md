@@ -27,7 +27,6 @@
 | `LKAE3D` | 5 | doc |
 | `4THUMF` | 5 | doc |
 | `8ZEKK9` | 5 | doc |
-| `V569QT` | 5 | doc |
 | `NQYJ5W` | Ingeniería en Computación | doc |
 | `V8VEEB` | Ingeniería en Computación | doc |
 | `DUQTLH` | Ingeniería en Computación | doc |
