@@ -90,6 +90,7 @@
 | `KQHYGR` | Órtesis y Prótesis | doc |
 | `TT9QJA` | Órtesis y Prótesis | doc |
 | `8DAUF2` | Órtesis y Prótesis | doc |
+| `U7D5ZC` | Psicología | doc |
 | `FNXSDN` | Historia | doc |
 | `W7PL3L` | Negocios Internacionales | doc |
 
@@ -136,6 +137,7 @@
 | `P2Z3FB` | Ciencias de la Tierra | doc |
 | `T53TWT` | Ciencias de la Tierra | doc |
 | `YLA386` | Ingeniería en Computación | doc |
+| `UEZKHZ` | Biología | doc |
 | `RGVNRQ` | Manejo Sustentable de Zonas Costeras | doc |
 | `2CPSVN` | Geografía Aplicada | doc |
 | `VMHDRH` | Sociología Aplicada | doc |
