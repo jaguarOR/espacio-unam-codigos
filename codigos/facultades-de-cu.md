@@ -436,7 +436,7 @@
 | `3GEXKK` | Lengua y Literaturas Modernas Francesas | doc |
 | `XEMANH` | Lengua y Literaturas Modernas Francesas | doc |
 | `H47GVV` | Lengua y Literaturas Modernas Francesas | doc |
-| `DBT5GV` | Lengua y Literaturas Modernas Alemanas | doc |
+| `DBT5GV` | Lengua y Literaturas Modernas Alemanas:C | doc |
 | `MZZQ3K` | Lengua y Literaturas Modernas Inglesas | doc |
 | `VECKTJ` | Lengua y Literaturas Modernas Inglesas | doc |
 | `5GBMQ7` | Lengua y Literaturas Modernas Italianas | doc |
@@ -702,6 +702,7 @@
 | `TUBLX3` | Derecho | doc |
 | `JPJXQW` | Derecho | doc |
 | `MJPW9K` | Derecho | doc |
+| `SDPBTV` | Derecho | doc |
 | `RVT6RY` | Derecho SUAYED | doc |
 | `9ASR8W` | Derecho SUAYED | doc |
 | `47BH5C` | Derecho SUAYED | doc |

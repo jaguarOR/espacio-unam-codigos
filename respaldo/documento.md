@@ -329,7 +329,7 @@ Para «Los Gises», la escultura de Helen Escobedo que identifica a la FES Iztac
 **4XOLOT**
 Para los ajolotes, tan queridos en la FAD de Xochimilco. Idea de Nathalia. Medalla secreta.
 
-**AGU1LA**
+**AGU1LAAGU1LA**
 Para el águila del pilar de la UNAM, la facultad de Derecho. Idea de Zyanya, Frida, Javier y 5 personas más. Medalla secreta.
 
 **T4K1S**
@@ -872,8 +872,8 @@ La porra del CCH Sur, la que se escucha en sus canchas y en cada encuentro de su
 **C0M0N0T3**
 El canto que la afición universitaria entona con todo el corazón en el Estadio Olímpico Universitario. Idea de Ángel Daniel. Serie «Porras». Medalla secreta.
 
-**3XP3R1M**
-Para quienes han roto un matraz, sacado un 800% de rendimiento o visto a un experimento tomar vida propia. Así también se hace ciencia. Idea de Ilse Andrea, Ángel y Luis Daniel. Solo se gana con su código secreto.
+**un3XP3R1M**
+Para quienes han roto un matraz, sacado un 800% de rendimiento o visto a un experimento tomar vida propia. Así también se hace ciencia. Idea de Ilse Andrea, Ángel y Luis Daniel. Solo  se gana con su código secreto.
 
 **EX0RC1ST4**
 Para la famosa leyenda del exorcismo de la Facultad de Psicología, la historia que pasa de generación en generación por sus pasillos. Idea de Aide. Medalla secreta.
@@ -1319,7 +1319,7 @@ Biología: KWAFZM, **, NZS26K, ATFDWR, UZK9Z4, X74JDR, XX6TTD, QZEQHG**
 
 Médico Cirujano: ZWLYNY, K7HSZT, 7WBMZG, Z5B27L, 665H4N, JUPMS4, T8VYDC, BELPYW, Y9DWP5, WHRPQ7, Y9DWP5, 7D3VH8
 
-Psicología: **BKY7PY**, **3ZQQKP**, **TE86WP, 5RF2MC, QXVWPA, 7BQJF3, JMXYWE, TEQN9R, 38V3T6, WGM2KG, XLWSAA, 4HU2PV, E3ADVA, WJH8ME, P992QH**
+Psicología: **BKY7PY**, **3ZQQKP**, **TE86WP, 5RF2MC, QXVWPA, 7BQJF3, JMXYWE, TEQN9R, 38V3T6, WGM2KG, XLWSAA, 4HU2PV, E3ADVA, WJH8ME, P992QH, 5K9LAZ**
 
 Desarrollo Comunitario para el Envejecimiento: **54TU4U, 6R89TY, T7EPF6**
 
@@ -1493,7 +1493,7 @@ Lengua y Literaturas Hispánicas: **VNMPZ9,** **2B9BEB, MD2YTA, CWFTUP, 8N24Z3, 
 
 Lengua y Literaturas Modernas Francesas: **TVPG8X, AB3MHG, 865U4C, 3GEXKK, XEMANH, H47GVV**
 
-Lengua y Literaturas Modernas Alemanas: **DBT5GV**
+Lengua y Literaturas Modernas Alemanas:C **DBT5GV**
 
 Lengua y Literaturas Modernas Inglesas: **MZZQ3K, VECKTJ**
 
@@ -1568,7 +1568,7 @@ Economia SUAyED**: S5VEZU, BHXKZL,42DDXA AGLLPJ, 4G7JK7, J6VTDU**
 
 ### ***Facultad de Derecho*** {#facultad-de-derecho}
 
-Derecho: **PBNGNC,** **QMDEAM**, **CF4UBR, MFCF6H, UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K, QMDEAM**
+Derecho: **PBNGNC,** **QMDEAM**, **CF4UBR, MFCF6H, UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K, QMDEAM, SDPBTV**
 
 Derecho SUAYED: **RVT6RY, 9ASR8W, 47BH5C, 74KTUS,  7UGZTJ, UU6VPQ, YFF678, 6S9FH3, CEB2F7, M8MRDM, XJ65S3, WGV9N9**
 
@@ -1716,7 +1716,7 @@ SKBZDL-**Sayra** XTEKTV \- **Scarlett** CC2JVA, VMXG5A, FDSTL4 \- **Sebastián**
 | **W** |
 | 6MURMS, M74RPM, RPJXBK, QW57KK \- **Wendy**  \- **Williams** CJ4TXS \- **Winni** |
 | **X** |
-| 2LFB55 \- **Xareni**  HW7HFN \- **Xavier** BKY7PY, Y6JME9, ER4UV5,UMZHHH, 4SPRWY , 76P6V4, VUGKWY, 39GFZJ, A6QH5Y, SMNMJW, HAAYEY, V2K3NW \- **Ximena** 7NBCL7 \- **Xochitl** |
+| 2LFB55 \- **Xareni**  HW7HFN \- **Xavier** BKY7PY, Y6JME9, ER4UV5,UMZHHH, 4SPRWY , 76P6V4, VUGKWY, 39GFZJ, A6QH5Y, SMNMJW, HAAYEY, V2K3NW, 44NUZX- **Ximena** 7NBCL7 \- **Xochitl** |
 | **Y** |
 | GUT5DE, Y7J263 \- **Yael** LGRZ65 \- **Yaelih** HKDG94 \- **Yahel** 8DVQXG \- **Yahir** BU3BHP \- **Yamil AUB6XJ \- Yamile** RSJUH3 \- **Yaneli** 73VSTT \- **Yanine** QXC39N \- **Yaotli 7HQ8FR \- Yara**  2RBCJ8 \- **Yareli** C5YRWU 6YLFPN \- **Yaretzi**  P3ZRE5 \- **Yaritzi** XCDN8J \- **Yasari** 68DWUL \- **Yazaray** FDDWLX \- **Yeimi** R2H89V \- **Yesenia** DRA7FR \- **Yesica** FNBTDD \- **Yessenia** ZWB5GG \- **Yeshua**  AEXBFW \- **Yetzie** KNLS2K \- **Yoalli** 3W637B \- **Yoatl** J7QZJW  \- **Yoari**  PXH6BE  \- **Yosahary** YFJFHK \- **Yosaira** 6G6XMW \- **Yojhan** LF4ZAE \- **Yoletzi** 485WSG, Z42WRW \- **Yolotzin**  WWZ8MG \- **Yoltic** C6B3KA \- **Yostyn** YSS7JK \- **Yosune** 8WF3VJ \- **Yuliana** 9VTMSR \- **Yuri**  |
 | **Z** |
@@ -2799,7 +2799,7 @@ SSD55C \- Zunun
 ***23 AKASBM***
 ***24***
 ***25 T4CVFZ***
-***26 3C9YXF***
+***26 6G2Y54, 3C9YXF***
 ***27 DZ239X***
 ***28 V6ZKQ8, QGZNVD***
 ***29 QC4WVW***
