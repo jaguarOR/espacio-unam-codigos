@@ -530,6 +530,7 @@
 | `YK4BPW` | Políticas y Administración Pública | doc |
 | `V7QEMW` | Políticas y Administración Pública | doc |
 | `PGPXPL` | Políticas y Administración Pública | doc |
+| `JJ3E4V` | Políticas y Administración Pública | doc |
 | `6DULNS` | Relaciones Internacionales | doc |
 | `NK254K` | Relaciones Internacionales | doc |
 | `S7HWRK` | Relaciones Internacionales | doc |
@@ -755,6 +756,7 @@
 | `SUHQ7N` | Psicología SUA | doc |
 | `2G5REG` | Psicología SUA | doc |
 | `LVD3EW` | Psicología SUA | doc |
+| `J3HE9B` | Psicología SUA | doc |
 
 ## Facultad de Odontología
 
