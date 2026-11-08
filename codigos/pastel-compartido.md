@@ -513,6 +513,7 @@
 | `3C5MX2` | DICIEMBRE | doc |
 | `KWRTRY` | DICIEMBRE | doc |
 | `LXYBNV` | DICIEMBRE | doc |
+| `39M9RZ` | DICIEMBRE | doc |
 | `TPZWY9` | Aguascalientes | doc |
 | `UEW98C` | Baja California Sur | doc |
 | `KVMVNM` | Baja California Sur | doc |
@@ -683,6 +684,7 @@
 | `X5NADC` | Tabasco | doc |
 | `ZEWEKJ` | Tabasco | doc |
 | `CBU3CE` | Tamaulipas | doc |
+| `39M9RZ` | Tamaulipas | doc |
 | `4G7JK7` | Tlaxcala | doc |
 | `P3ZRE5` | Tlaxcala | doc |
 | `9KPM49` | Tlaxcala | doc |

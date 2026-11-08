@@ -459,7 +459,7 @@ Para Vainilla, la husky consentida de la ENES Morelia. Idea de Montserrat Mirand
 Para Izta y Cala, el puma y la puma que acompañan y motivan a toda la comunidad de la FES Iztacala. Idea de Andrea Cario, José Millán y Axel García. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **UUDDLRLRBA**
-↑ ↑ ↓ ↓ ← → ← → B A: el truco más famoso de los videojuegos también funciona en Espacio. Idea de Darik Omaña. Medalla secreta.
+Para la comunidad gamer de la UNAM: ↑ ↑ ↓ ↓ ← → ← → B A: el truco más famoso de los videojuegos también funciona en Espacio. Idea de Darik Omaña. Medalla secreta.
 
 **H0L4MD0 / H0L4WL**
 Para quien escribió su primer programa y vio aparecer en la pantalla «Hola, mundo»: así empieza toda persona que programa. Idea de Rafael Mex y Ángel Lara. Medalla secreta.
@@ -968,6 +968,10 @@ Para quienes alguna vez buscaron (o mandaron a buscar) la famosa alberca del úl
 
 Descarga Cultura.UNAM: cuentos, poesía, conferencias y música para escuchar gratis, cuando y donde quieras. Serie «Cultura en tu bolsillo». Idea de Carlos. Medalla secreta.
 
+**CINCOMIN**
+
+Para quienes alguna vez se quedaron dormidos en clase (con el codo de almohada). Medalla meme. Idea de Uriel, Bruno, Ángel y 2 personas más.
+
 ¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta Pd:si la pestaña se queda quieta más de 15 minutos sin moverte, el tiempo de reinicia.
@@ -1011,7 +1015,7 @@ Comunicación Gráfica **GKBNW8**
 
 Música y tecnología artística: **5VSKLQ**
 
-Teatro y Actuación / CUT:  **DNX7NY** (La persona no dió su autorización para estar en este documento, pide que al menos la sigan en insta es majoopastelito) esa mamada, x2 jaja
+Teatro y Actuación / CUT:  **DNX7NY**
 
 Ingeniería Topográfica y geodesica\!\!\!: **8T2H42**
 
@@ -1136,7 +1140,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Neuro:** SHK8MR, JUJB7X, Z3CBJ5,
 
-**Órtesis y Prótesis:**  KQHYGR, TT9QJA, 8DAUF2
+**Órtesis y Prótesis:**  KQHYGR, TT9QJA, 8DAUF2, 39M9RZ
 
 **Psicología:** U7D5ZC
 
@@ -1442,7 +1446,7 @@ Ingeniería en Telecomunicaciones:**QPEKZ5, QNMADL, Q7VTCU, 9RDDKY**
 
 Ingeniería Geofísica: **JBSBZL, S8FQY4 , XH49V6, 5WJBJF, EHKDLJ, 6YPU7Z, EZ55XC**
 
-Ingeniería Geológica:TVSXD8**, MKKV83, YG7BHR**
+Ingeniería Geológica:TVSXD8**, MKKV83, YG7BHR, X3DZYF**
 
 Ingeniería Geomática **ETW2ZZ, 3A7PQZ, CTPGJB**
 
@@ -1526,7 +1530,7 @@ Química e Ingeniería en Materiales: **AWFUWK, QE4UEL,**
 
 Química Farmacéutico Biológica: **LX6WZD**,  **6QTNCX**, **PA7FWF**, **X82MPH, BD452P, MXM4V3, T3CJMF JQAF7Q, 4QY6A9, GNTMN6, ASGK4F**
 
-Química Industrial: **K9W559**
+Química Industrial:
 
 ***Facultad de Trabajo Social***
 
@@ -1806,6 +1810,7 @@ U2LRPH \- Agustín
 ZS32YZ \- Aguilera
 S5G28G  \-  Ahumada
 TZF2H7 \- Alamo
+39M9RZ \- Alanis
 5RF2MC  \-  Alarcón
 XRE63S, MTW6EY \- Alcántara
 J8LGHK \- Alcazar
@@ -2418,6 +2423,7 @@ YK4BPW \- Samano
 BE5FU9 \- Sanabria
 JUBN3N, R4GH96, ETW2ZZ, FL5998, SQMUC6, HDYHEQ, DBY6Z4 \-  Sánchez
 8ERZAR \- Sandoval
+39M9RZ \- Santamaria
 N3MF6K \- Santana
 9RDDKY, 7GW9UE \-  Santiago
 AR9SK7 \- Santillán
@@ -2565,7 +2571,7 @@ SSD55C \- Zunun
 | **SEPTIEMBRE** HZ6A9Z, RZ6XRU**,** GLWNDS, BYF2UV, X87RX3, RUR545, 9MVBUH, BVWBB6, USVWAX, FMBLNQ, FL5998, LEH2JS', JPLRZG, U44QDA, DUP9YP, HMZ3AD, UUN8K5, UH9C9E. QMDEAM, YK9XG3, 82H488,9RE3VP, Z7BAJP, 74MYW8, X4BZBK, W3AQ9D, HERGCA, CRWXDZ, CXZGG6, CBHD9N, BK3FVG, NKMK4D**,** 6LV4PL, WPWR7B, ZTQ9QP, EGRGG2, UAW9AA, MJPW9K, CY5CX8, YFJFHK, 4QY6A9  |
 | **OCTUBRE** GHSX27, VNMPZ9, ESN8G3, 8C9ST8, TZ3CU6, LDGQ8R, DX388V, F783Q6, KXQAX2, Z9D3BT, QCDXFG, UQQGXT, FFWLPX, TJ5QL3, WZ73LP, P7PAUD, 3SPJYT, T6DEYV, 92B2W3, SDPBTV, ZAX4D8, LH9W8W, 7GW9UE,77S9EC, NZZ4RS, MFCF6H, 3DDLSL |
 | **NOVIEMBRE** 2K9FK5, CBU3CE, JL85MQ**,** C77D29**,**, VPRKQA**,** 74KTUS, 6WM8QZ, , K4P832, F698MD, QY3VQ9, NEKJCK, FHQXMQ, 9RDDKY, W3FLD6, VZ36RJ, 2M56EN, W8LHZL, HFAAS9, UN34WK, RWSHM3, 33DBC2, UMZHHH, L3CJV6, 4CYKPC, 6PHCHQ, PW5KSH, CY6ATS , CJXGS2, ALKPT3, GTMTH9, K7AFKF, Y2SM92, NQPMGB, 6DT6SY, CJXGS2, HC2CCM, UJ4PZC, M3XBS3, 8JH9PL, VG39JT, 6MURMS, 3EADS3 659JAD , T7XCPM, J6VTDU, DK66GK, AVJUJF |
-| **DICIEMBRE** RGUKR3,, UU6VPQ, XJWH5V, MNM229,T9UJMP, P8E4PW, TAZL6P, MGQ845,VKR49Z  9DT7WG, VU4EAW, M8MRDM, RMNQ7T, QR4PLZ, 27YHVB, MP7Y6M, ZWLYNY, 4CDW4N, 9TSJ9S, RWKVVL, JCDSEA, MHLNQF,NWG754, QGLTRC, EE55CC,B3FPGG, ACZ97F, 4VP5BY, M7PS49, XLWSAA, F5Z27H, 39GFZJ, 9HHDZS ALVDTP, DRVR87, BPY827, KB5FFD, HLTR92, DRVR87,BTJWYA, GSWGUF, SQVJ7P, KEPNNC, PQX8FT, DRVR87, ZWLYNY, ZT5TXN, 79LV2Z, ACZ97F, YGTGPZ, G9HCLW, JJ3E4V W25A2E, QAN9U2, 634MZ6, LHPSC9, 3C5MX2,KWRTRY, LXYBNV |
+| **DICIEMBRE** RGUKR3,, UU6VPQ, XJWH5V, MNM229,T9UJMP, P8E4PW, TAZL6P, MGQ845,VKR49Z  9DT7WG, VU4EAW, M8MRDM, RMNQ7T, QR4PLZ, 27YHVB, MP7Y6M, ZWLYNY, 4CDW4N, 9TSJ9S, RWKVVL, JCDSEA, MHLNQF,NWG754, QGLTRC, EE55CC,B3FPGG, ACZ97F, 4VP5BY, M7PS49, XLWSAA, F5Z27H, 39GFZJ, 9HHDZS ALVDTP, DRVR87, BPY827, KB5FFD, HLTR92, DRVR87,BTJWYA, GSWGUF, SQVJ7P, KEPNNC, PQX8FT, DRVR87, ZWLYNY, ZT5TXN, 79LV2Z, ACZ97F, YGTGPZ, G9HCLW, JJ3E4V W25A2E, QAN9U2, 634MZ6, LHPSC9, 3C5MX2,KWRTRY, LXYBNV, 39M9RZ |
 
 **LOGRO DE TODA LA REPÚBLICA 🗺️**
 
@@ -2597,7 +2603,7 @@ SSD55C \- Zunun
 | **Sinaloa:** DSN67E |
 | **Sonora:** W6JDTE |
 | **Tabasco:**, X5NADC, ZEWEKJ |
-| **Tamaulipas:** CBU3CE,  |
+| **Tamaulipas:** CBU3CE, 39M9RZ |
 | **Tlaxcala:** 4G7JK7, P3ZRE5, 9KPM49 |
 | **Veracruz:** LM2U7L, DH3XJL, CZ32GG, N8UE5V, NTQFMQ, MTXZ58 |
 | **Yucatán:** UBQJR5 |
@@ -2945,7 +2951,7 @@ SSD55C \- Zunun
 ***11\. BJXGSZ, 659JAD***
 ***12***
 ***13 R2CPA3, XJ65S3***
-***14 UJ4PZC***
+***14 UJ4PZC, W9KP5H***
 ***15 4YDJ8D***
 ***16 MU5Q4Z***
 ***17 GN33YY***
@@ -2975,7 +2981,7 @@ SSD55C \- Zunun
 ***10 3SCLAP***
 ***11*** \- XJWH5V, HBZN3T
 ***12\.  PQX8FT***
-***13\. 68GS37***
+***13\. 68GS37, 39M9RZ***
 ***14 FA7FL7***
 ***15 Q9AML2 , R5UKGS, 7TUCT5***
 ***16  39GFZJ***
@@ -3322,6 +3328,8 @@ Ingeniería Mecánica FES Aragón
 Ingeniería de Minas \| FI \| 2015 \- 4VP5BY
 
 Ingeniería en Telecomunicaciones, Sistemas y Electrónica \|FESC\|: M7PS49(2019), NZV72B
+
+ITSE: W9KP5H (2025)
 
 Ingeniería en Telecomunicaciones, Sistemas y Electrónica \|FESC\|: (2026) GTYWRN
 

@@ -154,6 +154,7 @@
 | `TVSXD8` | Ingeniería Geológica | doc |
 | `MKKV83` | Ingeniería Geológica | doc |
 | `YG7BHR` | Ingeniería Geológica | doc |
+| `X3DZYF` | Ingeniería Geológica | doc |
 | `ETW2ZZ` | Ingeniería Geomática | doc |
 | `3A7PQZ` | Ingeniería Geomática | doc |
 | `CTPGJB` | Ingeniería Geomática | doc |
@@ -386,7 +387,6 @@
 | `4QY6A9` | Química Farmacéutico Biológica | doc |
 | `GNTMN6` | Química Farmacéutico Biológica | doc |
 | `ASGK4F` | Química Farmacéutico Biológica | doc |
-| `K9W559` | Química Industrial | doc |
 | `3PXTU2` | Trabajo Social | doc |
 | `DNLR3P` | Trabajo Social | doc |
 | `VTPBQ4` | Trabajo Social | doc |

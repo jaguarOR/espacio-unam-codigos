@@ -89,6 +89,7 @@
 | `KQHYGR` | Órtesis y Prótesis | doc |
 | `TT9QJA` | Órtesis y Prótesis | doc |
 | `8DAUF2` | Órtesis y Prótesis | doc |
+| `39M9RZ` | Órtesis y Prótesis | doc |
 | `U7D5ZC` | Psicología | doc |
 | `FNXSDN` | Historia | doc |
 | `W7PL3L` | Negocios Internacionales | doc |
