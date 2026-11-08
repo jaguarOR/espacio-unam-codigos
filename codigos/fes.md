@@ -457,3 +457,9 @@
 | `QQN4JV` | Cirujano dentista | doc |
 | `MTW6EY` | Cirujano dentista | doc |
 | `AARUZQ` | Cirujano dentista | doc |
+
+## FES Cuautitlan
+
+| Código | Etiqueta | Origen |
+|---|---|---|
+| `M8PN5M` | Ingeniería en Telecomunicaciones, sistemas y electrónica | comunidad |
