@@ -439,6 +439,7 @@
 | `5KBMKG` | Jacinto | doc |
 | `BBVWWW` | Jácome | doc |
 | `DEUE26` | Jacobo | doc |
+| `YN2FFY` | Jaime | doc |
 | `KZUHQL` | Jaime | doc |
 | `YATFRA` | Jaimez | doc |
 | `VVXVRV` | Jahuey | doc |
@@ -710,6 +711,7 @@
 | `ZD6GZX` | Panohaya | doc |
 | `XBAVG5` | Pegueros | doc |
 | `GFE3DQ` | Peralta | doc |
+| `42PR7M` | Peraza 🥺 | doc |
 | `VZ4TY9` | Peralta | doc |
 | `HE4X2K` | Pérez | doc |
 | `XQST48` | Pérez | doc |

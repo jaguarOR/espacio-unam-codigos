@@ -259,6 +259,7 @@
 | `M3SNLV` | 18 | doc |
 | `TVSXD8` | 19 | doc |
 | `C4CR5W` | 20 | doc |
+| `YN2FFY` | 20 | doc |
 | `YATFRA` | 21 | doc |
 | `CEB2F7` | 21 | doc |
 | `9VVQ6V` | 21 | doc |

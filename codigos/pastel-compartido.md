@@ -681,6 +681,7 @@
 | `DSN67E` | Sinaloa | doc |
 | `W6JDTE` | Sonora | doc |
 | `X5NADC` | Tabasco | doc |
+| `ZEWEKJ` | Tabasco | doc |
 | `CBU3CE` | Tamaulipas | doc |
 | `4G7JK7` | Tlaxcala | doc |
 | `P3ZRE5` | Tlaxcala | doc |

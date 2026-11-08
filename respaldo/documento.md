@@ -159,8 +159,8 @@
 
 ## **MEDALLAS SECRETAS** {#medallas-secretas}
 
-**3AKJEE**
-Este código es del mero mero, del jefazo (el creador de Espacio UNAM) les da medalla secreta ahhhh atte. Runix 🫰🏻
+**J3AKJEE**
+**Este** código es del mero mero, del jefazo (el creador de Espacio UNAM) les da medalla secreta ahhhh atte. Runix 🫰🏻
 
 **T0M43ST0**
 
@@ -168,6 +168,12 @@ Este código es del mero mero, del jefazo (el creador de Espacio UNAM) les da me
 
 **T3NAZ7**
 Otro código secreto, se premia nuestra perseverancia.
+
+**GR4C1AZ**
+
+Agradecimiento a nuesytras mscotas que siempre nos acompañan
+
+**Otro código secreto, se premia**
 
 **3Y3E34**
 Otro código secreto: la UNAMball.
@@ -954,9 +960,15 @@ Trabajar, aprender, comer, descansar y jugar: el plan de estudios más completo 
 
 Gracias a Cahos que desde hace décadas alimenta y consciente a generaciones de la Prepa 2
 
-¿Alguien tiene el código de la “startup"?
+**A1B3RCA**
 
-Alguien tiene la de “La alberca que no existe”?
+Para quienes alguna vez buscaron (o mandaron a buscar) la famosa alberca del último piso de su prepa o CCH. Bienvenida a la tradición. Medalla meme. Idea de Arturo.
+
+**D3SC4RG4**
+
+Descarga Cultura.UNAM: cuentos, poesía, conferencias y música para escuchar gratis, cuando y donde quieras. Serie «Cultura en tu bolsillo». Idea de Carlos. Medalla secreta.
+
+¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta Pd:si la pestaña se queda quieta más de 15 minutos sin moverte, el tiempo de reinicia.
 
@@ -1715,7 +1727,7 @@ YA NO LO BORREN
 | **C** |
 | BP23LR, EE55CC, 3MXTEL \- **Camila** QP8C79 \- **Catherine 2K9FK5 \- CALEB** NEKJCK \- **Carla** XVNKKN \- **Carlo** JHCABD, ACZ97F \- **Carlos** 5WZDUP, 78K5AB, KB5FFD \- **Carmen** GC6HKG, 46Q2KK \- **Carol** KQTXQ3, \- **Carolina** 6UQTGW \- **Casandra** DBUTNQ \- **Cassandra**  K6APFR \- **Cecilia** Z7BAJP \- **Celic** SBP82Q \- **César** 5P477Q , XJWH5V \- **Christian** METDCV \- **Christofer**  ZCZAKQ \- **Christopher**  \- **Cielo** HYSHQ5 \- **Cindy** LEH2JS \- **Citlali** NYHVEN \- **Citlalli** 4C7WHL \- **Citlalmina**  PQ2FWE, NWG754 \- **Claudia** HU9HCY, KFWUSC \- **Constanza** GHCDJB, X5S4VQ, TRAGDN \- **Cristal** SQMUC6 \- **Cristian** GRFFUL, 7TUCT5, 7P9WUS \- **Cristina**  YTVD9L **\- Crista** F5JCTS \- **Cynthia** RJ863T **\- Citlaly**  YQKYA4 \- **Cuauhtémoc**  |
 | **D** |
-| VVG2NM \- **Dafne 3PPWQ5 \- Daphne** ESNV5Y \- **Dalí**  RWSHM3, KLVKPA  \- **Dalia** 36562B \- **Damaris** AQQ37Y \- **Damian**  VVXVRV \- **Dana**  JWZJ9R  \- **Danae**  VKVDLU \- **Danna** D34KZG, DBFAJH, ZE3R39, J7WBD7 \- **Daniel** YXVL5Z, PWGZE8, S5VEZU, EBKB4C, JCDSEA \- **Daniela** 5FT2AY, NWX4TN \- **Daira** F7E3UH \- **Dara** L3CJV6 \- **Darien** NEARSC \- **Darik** DBJCGD **\- Darinka** JUBN3N \- **Darío** AXFFAE \- **Dasha** 9GE77M \- **Dante** YBN3XW, YBN3XW- **David** 9ZULZT \- **DAYNA ( No Dayana)** JUJB7X \- **Dayana** L29XDT \- **Dayane** YK9XG3 \- **Dayra** FNXSDN \- **Delia** WUJYVC \- **Demián**  ETW2ZZ \- **Denis** 6WGN6F \- **Denisse NKNAFP \- Deniz** 6RQUDB \- **Dennis** E8QL98 \- **Derek** JSDWQM \- **Desireé** CBMN94, XRE63S, VEXQQZ, ESZSG5, 8AH8Y9 \- **Diana** 7FJGHH \- **Diane** 4T9W9R, HPGXDE, FZTJCT, AV5UAQ, APSHVP, J8S4ZS, NWB7JG \- **Diego** 9DT2GX \- **Dinorah** G8ZWJ9,  YFJFHK \- **Donají** ZBV554 \- **Donovan** HNXP56 \- **Dorian** RDFGD3, 7RKM4V, YY4XRF- **Dulce** |
+| VVG2NM \- **Dafne 3PPWQ5 \- Daphne** ESNV5Y \- **Dalí**  RWSHM3, KLVKPA  \- **Dalia** 36562B \- **Damaris** AQQ37Y \- **Damian**  VVXVRV \- **Dana**  JWZJ9R  \- **Danae**  VKVDLU \- **Danna** D34KZG, DBFAJH, ZE3R39, J7WBD7 \- **Daniel** YXVL5Z, PWGZE8, S5VEZU, EBKB4C, JCDSEA \- **Daniela** 5FT2AY, NWX4TN \- **Daira** F7E3UH \- **Dara** L3CJV6 \- **Darien** NEARSC \- **Darik** DBJCGD **\- Darinka** JUBN3N \- **Darío** AXFFAE \- **Dasha** 9GE77M \- **Dante** YBN3XW, YBN3XW- **David** 9ZULZT \- **DAYNA ( No Dayana)** JUJB7X \- **Dayana** L29XDT \- **Dayane** YK9XG3 \- **Dayra** FNXSDN \- **Delia** WUJYVC \- **Demián**  ETW2ZZ \- **Denis** 6WGN6F \- **Denisse NKNAFP \- Deniz** 6RQUDB \- **Dennis** E8QL98 \- **Derek** JSDWQM \- **Desireé** YN2FFY, CBMN94, XRE63S, VEXQQZ, ESZSG5, 8AH8Y9 \- **Diana** 7FJGHH \- **Diane** 4T9W9R, HPGXDE, FZTJCT, AV5UAQ, APSHVP, J8S4ZS, NWB7JG \- **Diego** 9DT2GX \- **Dinorah** G8ZWJ9,  YFJFHK \- **Donají** ZBV554 \- **Donovan** HNXP56 \- **Dorian** RDFGD3, 7RKM4V, YY4XRF- **Dulce** |
 | **E** |
 | 7XMBB9, DH5LMV **\- Eder** HR5TVK, C4S5F9 \- **Edgar** VPDHVT \- **Edgardo** Q3Q9LU **\- Edahi** 9MS2MK \- **Edmundo** 48WMEU \- **Edna** 5WL3J2, H6ET8G, HLTR92 \- **Eduardo** DVX6Y3 \- **Edwin** E44DJW, RRB4ZF \- **Efrén** J4C52P \- **Eibraham** 7XMBB9 \- **Eithan**  UTNDXQ \- **Elena** PXH6BE \- **Elí** 7C33QL \- **Eliam**
 XEYR24 \- **Elian** AARUZQ-**Elías**
@@ -1730,7 +1742,7 @@ SGHGQT \- **Hiram**
 T4CVFZ, 6DULNS \- **Hugo**
 L9A6EJ \- **Humberto** 6A755S **\- Hansel** |
 | **I** |
-| CP69HF, EGRGG2 \- **Ian**  ZH8RDP \- **Iann**  JQZR96 \- **Idalia** M7J8JU \- **Ihsahn**  UP638M \- **Iker** R3Y27V \- **Ikki** U54DJC \- **Ilse** QUQ7A4 \- **Imanol** PW5KSH \- **Indra** NQQBE5, UEYXQY \- **Ingrid** XAYS2Y \- **Irais** M2P8C9 \- **Irán** 8C9ST8 \- **Irene** 7Y9LVV **\- Irene**  NDB5AU \- **Iris** FF9N3A \- **Irvin** X2UKCH \- **Irving** EGGBNP, LV6ACX **\- Isaac** JBSBZL**,** KBL9AS, XLWSAA **\- Isabel** NZCWBW \- **Isabella** NN2BAN, 5NP88H \- **Isis** EC2MCG \- **Ismael** PQ8SMT \- **Ismerai** XMKRM8 \- **Israel**  AQK9HC \- **Istvan** ZCAWGA \- **Italy** 6ZBET4 \- Itsani 7GADBP \- **Itza** 8JH9PL, BDJ43Q \- **Itzel** DHXMPS, 2VLF4M, T827MU \- **Ivan** 82H488, URT7XH, 4TYNFK \- **Ivonne** YR3TKQ \- **Ixchel** WARSUJ**\- Inés  DX388V \- Iliana UVJ83P \- Izébel  JXVZDU- ilani** |
+| CP69HF, EGRGG2 \- **Ian**  ZH8RDP \- **Iann**  JQZR96 \- **Idalia** M7J8JU \- **Ihsahn**  UP638M \- **Iker** R3Y27V \- **Ikki** U54DJC \- **Ilse** QUQ7A4 \- **Imanol** PW5KSH \- **Indra** NQQBE5, UEYXQY \- **Ingrid** XAYS2Y \- **Irais** M2P8C9 \- **Irán** 8C9ST8 \- **Irene** 7Y9LVV **\- Irene**  NDB5AU \- **Iris** FF9N3A \- **Irvin** X2UKCH \- **Irving** EGGBNP, LV6ACX **\- Isaac** JBSBZL**,** KBL9AS, XLWSAA **\- Isabel** NZCWBW \- **Isabella** NN2BAN, 5NP88H \- **Isis** EC2MCG \- **Ismael** PQ8SMT \- **Ismerai** XMKRM8 \- **Israel**  AQK9HC \- **Istvan** ZCAWGA \- **Italy** 6ZBET4 \- Itsani 7GADBP \- **Itza** 8JH9PL, BDJ43Q \- **Itzel** DHXMPS, 2VLF4M, T827MU \- **Ivan** YN2FFY, 82H488, URT7XH, 4TYNFK \- **Ivonne** YR3TKQ \- **Ixchel** WARSUJ**\- Inés  DX388V \- Iliana UVJ83P \- Izébel  JXVZDU- ilani** |
 | **J** |
 | FA7FL7, MG9MBE, VQT3ZX \- **Jacqueline**  BPY827 **\- Jaqueline** ZAZBK8 \- **Jade** 6S9FH3 \- **Jael** BXAMZP, QERZ9Y \- **Jair** G5VSUZ \- **Janet** BV6XE8 \- **Janette** ASFT6Z **\- Jared** XCDN8J \- **Jasiel** 3AHQQ8 \- **Jatziri** 9JUXJP 8CYDV9 \- **Javier** V7QEMW, VD522A \- **Jazmin** 89G6U2 \- **Jean** BHJJJA \- **Jeison** 4WKRNM \- **Jenifer** ZV7JT3, BELPYW , JJ3E4V- **Jennifer** G9HCLW- **Jenny GSWGUF, KRYNU4- Jeremy** ZHSJL4 \- **Jesica** 8YFL8T, YYSEV5 \- **Jessica 4DTUW6 \- Jesua** XH2446 \- **Jeshua**  6QTNCX, LCGMTK, WKT9XN, UFEUD2 \- **Jesús** ZEDTNW, ZQRPGW \- **Jimena** ATVRUU \- **Joan** VZ4TY9 \- **Joana** 7U3R9D \- **Joanna** T9UJMP \- **Joaquín**  U9ZV92 \- **Job**  J5HYY2 \- **Jocelyn** CU6X4E, BP4BSQ \- **Joel** MMTHB4, H4LK2K \- **Johan**  ASGK4F \- **Johanna**  V4LUEE \- **Johenna** MKH4HC, 4NGH85, QXVWPA \- **Jonatan** 8T9YUR \- **Jonathan JUDSPC- Jhonathan (sí, con dos h)** X3TE7F, BK3FVG \- **Jorge** D8VY2V \- **Josceline** JNUXUA, ZE3R39, X4BZBK, RKUDH3, K7AFKF, JN42QP \- **José**  74KTUS \- **Joselyn** KRN9CS, LKAE3D \- **Josh tuua** 8QFQER 8ZEKK9 **Joshua** K8KLF2, G2SQMG \- **Josué** FL5998 \- **Jothan** HQX32E \- **Jovany** H3DW2S, B54D8Z \-B63GTY, WWTRWU **Juan** R9DENV, CSZCKD \- **Judith** SSGL8J, M3SNLV \- **Julia** QE4UEL, 99YS7A \- **Julian**  9DT7WG \- **Juliana** UN34WK \- **Julieta 7GW9UE \- Julieta** CA469K \- **Julio** |
 | **K** |
@@ -2123,7 +2135,7 @@ GCAVKF \- Ibañez
 5KBMKG  \-  Jacinto
 BBVWWW \- Jácome
 DEUE26 \- Jacobo
-KZUHQL \- Jaime
+YN2FFY, KZUHQL \- Jaime
 YATFRA \- Jaimez
 VVXVRV \- Jahuey
 J6VTDU \- Janetzy
@@ -2315,6 +2327,7 @@ K3DVAH- Pavia
 ZD6GZX \- Panohaya
 XBAVG5 \- Pegueros
 GFE3DQ \- Peralta
+42PR7M \- Peraza 🥺
 VZ4TY9 \- Peralta
 HE4X2K, XQST48, K7HSZT, 2M56EN, ZKCCMK, V569QT, G9HCLW, RGUKR3, MFCF6H, 4QY6A9- Pérez
 JLCAW9   \- Perfecto
@@ -2583,7 +2596,7 @@ SSD55C \- Zunun
 | **San Luis Potosí:** E377RP, ADBZNZ, XFX8U7 |
 | **Sinaloa:** DSN67E |
 | **Sonora:** W6JDTE |
-| **Tabasco:**, X5NADC |
+| **Tabasco:**, X5NADC, ZEWEKJ |
 | **Tamaulipas:** CBU3CE,  |
 | **Tlaxcala:** 4G7JK7, P3ZRE5, 9KPM49 |
 | **Veracruz:** LM2U7L, DH3XJL, CZ32GG, N8UE5V, NTQFMQ, MTXZ58 |
@@ -2780,7 +2793,7 @@ SSD55C \- Zunun
 ***17***
 ***18\. 4QSM4X, M3SNLV***
 ***19 TVSXD8***
-***20 C4CR5W***
+***20 C4CR5W, YN2FFY***
 ***21 YATFRA, CEB2F7, 9VVQ6V***
 ***22*** 8PAUA9
 ***23*** FTE4UJ
