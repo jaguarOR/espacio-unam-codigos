@@ -144,6 +144,7 @@
 | `2KNNQY` | Derecho | doc |
 | `HQX32E` | Derecho | doc |
 | `DYGJCP` | Derecho | doc |
+| `PDAHU5` | Derecho | doc |
 | `X87RX3` | Economía | doc |
 | `B6N39M` | Economía | doc |
 | `QV8YWM` | Economía | doc |
@@ -251,6 +252,7 @@
 | `V6ZKQ8` | d iseño y visual suayed | doc |
 | `4TYNFK` | d iseño y visual suayed | doc |
 | `VK7DPU` | d iseño y visual suayed | doc |
+| `Y3RF6Y` | d iseño y visual suayed | doc |
 | `CBU3CE` | Ingeniería Mecánica Eléctrica | doc |
 | `A33PGG` | Ingeniería Mecánica Eléctrica | doc |
 | `TSG2P2` | Ingeniería Mecánica Eléctrica | doc |
@@ -267,6 +269,7 @@
 | `LBK24D` | Medicina Veterinaria y Zootecnia | doc |
 | `HC2CCM` | Medicina Veterinaria y Zootecnia | doc |
 | `4NGH85` | Medicina Veterinaria y Zootecnia | doc |
+| `XK7YH5` | Medicina Veterinaria y Zootecnia | doc |
 | `YA8C2Q` | Química | doc |
 | `V4LUEE` | Química | doc |
 | `B9ELGM` | Química | doc |

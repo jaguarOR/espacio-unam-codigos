@@ -357,7 +357,7 @@ Para el árbol de la Facultad de Química que toda su comunidad conoce como «el
 En memoria de Mario Lenguas de Mileto, el perrito del CCH Naucalpan que acompañó a muchas generaciones y hoy tiene un mural en su biblioteca. Idea de María Jasmín, Arcelia, Andrea y 6 personas más. Medalla secreta.
 
 **V4MP1RO**
-Para el vampiro de filos. Este código sólo despierta en Halloween. 🧛
+Para la leyenda del el vampiro de filos. Este código sólo despierta en Halloween. 🧛
 
 **TUTS1**
 Para «MéXXico, el siglo lleva tu nombre», la escultura de la Facultad de Arquitectura que la comunidad llama la Tutsi Pop. Idea de Sergio, Oswald, Axel Emmanuel y 7 personas más. Medalla secreta.
@@ -414,7 +414,7 @@ Para Ris, el león dientes de sable que le saca una sonrisa a toda la Facultad d
 Para el Búho, mascota de la Facultad de Derecho: sabiduría y desvelos de estudio. Idea de Gojan Neri. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **4J0L0T3**
-Para el ajolote, mascota del CCH Vallejo. Idea de José Contreras. Serie «Mascotas de mi escuela». Medalla secreta.
+Para Vallejito , el ajolote, mascota del CCH Vallejo. Idea de José Contreras. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **L30P4RD0**
 Para los Leopardos, la mascota que ruge por la Prepa 8 «Miguel E. Schulz». Idea de Eduardo Palacio y Emiliano Zamudio. Serie «Mascotas de mi escuela». Medalla secreta.
@@ -432,7 +432,7 @@ Para la comunidad del Sistema Incorporado: preparatorias, CCH y licenciaturas in
 Para Rosario Castellanos, escritora que estudió en la Facultad de Filosofía y Letras. Serie «Mujeres que hicieron la UNAM». Idea de Alejandra.
 
 **K4R1M**
-Para Karim, el gatito que adoptó la comunidad de la ENaCiF. Idea de Hashli, Ángel Daniel, Gabriela y Jeon. Serie "Mascotas de mi escuela". Medalla secreta.
+Para Karim, el gatito que adoptó la comunidad de la Escuela Nacional de Ciencias Forenses (ENaCiF). Idea de Hashli, Ángel Daniel, Gabriela y Jeon. Serie "Mascotas de mi escuela". Medalla secreta.
 
 **B3T1T0**
 Para Betito, el capibara mascota cultural de la Facultad de Ingeniería. Idea de Emanuel Escobar y Andrea Rosales. Serie «Mascotas de mi escuela». Medalla secreta.
@@ -1222,7 +1222,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Diseño Industrial:** UWJK4T, KNFKMV, 325FC5, N6DMGP, HGZBWY, 6Z52ZA, SMNMJW
 
-**Derecho: 27YHVB,** TK24MU, SB3S58, 7NSF65, 8GHZQ5, AWLR5V, YY4XRF, 2KNNQY, HQX32E, DYGJCP
+**Derecho: 27YHVB,** TK24MU, SB3S58, 7NSF65, 8GHZQ5, AWLR5V, YY4XRF, 2KNNQY, HQX32E, DYGJCP, PDAHU5
 
 **Economía:** X87RX3, B6N39M, QV8YWM , 84HDNQ, UTX29R,
 
@@ -1264,11 +1264,11 @@ Ingeniería Industrial: **K4RNJH**
 
 Diseño y Visual: **VPRKQA**, **3W5HLK, AV5UAQ, 6HAJFC 3EMQCQ**
 
-d**iseño** y visual suayed: **VPRKQA, 99MYX7, LHDWAY, VPRKQA, CC2JVA, KBCGJE, V6ZKQ8, 4TYNFK, VK7DPU**
+d**iseño** y visual suayed: **VPRKQA, 99MYX7, LHDWAY, VPRKQA, CC2JVA, KBCGJE, V6ZKQ8, 4TYNFK, VK7DPU, Y3RF6Y**
 
 Ingeniería Mecánica Eléctrica: **CBU3CE**, **A33PGG**, **TSG2P2, YY2YU6**
 
-Medicina Veterinaria y Zootecnia: **DJPT7S**, **45KGQP,** **4NHT3T, BNMEKR**,**Z42WRW**, **LWBNBB, 33DBC2, YU9SKV, PL4PL2, LBK24D, HC2CCM, 4NGH85**
+Medicina Veterinaria y Zootecnia: **DJPT7S**, **45KGQP,** **4NHT3T, BNMEKR**,**Z42WRW**, **LWBNBB, 33DBC2, YU9SKV, PL4PL2, LBK24D, HC2CCM, 4NGH85, XK7YH5**
 
 Química: **YA8C2Q, V4LUEE,  B9ELGM, F3WH5B**
 
@@ -1504,7 +1504,7 @@ Lengua y Literaturas Modernas Portuguesas: **, JBND4D**
 
 Literatura Dramática y Teatro:, **6NDDAC**, **ZUACTS, P447L7,FUEQZD, BU4DMD,QC4WVW, UYSLT3**
 
-Pedagogía: **AXBZDR, QGZ72B**, **6TBAMV**, **SEGK57, 2VY8SG**, **E6FYLQ, JUDSPC  Z5KZQ5, QDXBQ9, KZUHQL**
+Pedagogía: **AXBZDR, QGZ72B**, **6TBAMV**, **SEGK57, 2VY8SG**, **E6FYLQ, JUDSPC  Z5KZQ5, QDXBQ9, KZUHQL, 7UPPRY**
 
 Lengua y literaturas Hispanicas SUAYED**: 6XMXC5, 9MVBUH, 8N24Z3**
 

@@ -459,6 +459,7 @@
 | `Z5KZQ5` | Pedagogía | doc |
 | `QDXBQ9` | Pedagogía | doc |
 | `KZUHQL` | Pedagogía | doc |
+| `7UPPRY` | Pedagogía | doc |
 | `6XMXC5` | Lengua y literaturas Hispanicas SUAYED | doc |
 | `9MVBUH` | Lengua y literaturas Hispanicas SUAYED | doc |
 | `8N24Z3` | Lengua y literaturas Hispanicas SUAYED | doc |
