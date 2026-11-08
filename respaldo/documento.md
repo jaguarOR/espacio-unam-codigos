@@ -23,7 +23,7 @@
 
 **PASEN CÓDIGO DE SISTEMA ABIERTO**
 
-(Los códigos secretos fueron restaurados aba  jo, favor de seguir escribiendolos en las siguientes páginas
+(Los códigos secretos fueron restaurados abajo, favor de seguir escribiendolos en las siguientes páginas
 
 **Disclaimer 1**: Prácticamente todos los códigos se han publicado en FB, este es más que nada un recopilatorio.  Los IG están en otra pestaña del documento en “Insta´s pa seguirnos”
 
@@ -127,7 +127,7 @@
 
 [Centro de Física Aplicada y Avanzada (Juriquilla) \-PASENLOOOOOOO](#centro-de-física-aplicada-y-avanzada-\(juriquilla\))
 
-[Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—](#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-\(morelia\)-pasenlo-lo-borraron—pasenlooooo-es-el-unico-que-falta-pasenlo,-era-para-ayer)
+[Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—](#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-\(morelia\))
 
 [Instituto de Energías Renovables (Temixco)](#instituto-de-energías-renovables-\(temixco\))
 
@@ -159,8 +159,8 @@
 
 ## **MEDALLAS SECRETAS** {#medallas-secretas}
 
-**J3AKJEE**
-**Este** código es del mero mero, del jefazo (el creador de Espacio UNAM) les da medalla secreta ahhhh atte. Runix 🫰🏻
+**3AKJEE**
+Este Código es del mero mero, del jefazo (el creador de Espacio UNAM) les da medalla secreta ahhhh atte. Runix 🫰🏻
 
 **T0M43ST0**
 
@@ -171,7 +171,7 @@ Otro código secreto, se premia nuestra perseverancia.
 
 **GR4C1AZ**
 
-Agradecimiento a nuesytras mscotas que siempre nos acompañan
+Agradecimiento a nuesutras mscotas que siempre nos acompañan
 
 **Otro código secreto, se premia**
 
@@ -333,7 +333,7 @@ Para quien pone un poco de sí para hacer de este mundo un lugar mejor. Medalla 
 **G1S3S**
 Para «Los Gises», la escultura de Helen Escobedo que identifica a la FES Iztacala. Idea de Cynthia, Joshua, Alyzon y 14 personas más; ícono de Edgar David. Medalla secreta.
 
-**c4XOLOT**
+**4XOLOT**
 Para los ajolotes, tan queridos en la FAD de Xochimilco. Idea de Nathalia. Medalla secreta.
 
 **AGU1LA**
@@ -363,7 +363,7 @@ Para el árbol de la Facultad de Química que toda su comunidad conoce como «el
 En memoria de Mario Lenguas de Mileto, el perrito del CCH Naucalpan que acompañó a muchas generaciones y hoy tiene un mural en su biblioteca. Idea de María Jasmín, Arcelia, Andrea y 6 personas más. Medalla secreta.
 
 **V4MP1RO**
-Para la leyenda del el vampiro de filos. Este código sólo despierta en Halloween. 🧛
+Para el vampiro de filos. Este código sólo despierta en Halloween. 🧛
 
 **TUTS1**
 Para «MéXXico, el siglo lleva tu nombre», la escultura de la Facultad de Arquitectura que la comunidad llama la Tutsi Pop. Idea de Sergio, Oswald, Axel Emmanuel y 7 personas más. Medalla secreta.
@@ -420,7 +420,7 @@ Para Ris, el león dientes de sable que le saca una sonrisa a toda la Facultad d
 Para el Búho, mascota de la Facultad de Derecho: sabiduría y desvelos de estudio. Idea de Gojan Neri. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **4J0L0T3**
-Para Vallejito , el ajolote, mascota del CCH Vallejo. Idea de José Contreras. Serie «Mascotas de mi escuela». Medalla secreta.
+Para el ajolote, mascota del CCH Vallejo. Idea de José Contreras. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **L30P4RD0**
 Para los Leopardos, la mascota que ruge por la Prepa 8 «Miguel E. Schulz». Idea de Eduardo Palacio y Emiliano Zamudio. Serie «Mascotas de mi escuela». Medalla secreta.
@@ -438,7 +438,7 @@ Para la comunidad del Sistema Incorporado: preparatorias, CCH y licenciaturas in
 Para Rosario Castellanos, escritora que estudió en la Facultad de Filosofía y Letras. Serie «Mujeres que hicieron la UNAM». Idea de Alejandra.
 
 **K4R1M**
-Para Karim, el gatito que adoptó la comunidad de la Escuela Nacional de Ciencias Forenses (ENaCiF). Idea de Hashli, Ángel Daniel, Gabriela y Jeon. Serie "Mascotas de mi escuela". Medalla secreta.
+Para Karim, el gatito que adoptó la comunidad de la ENaCiF. Idea de Hashli, Ángel Daniel, Gabriela y Jeon. Serie "Mascotas de mi escuela". Medalla secreta.
 
 **B3T1T0**
 Para Betito, el capibara mascota cultural de la Facultad de Ingeniería. Idea de Emanuel Escobar y Andrea Rosales. Serie «Mascotas de mi escuela». Medalla secreta.
@@ -459,7 +459,7 @@ Para Vainilla, la husky consentida de la ENES Morelia. Idea de Montserrat Mirand
 Para Izta y Cala, el puma y la puma que acompañan y motivan a toda la comunidad de la FES Iztacala. Idea de Andrea Cario, José Millán y Axel García. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **UUDDLRLRBA**
-Para la comunidad gamer de la UNAM: ↑ ↑ ↓ ↓ ← → ← → B A: el truco más famoso de los videojuegos también funciona en Espacio. Idea de Darik Omaña. Medalla secreta.
+↑ ↑ ↓ ↓ ← → ← → B A: el truco más famoso de los videojuegos también funciona en Espacio. Idea de Darik Omaña. Medalla secreta.
 
 **H0L4MD0 / H0L4WL**
 Para quien escribió su primer programa y vio aparecer en la pantalla «Hola, mundo»: así empieza toda persona que programa. Idea de Rafael Mex y Ángel Lara. Medalla secreta.
@@ -972,6 +972,14 @@ Descarga Cultura.UNAM: cuentos, poesía, conferencias y música para escuchar gr
 
 Para quienes alguna vez se quedaron dormidos en clase (con el codo de almohada). Medalla meme. Idea de Uriel, Bruno, Ángel y 2 personas más.
 
+**C4F3C1TO**
+
+Más café que sangre. Para quienes sobreviven a la carrera a base de café: de olla, de máquina, de la cafetería o el que te invitó alguien en la fila. Idea de César, Suzue y Miranda
+
+**CR4FT3O**
+
+Crafteando mi futuro. Bloque por bloque, semestre por semestre: tu carrera también se construye. Medalla meme. Idea de Adair.
+
 ¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta Pd:si la pestaña se queda quieta más de 15 minutos sin moverte, el tiempo de reinicia.
@@ -1084,7 +1092,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Odontología:**
 
-**Optometría:** Z7V2DL.
+**Optometría:** Z7V2DL
 
 **Administración Agropecuária:** ARWJMZ
 
@@ -1344,7 +1352,7 @@ Farmacia: **3C99SZ , VUGKWY, VBL7L6 , 7AAN8J**
 
 Química Industrial: **K9W559,, FTJ9YB**
 
-Ingeniería En Alimentos: WNWLP8, **HFAAS9, 985XKC**
+Ingeniería En Alimentos: WNWLP8, **HFAAS9, 985XKC, LGS4DX**
 
 Ingeniería Agrícola 🌽 : **47JVS9** , **6U3VWW , PYADLG**
 
@@ -1480,7 +1488,7 @@ Urbanismo: **8ZYAK5**, **S6FD5B, 5YLFA4, WZ6CAL,,**
 
 Ciencia de la Nutrición Humana: **KB2U7B**
 
-Fisioterapia: **LRYEUK, 3TGEAC, G9HCLW, UB6DHX**
+Fisioterapia: **LRYEUK, 3TGEAC, G9HCLW, UB6DHX, PQVC7E**
 
 Investigación Biomédica Básica:  **YB7DRB, QKQC8H, S7H7BF**
 
@@ -1530,7 +1538,7 @@ Química e Ingeniería en Materiales: **AWFUWK, QE4UEL,**
 
 Química Farmacéutico Biológica: **LX6WZD**,  **6QTNCX**, **PA7FWF**, **X82MPH, BD452P, MXM4V3, T3CJMF JQAF7Q, 4QY6A9, GNTMN6, ASGK4F**
 
-Química Industrial:
+Química Industrial: **K9W559**
 
 ***Facultad de Trabajo Social***
 
@@ -1695,7 +1703,7 @@ Nanotecnología: **BXCKLK**
 
 Tecnología: CH2DGW
 
-# Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia) PASENLO LO BORRARON—PASENLOOOOO ES EL UNICO QUE FALTA PASENLO, ERA PARA AYER {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)-pasenlo-lo-borraron—pasenlooooo-es-el-unico-que-falta-pasenlo,-era-para-ayer}
+# Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia)  {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(morelia)}
 
 ### **CIencias :**
 
@@ -1735,7 +1743,7 @@ YA NO LO BORREN
 | **E** |
 | 7XMBB9, DH5LMV **\- Eder** HR5TVK, C4S5F9 \- **Edgar** VPDHVT \- **Edgardo** Q3Q9LU **\- Edahi** 9MS2MK \- **Edmundo** 48WMEU \- **Edna** 5WL3J2, H6ET8G, HLTR92 \- **Eduardo** DVX6Y3 \- **Edwin** E44DJW, RRB4ZF \- **Efrén** J4C52P \- **Eibraham** 7XMBB9 \- **Eithan**  UTNDXQ \- **Elena** PXH6BE \- **Elí** 7C33QL \- **Eliam**
 XEYR24 \- **Elian** AARUZQ-**Elías**
-V4LUEE \- **Elideth** 4M6RG7 \- **Elisa**  45KGQP, 3ZQQKP, GTYWRN \- **Elizabeth** BPY827 **\- Elvira**  HE4X2K \- **Elsy**  4NGH85 \- **Emanuel**  6TBAMV \- **Emma** 5RF2MC, BUJP37 \- **Emmanuel** KW9UF5 \- **Emilia** UJ6HJA, BL2SEC, DRVR87 \- **Emiliano**  LJ3UDT,VFYFQQ, CZFK4A, JF5XLG \- **Emilio** WH573S **\- Emilli**  M7ABXK, CY6ATS, Q92CDU- **Emily** G8ZWJ9 \- **Ennovi** 47AFVH \- **Enrique** 6DERTR \- **Enzi** RSJUH3 \- **Erandi** SSY4TG \- **Erandy** DPL3TW**\- Eric** JUF5W6, LHPSC9 \- **Erick** 85XQ5L, S8LNQW \- **Erik** X4WFYP, ZCDEZZ, R5UKGS \- **Erika** YJ3MH8 **\- Esperanza** A39J8V \- **Esmeralda**  AQDZJ4 \- **Estefania** 8468UT \- **Estefanya** E76VKM **\- Estela** BHXKZL \- **Esther**  33DBC2 \- **Estrella** WQPRJZ \- **Ethan** 7XMBB9 \- **Eithan**  VUGKWY \- **Ethel** DL95TY \- **Etienne** RRB4ZF \- **Eumir**  9K99R3 \- **Eva QC4WVW \- Eva** WNYKCD \- **Evelin QCDXFG \- Evelin** JPJXQW, 742NB2 \- **Evelyn** UPWQ74- **Ever** 27XX4P \- **Ezequiel 79U7RY Efrain**  |
+V4LUEE \- **Elideth** 4M6RG7 \- **Elisa**  45KGQP, 3ZQQKP, GTYWRN \- **Elizabeth** BPY827 **\- Elvira**  HE4X2K \- **Elsy**  4NGH85 \- **Emanuel**  6TBAMV \- **Emma** 5RF2MC, BUJP37 \- **Emmanuel** KW9UF5 \- **Emilia** UJ6HJA, BL2SEC, DRVR87 \- **Emiliano**  LJ3UDT,VFYFQQ, CZFK4A, JF5XLG \- **Emilio** WH573S **\- Emilli**  M7ABXK, CY6ATS, Q92CDU- **Emily** G8ZWJ9 \- **Ennovi** 47AFVH \- **Enrique** U6QN4V **. Ernesto** 6DERTR \- **Enzi** RSJUH3 \- **Erandi** SSY4TG \- **Erandy** DPL3TW**\- Eric** JUF5W6, LHPSC9 \- **Erick** 85XQ5L, S8LNQW \- **Erik** X4WFYP, ZCDEZZ, R5UKGS \- **Erika** YJ3MH8 **\- Esperanza** A39J8V \- **Esmeralda**  AQDZJ4 \- **Estefania** 8468UT \- **Estefanya** E76VKM **\- Estela** BHXKZL \- **Esther**  33DBC2 \- **Estrella** WQPRJZ \- **Ethan** 7XMBB9 \- **Eithan**  VUGKWY \- **Ethel** DL95TY \- **Etienne** RRB4ZF \- **Eumir**  9K99R3 \- **Eva QC4WVW \- Eva** WNYKCD \- **Evelin QCDXFG \- Evelin** JPJXQW, 742NB2 \- **Evelyn** UPWQ74- **Ever** 27XX4P \- **Ezequiel 79U7RY Efrain**  |
 | **F** |
 | 87WWAG \- **Fabián** MCJU5D \- **Fabio** 5K4A9V, FTJ9YB, 6A43KN \- **Fabiola** UM2YKB \- **Fabricio** CCQBM9 **\- Farrah** QLXHKW \- **Farid** 7L4QKK \- **Fatima**  46ZU4M \- **Fausto** H47GVV**\- Federico**  VZDJGS \- **Felix** GHSX27, ZKCCMK, YK9XG3, MTXZ58, 8EJFYT,7V69QX  \- **Fernanda** EBAGVV, 8R5W24, PC8XCL- **Fernando** Y6352H, 9JUXJP, 74MYW8 \- **Francisco** 7STSNM, Z9D3BT \- **Frida** |
 | **G** |
@@ -1752,7 +1760,7 @@ L9A6EJ \- **Humberto** 6A755S **\- Hansel** |
 | **K** |
 | C4CR5W \- **Kai** S6FD5B, VV4X6H, 79LV2Z \- **Karen** KZUHQL, V8NSTH \- **Karina** BE5FU9, PYDJVG, VQW8C2, QXN8JQ, 4GVFW , FFWLPX, 8EJFYT,GTMTH9, CEB2F7, YTGL83, 2KC976 \- **Karla** 84HDNQ \- **Karime** DL95TY \- **Karlo** ZLK3YB \- **Karol**  J4MQAK- **Katerine**  CF4UBR, DAWV3T \- **Katherine** JPLRZG \- **Katerinee**  XAYS2Y \- **Kathya** WMRUKV \- **Katia**  XB4HM4,  E92887 \- **Katya** 8DVDZC \- **Kenai**  7XRR7D \- **Kelly** JV4M3U, FNEAB4, JLCAW9 \- **Kevin**  FB5CLB \- **Kimberly** ZR8YJF \- **Kim** 24K8R8 \- **Kitzia** HVZSUK \- **Kevin 8GHZQ5 \- Karime AUB6XJ \- Kendra**  |
 | **L** |
-| EBC862 \- **Laila** 2WFKWY \- **Lainy**  6HAJFC, MTW6EY, 3JSZ6E, XRE63S, FTHR87, GDEP4Z, N3MF6K, Q6UC7G , HTZ424,ELGLPY, 7UPPRY-  \- **Laura** FED72D \- **Legna** YFF678 **\- Leilani** ENP68N \- **Leilany**  NGP3Q4 \-  **Lenin** 9GNVRV \- **Leon** 55QGR6, CBHD9N \- **Leonardo** M7PS49 \-  **Leonor** TE4967 \- **Lesli** Y6JME9, E22JQT, X8VAHT \- **Leslie** ZG5ZBZ, BTXU6S \- **Lesly** ZAX7PL \- **Letizia** MTB58U **\- Leticia**  RANETR **\- Leyla** CRWXDZ \- **Lian** W5HKDQ **\- Lidia** W3YVLV, SNXU8D \- **Lilian**  XZ5A7P \- **Liliana**  TRAGDN \- **Linda**  D96DBA, W3ZPUK \- **Linette** 9W8ZSS \- **Lisbet J7PAEG \- Lisette** 9BRDEG \- **Lisset** 95ZBRN \- **Lissette**  VPRKQA \- **Lizbeth** 7BNX7W, M6XECA \- **Lizeth** JJ3L4Z \- **Lizzet** DSN67E \- **Lizzete** JVN4MW \- **Logan** YF2ENX \- **Louis** 2FB5UB \- **Lourdes**  AN4FG8 \- **Luan** XL8RSK \- **Lucero** ZFM8W6, F5Z27H \- **Lucia** KN7BSP, B9ELGM, UH9C9E 8CYDV9 \- **Luis** AZU86R \- **Luisa** UWTZBJ,DQ7HBE, \- **Luz** |
+| EBC862 \- **Laila** 2WFKWY \- **Lainy**  6HAJFC, MTW6EY, 3JSZ6E, XRE63S, FTHR87, GDEP4Z, N3MF6K, Q6UC7G , HTZ424,ELGLPY, 7UPPRY \-**Laura** FED72D \- **Legna** YFF678 **\- Leilani** ENP68N \- **Leilany**  NGP3Q4 \-  **Lenin** 9GNVRV \- **Leon** 55QGR6, CBHD9N \- **Leonardo** M7PS49 \-  **Leonor** TE4967 \- **Lesli** Y6JME9, E22JQT, X8VAHT \- **Leslie** ZG5ZBZ, BTXU6S \- **Lesly** ZAX7PL \- **Letizia** MTB58U **\- Leticia**  RANETR **\- Leyla** CRWXDZ \- **Lian** W5HKDQ **\- Lidia** W3YVLV, SNXU8D \- **Lilian**  XZ5A7P \- **Liliana**  TRAGDN \- **Linda**  D96DBA, W3ZPUK \- **Linette** 9W8ZSS \- **Lisbet J7PAEG \- Lisette** 9BRDEG \- **Lisset** 95ZBRN \- **Lissette**  VPRKQA \- **Lizbeth** 7BNX7W, M6XECA \- **Lizeth** JJ3L4Z \- **Lizzet** DSN67E \- **Lizzete** JVN4MW \- **Logan** YF2ENX \- **Louis** 2FB5UB \- **Lourdes**  AN4FG8 \- **Luan** XL8RSK \- **Lucero** ZFM8W6, F5Z27H \- **Lucia** KN7BSP, B9ELGM, UH9C9E 8CYDV9 \- **Luis** AZU86R \- **Luisa** UWTZBJ,DQ7HBE, \- **Luz** |
 | **M** |
 | JYEF89 \- **Magali** BFFU5Q \- **Magdalena** A33PGG \- **Maira ELGLPY \-Margarita 6PHCHQ \-Maria MKMR38 \- Mara** GM5UZ6 \- **Maite 5AGTU8- Majetzi**  HMZ3AD, 75CQF3 \- **Manuel** XXYX8U \- **Marcelo** 4YDJ8D, FVYJ2H, W3AQ9D \- **Marco** A9U467, HCGEZ2 \- **Marcos** U3VAVW \- **Mareli**  FGJEJV \- **Marely** LTU3JQ,  RUYFGM, DBY6Z4, AZU86R \- **María** PFMXND, 3LX4CZ \- **Marian** JUPMS4, JBSBZL, SPMU3V, P79ZDH \- **Mariana** TUBLX3 \- **Maricela** 23RYUG \- **Maricruz** T8VYDC \- **Mariela** 5EEBMP \- **Marina** LV3YJU, 6B348Q, WLCJGV \- **Mario** 6G2Y54 \- **Marisol** 7WZ6CU, CF4UBR **\- Marlen**  UPVKFL **\- Marlene** SSMW9C \- **Marlon** Y6GLBD \- **Martha** HXR9QK \- **Mary** Z2PFT2, 54CXKN, Z2PFT2, PZBGYV \- **Martín** ​TKWWTU, 7M3MNC \- **Mauricio** 24NPWG \- **Mauro** BHKWUA \- **Maximiliano** TKJ7GY \- **Máximo** BHEFGR \- **Maya** QJV2T6 \- **Mayra** 2KBVYQ \- **Mayte** WESCS2 \- **Megan** 7UGZTJ \- **Melani**  W2CA3T, JWZJ9R, CM8RT8 \- **Melanie** EEDHP3 \- **Melisa**  3UA93V **Meredith**  5NKZKL, PVGZW9, 95Y7HN \- **Melissa**  MCNAW6 \- **Metzi** VZCC45, LVD3EW \- **Metzli**  DSN67E \- **Mia** FED72D \- **Michell** RPX2XG \- **Michelle** KXXUEB \- **Midori** XQWQS7, 4G7JK7, 92B2W3,77S9EC \- **Miguel** 7WX85K \- **Milay** 296PCT \- **Milton** UZK9Z4 \- **Miranda** 9BLSUT \- **Miriam** QY3VQ9 \- **Miroslava** E7MD3K \- **Mirna** 8HY6EJ \- **Misael** 4TG2S7, QGLTRC \- **Mónica**  MAT54P, KDTKR8 \- **Monserrat**  UFELAH \-  \- **Monserrath** F9TZFU \- **Montserrat** 57EYLG \- **Monzerrat** |
 | **N** |
@@ -1874,8 +1882,7 @@ SBP82Q  \-  Balbino
 HFAAS9  \-  Balbuena
 LJ3UDT, 6F25A8  \-  Balderas
 X5ZC7Z , CJXGS2 \- Baltazar
-
- FZ33SX- Baños
+FZ33SX- Baños
 5N5AAH-Banda
 QQ9PAN \- Bandera
 7LX92Y \- Bandin
@@ -2121,7 +2128,7 @@ WESCS2 \- Guajardo
 **H**
 6QTNCX, Z42WRW, 3LX4CZ,  B63GTY-  Hernandez
 FDSTL4, H6U52K, ZUACTS , BXAMZP, LH2NV7, AZU86R-  Hernández
-36562B, TNHMSN, 2AVJJ6, HR5TVK \- Herrera
+36562B, TNHMSN, 2AVJJ6, HR5TVK, LGS4DX \- Herrera
 XV6KAN \- Heredia
 3VQ66U \- Hubert
 AEXBFW- Huerta
@@ -2140,7 +2147,7 @@ GCAVKF \- Ibañez
 5KBMKG  \-  Jacinto
 BBVWWW \- Jácome
 DEUE26 \- Jacobo
-YN2FFY, KZUHQL \- Jaime
+KZUHQL, YN2FFY \- Jaime
 YATFRA \- Jaimez
 VVXVRV \- Jahuey
 J6VTDU \- Janetzy
@@ -2272,7 +2279,6 @@ Z5B27L \- Murga
 CBHD9N \- Murgo
 X5S4VQ- Muñetón
 CJ4TXS- Muñoz
-
 **N**
 NU9ED2, B39J96 \- Naranjo
 LTU3JQ, CF4UBR, 2A2W46, 7WZ6CU \-  Nava
@@ -2415,6 +2421,7 @@ DS7SU5  \-  Saavedra
 G5M54T , K6APFR , Z5K8S9 \-  Salazar
 MMTHB4  \-  Salcedo
 H9L5AJ, KJSMF5 \- Salas
+U6QN4V . Salvador
 NZEU6J  \-  Saldaña
 NKNAFP \- Saldivar
 GC6HKG  \-  Salgado
@@ -2706,7 +2713,7 @@ SSD55C \- Zunun
 ***19***  **2AVJJ6**
 ***20 9MQNWS***
 ***21***  **V8NHYS**
-***22***  **ZNFGAC**
+***22***  **ZNFGAC, EZ55XC**
 ***23  PFVZWY, YBN3XW, HAAYEY***
 ***24***  **5VFXAG, N7AA4Q, W9THGT**
 ***25  M6XECA***
@@ -3003,7 +3010,7 @@ SSD55C \- Zunun
 
 ## **APARTADO “CAZADORA DE MITOS”** {#apartado-“cazadora-de-mitos”}
 
-8R5W24, 4DB2PC, GMXC4A, ZWLYNY, B6N39M, V68MGH, B6N39M, K9ABJD, YK4BPW, YPHDQH, RVDYNM, FTJ9YB, 6WCB38, GA7BM5,  JDHWGM
+8R5W24, 4DB2PC, GMXC4A, ZWLYNY, B6N39M, V68MGH, B6N39M, K9ABJD, YK4BPW, YPHDQH, RVDYNM, FTJ9YB, 6WCB38, GA7BM5, JDHWGM
 
 ##  **APARTADO A COMPA DE BANCA 🪑** {#apartado-a-compa-de-banca-🪑}
 

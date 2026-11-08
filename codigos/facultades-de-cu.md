@@ -240,6 +240,7 @@
 | `3TGEAC` | Fisioterapia | doc |
 | `G9HCLW` | Fisioterapia | doc |
 | `UB6DHX` | Fisioterapia | doc |
+| `PQVC7E` | Fisioterapia | doc |
 | `YB7DRB` | Investigación Biomédica Básica | doc |
 | `QKQC8H` | Investigación Biomédica Básica | doc |
 | `S7H7BF` | Investigación Biomédica Básica | doc |
@@ -387,6 +388,7 @@
 | `4QY6A9` | Química Farmacéutico Biológica | doc |
 | `GNTMN6` | Química Farmacéutico Biológica | doc |
 | `ASGK4F` | Química Farmacéutico Biológica | doc |
+| `K9W559` | Química Industrial | doc |
 | `3PXTU2` | Trabajo Social | doc |
 | `DNLR3P` | Trabajo Social | doc |
 | `VTPBQ4` | Trabajo Social | doc |
