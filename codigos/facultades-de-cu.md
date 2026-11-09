@@ -213,6 +213,7 @@
 | `UQDRBZ` | Arquitectura | doc |
 | `37RXPE` | Arquitectura | doc |
 | `NZZ4RS` | Arquitectura | doc |
+| `2PGVHU` | Arquitectura | doc |
 | `4PXEED` | Arquitectura de Paisaje | doc |
 | `96EUFJ` | Arquitectura de Paisaje | doc |
 | `27NGUN` | Arquitectura de Paisaje | doc |
@@ -707,6 +708,7 @@
 | `JPJXQW` | Derecho | doc |
 | `MJPW9K` | Derecho | doc |
 | `SDPBTV` | Derecho | doc |
+| `3MK9AN` | Derecho | doc |
 | `RVT6RY` | Derecho SUAYED | doc |
 | `9ASR8W` | Derecho SUAYED | doc |
 | `47BH5C` | Derecho SUAYED | doc |

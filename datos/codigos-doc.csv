@@ -99,10 +99,8 @@ UUN8K5,ENES,ENES León,Planificación para el Desarrollo Agropecuario
 LPD6S2,ENES,ENES León,Planificación para el Desarrollo Agropecuario
 45JN54,ENES,ENES León,Planificación para el Desarrollo Agropecuario
 LV3YJU,ENES,ENES León,Ingeniería Mecánica
-EBKL2G,ENES,ENES León,Ingeniería Mecánica
-JPYYZ2,ENES,ENES León,Ingeniería Mecánica
-PZBGYV,ENES,ENES León,Ingeniería Mecánica
-Q25JJU,ENES,ENES León,Ingeniería Mecánica
+PZBGYV,ENES,ENES León,"EBKLY2G, JPYZ2"
+Q25JJU,ENES,ENES León,"EBKLY2G, JPYZ2"
 A6QH5Y,ENES,ENES León,Relaciones Internacionales
 MZA7HY,ENES,ENES León,Relaciones Internacionales
 EZLREM,ENES,ENES León,Derecho Sua
@@ -799,6 +797,7 @@ HAAYEY,Facultades de CU,Facultad de Arquitectura,Arquitectura
 UQDRBZ,Facultades de CU,Facultad de Arquitectura,Arquitectura
 37RXPE,Facultades de CU,Facultad de Arquitectura,Arquitectura
 NZZ4RS,Facultades de CU,Facultad de Arquitectura,Arquitectura
+2PGVHU,Facultades de CU,Facultad de Arquitectura,Arquitectura
 4PXEED,Facultades de CU,Facultad de Arquitectura,Arquitectura de Paisaje
 96EUFJ,Facultades de CU,Facultad de Arquitectura,Arquitectura de Paisaje
 27NGUN,Facultades de CU,Facultad de Arquitectura,Arquitectura de Paisaje
@@ -1239,6 +1238,7 @@ TUBLX3,Facultades de CU,Facultad de Derecho,Derecho
 JPJXQW,Facultades de CU,Facultad de Derecho,Derecho
 MJPW9K,Facultades de CU,Facultad de Derecho,Derecho
 SDPBTV,Facultades de CU,Facultad de Derecho,Derecho
+3MK9AN,Facultades de CU,Facultad de Derecho,Derecho
 RVT6RY,Facultades de CU,Facultad de Derecho,Derecho SUAYED
 9ASR8W,Facultades de CU,Facultad de Derecho,Derecho SUAYED
 47BH5C,Facultades de CU,Facultad de Derecho,Derecho SUAYED
@@ -1404,6 +1404,7 @@ G73Z9E,Tocayo,,Allison
 RMXZ4E,Tocayo,,Alisson
 B4P9YP,Tocayo,,Alma
 TEQN9R,Tocayo,,Alondra
+2PGVHU,Tocayo,,Alondra
 XSLEPM,Tocayo,,Alonso
 DTL4P5,Tocayo,,Alvaro
 W25A2E,Tocayo,,Alyzon
@@ -2626,6 +2627,7 @@ T2UL6E,Casi familia,,FKWYFdZ
 7TCTV3,Casi familia,,Cruz
 BJLWBE,Casi familia,,Cuéllar
 MGHG7B,Casi familia,,Cuenca
+2PGVHU,Casi familia,,Cuevas
 Q2KLU8,Casi familia,,Crisantos
 M2Q6WT,Casi familia,,Cervantes
 3DDLSL,Casi familia,,Conrique
@@ -2795,6 +2797,8 @@ NQK8TW,Casi familia,,Guillermo
 9ZHNXC,Casi familia,,Guzmán6
 WESCS2,Casi familia,,Guajardo
 8U98NS,Casi familia,,Guinto
+MKMR38,Casi familia,,Guzmán
+RKUDH3,Casi familia,,Hernandez
 6QTNCX,Casi familia,,Hernandez
 Z42WRW,Casi familia,,Hernandez
 3LX4CZ,Casi familia,,Hernandez
@@ -4295,6 +4299,7 @@ TQFRKA,Casi gemelos,Marzo,16
 CF4UBR,Casi gemelos,Marzo,17
 VF68YX,Casi gemelos,Marzo,17
 DJ56BX,Casi gemelos,Marzo,19
+RKUDH3,Casi gemelos,Marzo,19
 PC8XCL,Casi gemelos,Marzo,20
 BP8YXK,Casi gemelos,Marzo,21
 F9TZFU,Casi gemelos,Marzo,23
@@ -4469,6 +4474,7 @@ YFJFHK,Casi gemelos,Marzo,23
 WYXF2U,Casi gemelos,Marzo,26
 HRQHZL,Casi gemelos,Marzo,27
 E9PR4H,Casi gemelos,Marzo,28
+2PGVHU,Casi gemelos,Marzo,28
 Z7BAJP,Casi gemelos,Marzo,29${}$
 MJPW9K,Casi gemelos,Marzo,29${}$
 X5NADC,Casi gemelos,Marzo,30
@@ -4499,6 +4505,7 @@ QCDXFG,Casi gemelos,Marzo,19
 SQMUC6,Casi gemelos,Marzo,19
 7WZ6CU,Casi gemelos,Marzo,21
 LH9W8W,Casi gemelos,Marzo,21
+LHVZE2,Casi gemelos,Marzo,21
 UQQGXT,Casi gemelos,Marzo,22
 FFWLPX,Casi gemelos,Marzo,23
 UU7ANV,Casi gemelos,Marzo,24

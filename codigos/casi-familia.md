@@ -242,6 +242,7 @@
 | `7TCTV3` | Cruz | doc |
 | `BJLWBE` | Cuéllar | doc |
 | `MGHG7B` | Cuenca | doc |
+| `2PGVHU` | Cuevas | doc |
 | `Q2KLU8` | Crisantos | doc |
 | `M2Q6WT` | Cervantes | doc |
 | `3DDLSL` | Conrique | doc |
@@ -411,6 +412,8 @@
 | `9ZHNXC` | Guzmán6 | doc |
 | `WESCS2` | Guajardo | doc |
 | `8U98NS` | Guinto | doc |
+| `MKMR38` | Guzmán | doc |
+| `RKUDH3` | Hernandez | doc |
 | `6QTNCX` | Hernandez | doc |
 | `Z42WRW` | Hernandez | doc |
 | `3LX4CZ` | Hernandez | doc |

@@ -48,10 +48,8 @@
 | `LPD6S2` | Planificación para el Desarrollo Agropecuario | doc |
 | `45JN54` | Planificación para el Desarrollo Agropecuario | doc |
 | `LV3YJU` | Ingeniería Mecánica | doc |
-| `EBKL2G` | Ingeniería Mecánica | doc |
-| `JPYYZ2` | Ingeniería Mecánica | doc |
-| `PZBGYV` | Ingeniería Mecánica | doc |
-| `Q25JJU` | Ingeniería Mecánica | doc |
+| `PZBGYV` | EBKLY2G, JPYZ2 | doc |
+| `Q25JJU` | EBKLY2G, JPYZ2 | doc |
 | `A6QH5Y` | Relaciones Internacionales | doc |
 | `MZA7HY` | Relaciones Internacionales | doc |
 | `EZLREM` | Derecho Sua | doc |
