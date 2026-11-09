@@ -475,14 +475,14 @@ Para quienes ya no pueden con tantas medallas nuevas…y aún así siguen juntá
 
 **TURN0S**
 
-Para quienes comparten salones, pasillos y profes pero casi nunca se ven: el turno de la mañana y el de la ta8rde son una sola comunidad. Idea de Sarahí Guerrero. Medalla secreta.
+Para quienes comparten salones, pasillos y profes pero casi nunca se ven: el turno de la mañana y el de la tarde son una sola comunidad. Idea de Sarahí Guerrero. Medalla secreta.
 
 **VIRUS**
 Se contagia, alguien con la medalla te lo debe pasar al agregarte
 
 **ZOSC9R**
 
-Encontraste el código secreto de El Apagón: en su primer día, a Espacio UNAM se le fue la luz… y aun así encendió.
+Encontraste el código secreto de El Apagón: en su primer día, a Espacio UNAM se le fue la luz… y aun así encendió. Para quien conoce la historia desde el principio. Medalla secreta: casi nadie sabe que existe.
 
 **H1L4R10**
 Para Hilario, el perrito que se volvió mascota de la Prepa 3 «Justo Sierra». Idea de Ximena Hernández. Serie «Mascotas de mi escuela». Medalla secreta.
@@ -560,10 +560,10 @@ La porra de la Prepa 6 «Antonio Caso», de Coyoacán. Idea de Bruno Alvarado. S
 
 **M3ND1Z4B4L**
 
-el de la medalla «Concepción Mendizábal»
+Serie «Mujeres que hicieron la UNAM»: Concepción Mendizábal, primera mujer ingeniera titulada de la UNAM. Idea de Karla Beatriz. Medalla secreta. el de la medalla «Concepción Mendizábal»
 
 **K4R1M**
-Para Karim, el gatito que adoptó la comunidad de la Escuela Nacional de Ciencias Forenses.
+Para Karim, el gatito que adoptó la comunidad de la Escuela Nacional de Ciencias Forenses. Idea de Hashli, Ángel Daniel, Gabriela y Jeon. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **0ANSPM**
 
@@ -778,7 +778,7 @@ La porra de la Prepa 7 «Ezequiel A. Chávez», la prepa de La Viga. Idea de Ós
 
 **P0RT4DA**
 
-Para todas las veces que la UNAM ha salido en el cine: sus campus, sus prepas y su gente también son escenario, como la Prepa 8 «Miguel E. Schulz», donde se grabó «Petardos y Magnolias». Idea de Roberto. Medalla secreta: se gana con un código.
+Como dice el meme: definitivamente, es cine. Para todas las veces que la UNAM ha salido en el cine: sus campus, sus prepas y su gente también son escenario, como la Prepa 8 «Miguel E. Schulz», donde se grabó «Petardos y Magnolias». Idea de Roberto. Medalla secreta: se gana con un código.
 
 **G4B1N0**
 
@@ -823,7 +823,7 @@ La Prepa 8 está en Plateros, en terrenos que fueron parte de La Castañeda (191
 Gracias a las artistas, deportistas y personalidades que han visitado la UNAM y compartido su talento con la comunidad: aquí siempre son bienvenidas. Idea de Oscar y Denis. Medalla secreta.
 
 **G4B1N0**
-La porra de la Prepa 1 «Gabino Barreda», esa que todo el plantel se sabe de memoria y que retumba en cada partido. Idea de Marlen Nava. Serie «Porras». Medalla secreta. Esta ya estaba, se repite
+La porra de la Prepa 1 «Gabino Barreda», esa que todo el plantel se sabe de memoria y que retumba en cada partido. Idea de Marlen Nava. Serie «Porras». Medalla secreta. Esta ya estaba, se repite. x2
 
 **R4F4G4S**
 Para Ráfagas de Pensamiento, las cápsulas de filosofía de la Facultad de Filosofía y Letras en Radio UNAM, que parten de los textos clásicos para pensar el presente. Idea de Karla Melanie. Medalla secreta.
@@ -988,6 +988,26 @@ La comunidad le puso un apodo a Espacio: la Pumadex, porque aquí te haces con t
 
 La robot de servicio del Laboratorio de Biorrobótica de la Facultad de Ingeniería, que pone en alto a la UNAM en competencias de robótica de todo el mundo. Idea de Uriel y Julio. Medalla secreta.
 
+**B3RN4B3U**
+
+Para el Trofeo Santiago Bernabéu que los Pumas ganaron en 2004 frente al Real Madrid, en su propia casa. Idea de Emilio. Medalla secreta.
+
+**C0M0V3S**
+
+¿Cómo ves?, la revista de divulgación de la ciencia de la UNAM: ciencia para leer con gusto. Idea de Adán. Medalla secreta
+
+**B3QU1N**
+
+Para Bequín, el perrito que acompañaba a becarias y becarios de la UNAM y les alegraba el día. Idea de Francisco. Serie «Mascotas de mi escuela». Medalla secreta.
+
+**L1CPOSH**
+
+Para Lic. Posh, el perrito del CCH Naucalpan que se ganó su título por puro cariño de la comunidad. Idea de Axel David. Serie \<\<\<Mascotas de mi escuela». Medalla secreta.
+
+**4STUC14**
+
+Para el zorro elegante, mascota de la carrera de Economía de la FES Aragón: ingenio para leer los números y el mundo. Idea de Luis Fernando y Regina. Serie «Mascotas de mi escuela». Medalla secreta.
+
 ¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta Pd:si la pestaña se queda quieta más de 15 minutos sin moverte, el tiempo de reinicia.
@@ -998,6 +1018,7 @@ La robot de servicio del Laboratorio de Biorrobótica de la Facultad de Ingenier
 * **Soñador:** Empezaste a estudiar en la UNAM a los 25 años o más
 * *Hay una medalla por el top 100 en el mini juego secreto* 🤫
 * Y una por proponer una medalla 😛
+* Abriste «Espacio para ti», el rincón de bienestar de Espacio UNAM: escucharte también es estudiar. Si algo te pesa, no estás solo ni sola; pedir ayuda es de valientes. Idea de Enrique, Brenda, Ximena e Ivonne.
 
 En total, son muchas medallas secretas mis estimados (al menos eso me dijo GoIA, además de que siguen actualizando la página). Atte. Diego Terán 🍻 Ahora son 200 JAJAJA no paran de agregar más. Una disculpa JAJAJA La UNAM dándose cuenta que no fue buena idea aceptar solicitudes (no van a parar) se acabarán las ideas en algún momento ntp (o se dan por vencidos, 1 de 2\) LAS MEDALLAS NO PARAN DE SPAWNEAR WTF JSJD consecuencias de dejarnos sugerirlas. Ya me cansé de agregar los códigos secretos, mañana amaneceremos con 100 JAJA. Buenas noches, mis estimados adictos a los lazos.
 
@@ -1762,7 +1783,7 @@ SGHGQT \- **Hiram**
 T4CVFZ, 6DULNS \- **Hugo**
 L9A6EJ \- **Humberto** 6A755S **\- Hansel** |
 | **I** |
-| CP69HF, EGRGG2 \- **Ian**  ZH8RDP \- **Iann**  JQZR96 \- **Idalia** M7J8JU \- **Ihsahn**  UP638M \- **Iker** R3Y27V \- **Ikki** U54DJC \- **Ilse** QUQ7A4 \- **Imanol** PW5KSH \- **Indra** NQQBE5, UEYXQY \- **Ingrid** XAYS2Y \- **Irais** M2P8C9 \- **Irán** 8C9ST8 \- **Irene** 7Y9LVV **\- Irene**  NDB5AU \- **Iris** FF9N3A \- **Irvin** X2UKCH \- **Irving** EGGBNP, LV6ACX **\- Isaac** JBSBZL**,** KBL9AS, XLWSAA **\- Isabel** NZCWBW \- **Isabella** NN2BAN, 5NP88H \- **Isis** EC2MCG \- **Ismael** PQ8SMT \- **Ismerai** XMKRM8 \- **Israel**  AQK9HC \- **Istvan** ZCAWGA \- **Italy** 6ZBET4 \- Itsani 7GADBP \- **Itza** 8JH9PL, BDJ43Q \- **Itzel** DHXMPS, 2VLF4M, T827MU \- **Ivan** YN2FFY, 82H488, URT7XH, 4TYNFK \- **Ivonne** YR3TKQ \- **Ixchel** WARSUJ**\- Inés  DX388V \- Iliana UVJ83P \- Izébel  JXVZDU- ilani** |
+| CP69HF, EGRGG2 \- **Ian**  ZH8RDP \- **Iann**  JQZR96 \- **Idalia** M7J8JU \- **Ihsahn**  UP638M \- **Iker** R3Y27V \- **Ikki** U54DJC \- **Ilse** QUQ7A4 \- **Imanol** PW5KSH \- **Indra** NQQBE5, UEYXQY \- **Ingrid** XAYS2Y \- **Irais** M2P8C9 \- **Irán** 8C9ST8 \- **Irene** 7Y9LVV **\- Irene**  NDB5AU \- **Iris** FF9N3A \- **Irvin** X2UKCH \- **Irving** EGGBNP, LV6ACX **\- Isaac** JBSBZL**,** KBL9AS, XLWSAA **\- Isabel** NZCWBW \- **Isabella** NN2BAN, 5NP88H \- **Isis** EC2MCG \- **Ismael** PQ8SMT \- **Ismerai** XMKRM8 \- **Israel**  AQK9HC \- **Istvan** ZCAWGA \- **Italy** 6ZBET4 \- Itsani 7GADBP \- **Itza** 8JH9PL, BDJ43Q \- **Itzel** DHXMPS, 2VLF4M, T827MU \- **Ivan** YN2FFY, 82H488, URT7XH, 4TYNFK \- **Ivonne** YR3TKQ \- **Ixchel** WARSUJ**\- Inés  DX388V \- Iliana UVJ83P \- Izébel  JXVZDU- Ilani** |
 | **J** |
 | FA7FL7, MG9MBE, VQT3ZX \- **Jacqueline**  BPY827 **\- Jaqueline** ZAZBK8 \- **Jade** 6S9FH3 \- **Jael** BXAMZP, QERZ9Y \- **Jair** G5VSUZ \- **Janet** BV6XE8 \- **Janette** ASFT6Z **\- Jared** XCDN8J \- **Jasiel** 3AHQQ8 \- **Jatziri** 9JUXJP 8CYDV9 \- **Javier** V7QEMW, VD522A \- **Jazmin** 89G6U2 \- **Jean** BHJJJA \- **Jeison** 4WKRNM \- **Jenifer** ZV7JT3, BELPYW , JJ3E4V- **Jennifer** G9HCLW- **Jenny GSWGUF, KRYNU4- Jeremy** ZHSJL4 \- **Jesica** 8YFL8T, YYSEV5 \- **Jessica 4DTUW6 \- Jesua** XH2446 \- **Jeshua**  6QTNCX, LCGMTK, WKT9XN, UFEUD2 \- **Jesús** ZEDTNW, ZQRPGW \- **Jimena** ATVRUU \- **Joan** VZ4TY9 \- **Joana** 7U3R9D \- **Joanna** T9UJMP \- **Joaquín**  U9ZV92 \- **Job**  J5HYY2 \- **Jocelyn** CU6X4E, BP4BSQ \- **Joel** MMTHB4, H4LK2K \- **Johan**  ASGK4F \- **Johanna**  V4LUEE \- **Johenna** MKH4HC, 4NGH85, QXVWPA \- **Jonatan** 8T9YUR \- **Jonathan JUDSPC- Jhonathan (sí, con dos h)** X3TE7F, BK3FVG \- **Jorge** D8VY2V \- **Josceline** JNUXUA, ZE3R39, X4BZBK, RKUDH3, K7AFKF, JN42QP, RKUDH3 \- **José**  74KTUS \- **Joselyn** KRN9CS, LKAE3D \- **Josh tuua** 8QFQER 8ZEKK9 **Joshua** K8KLF2, G2SQMG \- **Josué** FL5998 \- **Jothan** HQX32E \- **Jovany** H3DW2S, B54D8Z \-B63GTY, WWTRWU **Juan** R9DENV, CSZCKD \- **Judith** SSGL8J, M3SNLV \- **Julia** QE4UEL, 99YS7A \- **Julian**  9DT7WG \- **Juliana** UN34WK \- **Julieta 7GW9UE \- Julieta** CA469K \- **Julio** |
 | **K** |
@@ -1939,6 +1960,7 @@ VV4X6H \- Balderas
 XFX8U7 \- Bojorquez
 YFF678 \- Borja
 **C**
+XTGNQB \- Cahero
 E9PR4H- Calixto
 SHYLDR- Calderon
 KUUMRG \- Calleja
@@ -2164,6 +2186,7 @@ J6VTDU \- Janetzy
 HDUHXC \- Jarillo
 H8MKFQ \- Jeronim
 7NSF65 \- Juárez
+XTGNQB \- Justo
 Z2PFT2 \-  Jimenez
 UVJ83P \- Jiménez
 P3ZRE5, 4G7JK7 \- Juarez
@@ -2576,7 +2599,7 @@ SSD55C \- Zunun
 
 ## **DISCLAIMER:** Solo pongan el código en su mes, no pongan más datos por favor. Y separen igual con coma **(CASI GEMELOS SE ENCUENTRA EN OTRA SECCIÓN ).** {#disclaimer:-solo-pongan-el-código-en-su-mes,-no-pongan-más-datos-por-favor.-y-separen-igual-con-coma-(casi-gemelos-se-encuentra-en-otra-sección-).}
 
-| ENERO NKNAFP, G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9, CF4UBR, KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL, YY4XRF, 6QTNCX, MQGWQZ, U7GRLW, YFF678 |
+| ENERO NKNAFP, G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9, CF4UBR, KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL, YY4XRF, 6QTNCX, MQGWQZ, U7GRLW, YFF678 2KHJCE   |
 | ----- |
 | **FEBRERO** 6CRCR2, GTTYS2 , GFE3DQ, Z42WRW, H6YEY8, AQ3GS6,  CUBTQU, VLM6JA, E44DJW, BW6HC7, 8T9YUR, WUJYVC, W2CA3T, ER4UV5, PV9QBS, J4QES4**,** XP4SYA, T827MU, L92K5P, UM2YKB, GDEP4Z, 4JQBNS, 8AH8Y9, HE4X2K, SHYLDR, PWGZE8, J5HYY2, QXVWPA, 4HU2PV, ELUYC2, JAY662, BTHEFM, XP2KK8, AARUZQ, EMXTCA, ER4UV5, L55SRC, 6CRCR2, 8R5W24, CF4UBR, WWTRWU, XBR3NR, DYGJCP, 79NL4H |
 | **MARZO** T9L84A**,** K7HSZT,  YYSEV5,   NQQBE5, QK7GDH,M7ABXK, CBMN94, QE4UEL,  MXA4B9**,** BBVWWW, 54CXKN, 6UQTGW, V8NHYS, UWJK4T, KWAFZM, LJ5HRN, YBN3XW, BFAPC5, ZV7JT3, WZ6CAL, PYADLG, 8YFL8T,  BELPYW 3RX6LZ , KNK7Y4, VZ4TY9, BVX339, 2AVJJ6, 7Y9LVV, MAT54P, WZ6CAL, 2STNBU, 68QU64 PYADLG, 9MQNWS, 2CSXD, DEPQX9, CM8RT8, PLDRZE, W9THGT, HAAYEY, JEYZRQ, 3UA93V, 2AVJJ6, MDW9W3, N7AA4Q,   |

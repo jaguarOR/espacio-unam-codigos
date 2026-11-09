@@ -58,6 +58,7 @@
 | `MQGWQZ` | ENERO NKNAFP | doc |
 | `U7GRLW` | ENERO NKNAFP | doc |
 | `YFF678` | ENERO NKNAFP | doc |
+| `2KHJCE` | ENERO NKNAFP | doc |
 | `6CRCR2` | FEBRERO | doc |
 | `GTTYS2` | FEBRERO | doc |
 | `GFE3DQ` | FEBRERO | doc |
