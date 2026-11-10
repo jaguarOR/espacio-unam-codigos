@@ -1024,6 +1024,10 @@ La UNAM no es solo CU: está en todo México y también tiene sedes en otros pa�
 
 Serie «Mujeres que hicieron la UNAM»: Gloria Contreras, bailarina y coreógrafa que en 1970 fundó el Taller Coreográfico de la UNAM y llevó la danza a toda la comunidad. Idea de Guadalupe Alin. Medalla secreta.
 
+**N4HU4L3S**
+
+Para los Nahuales, los equipos representativos de la Facultad de Artes y Diseño: arte en el taller y garra en la cancha. Idea de Regina y Karen. Serie «Mascotas de mi escuela». Medalla secreta.
+
 ¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta Pd:si la pestaña se queda quieta más de 15 minutos sin moverte, el tiempo de reinicia.
@@ -3423,6 +3427,7 @@ Sociologia 2022 Fes Acatlán SPN24H
 ## **De 15 de febrero PWGZE8 •**
 
 11 de Enero \- U7GRLW
+30 de Enero \- BHJJJA
 4 de junio 7M3MNC
 23 de abril \- YG3PZF
 12de agosto
