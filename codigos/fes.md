@@ -195,6 +195,7 @@
 | `Q92CDU` | Pedagogía | doc |
 | `SQMUC6` | Pedagogía | doc |
 | `DQ7HBE` | Pedagogía | doc |
+| `2F4RXK` | Pedagogía | doc |
 | `M6984K` | Planificación para el Desarrollo Agropecuario | doc |
 | `UUN8K5` | Planificación para el Desarrollo Agropecuario | doc |
 | `LPD6S2` | Planificación para el Desarrollo Agropecuario | doc |

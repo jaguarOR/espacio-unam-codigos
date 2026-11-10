@@ -115,6 +115,7 @@
 | `7Y9LVV` | 6 | doc |
 | `J3HE9B` | 6 | doc |
 | `PVGAYC` | 7 | doc |
+| `9XJE2P` | 7 | doc |
 | `33RUTW` | 8 | doc |
 | `YQKYA4` | 9 | doc |
 | `J9SRWW` | 10 | doc |
@@ -144,6 +145,7 @@
 | `W9THGT` | 24 | doc |
 | `M6XECA` | 25 | doc |
 | `GA2QZ7` | 26 | doc |
+| `6RPU6C` | 26 | doc |
 | `6VJL25` | 27 | doc |
 | `JPJXQW` | 28 | doc |
 | `MYX5QH` | 28 | doc |

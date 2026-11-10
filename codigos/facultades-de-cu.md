@@ -117,6 +117,7 @@
 | `V569QT` | Ingeniería Eléctrica y Electrónica | doc |
 | `WEP2HC` | Ingeniería Eléctrica y Electrónica | doc |
 | `3GML34` | Ingeniería Eléctrica y Electrónica | doc |
+| `9XJE2P` | Ingeniería Eléctrica y Electrónica | doc |
 | `VL4D8Y` | Ingeniería en Computación | doc |
 | `NZ5A8V` | Ingeniería en Computación | doc |
 | `9ZULZT` | Ingeniería en Computación | doc |

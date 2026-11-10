@@ -560,7 +560,7 @@ La porra de la Prepa 6 «Antonio Caso», de Coyoacán. Idea de Bruno Alvarado. S
 
 **M3ND1Z4B4L**
 
-Serie «Mujeres que hicieron la UNAM»: Concepción Mendizábal, primera mujer ingeniera titulada de la UNAM. Idea de Karla Beatriz. Medalla secreta. el de la medalla «Concepción Mendizábal»
+Serie «Mujeres que hicieron la UNAM»: Concepción Mendizábal, primera mujer ingeniera titulada de la UNAM. Idea de Karla Beatriz. Medalla secreta.
 
 **K4R1M**
 Para Karim, el gatito que adoptó la comunidad de la Escuela Nacional de Ciencias Forenses. Idea de Hashli, Ángel Daniel, Gabriela y Jeon. Serie «Mascotas de mi escuela». Medalla secreta.
@@ -823,7 +823,7 @@ La Prepa 8 está en Plateros, en terrenos que fueron parte de La Castañeda (191
 Gracias a las artistas, deportistas y personalidades que han visitado la UNAM y compartido su talento con la comunidad: aquí siempre son bienvenidas. Idea de Oscar y Denis. Medalla secreta.
 
 **G4B1N0**
-La porra de la Prepa 1 «Gabino Barreda», esa que todo el plantel se sabe de memoria y que retumba en cada partido. Idea de Marlen Nava. Serie «Porras». Medalla secreta. Esta ya estaba, se repite. x2
+La porra de la Prepa 1 «Gabino Barreda», esa que todo el plantel se sabe de memoria y que retumba en cada partido. Idea de Marlen Nava. Serie «Porras». Medalla secreta. Esta ya estaba, se repite
 
 **R4F4G4S**
 Para Ráfagas de Pensamiento, las cápsulas de filosofía de la Facultad de Filosofía y Letras en Radio UNAM, que parten de los textos clásicos para pensar el presente. Idea de Karla Melanie. Medalla secreta.
@@ -1006,7 +1006,15 @@ Para Lic. Posh, el perrito del CCH Naucalpan que se ganó su título por puro ca
 
 **4STUC14**
 
-Para el zorro elegante, mascota de la carrera de Economía de la FES Aragón: ingenio para leer los números y el mundo. Idea de Luis Fernando y Regina. Serie «Mascotas de mi escuela». Medalla secreta.
+Para el zorro elegante, mascota de la carrera de Economía de la FES Aragón: ingenio para leer los números y el mundo. Idea de Luis Fernando y Regina. Serie «Mascotas de mi escuela». Medalla secreta
+
+**P0LV0R0N**
+
+Para Polvorón, el perrito más conocido de la FES Zaragoza, que acompaña a su comunidad entre clase y clase. Idea de Alicia Azucena. Serie «Mascotas de mi escuela». Medalla secreta.
+
+**T14AL1**
+
+Gracias a la Tía Aly, que salva la comida de la comunidad de la Facultad de Ciencias entre clase y clase. Serie «Gracias a quienes nos cuidan». Idea de Víctor, Raúl y Luis. Medalla secreta.
 
 ¿Alguien tiene el código de la “startup"?
 
@@ -1335,7 +1343,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Ingeniería Industrial:**Z6NQMM, NSZWUK,JF5XLG, Y9TEP9, M2UHSN
 
-**Pedagogía:** HBZN3T**,** XTEJ8P, GLWNDS, TTHKXZ, 764BK4, 84AEE7, QCS6CU, EBKB4C, A39J8V, FZTJCT, YYSEV5, Q92CDU, SQMUC6,DQ7HBE,
+**Pedagogía:** HBZN3T**,** XTEJ8P, GLWNDS, TTHKXZ, 764BK4, 84AEE7, QCS6CU, EBKB4C, A39J8V, FZTJCT, YYSEV5, Q92CDU, SQMUC6,DQ7HBE, 2F4RXK
 
 **Planificación para el Desarrollo Agropecuario:** M6984K, UUN8K5, LPD6S2, 45JN54
 
@@ -1473,7 +1481,7 @@ Ingeniería Civil: **ZT5TXN, UQQGXT**, **99T3U8**, **USVWAX**, **KE6HNZ, K3DVAH,
 
 Ingeniería en Minas y Metalurgia:**, TZ7S35, 4VP5BY , R6YX47, M94YBG**
 
-Ingeniería Eléctrica y Electrónica: **F783Q6, DWWWCX, V569QT, WEP2HC, 3GML34**
+Ingeniería Eléctrica y Electrónica: **F783Q6, DWWWCX, V569QT, WEP2HC, 3GML34, 9XJE2P**
 
 Ingeniería en Computación:VL4D8Y, **NZ5A8V**, **9ZULZT** **V3HNZA**, **TFX6ZG**, **5EFYQV**, **7HE78F**, **T2UL6E , JN42QP, QXN8JQ, BPGFSP, ELUYC2, 95Y7HN, EGJGMB, 7Y4N48, WWTRWU**
 
@@ -1668,7 +1676,7 @@ Economia SUAyED**: S5VEZU, BHXKZL,42DDXA AGLLPJ, 4G7JK7, J6VTDU**
 
 ### ***Facultad de Derecho*** {#facultad-de-derecho}
 
-Derecho: **PBNGNC,** **QMDEAM**, **CF4UBR, MFCF6H, UFELAH JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K, QMDEAM, SDPBTV, 3MK9AN**
+Derecho: **PBNGNC,** **QMDEAM**, **CF4UBR, MFCF6H, UFELAH, JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K, QMDEAM, SDPBTV, 3MK9AN**
 
 Derecho SUAYED: **RVT6RY, 9ASR8W, 47BH5C, 74KTUS,  7UGZTJ, UU6VPQ, YFF678, 6S9FH3, CEB2F7, M8MRDM, XJ65S3, WGV9N9**
 
@@ -1772,7 +1780,7 @@ YA NO LO BORREN
 | **E** |
 | 7XMBB9, DH5LMV **\- Eder** HR5TVK, C4S5F9 \- **Edgar** VPDHVT \- **Edgardo** Q3Q9LU **\- Edahi** 9MS2MK \- **Edmundo** 48WMEU \- **Edna** 5WL3J2, H6ET8G, HLTR92 \- **Eduardo** DVX6Y3 \- **Edwin** E44DJW, RRB4ZF \- **Efrén** J4C52P \- **Eibraham** 7XMBB9 \- **Eithan**  UTNDXQ \- **Elena** PXH6BE \- **Elí** 7C33QL \- **Eliam**
 XEYR24 \- **Elian** AARUZQ-**Elías**
-V4LUEE \- **Elideth** 4M6RG7 \- **Elisa**  45KGQP, 3ZQQKP, GTYWRN \- **Elizabeth** BPY827 **\- Elvira**  HE4X2K \- **Elsy**  4NGH85 \- **Emanuel**  6TBAMV \- **Emma** 5RF2MC, BUJP37 \- **Emmanuel** KW9UF5 \- **Emilia** UJ6HJA, BL2SEC, DRVR87 \- **Emiliano**  LJ3UDT,VFYFQQ, CZFK4A, JF5XLG \- **Emilio** WH573S **\- Emilli**  M7ABXK, CY6ATS, Q92CDU- **Emily** G8ZWJ9 \- **Ennovi** 47AFVH \- **Enrique** U6QN4V **. Ernesto** 6DERTR \- **Enzi** RSJUH3 \- **Erandi** SSY4TG \- **Erandy** DPL3TW**\- Eric** JUF5W6, LHPSC9 \- **Erick** 85XQ5L, S8LNQW \- **Erik** X4WFYP, ZCDEZZ, R5UKGS \- **Erika** YJ3MH8 **\- Esperanza** A39J8V \- **Esmeralda**  AQDZJ4 \- **Estefania** 8468UT \- **Estefanya** E76VKM **\- Estela** BHXKZL \- **Esther**  33DBC2 \- **Estrella** WQPRJZ \- **Ethan** 7XMBB9 \- **Eithan**  VUGKWY \- **Ethel** DL95TY \- **Etienne** RRB4ZF \- **Eumir**  9K99R3 \- **Eva QC4WVW \- Eva** WNYKCD \- **Evelin QCDXFG \- Evelin** JPJXQW, 742NB2 \- **Evelyn** UPWQ74- **Ever** 27XX4P \- **Ezequiel 79U7RY Efrain**  |
+V4LUEE \- **Elideth** 4M6RG7 \- **Elisa**  45KGQP, 3ZQQKP, GTYWRN \- **Elizabeth** BPY827 **\- Elvira**  HE4X2K \- **Elsy**  4NGH85 \- **Emanuel**  6TBAMV \- **Emma** 5RF2MC, BUJP37 \- **Emmanuel** KW9UF5 \- **Emilia** UJ6HJA, BL2SEC, DRVR87 \- **Emiliano**  LJ3UDT,VFYFQQ, CZFK4A, JF5XLG \- **Emilio** WH573S **\- Emilli**  M7ABXK, CY6ATS, Q92CDU- **Emily** G8ZWJ9 \- **Ennovi** 47AFVH \- **Enrique** U6QN4V **. Ernesto** 6DERTR \- **Enzi** RSJUH3 \- **Erandi** SSY4TG \- **Erandy** DPL3TW**\- Eric** JUF5W6, LHPSC9 \- **Erick** 85XQ5L, S8LNQW \- **Erik** X4WFYP, ZCDEZZ, R5UKGS \- **Erika** YJ3MH8 **\- Esperanza** A39J8V \- **Esmeralda**  AQDZJ4 \- **Estefania** 8468UT \- **Estefanya MD3NQJ \- Estefani**  E76VKM **\- Estela** BHXKZL \- **Esther**  33DBC2 \- **Estrella** WQPRJZ \- **Ethan** 7XMBB9 \- **Eithan**  VUGKWY \- **Ethel** DL95TY \- **Etienne** RRB4ZF \- **Eumir**  9K99R3 \- **Eva QC4WVW \- Eva** WNYKCD \- **Evelin QCDXFG \- Evelin** JPJXQW, 742NB2 \- **Evelyn** UPWQ74- **Ever** 27XX4P \- **Ezequiel 79U7RY Efrain**  |
 | **F** |
 | 87WWAG \- **Fabián** MCJU5D \- **Fabio** 5K4A9V, FTJ9YB, 6A43KN \- **Fabiola** UM2YKB \- **Fabricio** CCQBM9 **\- Farrah** QLXHKW \- **Farid** 7L4QKK \- **Fatima**  46ZU4M \- **Fausto** H47GVV**\- Federico**  VZDJGS \- **Felix** GHSX27, ZKCCMK, YK9XG3, MTXZ58, 8EJFYT,7V69QX  \- **Fernanda** EBAGVV, 8R5W24, PC8XCL- **Fernando** Y6352H, 9JUXJP, 74MYW8 \- **Francisco** 7STSNM, Z9D3BT \- **Frida** |
 | **G** |
@@ -2602,7 +2610,7 @@ SSD55C \- Zunun
 | ENERO NKNAFP, G73Z9E, JV4M3U, BFFU5Q, 45KGQP, 4C7WHL, DW7V8V, LV3YJU, NYSCU3, 62MWGU, S785KG, ZAZBK8, MDTK49, VQW8C2, YA9M8A, ZCDEZZ, 9DT2GX, 6S9FH3,82M4TX, Z9V8YJ, E2N3KY, ZR8YJF, S5VEZU, VVG2NM, ESZSG5, 7SVT9D,5QQJBV, HPGXDE, DBY6Z4, Q2SZ3B BHJJJA, EGV5ZC, WGM2KG, P3ZRE5, 9JUAP7, BFFU5Q, URT7XH, 9R45UR, H6RRFW, URT7XH, B63GTY,H7GEQM, G73Z9E, 5D4C6P, WRVUAF, Z5K8S9, CF4UBR, KN6UYX, 56XQJ8, 7SVT9D, W57TBG, VVZKGP, ZTAQVJ, 8NZHFL, YY4XRF, 6QTNCX, MQGWQZ, U7GRLW, YFF678 2KHJCE   |
 | ----- |
 | **FEBRERO** 6CRCR2, GTTYS2 , GFE3DQ, Z42WRW, H6YEY8, AQ3GS6,  CUBTQU, VLM6JA, E44DJW, BW6HC7, 8T9YUR, WUJYVC, W2CA3T, ER4UV5, PV9QBS, J4QES4**,** XP4SYA, T827MU, L92K5P, UM2YKB, GDEP4Z, 4JQBNS, 8AH8Y9, HE4X2K, SHYLDR, PWGZE8, J5HYY2, QXVWPA, 4HU2PV, ELUYC2, JAY662, BTHEFM, XP2KK8, AARUZQ, EMXTCA, ER4UV5, L55SRC, 6CRCR2, 8R5W24, CF4UBR, WWTRWU, XBR3NR, DYGJCP, 79NL4H |
-| **MARZO** T9L84A**,** K7HSZT,  YYSEV5,   NQQBE5, QK7GDH,M7ABXK, CBMN94, QE4UEL,  MXA4B9**,** BBVWWW, 54CXKN, 6UQTGW, V8NHYS, UWJK4T, KWAFZM, LJ5HRN, YBN3XW, BFAPC5, ZV7JT3, WZ6CAL, PYADLG, 8YFL8T,  BELPYW 3RX6LZ , KNK7Y4, VZ4TY9, BVX339, 2AVJJ6, 7Y9LVV, MAT54P, WZ6CAL, 2STNBU, 68QU64 PYADLG, 9MQNWS, 2CSXD, DEPQX9, CM8RT8, PLDRZE, W9THGT, HAAYEY, JEYZRQ, 3UA93V, 2AVJJ6, MDW9W3, N7AA4Q,   |
+| **MARZO** T9L84A**,** K7HSZT,  YYSEV5,   NQQBE5, QK7GDH,M7ABXK, CBMN94, QE4UEL,  MXA4B9**,** BBVWWW, 54CXKN, 6UQTGW, V8NHYS, UWJK4T, KWAFZM, LJ5HRN, YBN3XW, BFAPC5, ZV7JT3, WZ6CAL, PYADLG, 8YFL8T,  BELPYW 3RX6LZ , KNK7Y4, VZ4TY9, BVX339, 2AVJJ6, 7Y9LVV, MAT54P, WZ6CAL, 2STNBU, 68QU64 PYADLG, 9MQNWS, 2CSXD, DEPQX9, CM8RT8, PLDRZE, W9THGT, HAAYEY, JEYZRQ, 3UA93V, 2AVJJ6, MDW9W3, N7AA4Q, 9XJE2P  |
 | **ABRIL** Z2PFT2, QVC32M, HR5TVK, FDSTL4, X4WFYP, ARCUK3, Z85GPC, ETW2ZZ, PMZUG6, 3W5HLK, MTUVQH, 6F25A8, ADBZNZ, 2WFKWY, JN42QP, B9ELGM, YULUPY, NQK8TW, RPEUKJ, Z2PFT2, 7LX92Y, Y7ZM9H,  FZTJCT, UZJXUG, ZQ7D4T, BDJ43Q, P79ZDH,BKY7PY, H47GVV, BDJ43Q, JN42QP, QP8C79, 9G29YH, Q3Q9LU, LH2NV7,8ZEKK9, V2K3NW,ZST9W8,U8C9G3 |
 | **MAYO** VL4D8Y, M8RMH9, GVALGQ**,** YG7BHR ,LBK24D, ZUACTS, DL7ZKB, F9TZFU, APSHVP,T2UL6E, TE86WP, TT6442, WHRPQ7, X3DZYF, FB5CLB, T3L5C5, XMKRM8 , E5VNTW, EL5ESZ, EGGBNP, R3Y27V, 6HAJFC, 2G5REG, 8EJFYT, GTYWRN, 2G5REG, V569QT, GVALGQ, GNPVXS, X4XZKY, HB9TUV, GFES9K, 8GHZQ5, YTGL83, MRAV79, WJH8ME, 57EYLG, KBH4QN, PC8XCL |
 | **JUNIO** 6NDDAC, CEB2F7, 4QSM4X**,** 7M3MNC**,** L5GPBK, GMXC4A, 3LX4CZ, 5WL3J2, P8AEN8 ,GHCDJB, LWPJ6V, E6FYLQ, MB8M3H, CF4UBR, 3BQQCQ, HKDG94, JMDE8U, A39J8V, LTU3JQ, PQ5YP6 , ZEWEKJ; XKYNQ8, MDTK49 FHTEF8, 27NGUN, 45XLW5, 8PAUA9, GSZHQW, Y9DWP5, NWX4TN, QDXBQ9, BHEFGR, E3ADVA, KNLS2K, V58MF3, U243SW, UBXD7M, M6Q9JV, AZU86R |
@@ -2622,7 +2630,7 @@ SSD55C \- Zunun
 | **Campeche:**  SMBPQF, ZUH73Z |
 | **Chiapas:** XZXA2V, JUBN3N, W7AHQ2, YTGL83,  |
 | **Chihuahua:** R6TE6Q, F9TZFU |
-| **Ciudad de México:** 4TB6ZC**,** 4C7WHL, **CF4UBR, 5D4C6P ,Q2SZ3B**, G5SHBK H6U52K G73Z9E, Y2SM92, ZWLYNY, BFFU5Q, 4QSM4X, QVC32M, Q92CDU, HZ6A9Z, RZ6XRU, GTTYS2, CXZGG6, PFMXND, HE4X2K, QDXBQ9, ZQ7D4T, V6ZKQ8, LH4MD7, M7B54S, V569QT,7NSF65, E3ADVA, H6RRFW, EZLREM, DRVR87, LJ3UDT, 8EJFYT, P79ZDH, CEB2F7, 6DT6SY, GNPVXS, BTJWYA, JQEG3U, TVGL8J, CM8RT8, HAAYEY, UU6VPQ, LX6WZD, 57EYLG, GMXC4A, 8R5W24, KBH4QN, 95Y7HN, MJPW9K, T7XCPM, J6VTDU, MFCF6H,  LXYBNV, 4QY6A9, 8ZEKK9, 7UPPRY,JJ3E4V |
+| **Ciudad de México:** 4TB6ZC**,** 4C7WHL, CF4UBR, 5D4C6P ,Q2SZ3B, G5SHBK H6U52K G73Z9E, Y2SM92, ZWLYNY, BFFU5Q, 4QSM4X, QVC32M, Q92CDU, HZ6A9Z, RZ6XRU, GTTYS2, CXZGG6, PFMXND, HE4X2K, QDXBQ9, ZQ7D4T, V6ZKQ8, LH4MD7, M7B54S, V569QT,7NSF65, E3ADVA, H6RRFW, EZLREM, DRVR87, LJ3UDT, 8EJFYT, P79ZDH, CEB2F7, 6DT6SY, GNPVXS, BTJWYA, JQEG3U, TVGL8J, CM8RT8, HAAYEY, UU6VPQ, LX6WZD, 57EYLG, GMXC4A, 8R5W24, KBH4QN, 95Y7HN, MJPW9K, T7XCPM, J6VTDU, MFCF6H,  LXYBNV, 4QY6A9, 8ZEKK9, 7UPPRY,JJ3E4V |
 | **Coahuila:** Y2S7KV,  |
 | **Colima:** 79U7RY |
 | **Durango:** 9ASR8W, VUELXG, RJ863WSSGKMT, VG39JT |
@@ -2731,7 +2739,7 @@ SSD55C \- Zunun
 ***4 QQN4JV***
 ***5 HY8Y6M***
 ***6***  **7Y9LVV, J3HE9B**
-***7*** **PVGAYC**
+***7*** **PVGAYC, 9XJE2P**
 ***8*** **33RUTW**
 ***9 YQKYA4***
 ***10 J9SRWW,*** **SB3S58**
@@ -2750,7 +2758,7 @@ SSD55C \- Zunun
 ***23  PFVZWY, YBN3XW, HAAYEY***
 ***24***  **5VFXAG, N7AA4Q, W9THGT**
 ***25  M6XECA***
-***26 GA2QZ7***
+***26 GA2QZ7, 6RPU6C***
 ***27 6VJL25***
 ***28: JPJXQW,***  **MYX5QH**
 ***29***
@@ -3487,9 +3495,6 @@ fAlguien borró las otras pestañas y no las puedo restaurar, pueden volver a po
 [[enlace de WhatsApp omitido]
 
 Ahí está 😮‍💨
-PD. DEJEN DE ANDAR DE ENVIDIOSOS, ESTA ACTIVIDAD ES PARA CONECTAR Y CONOCERNOS, NO PARA FOMENTAR PLEITO U ODIO, DEMOSTREMOS QUE SOMOS CHINGONES CDM, Los TQM bais atte Runix
-
-Otra cosa nadie quiere perder el acceso, no cambien los códigos, hagan su letrero nmmn.
 
 # **CÓDIGO CORRECTO: : CFLQMC**
 
