@@ -204,3 +204,9 @@
 | `5KDYK6` | PEDAGOGÍA/ GEN 2026 | doc |
 | `SPN24H` | Sociologia 2022 Fes Acatlán | doc |
 | `SGTHSE` | Medicina/facmed/2024 | comunidad |
+
+## FES Zaragoza
+
+| Código | Etiqueta | Origen |
+|---|---|---|
+| `72CXZY` | Biología, Fes Zaragoza, 2022 | comunidad |
