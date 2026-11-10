@@ -44,7 +44,7 @@
 **Disclaimer 9**: Carreras subrayadas en **VERDE** tienen código correcto, carreras subrayadas con este **ROJO** o similar: falta código, es incorrecto o funcionan de una manera peculiar.
 
 **Disclaimer 10:** Los códigos resaltados, subrayados o con otro color de letra, se tomarán como erróneos y **SERÁN ELIMINADOS**. (exceptuando la sección de Pokemones muy difíciles
-***¡Esta persona está spameando su código en prácticamente todas las carreras poco comunes, aguas\!: ZGK 37, MJLUUU \- Al que se le cache spameando su código, será borrado. No sean NyEs***
+***¡Esta persona está spameando su código en prácticamente todas las carreras poco comunes, aguas\!: ZGK 37\- Al que se le cache spameando su código, será borrado. No sean NyEs***
 ÍNDICES
 
 [Códigos para platinar Espacio UNAM](#códigos-para-platinar-espacio-unam)
@@ -1028,6 +1028,12 @@ Serie «Mujeres que hicieron la UNAM»: Gloria Contreras, bailarina y coreógraf
 
 Para los Nahuales, los equipos representativos de la Facultad de Artes y Diseño: arte en el taller y garra en la cancha. Idea de Regina y Karen. Serie «Mascotas de mi escuela». Medalla secreta.
 
+**PCPUM4S**
+
+La hermana de La RIU: préstamo de equipo de cómputo e internet para que nadie en la UNAM se quede sin conectarse. Idea de Aline, Mark, Paloma y Román. Medalla secreta.
+
+**R4Y4T1GRE**
+
 ¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta Pd:si la pestaña se queda quieta más de 15 minutos sin moverte, el tiempo de reinicia.
@@ -1059,7 +1065,7 @@ Ciencias Agroforestales / ENES Morelia **N3APR4**
 
 Enseñanza de Aleman  como Lengua Extranjera / FES ACATLÁN : ELIMINADO (POR AHORA)
 
-Enseñanza de Francés como Lengua Extranjera / FES ACATLÁN: **9UXLAZ, TVPG8X**
+Enseñanza de Francés como Lengua Extranjera / FES ACATLÁN: **TVPG8X**
 
 Enseñanza de Inglés como Lengua Extranjera / FES ACATLÁN: **JE8MNE**
 
@@ -1411,6 +1417,8 @@ Contaduría:  **SUAW4X** , **VZDJGS** ,**4U5RXW, TXR9C2**
 Informática: **K8KLF2**,  2AAE5B, **E7REA4 , CQ4TYX, VW5TB8, CSYUZN**
 
 Comunicación gráfica: **GKBNW8**
+
+MVZ**: 6MURMS**
 
 ###
 
@@ -3394,7 +3402,7 @@ ITSE: W9KP5H (2025)
 
 Ingeniería en Telecomunicaciones, Sistemas y Electrónica \|FESC\|: (2026) GTYWRN
 
-Psicología, FES Zaragoza (2018): 4HU2PV
+Psicología, FES Zaragoza (2018): **4HU2PV**
 
 **FACULTAD DE FILOSOFÍA Y LETRAS**
 
@@ -3429,6 +3437,7 @@ Sociologia 2022 Fes Acatlán SPN24H
 11 de Enero \- U7GRLW
 30 de Enero \- BHJJJA
 4 de junio 7M3MNC
+12 de junio H5MYK4
 23 de abril \- YG3PZF
 12de agosto
 23 de mayo- YG7BHR

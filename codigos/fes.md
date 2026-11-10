@@ -313,6 +313,7 @@
 | `VW5TB8` | Informática | doc |
 | `CSYUZN` | Informática | doc |
 | `GKBNW8` | Comunicación gráfica | doc |
+| `6MURMS` | MVZ | doc |
 | `3BYYCV` | Medicina Veterinaria Y Zootecnia. Gonzalez. Salma. 3 diciembre | comunidad |
 | `FPLAQ8` | Tecnología | comunidad |
 

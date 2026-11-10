@@ -7,13 +7,12 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 
 | Sección | Códigos |
 |---|---:|
-| [Inicio](inicio.md) | 1 |
 | [Medallas secretas](medallas-secretas.md) | 9 |
-| [Carreras que ya no existen o cambiaron de nombre](carreras-que-ya-no-existen-o-cambiaron-de-nombre.md) | 11 |
+| [Carreras que ya no existen o cambiaron de nombre](carreras-que-ya-no-existen-o-cambiaron-de-nombre.md) | 10 |
 | [CCH](cch.md) | 17 |
 | [Prepas](prepas.md) | 20 |
 | [ENES](enes.md) | 115 |
-| [FES](fes.md) | 434 |
+| [FES](fes.md) | 435 |
 | [Facultades de CU](facultades-de-cu.md) | 713 |
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 32 |
 | [Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia](instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-morelia.md) | 3 |
@@ -23,7 +22,7 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 | [Casi gemelos](casi-gemelos.md) | 529 |
 | [Cazadora de mitos](cazadora-de-mitos.md) | 14 |
 | [Compa de banca](compa-de-banca.md) | 201 |
-| [Lazo de cumpleaños](lazo-de-cumpleanos.md) | 10 |
+| [Lazo de cumpleaños](lazo-de-cumpleanos.md) | 11 |
 | [Otros](otros.md) | 2 |
 | [Grupo de WhatsApp](grupo-de-whatsapp.md) | 303 |
 | [Anuncios de la comunidad](anuncios-de-la-comunidad.md) | 101 |
