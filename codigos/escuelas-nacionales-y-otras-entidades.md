@@ -27,6 +27,7 @@
 | `7TCYKC` | Forense | doc |
 | `BVZXZF` | Forense | doc |
 | `28DXFJ` | Forense | doc |
+| `YPEP96` | Ciencias forenses,Naomi,Lopez,26 febrero,generación 2025 | comunidad |
 
 ## IIMAS (Instituto de Investigaciones en Matemáticas Aplicadas y en Sist
 
