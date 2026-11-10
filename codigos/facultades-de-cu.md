@@ -325,6 +325,7 @@
 | `GSKBMJ` | Enfermería y Obstetricia | doc |
 | `RPGJKF` | Enfermería y Obstetricia | doc |
 | `YUCQJJ` | Enfermería y Obstetricia | doc |
+| `FFH3UL` | Enfermería y Obstetricia | doc |
 
 ## Facultad de Música
 

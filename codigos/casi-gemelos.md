@@ -17,6 +17,7 @@
 | `W4MVK9` | 5 | doc |
 | `9R45UR` | 6 T4MZ7UF | doc |
 | `K8KLF2` | 7 | doc |
+| `BW67DM` | 7 | doc |
 | `4C7WHL` | 8 | doc |
 | `45KGQP` | 8 | doc |
 | `6V5N3Q` | 8 | doc |
