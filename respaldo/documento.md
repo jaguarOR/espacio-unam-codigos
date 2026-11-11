@@ -31,7 +31,7 @@
 
 **Disclaimer 3:** El documento ya está separado por planteles, es decir, CCH, prepas, FES, ENES, Facultades de CU y otras entidades.
 
-**Disclaimer 4:** Más abajo sejse encuentran 2 apartados para los logros de Tocayo, Casi familia y Pastel compartido. Favor de conservar el orden alfabético.
+**Disclaimer 4:** Más abajo se encuentran 2 apartados para los logros de Tocayo, Casi familia y Pastel compartido. Favor de conservar el orden alfabético.
 
 **Disclaimer 5:** Apréndanse su carrera porque algunos códigos no funcionan para la carrera que dicen ):
 
@@ -163,15 +163,14 @@
 Este Código es del mero mero, del jefazo (el creador de Espacio UNAM) les da medalla secreta ahhhh atte. Runix 🫰🏻
 
 **T0M43ST0**
-
-**Noviembre**
+¡Toma esto\! Para quienes crecieron con un control en la mano, una espada de madera y un mundo enorme por explorar: para los videojuegos que nos dieron infancia, las tardes de aventura, los cofres que se abrían con música y las mazmorras que nos enseñaron a no rendirnos. Su código solo despierta en noviembre de 2026\. Medalla ultrarrara.
 
 **T3NAZ7**
 Otro código secreto, se premia nuestra perseverancia.
 
 **GR4C1AZ**
 
-Agradecimiento a nuesutras mscotas que siempre nos acompañan
+Agradecimiento a nuestras mascotas que siempre nos acompañan
 
 **Otro código secreto, se premia**
 
@@ -203,7 +202,7 @@ Para el de: Todo está bien 🔥
 Para el de: Estoy cansado jefe 🥱
 
 **N0SERICK**
-Para el de: No lo sé Rickse Rick 🤔
+Para el de: No lo sé Rick 🤔
 
 **TR4NQU1**
 Para la de: Oye tranquilo viejo
@@ -366,7 +365,7 @@ En memoria de Mario Lenguas de Mileto, el perrito del CCH Naucalpan que acompañ
 Para el vampiro de filos. Este código sólo despierta en Halloween. 🧛
 
 **TUTS1**
-Para «MéXXico, el siglo lleva tu nombre», la escultura de la Facultad de Arquitectura que la comunidad llama la Tutsi Pop. Idea de Sergio, Oswald, Axel Emmanuel y 7 personas más. Medalla secreta.
+Para «México, el siglo lleva tu nombre», la escultura de la Facultad de Arquitectura que la comunidad llama la Tutsi Pop. Idea de Sergio, Oswald, Axel Emmanuel y 7 personas más. Medalla secreta.
 
 **B1G0T3S**
 Para Los Bigotes, la escultura de CU junto al Metro Universidad y la parada del Pumabús. Idea de Sergio, Raúl, Diego Antonio y 4 personas más. Medalla secreta.
@@ -958,7 +957,7 @@ Trabajar, aprender, comer, descansar y jugar: el plan de estudios más completo 
 
 **C4CHOS**
 
-Gracias a CachosCahos que desde hace décadas alimenta y consciente a generaciones de la Prepa 2
+Gracias a Cachos que desde hace décadas alimenta y consciente a generaciones de la Prepa 2
 
 **A1B3RCA**
 
@@ -1033,14 +1032,16 @@ Para los Nahuales, los equipos representativos de la Facultad de Artes y Diseño
 La hermana de La RIU: préstamo de equipo de cómputo e internet para que nadie en la UNAM se quede sin conectarse. Idea de Aline, Mark, Paloma y Román. Medalla secreta.
 
 **R4Y4T1GR3**
-
 Una medalla más para tu colección: total, ¿qué es otra raya más al tigre? Idea de Luis Ángel.
 
 **M43STR0S**
-
 Grandes Maestros.UNAM: cursos gratuitos con especialistas de la Universidad, abiertos a todo público. Serie «Cultura en tu bolsillo». Idea de Carlos. Medalla secreta.
 
-1ZT4CU4CH3
+**1ZT4CU4CH3**
+Para el tlacuache gordito que vive en la FES Iztacala y que su comunidad cuida y saluda. Idea de Alfonso Efrén. Serie «Mascotas de mi escuela». Medalla secreta.
+
+**S3GUR4S**
+Por una UNAM segura y libre de violencia para todas las personas, y por las mujeres que rompen barreras y abren camino a las que vienen. Idea de Denis, Daniela, Yuliana y Hanna. Medalla secreta.
 
 ¿Alguien tiene el código de la “startup"?
 
@@ -1054,7 +1055,6 @@ Grandes Maestros.UNAM: cursos gratuitos con especialistas de la Universidad, abi
 * *Hay una medalla por el top 100 en el mini juego secreto* 🤫
 * Y una por proponer una medalla 😛
 * Abriste «Espacio para ti», el rincón de bienestar de Espacio UNAM: escucharte también es estudiar. Si algo te pesa, no estás solo ni sola; pedir ayuda es de valientes. Idea de Enrique, Brenda, Ximena e Ivonne.
-* **Despacio, velocista\!** Escribiste códigos tan rápido que Espacio te pidió una pausa. Respira, que los lazos no se van. Medalla meme: esta se gana sola, sin código. Idea de Jorge, Dennis y Jonatan. PD denme admin
 
 En total, son muchas medallas secretas mis estimados (al menos eso me dijo GoIA, además de que siguen actualizando la página). Atte. Diego Terán 🍻 Ahora son 200 JAJAJA no paran de agregar más. Una disculpa JAJAJA La UNAM dándose cuenta que no fue buena idea aceptar solicitudes (no van a parar) se acabarán las ideas en algún momento ntp (o se dan por vencidos, 1 de 2\) LAS MEDALLAS NO PARAN DE SPAWNEAR WTF JSJD consecuencias de dejarnos sugerirlas. Ya me cansé de agregar los códigos secretos, mañana amaneceremos con 100 JAJA. Buenas noches, mis estimados adictos a los lazos.
 
@@ -1193,7 +1193,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Sociología:**
 
-**Derecho Sua:** EZLREM,
+**Derecho Sua:** EZLREM
 
 ### ***ENES Juriquilla*** {#enes-juriquilla}
 
@@ -1353,7 +1353,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Arquitectura:** T4MZ7S, Z2PFT2, ZYKAWY,JQEG3U,CD6E9R, 5SYS4J, 999SY7, RKUDH3
 
-**Comunicación y Periodismo:**4ACAQY, HMZ3AD, 9DT7WG, SE28C2, WNMKU5, KJY9A8, WD9Q6N
+**Comunicación y Periodismo:**4ACAQY, HMZ3AD, 9DT7WG, SE28C2, WNMKU5, KJY9A8,
 
 **Diseño Industrial:** UWJK4T, KNFKMV, 325FC5, N6DMGP, HGZBWY, 6Z52ZA, SMNMJW
 
@@ -1625,9 +1625,7 @@ Administración de Archivos y Gestión ***Documental***: **M33DPN,**
 
 Filosofía:, **5DV4P9**, **9JURAL, KJFPHV, AFV9RM**
 
-Geografía: **6YLFPN, 6YLFPN, 3W637B,  ,**
-
-**XTEKTV, H6F4BA, G4K6JE,**
+Geografía: **6YLFPN, 6YLFPN, 3W637B, XTEKTV, H6F4BA, G4K6JE,**
 
 Lengua y Literaturas Hispánicas: **VNMPZ9,** **2B9BEB, MD2YTA, CWFTUP, 8N24Z3, LHVZE2, 4ZBCV9, LMHY3H, BR4C76**
 
@@ -1802,7 +1800,7 @@ YA NO LO BORREN
 
 | A |
 | ----- |
-| BXAMZP, ALVDTP \- **Aaron** K4Z8HD, 89JNM3 \- **Abigail** UGVD3C, VSVE5R  \- **Abraham** 4LDPLD, TT6442 \- **Abril** 26MW2U- **Absalón**  E6FYLQ \- **Ada** 354CMX \- **Adamari** DC59MD \- **Adela** M33WL2 \- **Adolfo**  UDHBH3 \- **Adonay** F783Q6, SB3S58 \- **Adrian** 7UHFHJ, EZLREM,  AKNZPA- **Adriana** X5S4VQ  \- **Agnes**  HYADUU **\- Ailed**  W88YLX \- **Aidé**  TZ3CU6 \- **Aideé**  R7WR2E \- **Aileen** FDR434, 3RX6LZ, XLB7Z2 \- **Ailin**  G5VSUZ \- **Aislin** LHVZE2 \- **Ainar** 55VVA9 \- **Akin**  PYADLG \- **Alan** SLYBSD \- **Alberto** MAVRJ9 \- **Aldair** MHLNQF \- **Aldo** 4QSM4X**,** RMNQ7T, PV9QBS, \- **Alejandra** SQP3HF, H6U52K, XZBWUT, E7U7YA \- **Alejandro** J4QES4, V9RX8Z- **Alessandra**  ETYJEM, TC2RHZ, TL83CB, H8MKFQ, 34EDFF \- **Alexa**  FTWZED- **Alexander** FHQXMQ, W9THGT \- **Alexandra** 9X7TGT 8ZEKK9 \- **Alexandro**  K4RNJH, RVUWJH \- **Alexia** ZEWEKJ \- **Alexis** AB6RWP, 5VFXAG \- **Alfredo** XH8ZZE \- **Alfonso**  LM2U7L \- **Alicia** GSKBMJ \- **Alin** M2A9L3 \- **Aline** 8N24Z3  \- **Alinne** VAQYCV \- **Alison** G73Z9E **\- Allison RMXZ4E \- Alisson**  B4P9YP \- **Alma** TEQN9R , 2PGVHU \- **Alondra** XSLEPM \- **Alonso** DTL4P5 **\- Alvaro**  W25A2E \- **Alyzon** N7RKPL \- **Amanda** LYZ5CF \- **Amauri** U6QC39, WNMKU5 \- **Ambar** QMDEAM \- **Amelie** 9U3QWM, F5Z27H \- **America** SSD55C \- **Ameyal**  BGY7UX \- **Ameyala**  3EGY3N \- **Ameyali**  LH2NV7 \- **Ameyalli**  Z5K8S9 \- **Amalinalli** F688S8 \- **Amairani** ZJJYZU \- **Amayrani** WLW4WT \- **Amir** NBDGLB \- **Amos** VNMPZ9, 6GT9PH, UMZHHH, RP824B, 56XQJ8 \- **Ana** QHQFZB \- **Anna** XQST48, M7B54S \- **Anahí** MP7Y6M \- **Anaid** YK4BPW \- **Anaremi**  HB9TUV \- **Anael** 44UQUR \- **Andre** 6WM8QZ, WGM2KG, MY5REG, EMXTCA, LXYBNV- **Andrea** QKQC8H, XTEJ8P \- **Andrés** UAW9AA \- **Andrey** Y2SM92, KJY9A8, WW36CR, JEYZRQ \- **Angel** 6PHDHX, H6RRFW \- **Angélica SN6AHU \- Ángela**  AXBZDR \- **Angelli** SS4VPK \- **Angie  6PHCHQ \- Angeles**  CSSVLE \- **Anel** 4PXEED \- **Anneli** RCNKSB \- **Annie** UGVEHD, XJE3HZ \- **Antonio** YULUPY \- **Aquetzalli**  ZVD8Z4 \- **Arantxa** C2E6DR **\- Aranza** CXZGG6 \- **Arath N54J7V \- Areli** 3ZH8AS \- **Arely** Y7J263 \- **Ari** HFAAS9 \- **Aridani** GXZ73A \- **Ariel** LZ7ETX \- **Arlet**  F5JCTS \- **Arleth** 9DFZVJ \- **Arcelia**  Q6QP7H \-RZT3LL **Argenis**  XV6KAN \- **Arelys**  MVNWXC,  AZU86R \- **Ariana** FKWYFZ \- **Armando** 7Z9MNW \- **Arturo** JQEG3U \- **Ashley**  AL6N8L \- **Ashly** MDW9W3 **\- Atenea** 49ACHB \- **Audrey** FSZLZC \- **Audrie** WPAY3K- **Aura** XRRLDC \- **Aurea** 75DVYC \- **Aurora**  Y7ZM9H- **Aury** RWKVVL \- **Avril**  YURFCE, QVC32M , A3WLU9 \- **Axel** PPYFAU \- **Ayari** UALS83 \- **Ayelen** ZUAMAT \- **Ayerim** KEPNNC \- **Aylin** 9GNVRV \- **Azael** 5WZDUP \- **Azucena** P7PAUD  \- **Azul**  L576TC **\- Araceli 5M92E6 \- Alitzel** |
+| BXAMZP, ALVDTP \- **Aaron** K4Z8HD, 89JNM3 \- **Abigail** UGVD3C, VSVE5R  \- **Abraham** 4LDPLD, TT6442 \- **Abril** 26MW2U- **Absalón**  E6FYLQ \- **Ada** 354CMX \- **Adamari** DC59MD \- **Adela** M33WL2 \- **Adolfo**  UDHBH3 \- **Adonay** F783Q6, SB3S58 \- **Adrian** 7UHFHJ, EZLREM, AKNZPA- **Adriana** X5S4VQ  \- **Agnes**  HYADUU **\- Ailed**  W88YLX \- **Aidé**  TZ3CU6 \- **Aideé**  R7WR2E \- **Aileen** FDR434, 3RX6LZ, XLB7Z2 \- **Ailin**  G5VSUZ \- **Aislin** LHVZE2 \- **Ainar** 55VVA9 \- **Akin**  PYADLG \- **Alan** SLYBSD \- **Alberto** MAVRJ9 \- **Aldair** MHLNQF \- **Aldo** 4QSM4X**,** RMNQ7T, PV9QBS, \- **Alejandra** SQP3HF, H6U52K, XZBWUT, E7U7YA \- **Alejandro** J4QES4, V9RX8Z- **Alessandra**  ETYJEM, TC2RHZ, TL83CB, H8MKFQ, 34EDFF \- **Alexa**  FTWZED- **Alexander** FHQXMQ, W9THGT \- **Alexandra** 9X7TGT 8ZEKK9 \- **Alexandro**  K4RNJH, RVUWJH \- **Alexia** ZEWEKJ \- **Alexis** AB6RWP, 5VFXAG \- **Alfredo** XH8ZZE \- **Alfonso**  LM2U7L \- **Alicia** GSKBMJ \- **Alin** M2A9L3 \- **Aline** 8N24Z3  \- **Alinne** VAQYCV \- **Alison** G73Z9E **\- Allison RMXZ4E \- Alisson**  B4P9YP \- **Alma** TEQN9R , 2PGVHU \- **Alondra** XSLEPM \- **Alonso** DTL4P5 **\- Alvaro**  W25A2E \- **Alyzon** N7RKPL \- **Amanda** LYZ5CF \- **Amauri** U6QC39, WNMKU5 \- **Ambar** QMDEAM \- **Amelie** 9U3QWM, F5Z27H \- **America** SSD55C \- **Ameyal**  BGY7UX \- **Ameyala**  3EGY3N \- **Ameyali**  LH2NV7 \- **Ameyalli**  Z5K8S9 \- **Amalinalli** F688S8 \- **Amairani** ZJJYZU \- **Amayrani** WLW4WT \- **Amir** NBDGLB \- **Amos** VNMPZ9, 6GT9PH, UMZHHH, RP824B, 56XQJ8 \- **Ana** QHQFZB \- **Anna** XQST48, M7B54S \- **Anahí** MP7Y6M \- **Anaid** YK4BPW \- **Anaremi**  HB9TUV \- **Anael** 44UQUR \- **Andre** 6WM8QZ, WGM2KG, MY5REG, EMXTCA, LXYBNV- **Andrea** QKQC8H, XTEJ8P \- **Andrés** UAW9AA \- **Andrey** Y2SM92, KJY9A8, WW36CR, JEYZRQ \- **Angel** 6PHDHX, H6RRFW \- **Angélica SN6AHU \- Ángela**  AXBZDR \- **Angelli** SS4VPK \- **Angie  6PHCHQ \- Angeles**  CSSVLE \- **Anel** 4PXEED \- **Anneli** RCNKSB \- **Annie** UGVEHD, XJE3HZ \- **Antonio** YULUPY \- **Aquetzalli**  ZVD8Z4 \- **Arantxa** C2E6DR **\- Aranza** CXZGG6 \- **Arath N54J7V \- Areli** 3ZH8AS \- **Arely** Y7J263 \- **Ari** HFAAS9 \- **Aridani** GXZ73A \- **Ariel** LZ7ETX \- **Arlet**  F5JCTS \- **Arleth** 9DFZVJ \- **Arcelia**  Q6QP7H \-RZT3LL **Argenis**  XV6KAN \- **Arelys**  MVNWXC,  AZU86R \- **Ariana** FKWYFZ \- **Armando** 7Z9MNW \- **Arturo** JQEG3U \- **Ashley**  AL6N8L \- **Ashly** MDW9W3 **\- Atenea** 49ACHB \- **Audrey** FSZLZC \- **Audrie** WPAY3K- **Aura** XRRLDC \- **Aurea** 75DVYC \- **Aurora**  Y7ZM9H- **Aury** RWKVVL \- **Avril**  YURFCE, QVC32M , A3WLU9 \- **Axel** PPYFAU \- **Ayari** UALS83 \- **Ayelen** ZUAMAT \- **Ayerim** KEPNNC \- **Aylin** 9GNVRV \- **Azael** 5WZDUP \- **Azucena** P7PAUD  \- **Azul**  L576TC **\- Araceli 5M92E6 \- Alitzel** |
 | **B** |
 | HG6QQX \- **Barbara**  M8MRDM \- **Bárbara**  XKYNQ8 \- **Beatriz**  8MT3SY \- **Belem** LDJN7P **\- Belén**  42GEXU \- **Betzabeth** DGHY32, AWLR5V \- **Berenice** 73VSTT \- **Bersheva** E76VKM \- **Blanca** CYSVAV- **Brandon** D3NJY3, JTWXGC \- **Braulio** SLYBSD \- **Brayan** VZ36RJ, UU6VPQ, WW7T4K, 7FDNDL, TVPG8X- **Brenda** GKZCFU, 7BSNQB \- **Brian** XFX8U7 **\- Briana** UALS83 \- **Brigitte** KNM6SQ \- **Briseida** 2PFVA4, JNFJKW \- **Bruno** 668YW9 \- **Bryan** |
 | **C** |
@@ -1843,7 +1841,7 @@ U9FRDX \- **Nidia** R7ZS2S \- **Noé** MTUVQH \- **Noel** , NVA94H \- **Noemy 8N
 | 9Z7HUK \- **Quetzal** 4R4MNQ \- **Quetzali** BSU7JW \- **Quetzalli**  |
 | **R** |
 | SZEXJ3 \- **Rachel**  YEGKL2,5D62KA \- **Rafael** V569QT **\- Raman** RVY6UF \- **Ramiro** 99MYX7 \- **Raquel** PGQ43A \- **Raúl**  Q978AJ,WRVUAF \- **Rebeca** 6TBAMV \- **Regina**  Z5KZQ5, XEJ383 \- **Renata** D5GYZY \- **Ricardo** GAVUGY \- **Roberto** ALKPT3, MFCF6H \- **Rocio** T5ARSK \- **Rodolfo** EUF8A3, HGGMCD, GNPVXS \- **Rodrigo** EQAW8X \- **Rolando** XYRRTS \- **Romina** HUUGQ5 \- **Rommel** WLWZ6P, 3UNCXG \- **Rosa** ADBZNZ \- **Rosalba**
-4QRXH7 \- **Rosendo** YM9HJ3 \- **Rosaura** BXQMZX-**Rigoberto LM87ET** |
+4QRXH7 \- **Rosendo** YM9HJ3 \- **Rosaura** BXQMZX-**Rigoberto**  |
 | **S** |
 | L5GPBK \- **Safir** Q2432U \- **Said** PYADLG \- **Salvador** P7PAUD, K7KBUF, AAABHU, BASB5W, 7Y4N48 \- **Samantha**  634MZ6 \- **Samanta** YNPKGP, XSU4PF \- **Sandra**  Z6NQMM, GLWNDS, 6DT6SY, TVGL8J- **Santiago**  7NSF65- **Sara** KNFKMV \- **Sarahi** 2UZB9F \- Sarai PMXRXP, 9RDDKY \- **Saul** 93H9J9 \- **Sayid**
 SKBZDL-**Sayra** XTEKTV \- **Scarlett** CC2JVA, VMXG5A, FDSTL4 \- **Sebastián** SAKNLC \- **Selene** MAVVEW, Z2PFT2, V2XP99, Q25JJU, XPQ7SN \- **Sergio 9RDDKY** 8RYZLX \- **Shania**  P8AEN8, F5TN2H \- **Sharon**  BYF2UV- **Sheccid** WGV9N9**\-** **Sacbe** R6YX47 \- **Sheyla**  WMWPYR **\- Seth** 4HU2PV \- **Silvia** 9ZHNXC, MTXZ58 \- **Sofía** EF38ST \- **Spencer** 9MVBUH \- **Stephanie** LGB2ZV, CF4UBR \- **Stefany** 27YHVB \- **Sunmy** X3DZYF \- **Suzanne** |
@@ -2683,7 +2681,7 @@ SSD55C \- Zunun
 | **San Luis Potosí:** E377RP, ADBZNZ, XFX8U7 |
 | **Sinaloa:** DSN67E |
 | **Sonora:** W6JDTE |
-| **Tabasco:**, X5NADC, ${}$ZEWEKJ |
+| **Tabasco:**, X5NADC, ${}$ |
 | **Tamaulipas:** CBU3CE, 39M9RZ |
 | **Tlaxcala:** 4G7JK7, P3ZRE5, 9KPM49 |
 | **Veracruz:** LM2U7L, DH3XJL, CZ32GG, N8UE5V, NTQFMQ, MTXZ58 |
@@ -3492,7 +3490,7 @@ Saludos a mis piches, mi manad \-C 🐺💋 awww bro tqm \- T.
 PONGAN CAIFANESSSSSS
 Saludos a toda la bandita con con de clase y antisionista de corazón 🗣
 Saludos desde Tijuana🤠(GPI al donkeyshow)
-Daniel Eduardo Gonzales Santos que va en filosofia y letras CHINGAS A TU MIERDA (amo a tu familia pero te vasz a la chingada)
+Daniel Eduardo Gonzales Santos que va en filosofia y letras CHINGAS A TU MIERDA (amo a tu familia pero te vas a la chingada)
 **Plis agreguen apartado de “paisanas” para los extranjeros por país, dice GoIA que solo se puede conseguir para extranjeros si agregan a alguien nacido en su mismo país ??**
 
 ##

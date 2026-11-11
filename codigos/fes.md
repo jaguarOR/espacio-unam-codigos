@@ -126,7 +126,6 @@
 | `SE28C2` | Comunicación y Periodismo | doc |
 | `WNMKU5` | Comunicación y Periodismo | doc |
 | `KJY9A8` | Comunicación y Periodismo | doc |
-| `WD9Q6N` | Comunicación y Periodismo | doc |
 | `UWJK4T` | Diseño Industrial | doc |
 | `KNFKMV` | Diseño Industrial | doc |
 | `325FC5` | Diseño Industrial | doc |

@@ -425,9 +425,9 @@
 | `AFV9RM` | Filosofía | doc |
 | `6YLFPN` | Geografía | doc |
 | `3W637B` | Geografía | doc |
-| `XTEKTV` | — | doc |
-| `H6F4BA` | — | doc |
-| `G4K6JE` | — | doc |
+| `XTEKTV` | Geografía | doc |
+| `H6F4BA` | Geografía | doc |
+| `G4K6JE` | Geografía | doc |
 | `VNMPZ9` | Lengua y Literaturas Hispánicas | doc |
 | `2B9BEB` | Lengua y Literaturas Hispánicas | doc |
 | `MD2YTA` | Lengua y Literaturas Hispánicas | doc |

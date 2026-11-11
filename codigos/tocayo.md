@@ -905,7 +905,6 @@
 | `4QRXH7` | Rosendo | doc |
 | `YM9HJ3` | Rosaura | doc |
 | `BXQMZX` | Rigoberto | doc |
-| `LM87ET` | S | doc |
 | `L5GPBK` | Safir | doc |
 | `Q2432U` | Said | doc |
 | `PYADLG` | Salvador | doc |
