@@ -301,6 +301,7 @@
 | `RDFGD3` | Dulce | doc |
 | `7RKM4V` | Dulce | doc |
 | `YY4XRF` | Dulce | doc |
+| `9AHF9R` | Dylan | doc |
 | `7XMBB9` | Eder | doc |
 | `DH5LMV` | Eder | doc |
 | `HR5TVK` | Edgar | doc |
@@ -426,6 +427,7 @@
 | `ZB3X47` | Giovanni | doc |
 | `3C9YXF` | GiovannA | doc |
 | `ULS7F3` | Giovanny | doc |
+| `VMF7FH` | Giselle | doc |
 | `L6KQTK` | Giselle | doc |
 | `M94YBG` | Giselle | doc |
 | `H5G886` | Gonzalo | doc |

@@ -22,6 +22,7 @@
 | `7PDUXU` | Traducción | doc |
 | `4L2U5Q` | Traducción | doc |
 | `EA87CQ` | Traducción | doc |
+| `V32CE5` | Etnomusicologia | doc |
 | `GTTYS2` | Ingeniería Eléctrica y Electrónica | doc |
 | `F783Q6` | Ingeniería Eléctrica y Electrónica | doc |
 | `LKAE3D` | 5 | doc |
