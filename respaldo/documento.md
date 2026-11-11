@@ -1032,7 +1032,7 @@ Para los Nahuales, los equipos representativos de la Facultad de Artes y Diseño
 
 La hermana de La RIU: préstamo de equipo de cómputo e internet para que nadie en la UNAM se quede sin conectarse. Idea de Aline, Mark, Paloma y Román. Medalla secreta.
 
-**R4Y4T1GRE**
+**R4Y4T1GR3**
 
 ¿Alguien tiene el código de la “startup"?
 
@@ -1046,6 +1046,7 @@ La hermana de La RIU: préstamo de equipo de cómputo e internet para que nadie 
 * *Hay una medalla por el top 100 en el mini juego secreto* 🤫
 * Y una por proponer una medalla 😛
 * Abriste «Espacio para ti», el rincón de bienestar de Espacio UNAM: escucharte también es estudiar. Si algo te pesa, no estás solo ni sola; pedir ayuda es de valientes. Idea de Enrique, Brenda, Ximena e Ivonne.
+* **Despacio, velocista\!** Escribiste códigos tan rápido que Espacio te pidió una pausa. Respira, que los lazos no se van. Medalla meme: esta se gana sola, sin código. Idea de Jorge, Dennis y Jonatan. PD denme admin
 
 En total, son muchas medallas secretas mis estimados (al menos eso me dijo GoIA, además de que siguen actualizando la página). Atte. Diego Terán 🍻 Ahora son 200 JAJAJA no paran de agregar más. Una disculpa JAJAJA La UNAM dándose cuenta que no fue buena idea aceptar solicitudes (no van a parar) se acabarán las ideas en algún momento ntp (o se dan por vencidos, 1 de 2\) LAS MEDALLAS NO PARAN DE SPAWNEAR WTF JSJD consecuencias de dejarnos sugerirlas. Ya me cansé de agregar los códigos secretos, mañana amaneceremos con 100 JAJA. Buenas noches, mis estimados adictos a los lazos.
 
@@ -3442,6 +3443,7 @@ Sociologia 2022 Fes Acatlán SPN24H
 12de agosto
 23 de mayo- YG7BHR
 10 de mayo \- JDHWGM
+3 de feb \- BC769Z
 
 ## **NVA94H**
 
