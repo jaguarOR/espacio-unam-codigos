@@ -391,6 +391,7 @@
 | `4QY6A9` | Química Farmacéutico Biológica | doc |
 | `GNTMN6` | Química Farmacéutico Biológica | doc |
 | `ASGK4F` | Química Farmacéutico Biológica | doc |
+| `XLX3BE` | Química Farmacéutico Biológica | doc |
 | `K9W559` | Química Industrial | doc |
 | `3PXTU2` | Trabajo Social | doc |
 | `DNLR3P` | Trabajo Social | doc |
@@ -424,9 +425,9 @@
 | `AFV9RM` | Filosofía | doc |
 | `6YLFPN` | Geografía | doc |
 | `3W637B` | Geografía | doc |
-| `XTEKTV` | Geografía | doc |
-| `H6F4BA` | Geografía | doc |
-| `G4K6JE` | Geografía | doc |
+| `XTEKTV` | — | doc |
+| `H6F4BA` | — | doc |
+| `G4K6JE` | — | doc |
 | `VNMPZ9` | Lengua y Literaturas Hispánicas | doc |
 | `2B9BEB` | Lengua y Literaturas Hispánicas | doc |
 | `MD2YTA` | Lengua y Literaturas Hispánicas | doc |
@@ -435,6 +436,7 @@
 | `LHVZE2` | Lengua y Literaturas Hispánicas | doc |
 | `4ZBCV9` | Lengua y Literaturas Hispánicas | doc |
 | `LMHY3H` | Lengua y Literaturas Hispánicas | doc |
+| `BR4C76` | Lengua y Literaturas Hispánicas | doc |
 | `TVPG8X` | Lengua y Literaturas Modernas Francesas | doc |
 | `AB3MHG` | Lengua y Literaturas Modernas Francesas | doc |
 | `865U4C` | Lengua y Literaturas Modernas Francesas | doc |
@@ -723,6 +725,7 @@
 | `M8MRDM` | Derecho SUAYED | doc |
 | `XJ65S3` | Derecho SUAYED | doc |
 | `WGV9N9` | Derecho SUAYED | doc |
+| `RVUWJH` | Derecho SUAYED | doc |
 
 ## Facultad de Psicología
 

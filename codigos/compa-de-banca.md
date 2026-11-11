@@ -15,6 +15,7 @@
 | `ACZ97F` | DERECHO FES ACATLÁN/GEN. 2020 | doc |
 | `4XAJYP` | DERECHO FES ACATLÁN/ GEN 2022 | doc |
 | `E92887` | DERECHO FES ACATLAN/ GEN 2026 | doc |
+| `RVUWJH` | Derecho SUAyED/ GEN 2026 | doc |
 | `AJ8KGJ` | Relaciones Internacionales/ GEN 2020 | doc |
 | `NKNAFP` | Relaciones Internacionales SUA/ GEN 2021 | doc |
 | `BASB5W` | Relaciones Internacionales SUA/ GEN 2021 | doc |

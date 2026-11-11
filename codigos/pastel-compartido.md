@@ -459,6 +459,7 @@
 | `J6VTDU` | NOVIEMBRE | doc |
 | `DK66GK` | NOVIEMBRE | doc |
 | `AVJUJF` | NOVIEMBRE | doc |
+| `RVUWJH` | NOVIEMBRE | doc |
 | `RGUKR3` | DICIEMBRE | doc |
 | `UU6VPQ` | DICIEMBRE | doc |
 | `XJWH5V` | DICIEMBRE | doc |
@@ -520,6 +521,7 @@
 | `KVMVNM` | Baja California Sur | doc |
 | `BKY7PY` | Baja California | doc |
 | `J5HYY2` | Baja California | doc |
+| `RVUWJH` | Baja California | doc |
 | `SMBPQF` | Campeche | doc |
 | `ZUH73Z` | Campeche | doc |
 | `XZXA2V` | Chiapas | doc |
@@ -684,7 +686,7 @@
 | `DSN67E` | Sinaloa | doc |
 | `W6JDTE` | Sonora | doc |
 | `X5NADC` | Tabasco | doc |
-| `ZEWEKJ` | Tabasco | doc |
+| `ZEWEKJ` | ${}$ | doc |
 | `CBU3CE` | Tamaulipas | doc |
 | `39M9RZ` | Tamaulipas | doc |
 | `4G7JK7` | Tlaxcala | doc |
