@@ -1009,23 +1009,18 @@ Para el zorro elegante, mascota de la carrera de Economía de la FES Aragón: in
 Para Polvorón, el perrito más conocido de la FES Zaragoza, que acompaña a su comunidad entre clase y clase. Idea de Alicia Azucena. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **T14AL1**
-
 Gracias a la Tía Aly, que salva la comida de la comunidad de la Facultad de Ciencias entre clase y clase. Serie «Gracias a quienes nos cuidan». Idea de Víctor, Raúl y Luis. Medalla secreta.
 
 **UNAMMUND0**
-
 La UNAM no es solo CU: está en todo México y también tiene sedes en otros países, en varios continentes. Idea de José Martín y Alexander. Medalla secreta.
 
 **GL0R14C**
-
 Serie «Mujeres que hicieron la UNAM»: Gloria Contreras, bailarina y coreógrafa que en 1970 fundó el Taller Coreográfico de la UNAM y llevó la danza a toda la comunidad. Idea de Guadalupe Alin. Medalla secreta.
 
 **N4HU4L3S**
-
 Para los Nahuales, los equipos representativos de la Facultad de Artes y Diseño: arte en el taller y garra en la cancha. Idea de Regina y Karen. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **PCPUM4S**
-
 La hermana de La RIU: préstamo de equipo de cómputo e internet para que nadie en la UNAM se quede sin conectarse. Idea de Aline, Mark, Paloma y Román. Medalla secreta.
 
 **R4Y4T1GR3**
@@ -1040,6 +1035,9 @@ Para el tlacuache gordito que vive en la FES Iztacala y que su comunidad cuida y
 **S3GUR4S**
 Por una UNAM segura y libre de violencia para todas las personas, y por las mujeres que rompen barreras y abren camino a las que vienen. Idea de Denis, Daniela, Yuliana y Hanna. Medalla secreta.
 
+**T4RD3C0RR**
+Para quienes cruzan el campus corriendo para llegar a tiempo y suben la rampa como si fuera maratón. Cardio universitario. Idea de Aury Sahid, Jenny Alondra y Maely. Solo se gana con su código secreto.
+
 ¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta Pd:si la pestaña se queda quieta más de 15 minutos sin moverte, el tiempo de reinicia.
@@ -1048,8 +1046,8 @@ Por una UNAM segura y libre de violencia para todas las personas, y por las muje
 * **Bisiesto**: Hacer un lazo con alguien que nació el 29 de febrero \- RVRBV4
 * **Quedé**: Errar en un intento de adivinar la ofrenda en **Medalla Ultrarrara Megaofrenda 2026**
 * **Soñador:** Empezaste a estudiar en la UNAM a los 25 años o más
-* **Esa ya la tenías**: Escribiste cinco códigos de medallas que ya tenías. La emoción es real, pero ya son tuyas. Medalla meme: esta se gana sola, sin código. Idea de Alinne y Karla Melanie.
-* *Hay una medalla por el top 100 en el mini juego secreto* 🤫
+* **Esa ya la tenías**: Escribiste cinco códigos de medallas que ya tenías.
+*  *Hay una medalla por el top 100 en el mini juego secreto* 🤫
 * Y una por proponer una medalla 😛
 * Abriste «Espacio para ti», el rincón de bienestar de Espacio UNAM: escucharte también es estudiar. Si algo te pesa, no estás solo ni sola; pedir ayuda es de valientes. Idea de Enrique, Brenda, Ximena e Ivonne.
 
@@ -1172,7 +1170,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Traducción:** XHGFPK, 7PDUXU, 4L2U5Q, EA87CQ
 
-**Etnomusicologia:V32CE5**
+**Etnomusicologia: V32CE5**
 
 **Ingeniería Eléctrica y Electrónica:** GTTYS2**,** F783Q6, 5, LKAE3D, 4THUMF, 8ZEKK9, QT
 
@@ -1689,7 +1687,7 @@ Arte y Diseño:  **NPCGN7**
 
 Artes Visuales: **W3FLD6**, **SZEXJ3, ZEX4TV, ZASTKX, L8GE4V, W3ZPUK, RANETR**
 
-Diseño y Comunicación Visual: **3EADS3**, **WMWPYR**, **J8LGHK, BFJ5ZB, XJWH5V**, **AFJHRE**, **M7978E, 74MYW8, YULUPY, Z68CTF, 4YREGJ, SL5VWW, 74MYW8, G8ZWJ9, LR4WLT, CTKX8D, EC4755, WUJNCD**
+Diseño y Comunicación Visual: **3EADS3**, **WMWPYR**, **J8LGHK, BFJ5ZB, XJWH5V**, **AFJHRE**, **M7978E, 74MYW8, YULUPY, Z68CTF, 4YREGJ, SL5VWW, 74MYW8, G8ZWJ9, LR4WLT, CTKX8D, EC4755, WUJNCD, KMQTZ2**
 
 Comunicación gráfica:
 
@@ -1926,7 +1924,7 @@ WVBJN2 \- Aparicio
 ZAX7PL  \-  Avila
 9VVQ6V- Avilez
 YURFEC \- Aviña
-HG6QQX, cDELLRV \- Aguilar
+HG6QQX, DELLRV \- Aguilar
 2ZE44K \- Avendaño
 LGM3NE, P7PAUD  \- Ayala
 RWKVVL \- Alvarez

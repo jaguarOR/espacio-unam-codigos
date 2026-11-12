@@ -640,6 +640,7 @@
 | `CTKX8D` | Diseño y Comunicación Visual | doc |
 | `EC4755` | Diseño y Comunicación Visual | doc |
 | `WUJNCD` | Diseño y Comunicación Visual | doc |
+| `KMQTZ2` | Diseño y Comunicación Visual | doc |
 | `CTKX8D` | Diseño y Comunicación Visual | comunidad |
 | `ZCAMCJ` | Diseño y Comunicación Visual | comunidad |
 
