@@ -1926,7 +1926,7 @@ WVBJN2 \- Aparicio
 ZAX7PL  \-  Avila
 9VVQ6V- Avilez
 YURFEC \- Aviña
-HG6QQX, DELLRV \- Aguilar
+HG6QQX, cDELLRV \- Aguilar
 2ZE44K \- Avendaño
 LGM3NE, P7PAUD  \- Ayala
 RWKVVL \- Alvarez
@@ -3261,7 +3261,7 @@ CONTADURÍA / Facultad de Contaduría y Administración / Escolarizado / 2021 / 
 
 CONTADURÍA/FCA/Escolarizado/ 2024 B3FPGG
 
-Contaduría /FCA/ED/ 2027/ 4B
+Contaduría /FCA/ED/ 2027/ 4BDJKK
 
 ADMINISTRACIÓN/FCA/SUA/2025 M8RMH9, CM8RT8
 

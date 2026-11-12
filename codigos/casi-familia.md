@@ -68,8 +68,7 @@
 | `ZAX7PL` | Avila | doc |
 | `9VVQ6V` | Avilez | doc |
 | `YURFEC` | Aviña | doc |
-| `HG6QQX` | Aguilar | doc |
-| `DELLRV` | Aguilar | doc |
+| `HG6QQX` | cDELLRV - Aguilar | doc |
 | `2ZE44K` | Avendaño | doc |
 | `LGM3NE` | Ayala | doc |
 | `P7PAUD` | Ayala | doc |

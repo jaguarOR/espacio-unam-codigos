@@ -17,11 +17,11 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 34 |
 | [Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia](instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-morelia.md) | 3 |
 | [Tocayo](tocayo.md) | 1060 |
-| [Casi familia](casi-familia.md) | 1017 |
+| [Casi familia](casi-familia.md) | 1016 |
 | [Pastel compartido](pastel-compartido.md) | 706 |
 | [Casi gemelos](casi-gemelos.md) | 534 |
 | [Cazadora de mitos](cazadora-de-mitos.md) | 14 |
-| [Compa de banca](compa-de-banca.md) | 203 |
+| [Compa de banca](compa-de-banca.md) | 204 |
 | [Otros](otros.md) | 2 |
 | [Grupo de WhatsApp](grupo-de-whatsapp.md) | 304 |
 | [Anuncios de la comunidad](anuncios-de-la-comunidad.md) | 101 |
