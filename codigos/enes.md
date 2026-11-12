@@ -101,6 +101,7 @@
 | `PMATBR` | Geociencias | doc |
 | `6TABQR` | Tecnologías para la Información en ciencias | doc |
 | `58ZH4F` | Ciencias Ambientales | doc |
+| `NBQM9J` | Ecología | doc |
 | `HL67XM` | Administración | doc |
 | `2C99TJ` | Administración | doc |
 | `WA2DEC` | Administración de Archivos y Gestión Documental | doc |

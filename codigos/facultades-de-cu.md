@@ -428,7 +428,6 @@
 | `XTEKTV` | Geografía | doc |
 | `H6F4BA` | Geografía | doc |
 | `G4K6JE` | Geografía | doc |
-| `VMF7FH` | Lengua y Literaturas Hispánicas | doc |
 | `VNMPZ9` | Lengua y Literaturas Hispánicas | doc |
 | `2B9BEB` | Lengua y Literaturas Hispánicas | doc |
 | `MD2YTA` | Lengua y Literaturas Hispánicas | doc |
@@ -438,6 +437,7 @@
 | `4ZBCV9` | Lengua y Literaturas Hispánicas | doc |
 | `LMHY3H` | Lengua y Literaturas Hispánicas | doc |
 | `BR4C76` | Lengua y Literaturas Hispánicas | doc |
+| `VMF7FH` | Lengua y Literaturas Hispánicas | doc |
 | `TVPG8X` | Lengua y Literaturas Modernas Francesas | doc |
 | `AB3MHG` | Lengua y Literaturas Modernas Francesas | doc |
 | `865U4C` | Lengua y Literaturas Modernas Francesas | doc |
