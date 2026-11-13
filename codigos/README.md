@@ -2,7 +2,7 @@
 
 Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos a mano**: se sobrescriben en cada sincronización. Para aportar un código abre un [issue de aportación](../../../issues/new?template=aporte-codigo.yml).
 
-- Códigos del Google Doc: **5297**
+- Códigos del Google Doc: **5299**
 - Aportaciones vía GitHub: **21**
 
 | Sección | Códigos |
@@ -13,7 +13,7 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 | [Prepas](prepas.md) | 20 |
 | [ENES](enes.md) | 117 |
 | [FES](fes.md) | 434 |
-| [Facultades de CU](facultades-de-cu.md) | 719 |
+| [Facultades de CU](facultades-de-cu.md) | 721 |
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 35 |
 | [Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia](instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-morelia.md) | 3 |
 | [Tocayo](tocayo.md) | 1061 |

@@ -1019,7 +1019,6 @@ Serie «Mujeres que hicieron la UNAM»: Gloria Contreras, bailarina y coreógraf
 
 **N4HU4L3S**
 Para los Nahuales, los equipos representativos de la Facultad de Artes y Diseño: arte en el taller y garra en la cancha. Idea de Regina y Karen. Serie «Mascotas de mi escuela». Medalla secreta.
-
 **PCPUM4S**
 La hermana de La RIU: préstamo de equipo de cómputo e internet para que nadie en la UNAM se quede sin conectarse. Idea de Aline, Mark, Paloma y Román. Medalla secreta.
 
@@ -1034,9 +1033,6 @@ Para el tlacuache gordito que vive en la FES Iztacala y que su comunidad cuida y
 
 **S3GUR4S**
 Por una UNAM segura y libre de violencia para todas las personas, y por las mujeres que rompen barreras y abren camino a las que vienen. Idea de Denis, Daniela, Yuliana y Hanna. Medalla secreta.
-
-**T4RD3C0RR**
-Para quienes cruzan el campus corriendo para llegar a tiempo y suben la rampa como si fuera maratón. Cardio universitario. Idea de Aury Sahid, Jenny Alondra y Maely. Solo se gana con su código secreto.
 
 ¿Alguien tiene el código de la “startup"?
 
@@ -1672,7 +1668,7 @@ Ciencias de la Comunicación (SUAyED): **75CQF3, XSLEPM, VFL56D, BHJJJA, DFTXBL*
 
 ### ***Facultad de Contaduría y Administración*** {#facultad-de-contaduría-y-administración}
 
-Administración: 9MEAAP, YPHDQH,  **9ZP2AZ, VBDF4E, , HL67XM U8C9G3**
+Administración: 9MEAAP, YPHDQH,  **9ZP2AZ, VBDF4E, , HL67XM U8C9G3, ZX43HM**
 Administración SUAYED a distancia: **FZC5EB, UVJ83P**
 
 **FFWLPX**Contaduría: **DVW383**, **4TB6ZC**, **3C5MX2, N54J7V, ZMY6X9, ZG27YE,  HGGMCD, SUAW4X , BE5FU9 ,5QQJBV, C7NXLY, MU69T3, PZK7RS , 374S23, WNR2GC, ARMS6Z , BXAMZP, M2P8C9, MVNWXC 5WK7AX, NWX4TN, B3FPGG, 6VMRJF, EVKRFU, MDW9W3, LH9W8W, ZTAQVJ, 2M5L75**
@@ -1695,7 +1691,7 @@ Comunicación gráfica:
 
 ### ***Facultad de Economía*** {#facultad-de-economía}
 
-Economía: **DRVR87, 7M3MNC**, **JUBN3N**, **FPN8E4**, **V8NHYS**, **D7E8UT**, **ZSNN9K, CCRE6J, QATJCM, 8ERZAR, UZJXUG, 39GFZJ,**
+Economía: **DRVR87, 7M3MNC**, **JUBN3N**, **FPN8E4**, **V8NHYS**, **D7E8UT**, **ZSNN9K, CCRE6J, QATJCM, 8ERZAR, UZJXUG, 39GFZJ, 8TQ47J**
 
 Economia SUAyED**: S5VEZU, BHXKZL,42DDXA AGLLPJ, 4G7JK7, J6VTDU**
 

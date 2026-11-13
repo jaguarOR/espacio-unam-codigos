@@ -573,6 +573,7 @@
 | `VBDF4E` | Administración | doc |
 | `HL67XM` | Administración | doc |
 | `U8C9G3` | Administración | doc |
+| `ZX43HM` | Administración | doc |
 | `FZC5EB` | Administración SUAYED a distancia | doc |
 | `UVJ83P` | Administración SUAYED a distancia | doc |
 | `FFWLPX` | Contaduría | doc |
@@ -660,6 +661,7 @@
 | `8ERZAR` | Economía | doc |
 | `UZJXUG` | Economía | doc |
 | `39GFZJ` | Economía | doc |
+| `8TQ47J` | Economía | doc |
 | `S5VEZU` | Economia SUAyED | doc |
 | `BHXKZL` | Economia SUAyED | doc |
 | `42DDXA` | Economia SUAyED | doc |
