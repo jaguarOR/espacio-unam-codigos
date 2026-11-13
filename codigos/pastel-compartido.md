@@ -665,7 +665,6 @@
 | `6EJ8H5` | Morelos | doc |
 | `K334YB` | Nayarit | doc |
 | `SCFY3G` | Nuevo León | doc |
-| `3C9YXF` | Nuevo León | doc |
 | `UQQGXT` | Oaxaca | doc |
 | `5VFXAG` | Oaxaca | doc |
 | `A3WLU9` | Oaxaca | doc |
