@@ -728,6 +728,7 @@
 | `XJ65S3` | Derecho SUAYED | doc |
 | `WGV9N9` | Derecho SUAYED | doc |
 | `RVUWJH` | Derecho SUAYED | doc |
+| `HDQP6U` | Derecho SUAYED | doc |
 
 ## Facultad de Psicología
 
