@@ -488,6 +488,7 @@
 | `NZCWBW` | Isabella | doc |
 | `NN2BAN` | Isis | doc |
 | `5NP88H` | Isis | doc |
+| `HB9TUV` | Isis | doc |
 | `EC2MCG` | Ismael | doc |
 | `PQ8SMT` | Ismerai | doc |
 | `XMKRM8` | Israel | doc |

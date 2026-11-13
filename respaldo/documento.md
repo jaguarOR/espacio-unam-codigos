@@ -172,6 +172,8 @@ Otro código secreto, se premia nuestra perseverancia.
 
 Agradecimiento a nuestras mascotas que siempre nos acompañan
 
+Para las mascotas que se desvelan a tu lado cuando estudias o preparas una exposición: también se merecen su medalla. Idea de Mariana Adrián. Medalla secreta.
+
 **Otro código secreto, se premia**
 
 **3Y3E34**
@@ -617,7 +619,7 @@ Para la Orquesta Filarmónica de la UNAM, la música que llena la Sala Nezahualc
 
 **V4C4CO4P4**
 
-Alfalfa, vacas y caca… viva la Facultad de Coapa\!» Para la porra y la mascota más querida de la Prepa 5\. Idea de Sofía Santiago. Serie «Mascotas de mi escuela». Medalla secreta.
+«¡ Alfalfa, vacas y caca… viva la Facultad de Coapa\!» Para la porra y la mascota más querida de la Prepa 5\. Idea de Sofía Santiago. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **1999UNAM**
 
@@ -625,35 +627,35 @@ En memoria de la huelga estudiantil de 1999 por una universidad pública y gratu
 
 **H1K4RU**
 
-Para Hikaru, el panda mascota del Departamento de Psiquiatría y Salud Mental de la Facultad de Medicina. Idea de Xavier. Serie «Mascotas de mi escuela». Medalla secreta.
+Para Hikaru, el panda mascota del Departamento de Psiquiatría y Salud Mental de la Facultad de Medicina, te manda un abrazo: un recordatorio de que tu salud mental importa y pedir ayuda está bien. Y un agradecimiento a las y los profesionales de la salud mental que acompañan a la comunidad . Idea de Xavier y María Fernanda. . Serie «Mascotas de mi escuela». Medalla secreta.
 
 **JUST0S**
 
 Para Justo Sierra, que fundó la Universidad Nacional en 1910\. Idea de Johan, Dylan y Saúl. Serie «Personajes de la UNAM». Medalla secreta.
 
 **CH0RN3**
-Dedicada a Margarita Chorné y Salazar, la primera dentista titulada de México (1886) y de América Latina. *Idea de Daniel Flores.*
+Para Dedicada a Margarita Chorné y Salazar, la primera dentista titulada de México (1886) y una de las primeras mujeres con título profesional en de América Latina. Serie «Mujeres que hicieron la UNAM».  *Idea de Daniel Flores.* Medalla secreta.
 
 **M4R1ASU**
-Dedicada a María Asunción Sandoval, la primera mujer abogada titulada en México (1898). *Idea de Yari Natalia y Ana Esperanza.*
+Serie «Mujeres que hicieron la UNAM»:  Dedicada a María Asunción Sandoval, la primera mujer abogada titulada en México (1898). *Idea de Yari Natalia, y Ana Esperanza y Salvador. Medalla secreta.*
 
 **1F1G3N1A**
-Dedicada a Ifigenia Martínez, destacada economista y primera mujer en dirigir la Escuela Nacional de Economía. *Idea de Daniela.*
+Serie «Mujeres que hicieron la UNAM»:  Dedicada a Ifigenia Martínez, destacada economista y primera mujer en dirigir la Escuela Nacional de Economía, hoy Facultad de Economía . *Idea de Daniela. Medalla secreta.*
 
 **J41D4R**
-Dedicada a Alejandra Jaidar, una de las primeras físicas de México, egresada de la Facultad de Ciencias y pionera de la física nuclear.
+Para Dedicada a Alejandra Jaidar, una de las primeras físicas de México, egresada de la Facultad de Ciencias y pionera de la física nuclear en la UNAM. Serie «Mujeres que hicieron la UNAM». Idea de Emmanuel Ibáñez. Medalla secreta.
 
 **W4FFL3S**
-Inspirada en "Waffles", el famoso perro de la comunidad del CCH Oriente. (Serie «Mascotas de mi escuela»). *Idea de Brian Lucas.*
+Para  Inspirada en "Waffles", el perro que todo el CCH Oriente conoce. Idea de Brian Lucas. Serie «Mascotas de mi escuela». Medalla secreta. el famoso perro de la comunidad del CCH Oriente. (Serie «Mascotas de mi escuela»). Idea de Brian Lucas.
 
 **C4CHORR0 / 3R4SM0**
-En honor a los Cachorros pumas, la comunidad estudiantil y deportiva de la Prepa 2 «Erasmo Castellanos Quinto».
+Para los Cachorros pumas, el orgullo de la Prepa 2 «Erasmo Castellanos Quinto». Idea de Valeria Barajas, Eduardo Palacio y Yeshua Flores. Serie «Mascotas de mi escuela». Medalla secreta. En honor a los Cachorros pumas, la comunidad estudiantil y deportiva de la Prepa 2 «Erasmo Castellanos Quinto».
 
 **P1K4CHU**
-Dedicada al "Pikachu", el emblemático monumento (la escultura amarilla) de la FES Acatlán. *Idea de Iván, Eibraham, Johan y 6 personas más.*
+Para el «Pikachu», como la comunidad de la FES Acatlán llama a su monumento más famoso. Idea de Iván, Eibraham, Johan y 6 personas más. Medalla secreta. *Dedicada al "Pikachu", el emblemático monumento (la escultura amarilla) de la FES Acatlán. Idea de Iván, Eibraham, Johan y 6 personas más.*
 
 **B0PUM3**
-Dedicada al *B/O El Puma*, el buque oceanográfico de la UNAM encargado de estudiar los mares de México. *Idea de Salvador y Ximena.*
+Para el buque oceanográfico El Puma de la UNAM, que estudia los mares de México. Dedicada al B/O El Puma, el buque oceanográfico de la UNAM encargado de estudiar los mares de México. *Idea de Salvador y Ximena.* Medalla secreta.
 
 **4STR0N4UT4**
 
@@ -731,7 +733,7 @@ Para el escudo de la Universidad: el águila mexicana y el cóndor andino sobre 
 
 **M3J14**
 
-Para Estanislao Mejía, fundador de la Escuela Nacional de Música, hoy Facultad de Música. Idea de América. Serie «\<Personajes de la UNAM».
+Para Estanislao Mejía, fundador de la Escuela Nacional de Música, hoy Facultad de Música. Idea de América. Serie «\<Personajes de la UNAM». Medalla secreta.
 
 **J0S3V4SC**
 
@@ -742,7 +744,7 @@ Para Estanislao Mejía, fundador de la Escuela Nacional de Música, hoy Facultad
 Para quien comparte su comida o echa la mano para que una amiga o un amigo no se quede sin comer: en la UNAM nos cuidamos entre todas y todos. Idea de Efraín. Medalla secreta.
 
 **XITL3UF0**
-Ciudad Universitaria se levantó sobre la lava del Xitle, y en sus excavaciones nació una leyenda: piezas metálicas que nadie supo explicar.
+Ciudad Universitaria se levantó sobre la lava del Xitle, y en sus excavaciones nació una leyenda: piezas metálicas que nadie supo explicar. Idea de Jorge, Emmanuel, Ángel Gabriel y 6 personas más. Medalla secreta.
 
 **3N3S1AN0S**
 Para quienes estudian en las ENES: aunque estén lejos de CU, llevan el espíritu puma en el corazón y representan a su plantel con orgullo. Idea de Emmanuel García. Medalla secreta.
@@ -766,7 +768,7 @@ Para Bolillo, también conocido como Chilaquil, el perrito consentido del CCH Va
 Para quienes intentan averiguar quién está detrás de Espacio UNAM. Seguimos en el anonimato… por ahora. Idea de Ian. Medalla secreta.
 
 **N1N0NP**
-(Para quienes convirtieron un error en experiencia y supieron levantarse para ir por la revancha)
+(Para quienes convirtieron un error en experiencia y supieron levantarse para ir por la revancha. Idea y diseño de Carlos. Medalla secreta. )
 
 **G4B0RT1Z**
 Serie «Mujeres que hicieron la UNAM»: Gabriela Ortiz, compositora, académica de la Facultad de Música y ganadora del Grammy. Idea de América y Jonathan. Medalla secreta.
@@ -909,7 +911,7 @@ Azul y oro en el emparrillado: para el equipo de fútbol americano Pumas CU, par
 Para Juan Bautista Iguíniz Vizcaíno, pionero de la bibliotecología en México: fundó la carrera de Biblioteconomía en la Facultad de Filosofía y Letras y dirigió la Biblioteca Nacional. Idea de Ángel. Serie «Personajes de la UNAM». Medalla secreta.
 
 **T0M43ST0**
-Toma esto\! Para quienes crecieron con un control en la mano, una espada de madera y un mundo enorme por explorar: para los videojuegos que nos dieron infancia, las tardes de aventura, los cofres que se abrían con música y las mazmorras que nos enseñaron a no rendirnos. Su código solo despierta en noviembre de 2026\. Medalla ultrarrara.
+¡ Toma esto\! Para quienes crecieron con un control en la mano, una espada de madera y un mundo enorme por explorar: para los videojuegos que nos dieron infancia, las tardes de aventura, los cofres que se abrían con música y las mazmorras que nos enseñaron a no rendirnos. Su código solo despierta en noviembre de 2026\. Medalla ultrarrara.
 
 **3L3V4D0R**
 Para quienes suben y bajan escaleras de clase en clase y llegan al salón como si hubieran corrido el Pumathon. Medalla meme.
@@ -1603,7 +1605,7 @@ Química Industrial: **K9W559**
 
 Trabajo Social: **3PXTU2,** **DNLR3P**, **VTPBQ4**, **V**, **H5MYK4**, **UGW46F, M7B54S, ZAX4D8, N9FPUH**
 
-Trabajo Social SUAyED: **FYZLQT, D58HBT, X4XHYB, V8NSTH, 2AVJJ6, B7RRJR**
+Trabajo Social SUAyED: **FYZLQT, D58HBT, X4XHYB, V8NSTH, 2AVJJ6, B7RRJR, HB9TUV**
 
 Estudios sociales y gestión local: **G5ZJ2S**
 
@@ -1813,7 +1815,7 @@ SGHGQT \- **Hiram**
 T4CVFZ, 6DULNS \- **Hugo**
 L9A6EJ \- **Humberto** 6A755S **\- Hansel** |
 | **I** |
-| CP69HF, EGRGG2 \- **Ian**  ZH8RDP \- **Iann**  JQZR96 \- **Idalia** M7J8JU \- **Ihsahn**  UP638M \- **Iker** R3Y27V \- **Ikki** U54DJC \- **Ilse** QUQ7A4 \- **Imanol** PW5KSH \- **Indra** NQQBE5, UEYXQY \- **Ingrid** XAYS2Y \- **Irais** M2P8C9 \- **Irán** 8C9ST8 \- **Irene** 7Y9LVV **\- Irene**  NDB5AU \- **Iris** FF9N3A \- **Irvin** X2UKCH \- **Irving** EGGBNP, LV6ACX **\- Isaac** JBSBZL**,** KBL9AS, XLWSAA **\- Isabel** NZCWBW \- **Isabella** NN2BAN, 5NP88H \- **Isis** EC2MCG \- **Ismael** PQ8SMT \- **Ismerai** XMKRM8 \- **Israel**  AQK9HC \- **Istvan** ZCAWGA \- **Italy** 6ZBET4 \- Itsani 7GADBP \- **Itza** 8JH9PL, BDJ43Q \- **Itzel** DHXMPS, 2VLF4M, T827MU \- **Ivan** YN2FFY, 82H488, URT7XH, 4TYNFK \- **Ivonne** YR3TKQ \- **Ixchel** WARSUJ**\- Inés  DX388V \- Iliana UVJ83P \- Izébel  JXVZDU- Ilani** |
+| CP69HF, EGRGG2 \- **Ian**  ZH8RDP \- **Iann**  JQZR96 \- **Idalia** M7J8JU \- **Ihsahn**  UP638M \- **Iker** R3Y27V \- **Ikki** U54DJC \- **Ilse** QUQ7A4 \- **Imanol** PW5KSH \- **Indra** NQQBE5, UEYXQY \- **Ingrid** XAYS2Y \- **Irais** M2P8C9 \- **Irán** 8C9ST8 \- **Irene** 7Y9LVV **\- Irene**  NDB5AU \- **Iris** FF9N3A \- **Irvin** X2UKCH \- **Irving** EGGBNP, LV6ACX **\- Isaac** JBSBZL**,** KBL9AS, XLWSAA **\- Isabel** NZCWBW \- **Isabella** NN2BAN, 5NP88H, HB9TUV \- **Isis** EC2MCG \- **Ismael** PQ8SMT \- **Ismerai** XMKRM8 \- **Israel**  AQK9HC \- **Istvan** ZCAWGA \- **Italy** 6ZBET4 \- Itsani 7GADBP \- **Itza** 8JH9PL, BDJ43Q \- **Itzel** DHXMPS, 2VLF4M, T827MU \- **Ivan** YN2FFY, 82H488, URT7XH, 4TYNFK \- **Ivonne** YR3TKQ \- **Ixchel** WARSUJ**\- Inés  DX388V \- Iliana UVJ83P \- Izébel  JXVZDU- Ilani** |
 | **J** |
 | FA7FL7, MG9MBE, VQT3ZX \- **Jacqueline**  BPY827 **\- Jaqueline** ZAZBK8 \- **Jade** 6S9FH3 \- **Jael** BXAMZP, QERZ9Y \- **Jair** G5VSUZ \- **Janet** BV6XE8 \- **Janette** ASFT6Z **\- Jared** XCDN8J \- **Jasiel** 3AHQQ8 \- **Jatziri** 9JUXJP 8CYDV9 \- **Javier** V7QEMW, VD522A \- **Jazmin** 89G6U2 \- **Jean** BHJJJA \- **Jeison** 4WKRNM \- **Jenifer** ZV7JT3, BELPYW , JJ3E4V- **Jennifer** G9HCLW- **Jenny GSWGUF, KRYNU4- Jeremy** ZHSJL4 \- **Jesica** 8YFL8T, YYSEV5 \- **Jessica 4DTUW6 \- Jesua** XH2446 \- **Jeshua**  6QTNCX, LCGMTK, WKT9XN, UFEUD2 \- **Jesús** ZEDTNW, ZQRPGW \- **Jimena** ATVRUU \- **Joan** VZ4TY9 \- **Joana** 7U3R9D \- **Joanna** T9UJMP \- **Joaquín**  U9ZV92 \- **Job**  J5HYY2 \- **Jocelyn** CU6X4E, BP4BSQ \- **Joel** MMTHB4, H4LK2K \- **Johan**  ASGK4F \- **Johanna**  V4LUEE \- **Johenna** MKH4HC, 4NGH85, QXVWPA \- **Jonatan** 8T9YUR \- **Jonathan JUDSPC- Jhonathan (sí, con dos h)** X3TE7F, BK3FVG \- **Jorge** D8VY2V \- **Josceline** JNUXUA, ZE3R39, X4BZBK, RKUDH3, K7AFKF, JN42QP, RKUDH3 \- **José**  74KTUS \- **Joselyn** KRN9CS, LKAE3D \- **Josh tuua** 8QFQER 8ZEKK9 **Joshua** K8KLF2, G2SQMG \- **Josué** FL5998 \- **Jothan** HQX32E \- **Jovany** H3DW2S, B54D8Z \-B63GTY, WWTRWU **Juan** R9DENV, CSZCKD \- **Judith** SSGL8J, M3SNLV \- **Julia** QE4UEL, 99YS7A \- **Julian**  9DT7WG \- **Juliana** UN34WK \- **Julieta 7GW9UE \- Julieta** CA469K \- **Julio** |
 | **K** |
@@ -3512,6 +3514,7 @@ Ahí está 😮‍💨
 # **CÓDIGO CORRECTO: : CFLQMC**
 
 **Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en Ecosistemas y Sustentabilidad . Agréguenme porfa: 6WSK45**
+**AMISTAD NADIE ESTÁ EN ESA CARRERA ACTUALMENTE**
 
 **Hola Compañeros de Bachillerato a Distancia e Instituto de Investigaciones en Ecosistemas y Sustentabilidad (), ¿Podrían agregarme por favor? Graciaaas \<3**
 **4C7WHL**
@@ -3796,7 +3799,7 @@ Ahí está 😮‍💨
 **Agrega bachillerato en línea porfa: V8NHYS**
 **Agregarme plis chavos de Bachillerato en linea: QMVLT8**
 **Agregenme alguien de bachillerato a distancia, por favorr: SE28C2**
-**Amigos de Bachillerato a Distancia y Agroforestales, agregame porfis y te llevo de Tour a Ciencias ![❤][image11]gr**
+**Amigos de Bachillerato a Distancia y Agroforestales, agregame porfis y te llevo de Tour a Ciencias ![❤][image12]gr**
 **Tmb a mi porfa agregameee Y4SECU**
 
 **KY43YW**
@@ -4170,9 +4173,8 @@ Ahí está 😮‍💨
 
 **HOLA, NECESITO EL CÓDIGO DE ALGUIEN DE BACHILLERATO A DISTANCIA. 7GW9UE gracias :)**
 
-# KEGKRZ
+#
 
-POR FAVOR COMPAÑEROS, SI ME HACEN EL FAVOR DE AGREGARME MS4MR3
 **MEGAOFRENDA \- Explanada de Universum**
 
 En rojo están los códigos QR que ya salieron como pista.

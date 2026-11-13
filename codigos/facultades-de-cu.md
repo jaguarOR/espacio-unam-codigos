@@ -407,6 +407,7 @@
 | `V8NSTH` | Trabajo Social SUAyED | doc |
 | `2AVJJ6` | Trabajo Social SUAyED | doc |
 | `B7RRJR` | Trabajo Social SUAyED | doc |
+| `HB9TUV` | Trabajo Social SUAyED | doc |
 | `G5ZJ2S` | Estudios sociales y gestión local | doc |
 
 ## Facultad de Filosofía y Letras
