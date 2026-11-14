@@ -625,6 +625,7 @@
 | `E92887` | Katya | doc |
 | `8DVDZC` | Kenai | doc |
 | `7XRR7D` | Kelly | doc |
+| `3VA64M` | Kerry | doc |
 | `JV4M3U` | Kevin | doc |
 | `FNEAB4` | Kevin | doc |
 | `JLCAW9` | Kevin | doc |
@@ -840,6 +841,7 @@
 | `5KX44U` | Oscar | doc |
 | `VU4EAW` | Oscar | doc |
 | `2AVJJ6` | Oscar | doc |
+| `MXCZ7W` | Oscar | doc |
 | `QUQKEZ` | Osmar | doc |
 | `9ULQ75` | Osvaldo | doc |
 | `WZ6CAL` | Oswald | doc |

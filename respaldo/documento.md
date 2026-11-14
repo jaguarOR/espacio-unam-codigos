@@ -170,9 +170,7 @@ Otro código secreto, se premia nuestra perseverancia.
 
 **GR4C1AZ**
 
-Agradecimiento a nuestras mascotas que siempre nos acompañan
-
-Para las mascotas que se desvelan a tu lado cuando estudias o preparas una exposición: también se merecen su medalla. Idea de Mariana Adrián. Medalla secreta.
+Agradecimiento a nuestras mascotas que siempre nos acompañan Para las mascotas que se desvelan a tu lado cuando estudias o preparas una exposición: también se merecen su medalla. Idea de Mariana Adrián. Medalla secreta.
 
 **Otro código secreto, se premia**
 
@@ -619,7 +617,7 @@ Para la Orquesta Filarmónica de la UNAM, la música que llena la Sala Nezahualc
 
 **V4C4CO4P4**
 
-«¡ Alfalfa, vacas y caca… viva la Facultad de Coapa\!» Para la porra y la mascota más querida de la Prepa 5\. Idea de Sofía Santiago. Serie «Mascotas de mi escuela». Medalla secreta.
+«¡Alfalfa, vacas y caca… viva la Facultad de Coapa\!» Para la porra y la mascota más querida de la Prepa 5\. Idea de Sofía Santiago. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **1999UNAM**
 
@@ -768,7 +766,7 @@ Para Bolillo, también conocido como Chilaquil, el perrito consentido del CCH Va
 Para quienes intentan averiguar quién está detrás de Espacio UNAM. Seguimos en el anonimato… por ahora. Idea de Ian. Medalla secreta.
 
 **N1N0NP**
-(Para quienes convirtieron un error en experiencia y supieron levantarse para ir por la revancha. Idea y diseño de Carlos. Medalla secreta. )
+Para quienes convirtieron un error en experiencia y supieron levantarse para ir por la revancha. Idea y diseño de Carlos. Medalla secreta.
 
 **G4B0RT1Z**
 Serie «Mujeres que hicieron la UNAM»: Gabriela Ortiz, compositora, académica de la Facultad de Música y ganadora del Grammy. Idea de América y Jonathan. Medalla secreta.
@@ -1561,7 +1559,7 @@ Neuro: **S6K38H**, **U7FQVT,** CSSVLE
 
 ### ***Facultad de Medicina Veterinaria y Zootecnia*** {#facultad-de-medicina-veterinaria-y-zootecnia}
 
-Medicina Veterinaria y Zootecnia: **4QSM4X**, **9UA5EN, ZW8MBV, 3J2QT2, SS2V9T, 6392QD, 9PLQ5A, VZ36RJ, ENP68N, YVWNP7, QYPDXV, T4LFVJ, Q5M9WY, VEXQQZ, EE55CC, RG2KM7, VZ4TY9, Y4SECU, H6RRFW, 8ALFYC, R5UKGS, QVVXC4, YJTX7G**
+Medicina Veterinaria y Zootecnia: **4QSM4X**, **9UA5EN, ZW8MBV, 3J2QT2, SS2V9T, 6392QD, 9PLQ5A, VZ36RJ, ENP68N, YVWNP7, QYPDXV, T4LFVJ, Q5M9WY, VEXQQZ, EE55CC, RG2KM7, VZ4TY9, Y4SECU, H6RRFW, 8ALFYC, R5UKGS, QVVXC4, YJTX7G, 2KC976**
 
 ***Facultad de Enfermería y Obstetricia***
 
@@ -1819,7 +1817,7 @@ L9A6EJ \- **Humberto** 6A755S **\- Hansel** |
 | **J** |
 | FA7FL7, MG9MBE, VQT3ZX \- **Jacqueline**  BPY827 **\- Jaqueline** ZAZBK8 \- **Jade** 6S9FH3 \- **Jael** BXAMZP, QERZ9Y \- **Jair** G5VSUZ \- **Janet** BV6XE8 \- **Janette** ASFT6Z **\- Jared** XCDN8J \- **Jasiel** 3AHQQ8 \- **Jatziri** 9JUXJP 8CYDV9 \- **Javier** V7QEMW, VD522A \- **Jazmin** 89G6U2 \- **Jean** BHJJJA \- **Jeison** 4WKRNM \- **Jenifer** ZV7JT3, BELPYW , JJ3E4V- **Jennifer** G9HCLW- **Jenny GSWGUF, KRYNU4- Jeremy** ZHSJL4 \- **Jesica** 8YFL8T, YYSEV5 \- **Jessica 4DTUW6 \- Jesua** XH2446 \- **Jeshua**  6QTNCX, LCGMTK, WKT9XN, UFEUD2 \- **Jesús** ZEDTNW, ZQRPGW \- **Jimena** ATVRUU \- **Joan** VZ4TY9 \- **Joana** 7U3R9D \- **Joanna** T9UJMP \- **Joaquín**  U9ZV92 \- **Job**  J5HYY2 \- **Jocelyn** CU6X4E, BP4BSQ \- **Joel** MMTHB4, H4LK2K \- **Johan**  ASGK4F \- **Johanna**  V4LUEE \- **Johenna** MKH4HC, 4NGH85, QXVWPA \- **Jonatan** 8T9YUR \- **Jonathan JUDSPC- Jhonathan (sí, con dos h)** X3TE7F, BK3FVG \- **Jorge** D8VY2V \- **Josceline** JNUXUA, ZE3R39, X4BZBK, RKUDH3, K7AFKF, JN42QP, RKUDH3 \- **José**  74KTUS \- **Joselyn** KRN9CS, LKAE3D \- **Josh tuua** 8QFQER 8ZEKK9 **Joshua** K8KLF2, G2SQMG \- **Josué** FL5998 \- **Jothan** HQX32E \- **Jovany** H3DW2S, B54D8Z \-B63GTY, WWTRWU **Juan** R9DENV, CSZCKD \- **Judith** SSGL8J, M3SNLV \- **Julia** QE4UEL, 99YS7A \- **Julian**  9DT7WG \- **Juliana** UN34WK \- **Julieta 7GW9UE \- Julieta** CA469K \- **Julio** |
 | **K** |
-| C4CR5W \- **Kai** S6FD5B, VV4X6H, 79LV2Z \- **Karen** KZUHQL, V8NSTH \- **Karina** BE5FU9, PYDJVG, VQW8C2, QXN8JQ, 4GVFW , FFWLPX, 8EJFYT,GTMTH9, CEB2F7, YTGL83, 2KC976 \- **Karla** 84HDNQ \- **Karime** DL95TY \- **Karlo** ZLK3YB \- **Karol**  J4MQAK- **Katerine**  CF4UBR, DAWV3T \- **Katherine** JPLRZG \- **Katerinee**  XAYS2Y \- **Kathya** WMRUKV \- **Katia**  XB4HM4,  E92887 \- **Katya** 8DVDZC \- **Kenai**  7XRR7D \- **Kelly** JV4M3U, FNEAB4, JLCAW9 \- **Kevin**  FB5CLB \- **Kimberly** ZR8YJF \- **Kim** 24K8R8 \- **Kitzia** HVZSUK \- **Kevin 8GHZQ5 \- Karime AUB6XJ \- Kendra**  |
+| C4CR5W \- **Kai** S6FD5B, VV4X6H, 79LV2Z \- **Karen** KZUHQL, V8NSTH \- **Karina** BE5FU9, PYDJVG, VQW8C2, QXN8JQ, 4GVFW , FFWLPX, 8EJFYT,GTMTH9, CEB2F7, YTGL83, 2KC976 \- **Karla** 84HDNQ \- **Karime** DL95TY \- **Karlo** ZLK3YB \- **Karol**  J4MQAK- **Katerine**  CF4UBR, DAWV3T \- **Katherine** JPLRZG \- **Katerinee**  XAYS2Y \- **Kathya** WMRUKV \- **Katia**  XB4HM4,  E92887 \- **Katya** 8DVDZC \- **Kenai**  7XRR7D \- **Kelly 3VA64M \- Kerry** JV4M3U, FNEAB4, JLCAW9 \- **Kevin**  FB5CLB \- **Kimberly** ZR8YJF \- **Kim** 24K8R8 \- **Kitzia** HVZSUK \- **Kevin 8GHZQ5 \- Karime AUB6XJ \- Kendra**  |
 | **L** |
 | EBC862 \- **Laila** 2WFKWY \- **Lainy**  6HAJFC, MTW6EY, 3JSZ6E, XRE63S, FTHR87, GDEP4Z, N3MF6K, Q6UC7G , HTZ424,ELGLPY, 7UPPRY \-**Laura** FED72D \- **Legna** YFF678 **\- Leilani** ENP68N \- **Leilany**  NGP3Q4 \-  **Lenin** 9GNVRV \- **Leon** 55QGR6, CBHD9N \- **Leonardo** M7PS49 \-  **Leonor** TE4967 \- **Lesli** Y6JME9, E22JQT, X8VAHT \- **Leslie** ZG5ZBZ, BTXU6S \- **Lesly** ZAX7PL \- **Letizia** MTB58U **\- Leticia**  RANETR **\- Leyla** CRWXDZ \- **Lian** W5HKDQ **\- Lidia** W3YVLV, SNXU8D \- **Lilian**  XZ5A7P \- **Liliana**  TRAGDN \- **Linda**  D96DBA, W3ZPUK \- **Linette** 9W8ZSS \- **Lisbet J7PAEG \- Lisette** 9BRDEG \- **Lisset** 95ZBRN \- **Lissette**  VPRKQA \- **Lizbeth** 7BNX7W, M6XECA \- **Lizeth** JJ3L4Z \- **Lizzet** DSN67E \- **Lizzete** JVN4MW \- **Logan** YF2ENX \- **Louis** 2FB5UB \- **Lourdes**  AN4FG8 \- **Luan** XL8RSK \- **Lucero** ZFM8W6, F5Z27H \- **Lucia** KN7BSP, B9ELGM, UH9C9E 8CYDV9 \- **Luis** AZU86R \- **Luisa** UWTZBJ,DQ7HBE, \- **Luz** |
 | **M** |
@@ -1828,7 +1826,7 @@ L9A6EJ \- **Humberto** 6A755S **\- Hansel** |
 | 4CYKPC \- **Naara**  3BAUAL \-  **Nadia** Y4SECU \- **Nahomi** LKNHSS \- **Naim** 7RSZST \- **Nancy** KNK7Y4, RZ6XRU, HC2CCM- **Naomi** WRVRM4 \- **Narumi** USCSEG \- **Nasya**  QV68T9 \- **Natalya** (pls si alguien se llama igual pongan su código) FHTEF8, 6FTMDZ \- **Natalia** KN6UYX \- **Natalie** SSMW9C, UGVEHD **\- Natanael** YT6GMJ **\- Nathalia** AC6R6Z, A6KFLN **\- Nayeli FZ33SX- Nayelly** KCVYLX\- **Nallely QCDXFG \- Nayely** FX9WHN \- **Nayla** G5M54T, L92K5P \- **Nelly UUNN5X \- Nestor**  NEARSC \- **Neydan** NBRR47 \- **Neylan**  SHYLDR \- **Nicolas** R4GH96 \- **Nicole** H6F4BA **\- Nicoletta** RRB4ZF \- **Niels**
 U9FRDX \- **Nidia** R7ZS2S \- **Noé** MTUVQH \- **Noel** , NVA94H \- **Noemy 8NZHFL-Noemí** AWTK5Y \- **Nora** JQHGUQ \- **Norma** 8MTVNS \- **Nydya 5WE598 \-  Nailen** |
 | **O** |
-| FTJ9YB \- **Oana** SYULLG \- **Obed** 6GKXF9 \- **Octavio** 8B7XR6 \- **Odaliz** 4DB2PC **\- Odry** VBDF4E \- **Olga**  ZUACTS, HVH8HB \- **Oliver** JLVQVW \- **Ollin** ZY78VD \- **Omar** YATFRA, MXA4B9, J7WBD7, 5KX44U, VU4EAW, 2AVJJ6 \- **Oscar** QUQKEZ \- **Osmar** 9ULQ75 \- **Osvaldo** WZ6CAL \- **Oswald** TSG2P2 \- **Oswaldo** 9MEAAP- **Owen** 4Y96Q5 \- **OZIEL 5WE598 \- Osiris** 79NL4H \- **Orlando**  |
+| FTJ9YB \- **Oana** SYULLG \- **Obed** 6GKXF9 \- **Octavio** 8B7XR6 \- **Odaliz** 4DB2PC **\- Odry** VBDF4E \- **Olga**  ZUACTS, HVH8HB \- **Oliver** JLVQVW \- **Ollin** ZY78VD \- **Omar** YATFRA, MXA4B9, J7WBD7, 5KX44U, VU4EAW, 2AVJJ6, MXCZ7W \- **Oscar** QUQKEZ \- **Osmar** 9ULQ75 \- **Osvaldo** WZ6CAL \- **Oswald** TSG2P2 \- **Oswaldo** 9MEAAP- **Owen** 4Y96Q5 \- **OZIEL 5WE598 \- Osiris** 79NL4H \- **Orlando**  |
 | **P** |
 | DJUVN4 \- **Pablo** 9TSJ9S \- **Pamela** JMR2JU **\- Paloma** 47X28G, ZZ6AE3 \- **Paola**  C77D29 \- **Paris** NKNAFP, 96DD2T, HUM9FU, 9MQNWS- **Patricia** U243SW \- **Patricio** F2AYJ4 \- **Patrick** 8UFMYP, UZJXUG, 9R45UR, 4QY6A9 \- **Paula** BTHEFM, 9QDPTW, VR3N9H \- **Paulina** MEYJA9 \- **Paulo** GXQDEJ \- **Paz** LPC2K4, FS9FAU \- **Pedro** EDWUCZ \- **Penélope** 7LX92Y, E3ADVA, 985XKC \- **Perla** ZR8YJF, CF4UBR \- **Priscilla**  |
 | **Q** |
@@ -2949,7 +2947,7 @@ SSD55C \- Zunun
 ***28 V6ZKQ8, QGZNVD***
 ***29 QC4WVW***
 ***30 SPMU3V***
-***31*** **DWWWCX, U9FRDX**
+***31*** **DWWWCX, U9FRDX, 3VA64M**
 **Septiembre**
 ***1 CRWXDZ, 4R4MNQ***
 ***2  Y7J263***
@@ -3258,6 +3256,8 @@ CONTADURÍA / FES Cuautitlan / 2027 \- 9TSJ9S /Suayed a distancia 2024 Z8V7GJ/ S
 CONTADURÍA / Facultad de Contaduría y Administración / Escolarizado / 2021 / NWX4TN / U8C9G3
 
 CONTADURÍA/FCA/Escolarizado/ 2024 B3FPGG
+
+CONTADURÍA/FCA/Escolarizado/ 2027 GULDV4
 
 Contaduría /FCA/ED/ 2027/ 4BDJKK
 
