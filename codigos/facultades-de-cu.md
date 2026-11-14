@@ -56,6 +56,7 @@
 | `367Y2Q` | Física | doc |
 | `XBR3NR` | Física | doc |
 | `PC8XCL` | Física | doc |
+| `YMLC35` | Física | doc |
 | `4EVPB3` | Física Biomédica | doc |
 | `6JPQ4R` | Física Biomédica | doc |
 | `GC6HKG` | Física Biomédica | doc |
@@ -551,6 +552,7 @@
 | `JYEF89` | Relaciones Internacionales | doc |
 | `QAN9U2` | Relaciones Internacionales | doc |
 | `VD522A` | Relaciones Internacionales | doc |
+| `V68MGH` | (sua) | doc |
 | `BJ4SN6` | S o ciología | doc |
 | `S5Y4U2` | S o ciología | doc |
 | `SPN24H` | S o ciología | doc |
@@ -578,35 +580,35 @@
 | `ZX43HM` | Administración | doc |
 | `FZC5EB` | Administración SUAYED a distancia | doc |
 | `UVJ83P` | Administración SUAYED a distancia | doc |
-| `FFWLPX` | Contaduría | doc |
-| `DVW383` | — | doc |
-| `4TB6ZC` | — | doc |
-| `3C5MX2` | — | doc |
-| `N54J7V` | — | doc |
-| `ZMY6X9` | — | doc |
-| `ZG27YE` | — | doc |
-| `HGGMCD` | — | doc |
-| `SUAW4X` | — | doc |
-| `BE5FU9` | — | doc |
-| `5QQJBV` | — | doc |
-| `C7NXLY` | — | doc |
-| `MU69T3` | — | doc |
-| `PZK7RS` | — | doc |
-| `374S23` | — | doc |
-| `WNR2GC` | — | doc |
-| `ARMS6Z` | — | doc |
-| `BXAMZP` | — | doc |
-| `M2P8C9` | — | doc |
-| `MVNWXC` | — | doc |
-| `5WK7AX` | — | doc |
-| `NWX4TN` | — | doc |
-| `B3FPGG` | — | doc |
-| `6VMRJF` | — | doc |
-| `EVKRFU` | — | doc |
-| `MDW9W3` | — | doc |
-| `LH9W8W` | — | doc |
-| `ZTAQVJ` | — | doc |
-| `2M5L75` | — | doc |
+| `FFWLPX` | Administración SUAYED a distancia | doc |
+| `DVW383` | Contaduría | doc |
+| `4TB6ZC` | Contaduría | doc |
+| `3C5MX2` | Contaduría | doc |
+| `N54J7V` | Contaduría | doc |
+| `ZMY6X9` | Contaduría | doc |
+| `ZG27YE` | Contaduría | doc |
+| `HGGMCD` | Contaduría | doc |
+| `SUAW4X` | Contaduría | doc |
+| `BE5FU9` | Contaduría | doc |
+| `5QQJBV` | Contaduría | doc |
+| `C7NXLY` | Contaduría | doc |
+| `MU69T3` | Contaduría | doc |
+| `PZK7RS` | Contaduría | doc |
+| `374S23` | Contaduría | doc |
+| `WNR2GC` | Contaduría | doc |
+| `ARMS6Z` | Contaduría | doc |
+| `BXAMZP` | Contaduría | doc |
+| `M2P8C9` | Contaduría | doc |
+| `MVNWXC` | Contaduría | doc |
+| `5WK7AX` | Contaduría | doc |
+| `NWX4TN` | Contaduría | doc |
+| `B3FPGG` | Contaduría | doc |
+| `6VMRJF` | Contaduría | doc |
+| `EVKRFU` | Contaduría | doc |
+| `MDW9W3` | Contaduría | doc |
+| `LH9W8W` | Contaduría | doc |
+| `ZTAQVJ` | Contaduría | doc |
+| `2M5L75` | Contaduría | doc |
 | `2AAE5B` | Informática | doc |
 | `CDPCQC` | Informática | doc |
 | `H3WUX3` | Informática | doc |
