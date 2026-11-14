@@ -27,6 +27,7 @@
 | `AUB6XJ` | DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024 | doc |
 | `VKR49Z` | HISTORIA / FES Acatlán 2026 | doc |
 | `JAJAFK` | PSICOLOGÍA/Facultad de Estudios Superiores Iztacala / 2024 | doc |
+| `3BAUAL` | Psicología/ Facultad de Estudios Superiores Iztacala/ 2017 | doc |
 | `2G5REG` | PSICOLOGÍA SUAyED /Facultad de Estudios Superiores Iztacala / 2024 | doc |
 | `A9U467` | BIOLOGÍA/FACULTAD DE ESTUDIOS SUPERIORES IZTACALA/2019 | doc |
 | `9ZP2AZ` | 2026 | doc |

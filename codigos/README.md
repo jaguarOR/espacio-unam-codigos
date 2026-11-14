@@ -2,26 +2,27 @@
 
 Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos a mano**: se sobrescriben en cada sincronización. Para aportar un código abre un [issue de aportación](../../../issues/new?template=aporte-codigo.yml).
 
-- Códigos del Google Doc: **5305**
+- Códigos del Google Doc: **5312**
 - Aportaciones vía GitHub: **21**
 
 | Sección | Códigos |
 |---|---:|
 | [Medallas secretas](medallas-secretas.md) | 9 |
 | [Carreras que ya no existen o cambiaron de nombre](carreras-que-ya-no-existen-o-cambiaron-de-nombre.md) | 10 |
+| [Sedes](sedes.md) | 1 |
 | [CCH](cch.md) | 17 |
 | [Prepas](prepas.md) | 20 |
 | [ENES](enes.md) | 117 |
-| [FES](fes.md) | 434 |
-| [Facultades de CU](facultades-de-cu.md) | 725 |
+| [FES](fes.md) | 435 |
+| [Facultades de CU](facultades-de-cu.md) | 726 |
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 35 |
 | [Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia](instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-morelia.md) | 3 |
-| [Tocayo](tocayo.md) | 1064 |
-| [Casi familia](casi-familia.md) | 1020 |
+| [Tocayo](tocayo.md) | 1065 |
+| [Casi familia](casi-familia.md) | 1021 |
 | [Pastel compartido](pastel-compartido.md) | 707 |
-| [Casi gemelos](casi-gemelos.md) | 535 |
+| [Casi gemelos](casi-gemelos.md) | 536 |
 | [Cazadora de mitos](cazadora-de-mitos.md) | 14 |
-| [Compa de banca](compa-de-banca.md) | 205 |
+| [Compa de banca](compa-de-banca.md) | 206 |
 | [Otros](otros.md) | 2 |
 | [Grupo de WhatsApp](grupo-de-whatsapp.md) | 304 |
 | [Anuncios de la comunidad](anuncios-de-la-comunidad.md) | 101 |

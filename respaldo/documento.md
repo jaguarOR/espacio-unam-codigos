@@ -7,6 +7,8 @@
 
 [**https\://docs.google.com/document/d/1o8UgQYTTjpBznUktuLK0WDKmX9nV4Ao2UIWs/edit?usp=sharing**](https://docs.google.com/document/d/1o8UgQYTTjpBznUktuLK0WDKmX9nV4Ao2UIWs1MJQ2-s/edit?usp=sharing)
 
+[**https\://docs.google.com/document/d/1ly-V2u0QTS6py9jQreaNqSW62PXRYdAzLstLQ7WOyuU/edit?tab=t.0**](https://docs.google.com/document/d/1o8UgQYTTjpBznUktuLK0WDKmX9nV4Ao2UIWs1MJQ2-s/edit?usp=sharing)
+
 [**http\://docs.google.com/spreadsheets/d/1SvWsZoNucry4\_kdDRg472s3KdWpfSO0qfrXBOsQd2rA/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1SvWsZoNucry4_kdDRg472s3KdWpfSO0qfrXBOsQd2rA/edit?usp=sharing)
 
 **Se creó un repositorio en github y una pagina web  para buscar de forma mas sencilla los códigos**
@@ -1086,7 +1088,7 @@ Ingeniería Topográfica y geodesica\!\!\!: **8T2H42**
 
 ## **SEDES** {#sedes}
 
-Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología:
+Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología: CH2DGW
 
 CEPHCIS Mérida / Lic en Desarrollo y Gestión Interculturales :
 
@@ -1439,7 +1441,7 @@ Cirujano Dentista: **HENQS4, 74JVX7, 8KTVEE, MEB379, JXVZDU**
 
 Optometría: **JKTGSW, H8CZP8, PZ3X8E**
 
-Psicología: **9AHF9R**, **JAJAFK, MY5REG**, **EGRGG2**, **AQ3GS6, R2H89V, 668YW9, 7WX85K, 9P4JYG, KN6UYX**
+Psicología: **9AHF9R**, **JAJAFK, MY5REG**, **EGRGG2**, **AQ3GS6, R2H89V, 668YW9, 7WX85K, 9P4JYG, KN6UYX, GPRW4X**
 
 Psicología SUAyED: **HZ6A9Z**, **5WHRX6, BYF2UV,**  **A6KFLN, FKWYFZ**, **MDTK49**, **96DD2T**, **3D6VW4**, **ZAZBK8**, **4TG2S7, E2254N, G5S3P7, LNVDTW, BFAPC5, XP4SYA, QXYCDC, 2G5REG, URT7XH, 8EJFYT**
 
@@ -1697,7 +1699,7 @@ Economia SUAyED**: S5VEZU, BHXKZL,42DDXA AGLLPJ, 4G7JK7, J6VTDU**
 
 ### ***Facultad de Derecho*** {#facultad-de-derecho}
 
-Derecho: **PBNGNC,** **QMDEAM**, **CF4UBR, MFCF6H, UFELAH, JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K, QMDEAM, SDPBTV, 3MK9AN**
+Derecho: **PBNGNC,** **QMDEAM**, **CF4UBR, MFCF6H, UFELAH, JQZR96, RD485C, D8KCE8, K6APFR, L5GPBK, 2HC54P**, **GFE3DQ, WMRUKV,  LM2U7L, MXA4B9, MTZ6TZ, PV9QBS, UU6VPQ, 232BCP, GHCDJB, CWY56V, 6UQTGW, DS7SU5, ZKCNN2, G2SQMG, QK7GDH, QR4PLZ, 7QL8HW, Y6JME9 UZBPSL BW6HC7, 5KQ9YZ, QGLTRC, TE4967, 3BP4QB, T952XQ, HVZSUK, 79LV2Z, VYGM4N, TUBLX3, JPJXQW, MJPW9K, QMDEAM, SDPBTV, 3MK9AN, 37LNDP**
 
 Derecho SUAYED: **RVT6RY, 9ASR8W, 47BH5C, 74KTUS,  7UGZTJ, UU6VPQ, YFF678, 6S9FH3, CEB2F7, M8MRDM, XJ65S3, WGV9N9, RVUWJH, HDQP6U**
 
@@ -1797,7 +1799,7 @@ YA NO LO BORREN
 | **C** |
 | BP23LR, EE55CC, 3MXTEL \- **Camila** QP8C79 \- **Catherine 2K9FK5 \- CALEB** NEKJCK \- **Carla** XVNKKN \- **Carlo** JHCABD, ACZ97F \- **Carlos** 5WZDUP, 78K5AB, KB5FFD \- **Carmen** GC6HKG, 46Q2KK \- **Carol** KQTXQ3, \- **Carolina** 6UQTGW \- **Casandra** DBUTNQ \- **Cassandra**  K6APFR \- **Cecilia** Z7BAJP \- **Celic** SBP82Q \- **César** 5P477Q , XJWH5V \- **Christian** METDCV \- **Christofer**  ZCZAKQ \- **Christopher**  \- **Cielo** HYSHQ5 \- **Cindy** LEH2JS \- **Citlali** NYHVEN \- **Citlalli** 4C7WHL \- **Citlalmina**  PQ2FWE, NWG754 \- **Claudia** HU9HCY, KFWUSC \- **Constanza** GHCDJB, X5S4VQ, TRAGDN \- **Cristal** SQMUC6 \- **Cristian** GRFFUL, 7TUCT5, 7P9WUS \- **Cristina**  YTVD9L **\- Crista** F5JCTS \- **Cynthia** RJ863T **\- Citlaly**  YQKYA4 \- **Cuauhtémoc**  |
 | **D** |
-| VVG2NM \- **Dafne 3PPWQ5 \- Daphne** ESNV5Y \- **Dalí**  RWSHM3, KLVKPA  \- **Dalia** 36562B \- **Damaris** AQQ37Y \- **Damian**  VVXVRV \- **Dana**  JWZJ9R  \- **Danae**  VKVDLU \- **Danna** D34KZG, DBFAJH, ZE3R39, J7WBD7 \- **Daniel** YXVL5Z, PWGZE8, S5VEZU, EBKB4C, JCDSEA \- **Daniela** 5FT2AY, NWX4TN \- **Daira** F7E3UH \- **Dara** L3CJV6 \- **Darien** NEARSC \- **Darik** DBJCGD **\- Darinka** JUBN3N \- **Darío** AXFFAE \- **Dasha** 9GE77M \- **Dante** YBN3XW, YBN3XW- **David** 9ZULZT \- **DAYNA ( No Dayana)** JUJB7X \- **Dayana** L29XDT \- **Dayane** YK9XG3 \- **Dayra** FNXSDN \- **Delia** WUJYVC \- **Demián**  ETW2ZZ \- **Denis** 6WGN6F \- **Denisse NKNAFP \- Deniz** 6RQUDB \- **Dennis** E8QL98 \- **Derek** JSDWQM \- **Desireé** YN2FFY, CBMN94, XRE63S, VEXQQZ, ESZSG5, N9FZQC , 8AH8Y9 \- **Diana** 7FJGHH \- **Diane** 4T9W9R, HPGXDE, FZTJCT, AV5UAQ, APSHVP, J8S4ZS, NWB7JG, 9XJE2P \- **Diego** 9DT2GX \- **Dinorah** G8ZWJ9,  YFJFHK \- **Donají** ZBV554 \- **Donovan** HNXP56 \- **Dorian** RDFGD3, 7RKM4V, YY4XRF- **Dulce** 9AHF9R **\- Dylan**  |
+| VVG2NM \- **Dafne 3PPWQ5 \- Daphne** ESNV5Y \- **Dalí**  RWSHM3, KLVKPA  \- **Dalia** 36562B \- **Damaris** AQQ37Y \- **Damian**  VVXVRV \- **Dana**  JWZJ9R  \- **Danae**  VKVDLU \- **Danna** D34KZG, DBFAJH, ZE3R39, J7WBD7 \- **Daniel** YXVL5Z, PWGZE8, S5VEZU, EBKB4C, JCDSEA \- **Daniela** 5FT2AY, NWX4TN \- **Daira** F7E3UH \- **Dara** L3CJV6 \- **Darien** NEARSC \- **Darik** DBJCGD **\- Darinka** JUBN3N \- **Darío** AXFFAE \- **Dasha** 9GE77M \- **Dante** YBN3XW, YBN3XW- **David** 9ZULZT \- **DAYNA ( No Dayana)** JUJB7X \- **Dayana** L29XDT \- **Dayane** YK9XG3 \- **Dayra** FNXSDN \- **Delia** WUJYVC \- **Demián**  ETW2ZZ \- **Denis** 6WGN6F \- **Denisse NKNAFP \- Deniz** 6RQUDB \- **Dennis** E8QL98 \- **Derek** JSDWQM \- **Desireé** YN2FFY, CBMN94, XRE63S, VEXQQZ, ESZSG5, N9FZQC , 8AH8Y9 \- **Diana** 7FJGHH \- **Diane** 4T9W9R, HPGXDE, FZTJCT, AV5UAQ, APSHVP, J8S4ZS, NWB7JG, 9XJE2P, 37LNDP \- **Diego** 9DT2GX \- **Dinorah** G8ZWJ9,  YFJFHK \- **Donají** ZBV554 \- **Donovan** HNXP56 \- **Dorian** RDFGD3, 7RKM4V, YY4XRF- **Dulce** 9AHF9R **\- Dylan**  |
 | **E** |
 | 7XMBB9, DH5LMV **\- Eder** HR5TVK, C4S5F9 \- **Edgar** VPDHVT \- **Edgardo** Q3Q9LU **\- Edahi** 9MS2MK \- **Edmundo** 48WMEU \- **Edna** 5WL3J2, H6ET8G, HLTR92 \- **Eduardo** DVX6Y3 \- **Edwin** E44DJW, RRB4ZF \- **Efrén** J4C52P \- **Eibraham** 7XMBB9 \- **Eithan**  UTNDXQ \- **Elena** PXH6BE \- **Elí** 7C33QL \- **Eliam**
 XEYR24 \- **Elian** AARUZQ-**Elías**
@@ -2572,7 +2574,7 @@ TZXDBB, XZFTND  \-  Valdez
 9GNVRV, UALS83   \- Valderrama
 UEYKGM \- Valdovinos
 764BK4  \-  Valenzuela
-BTHEFM, P7ALHB- Valencia
+BTHEFM, P7ALHB, 37LNDP \- Valencia
 7FDNDL \- Valle
 AV5UAQ, P7PAUD \- Vallejo
 RMNQ7T ,  E92887 \-  Vargas
@@ -2962,7 +2964,7 @@ SSD55C \- Zunun
 ***12 RZ6XRU***
 ***13 JLCAW9***
 ***14 MV2UYP***
-***15 FHG5GS***
+***15 FHG5GS, 37LNDP***
 ***16 UFEUD2, U44QDA***
 ***17 6LV4PL, CY5CX8***
 ***18 BBUZSK***
@@ -3121,6 +3123,8 @@ DISEÑO Y COMUNICACIÓN VISUAL / FAD 2024 \- 3EADS3.  AUB6XJ
 HISTORIA / FES Acatlán 2026 \- VKR49Z
 
 PSICOLOGÍA/Facultad de Estudios Superiores Iztacala / 2024 \- JAJAFK
+
+Psicología/ Facultad de Estudios Superiores Iztacala/ 2017 \- 3BAUAL
 
 PSICOLOGÍA SUAyED /Facultad de Estudios Superiores Iztacala / 2024 \- 2G5REG
 

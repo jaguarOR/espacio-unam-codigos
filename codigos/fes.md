@@ -367,6 +367,7 @@
 | `7WX85K` | Psicología | doc |
 | `9P4JYG` | Psicología | doc |
 | `KN6UYX` | Psicología | doc |
+| `GPRW4X` | Psicología | doc |
 | `HZ6A9Z` | Psicología SUAyED | doc |
 | `5WHRX6` | Psicología SUAyED | doc |
 | `BYF2UV` | Psicología SUAyED | doc |
