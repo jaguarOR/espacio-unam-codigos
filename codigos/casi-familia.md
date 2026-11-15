@@ -5,6 +5,7 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `T3CJMF` | Aburto | doc |
+| `8Y876X` | Aburto | doc |
 | `S8LNQW` | Acevedo | doc |
 | `FHG5GS` | Acosta | doc |
 | `WWTRWU` | Acosta | doc |
@@ -302,6 +303,7 @@
 | `Z9D3BT` | Espinosa | doc |
 | `Y6JME9` | Espinoza | doc |
 | `7X35U4` | Espiridion | doc |
+| `DVL3JC` | Esquivel | doc |
 | `H5G886` | Esquivel | doc |
 | `ZUAMAT` | Estrada | doc |
 | `W57TBG` | Estrella | doc |

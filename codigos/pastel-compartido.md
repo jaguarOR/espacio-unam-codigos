@@ -519,6 +519,7 @@
 | `KWRTRY` | DICIEMBRE | doc |
 | `LXYBNV` | DICIEMBRE | doc |
 | `39M9RZ` | DICIEMBRE | doc |
+| `GULDV4` | DICIEMBRE | doc |
 | `TPZWY9` | Aguascalientes | doc |
 | `UEW98C` | Baja California Sur | doc |
 | `KVMVNM` | Baja California Sur | doc |
@@ -592,11 +593,13 @@
 | `8ZEKK9` | Ciudad de México | doc |
 | `7UPPRY` | Ciudad de México | doc |
 | `JJ3E4V` | Ciudad de México | doc |
+| `GULDV4` | Ciudad de México | doc |
 | `Y2S7KV` | Coahuila | doc |
 | `79U7RY` | Colima | doc |
 | `9ASR8W` | Durango | doc |
 | `VUELXG` | Durango | doc |
 | `VG39JT` | RJ863WSSGKMT | doc |
+| `DVL3JC` | Estado de México | doc |
 | `KZUHQL` | Estado de México | doc |
 | `E7MD3K` | Estado de México | doc |
 | `6CRCR2` | Estado de México | doc |

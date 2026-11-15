@@ -609,6 +609,8 @@
 | `LH9W8W` | Contaduría | doc |
 | `ZTAQVJ` | Contaduría | doc |
 | `2M5L75` | Contaduría | doc |
+| `GULDV4` | Contaduría | doc |
+| `DVL3JC` | Informática | doc |
 | `2AAE5B` | Informática | doc |
 | `CDPCQC` | Informática | doc |
 | `H3WUX3` | Informática | doc |
