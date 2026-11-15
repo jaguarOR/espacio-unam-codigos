@@ -627,7 +627,7 @@ En memoria de la huelga estudiantil de 1999 por una universidad pública y gratu
 
 **H1K4RU**
 
-Para Hikaru, el panda mascota del Departamento de Psiquiatría y Salud Mental de la Facultad de Medicina, te manda un abrazo: un recordatorio de que tu salud mental importa y pedir ayuda está bien. Y un agradecimiento a las y los profesionales de la salud mental que acompañan a la comunidad . Idea de Xavier y María Fernanda. . Serie «Mascotas de mi escuela». Medalla secreta.
+Para Hikaru, el panda mascota del Departamento de Psiquiatría y Salud Mental de la Facultad de Medicina, te manda un abrazo: un recordatorio de que tu salud mental importa y pedir ayuda está bien. Y un agradecimiento a las y los profesionales de la salud mental que acompañan a la comunidad . Idea de Xavier. Serie «Mascotas de mi escuela». Medalla secreta.
 
 **JUST0S**
 
@@ -643,7 +643,7 @@ Serie «Mujeres que hicieron la UNAM»:  Dedicada a María Asunción Sandoval, l
 Serie «Mujeres que hicieron la UNAM»:  Dedicada a Ifigenia Martínez, destacada economista y primera mujer en dirigir la Escuela Nacional de Economía, hoy Facultad de Economía . *Idea de Daniela. Medalla secreta.*
 
 **J41D4R**
-Para Dedicada a Alejandra Jaidar, una de las primeras físicas de México, egresada de la Facultad de Ciencias y pionera de la física nuclear en la UNAM. Serie «Mujeres que hicieron la UNAM». Idea de Emmanuel Ibáñez. Medalla secreta.
+Para  Alejandra Jaidar, una de las primeras físicas de México, egresada de la Facultad de Ciencias y pionera de la física nuclear en la UNAM. Serie «Mujeres que hicieron la UNAM». Idea de Emmanuel Ibáñez. Medalla secreta.
 
 **W4FFL3S**
 Para  Inspirada en "Waffles", el perro que todo el CCH Oriente conoce. Idea de Brian Lucas. Serie «Mascotas de mi escuela». Medalla secreta. el famoso perro de la comunidad del CCH Oriente. (Serie «Mascotas de mi escuela»). Idea de Brian Lucas.
@@ -1086,7 +1086,7 @@ Teatro y Actuación / CUT:  **DNX7NY**
 
 Ingeniería Topográfica y geodesica\!\!\!: **8T2H42**
 
-## **SEDES** {#sedes}
+## **${}$SEDES** {#sedes}
 
 Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología: CH2DGW
 
@@ -1171,7 +1171,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Etnomusicologia: V32CE5**
 
-**Ingeniería Eléctrica y Electrónica:** GTTYS2**,** F783Q6, 5, LKAE3D, 4THUMF, 8ZEKK9, QT
+**Ingeniería Eléctrica y Electrónica:** GTTYS2**,** F783Q6, LKAE3D, 4THUMF, 8ZEKK9,
 
 **Ingeniería en Computación:** NQYJ5W, V8VEEB, DUQTLH, VQ8HT4, GK234W, C77D4V, PKJWXH, 62MWGU, RXMWFZ, LTVR5B, U4S826, FS9FAU 8J76TG,
 
@@ -1569,7 +1569,7 @@ Enfermería: **JXMAQR**, **G5M54T**, **SFS8D8**, **ZAFCPW**, **AMPZ69, DW7V8V, 6
 
 Enfermería y Obstetricia: **GSKBMJ**, **RPGJKF, YUCQJJ, FFH3UL**
 
-### ***Facultad de Música*** {#facultad-de-música}
+### ***Facultad de Música***  {#facultad-de-música}
 
 Educación Musical: **DY74DM**
 
@@ -1725,7 +1725,7 @@ Odontologia: **C73DE3, 9R45UR**
 
 ### ***Escuela Nacional de Ciencias de la Tierra*** {#escuela-nacional-de-ciencias-de-la-tierra}
 
-Ciencia de la Tierra: **v, ZGPKFJ, 7GW9UE**
+Ciencia de la Tierra: **ZGPKFJ, 7GW9UE**
 
 Geografía Aplicada: **QWC8VS, WNU5V3, FZCENF, 8R5W24,QJ7RB6**
 
@@ -3508,11 +3508,9 @@ fAlguien borró las otras pestañas y no las puedo restaurar, pueden volver a po
 
 [[enlace de WhatsApp omitido]
 
-**Secundario:**
+**Comunidad Pokedex:**
 
 [[enlace de WhatsApp omitido]
-
-Ahí está 😮‍💨
 
 # **CÓDIGO CORRECTO: : CFLQMC**
 

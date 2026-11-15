@@ -25,9 +25,9 @@
 | `V32CE5` | Etnomusicologia | doc |
 | `GTTYS2` | Ingeniería Eléctrica y Electrónica | doc |
 | `F783Q6` | Ingeniería Eléctrica y Electrónica | doc |
-| `LKAE3D` | 5 | doc |
-| `4THUMF` | 5 | doc |
-| `8ZEKK9` | 5 | doc |
+| `LKAE3D` | Ingeniería Eléctrica y Electrónica | doc |
+| `4THUMF` | Ingeniería Eléctrica y Electrónica | doc |
+| `8ZEKK9` | Ingeniería Eléctrica y Electrónica | doc |
 | `NQYJ5W` | Ingeniería en Computación | doc |
 | `V8VEEB` | Ingeniería en Computación | doc |
 | `DUQTLH` | Ingeniería en Computación | doc |
