@@ -450,6 +450,7 @@
 | `DBT5GV` | Lengua y Literaturas Modernas Alemanas | doc |
 | `MZZQ3K` | Lengua y Literaturas Modernas Inglesas | doc |
 | `VECKTJ` | Lengua y Literaturas Modernas Inglesas | doc |
+| `7LZZCR` | Lengua y Literaturas Modernas Inglesas | doc |
 | `5GBMQ7` | Lengua y Literaturas Modernas Italianas | doc |
 | `AMUKVV` | Lengua y Literaturas Modernas Italianas | doc |
 | `JBND4D` | Lengua y Literaturas Modernas Portuguesas | doc |
@@ -560,6 +561,7 @@
 | `UJZHQQ` | S o ciología | doc |
 | `2Q2JR9` | S o ciología | doc |
 | `78WFBX` | S o ciología | doc |
+| `BFVYYA` | S o ciología | doc |
 | `V7QEMW` | Ciencias Políticas y AP A DISTANCIA NUEVO INGRESO | doc |
 | `75CQF3` | Ciencias de la Comunicación (SUAyED) | doc |
 | `XSLEPM` | Ciencias de la Comunicación (SUAyED) | doc |
@@ -770,6 +772,7 @@
 | `H7GEQM` | Psicología | doc |
 | `AZU86R` | Psicología | doc |
 | `ZHSJL4` | Psicología | doc |
+| `WRVUAF` | Psicología | doc |
 | `EMR2XF` | Psicología SUA | doc |
 | `U37TKR` | Psicología SUA | doc |
 | `UMZHHH` | Psicología SUA | doc |
@@ -778,6 +781,7 @@
 | `2G5REG` | Psicología SUA | doc |
 | `LVD3EW` | Psicología SUA | doc |
 | `J3HE9B` | Psicología SUA | doc |
+| `2DFFGA` | Psicología SUA | doc |
 
 ## Facultad de Odontología
 
