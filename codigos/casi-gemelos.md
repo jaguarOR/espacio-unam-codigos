@@ -394,6 +394,7 @@
 | `CY5CX8` | 17 | doc |
 | `BBUZSK` | 18 | doc |
 | `LH4MD7` | 19 | doc |
+| `US24C3` | 19 | doc |
 | `LADR7U` | 20 | doc |
 | `UAW9AA` | 20 | doc |
 | `KKYHAT` | 20 | doc |

@@ -782,6 +782,7 @@
 | `LVD3EW` | Psicología SUA | doc |
 | `J3HE9B` | Psicología SUA | doc |
 | `2DFFGA` | Psicología SUA | doc |
+| `US24C3` | Psicología SUA | doc |
 
 ## Facultad de Odontología
 
