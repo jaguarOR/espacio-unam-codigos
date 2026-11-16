@@ -2780,7 +2780,7 @@ SSD55C \- Zunun
 ***19***  **2AVJJ6**
 ***20*** **9MQNWS, 7LZZCR**
 ***21***  **V8NHYS**
-***22***  **ZNFGAC, EZ55XC**
+***22***  **ZNFGAC, EZ55XC, JJ3L4Z**
 ***23  PFVZWY, YBN3XW, HAAYEY***
 ***24***  **5VFXAG, N7AA4Q, W9THGT**
 ***25  M6XECA***
