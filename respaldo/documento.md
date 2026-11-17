@@ -1039,6 +1039,10 @@ Por una UNAM segura y libre de violencia para todas las personas, y por las muje
 
 **F0S1L**
 
+D0BL3TURN0
+
+Y4LL3GU3
+
 ¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta Pd:si la pestaña se queda quieta más de 15 minutos sin moverte, el tiempo de reinicia.
