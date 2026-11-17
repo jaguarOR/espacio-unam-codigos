@@ -13,4 +13,3 @@
 | `GKBNW8` | Comunicación Gráfica | doc |
 | `5VSKLQ` | Música y tecnología artística | doc |
 | `DNX7NY` | Teatro y Actuación / CUT | doc |
-| `8T2H42` | — | doc |

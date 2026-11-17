@@ -46,8 +46,7 @@
 **Disclaimer 9**: Carreras subrayadas en **VERDE** tienen código correcto, carreras subrayadas con este **ROJO** o similar: falta código, es incorrecto o funcionan de una manera peculiar.
 
 **Disclaimer 10:** Los códigos resaltados, subrayados o con otro color de letra, se tomarán como erróneos y **SERÁN ELIMINADOS**. (exceptuando la sección de Pokemones muy difíciles
-***¡Esta persona está spameando su código en prácticamente todas las carreras poco comunes, aguas\!: ZGK 37\- Al que se le cache spameando su código, será borrado. No sean NyEs***
-ÍNDICES
+***¡Esta persona está spameando su código en prácticamente todas las carreras poco comunes, aguas\!: ZGK 37\- Al que se le cache spameando su código, será borrado. No sean NyEs***ÍNDICES
 
 [Códigos para platinar Espacio UNAM](#códigos-para-platinar-espacio-unam)
 
@@ -631,31 +630,31 @@ Para Hikaru, el panda mascota del Departamento de Psiquiatría y Salud Mental de
 
 **JUST0S**
 
-Para Justo Sierra, que fundó la Universidad Nacional en 1910\. Idea de Johan, Dylan y Saúl. Serie «Personajes de la UNAM». Medalla secreta.
+Justo Sierra, que fundó la Universidad Nacional en 1910\. Idea de Johan, Dylan y Saúl. Serie «Personajes de la UNAM». Medalla secreta.
 
 **CH0RN3**
-Para Dedicada a Margarita Chorné y Salazar, la primera dentista titulada de México (1886) y una de las primeras mujeres con título profesional en de América Latina. Serie «Mujeres que hicieron la UNAM».  *Idea de Daniel Flores.* Medalla secreta.
+Dedicada a Margarita Chorné y Salazar, la primera dentista titulada de México (1886) y de América Latina. *Idea de Daniel Flores.*
 
 **M4R1ASU**
-Serie «Mujeres que hicieron la UNAM»:  Dedicada a María Asunción Sandoval, la primera mujer abogada titulada en México (1898). *Idea de Yari Natalia, y Ana Esperanza y Salvador. Medalla secreta.*
+Dedicada a María Asunción Sandoval, la primera mujer abogada titulada en México (1898). *Idea de Yari Natalia y Ana Esperanza.*
 
 **1F1G3N1A**
-Serie «Mujeres que hicieron la UNAM»:  Dedicada a Ifigenia Martínez, destacada economista y primera mujer en dirigir la Escuela Nacional de Economía, hoy Facultad de Economía . *Idea de Daniela. Medalla secreta.*
+Dedicada a Ifigenia Martínez, destacada economista y primera mujer en dirigir la Escuela Nacional de Economía. *Idea de Daniela. Medalla secreta.*
 
 **J41D4R**
-Para  Alejandra Jaidar, una de las primeras físicas de México, egresada de la Facultad de Ciencias y pionera de la física nuclear en la UNAM. Serie «Mujeres que hicieron la UNAM». Idea de Emmanuel Ibáñez. Medalla secreta.
+Para  Alejandra Jaidar, una de las primeras físicas de México, egresada de la Facultad de Ciencias y pionera de la física nuclear.
 
 **W4FFL3S**
-Para  Inspirada en "Waffles", el perro que todo el CCH Oriente conoce. Idea de Brian Lucas. Serie «Mascotas de mi escuela». Medalla secreta. el famoso perro de la comunidad del CCH Oriente. (Serie «Mascotas de mi escuela»). Idea de Brian Lucas.
+Inspirada en "Waffles", el famoso perro de la comunidad del CCH Oriente. (Serie «Mascotas de mi escuela»). *Idea de Brian Lucas.*
 
 **C4CHORR0 / 3R4SM0**
-Para los Cachorros pumas, el orgullo de la Prepa 2 «Erasmo Castellanos Quinto». Idea de Valeria Barajas, Eduardo Palacio y Yeshua Flores. Serie «Mascotas de mi escuela». Medalla secreta. En honor a los Cachorros pumas, la comunidad estudiantil y deportiva de la Prepa 2 «Erasmo Castellanos Quinto».
+En honor a los Cachorros pumas, la comunidad estudiantil y deportiva de la Prepa 2 «Erasmo Castellanos Quinto».
 
 **P1K4CHU**
-Para el «Pikachu», como la comunidad de la FES Acatlán llama a su monumento más famoso. Idea de Iván, Eibraham, Johan y 6 personas más. Medalla secreta. *Dedicada al "Pikachu", el emblemático monumento (la escultura amarilla) de la FES Acatlán. Idea de Iván, Eibraham, Johan y 6 personas más.*
+Dedicada al "Pikachu", el emblemático monumento (la escultura amarilla) de la FES Acatlán. *Idea de Iván, Eibraham, Johan y 6 personas más.*
 
 **B0PUM3**
-Para el buque oceanográfico El Puma de la UNAM, que estudia los mares de México. Dedicada al B/O El Puma, el buque oceanográfico de la UNAM encargado de estudiar los mares de México. *Idea de Salvador y Ximena.* Medalla secreta.
+Dedicada al *B/O El Puma*, el buque oceanográfico de la UNAM encargado de estudiar los mares de México. *Idea de Salvador y Ximena.*
 
 **4STR0N4UT4**
 
@@ -1039,9 +1038,15 @@ Por una UNAM segura y libre de violencia para todas las personas, y por las muje
 
 **F0S1L**
 
-D0BL3TURN0
+Fortaleza, Orgullo, Superación, Identidad y Lealtad. Para quienes llevan años en la UNAM y nos recuerdan que cada quien tiene sus tiempos, que la perseverancia también merece reconocimiento y que nunca es tarde para terminar lo que uno empezó. Idea de Virginia, Brenda, Jonathan, Gael, Frida y Yamil. Medalla secreta.
 
-Y4LL3GU3
+**D0BL3TURN0**
+
+**Y4LL3GU3**
+
+Se descompuso el metro, el tráfico no avanzaba o el camión nunca pasó… y aun así llegaste a clase. Idea de Ángel Ian, Raúl, José Eduardo y Christian Yahel. Solo se gana con su código secreto.
+
+**B3BOT3**
 
 ¿Alguien tiene el código de la “startup"?
 
@@ -1092,11 +1097,9 @@ Teatro y Actuación / CUT:  **DNX7NY**
 
 Ingeniería Topográfica y geodesica\!\!\!:
 
-**8T2H42**
-
 ## **${}$SEDES** {#sedes}
 
-Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología: CH2DGW
+Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología:
 
 CEPHCIS Mérida / Lic en Desarrollo y Gestión Interculturales :
 
@@ -1667,7 +1670,7 @@ Ciencias de la Comunicación (Periodismo): **75CQF3**,  **L6KQTK, XSLEPM (SUA), 
 
 Políticas y Administración Pública: **EBAGVV**, **UWTZBJ**, **XH2446, ZTKJWR,, YK4BPW, V7QEMW, PGPXPL, JJ3E4V**
 
-Relaciones Internacionales **6DULNS**,  **NK254K, S7HWRK, E8S6NE, ADBZNZ, DSWH9X, 2FB5UB, JYEF89, QAN9U2, VD522A(sua), V68MGH,**
+Relaciones Internacionales **6DULNS**,  **NK254K, S7HWRK, E8S6NE, ADBZNZ, DSWH9X, 2FB5UB, JYEF89, QAN9U2, VD522A(sua), V68MGH, RZ3FZJ (sua)**
 
 S**o**ciología: **BJ4SN6, S5Y4U2,** SPN24H**, UH9C9E, UJZHQQ, 2Q2JR9, 78WFBX, BFVYYA**
 
@@ -2302,7 +2305,7 @@ WZ6CAL, 985XKC \- Mejía
 M2UHSN \- Melgarejo
 Z23AAN \- Menchaca
 J7QZJW \- Mendez
-R4GH96, ZYKAWY, UJ6HJA, XP4SYA,79NL4H \- Mendoza
+R4GH96, ZYKAWY, UJ6HJA, XP4SYA,79NL4H- Mendoza
 FDRDFV, YTGL83 \- Méndez
 WMWPYR \- Mendoza
 CSSVLE \- Mendiola
@@ -2665,11 +2668,11 @@ SSD55C \- Zunun
 | **Campeche:**  SMBPQF, ZUH73Z |
 | **Chiapas:** XZXA2V, JUBN3N, W7AHQ2, YTGL83,  |
 | **Chihuahua:** R6TE6Q, F9TZFU |
-| **Ciudad de México:  R5QWA8,** 4TB6ZC**,** 4C7WHL, CF4UBR, 5D4C6P ,Q2SZ3B, G5SHBK H6U52K G73Z9E, Y2SM92, ZWLYNY, BFFU5Q, 4QSM4X, QVC32M, Q92CDU, HZ6A9Z, RZ6XRU, GTTYS2, CXZGG6, PFMXND, HE4X2K, QDXBQ9, ZQ7D4T, V6ZKQ8, LH4MD7, M7B54S, V569QT,7NSF65, E3ADVA, H6RRFW, EZLREM, DRVR87, LJ3UDT, 8EJFYT, P79ZDH, CEB2F7, 6DT6SY, GNPVXS, BTJWYA, JQEG3U, TVGL8J, CM8RT8, HAAYEY, UU6VPQ, LX6WZD, 57EYLG, GMXC4A, 8R5W24, KBH4QN, 95Y7HN, MJPW9K, T7XCPM, J6VTDU, MFCF6H,  LXYBNV, 4QY6A9, 8ZEKK9, 7UPPRY,JJ3E4V, GULDV4, US24C3 (Iztacalco) |
+| **Ciudad de México:  R5QWA8,** 4TB6ZC**,** 4C7WHL, CF4UBR, 5D4C6P ,Q2SZ3B, G5SHBK H6U52K G73Z9E, Y2SM92, ZWLYNY, BFFU5Q, 4QSM4X, QVC32M, Q92CDU, HZ6A9Z, RZ6XRU, GTTYS2, CXZGG6, PFMXND, HE4X2K, QDXBQ9, ZQ7D4T, V6ZKQ8, LH4MD7, M7B54S, V569QT,7NSF65, E3ADVA, H6RRFW, EZLREM, DRVR87, LJ3UDT, 8EJFYT, P79ZDH, CEB2F7, 6DT6SY, GNPVXS, BTJWYA, JQEG3U, TVGL8J, CM8RT8, HAAYEY, UU6VPQ, LX6WZD, 57EYLG, GMXC4A, 8R5W24, KBH4QN, 95Y7HN, MJPW9K, T7XCPM, J6VTDU, MFCF6H,  LXYBNV, 4QY6A9, 8ZEKK9, 7UPPRY,JJ3E4V, GULDV4, US24C3 |
 | **Coahuila:** Y2S7KV,  |
 | **Colima:** 79U7RY |
 | **Durango:** 9ASR8W, VUELXG, RJ863WSSGKMT, VG39JT |
-| **Estado de México:** **DVL3JC**, KZUHQL, E7MD3K, 6CRCR2,, JV4M3U, 27YHVB, SPMU3V, WNYKCD, JN42QP, FFWLPX, GVALGQ, BP8YXK, 45KGQP, T9L84A**,** BPY827, 62CSXD, MB8M3H, ZZ6AE3, G5CQWJ, T4MZ7S, E92887, M7PS49, XLWSAA, ALKPT3, ALVDTP, GTYWRN, BP4BSQ, 6PHCHQ, SHYLDR, BVAQGH, QC4WVW, PYADLG, URT7XH, AARUZQ, 8GHZQ5, 92B2W3, 82H488, WWTRWU, 2AVJJ6, WJH8ME, ZAX4D8, VYGM4N, MDW9W3, UZJXUG, 4R4MNQ, 5KDYK6, XBR3NR, 79NL4H, 9XJE2P, WP4ZKF |
+| **Estado de México:** DVL3JC, KZUHQL, E7MD3K, 6CRCR2,, JV4M3U, 27YHVB, SPMU3V, WNYKCD, JN42QP, FFWLPX, GVALGQ, BP8YXK, 45KGQP, T9L84A**,** BPY827, 62CSXD, MB8M3H, ZZ6AE3, G5CQWJ, T4MZ7S, E92887, M7PS49, XLWSAA, ALKPT3, ALVDTP, GTYWRN, BP4BSQ, 6PHCHQ, SHYLDR, BVAQGH, QC4WVW, PYADLG, URT7XH, AARUZQ, 8GHZQ5, 92B2W3, 82H488, WWTRWU, 2AVJJ6, WJH8ME, ZAX4D8, VYGM4N, MDW9W3, UZJXUG, 4R4MNQ, 5KDYK6, XBR3NR, 79NL4H, 9XJE2P, WP4ZKF |
 | **Guanajuato:** ZFHZNJ, 4QQA2Z, CYSVAV |
 | **Guerrero:** PA7FWF, M33WL2, ACZ97F, Z7V2DL, VMF7FH |
 | **Hidalgo:** 3C5MX2, FZC5EB, NWB7JG, 9JUAP7,  |
@@ -2804,7 +2807,7 @@ SSD55C \- Zunun
 ***2    XQST48 ,*** **2EYZ62, EHJ3Q2, LH2NV7, HENQS4**
 ***3  SMNMJW***
 ***4***  **P79ZDH**
-***5 3UA93V,  BFVYYA***
+***5 3UA93V, BFVYYA***
 ***6  43MNSA***
 ***7 KEGKRZ, ZST9W8***
 ***8 FELBKL, SPN24H,***

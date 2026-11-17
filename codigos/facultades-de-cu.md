@@ -554,6 +554,7 @@
 | `QAN9U2` | Relaciones Internacionales | doc |
 | `VD522A` | Relaciones Internacionales | doc |
 | `V68MGH` | (sua) | doc |
+| `RZ3FZJ` | (sua) | doc |
 | `BJ4SN6` | S o ciología | doc |
 | `S5Y4U2` | S o ciología | doc |
 | `SPN24H` | S o ciología | doc |
