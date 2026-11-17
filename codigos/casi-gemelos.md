@@ -482,6 +482,7 @@
 | `TE48FW` | 18 | doc |
 | `8JH9PL` | 19 | doc |
 | `GTMTH9` | 19 | doc |
+| `WP4ZKF` | 19 | doc |
 | `PMXRXP` | 20 | doc |
 | `ALKPT3` | 21 | doc |
 | `CY6ATS` | 22 | doc |

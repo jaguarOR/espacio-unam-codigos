@@ -713,6 +713,7 @@
 | `8B5R2K` | Palacio | doc |
 | `JJ3L4Z` | Pallares | doc |
 | `9TC9N9` | Palomar | doc |
+| `WP4ZKF` | Parada | doc |
 | `LDJN7P` | Paredes | doc |
 | `YXLJ6H` | Paredes | doc |
 | `EGRGG2` | Paredes | doc |
