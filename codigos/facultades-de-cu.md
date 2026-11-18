@@ -283,6 +283,7 @@
 | `BBHUBB` | Médico Cirujano | doc |
 | `V9RX8Z` | Médico Cirujano | doc |
 | `PNXKWW` | Médico Cirujano | doc |
+| `SEQ3QG` | Médico Cirujano | doc |
 | `S6K38H` | Neuro | doc |
 | `U7FQVT` | Neuro | doc |
 | `CSSVLE` | Neuro | doc |
