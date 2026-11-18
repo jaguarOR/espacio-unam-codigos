@@ -1048,6 +1048,10 @@ Se descompuso el metro, el tráfico no avanzaba o el camión nunca pasó… y au
 
 **B3BOT3**
 
+YS1S1
+
+La fe universitaria: en el examen, en la beca, en el partido. ¿Y si sí?
+
 ¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta Pd:si la pestaña se queda quieta más de 15 minutos sin moverte, el tiempo de reinicia.
@@ -1572,7 +1576,7 @@ Neuro: **S6K38H**, **U7FQVT,** CSSVLE
 
 ### ***Facultad de Medicina Veterinaria y Zootecnia*** {#facultad-de-medicina-veterinaria-y-zootecnia}
 
-Medicina Veterinaria y Zootecnia: **4QSM4X**, **9UA5EN, ZW8MBV, 3J2QT2, SS2V9T, 6392QD, 9PLQ5A, VZ36RJ, ENP68N, YVWNP7, QYPDXV, T4LFVJ, Q5M9WY, VEXQQZ, EE55CC, RG2KM7, VZ4TY9, Y4SECU, H6RRFW, 8ALFYC, R5UKGS, QVVXC4, YJTX7G, 2KC976**
+Medicina Veterinaria y Zootecnia: **4QSM4X**, **9UA5EN, ZW8MBV, 3J2QT2, SS2V9T, 6392QD, 9PLQ5A, VZ36RJ, ENP68N, YVWNP7, QYPDXV, T4LFVJ, Q5M9WY, VEXQQZ, EE55CC, RG2KM7, VZ4TY9, Y4SECU, H6RRFW, 8ALFYC, R5UKGS, QVVXC4, YJTX7G, 2KC976 , V8SN3B**
 
 ***Facultad de Enfermería y Obstetricia***
 

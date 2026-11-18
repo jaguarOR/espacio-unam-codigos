@@ -317,6 +317,7 @@
 | `QVVXC4` | Medicina Veterinaria y Zootecnia | doc |
 | `YJTX7G` | Medicina Veterinaria y Zootecnia | doc |
 | `2KC976` | Medicina Veterinaria y Zootecnia | doc |
+| `V8SN3B` | Medicina Veterinaria y Zootecnia | doc |
 | `JXMAQR` | Enfermería | doc |
 | `G5M54T` | Enfermería | doc |
 | `SFS8D8` | Enfermería | doc |
