@@ -462,6 +462,7 @@
 | `QQN4JV` | Cirujano dentista | doc |
 | `MTW6EY` | Cirujano dentista | doc |
 | `AARUZQ` | Cirujano dentista | doc |
+| `HJG3SN` | Psicología, Lizeth , Ramírez, 16 | comunidad |
 
 ## FES Cuautitlan
 
