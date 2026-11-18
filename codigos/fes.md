@@ -144,6 +144,7 @@
 | `HQX32E` | Derecho | doc |
 | `DYGJCP` | Derecho | doc |
 | `PDAHU5` | Derecho | doc |
+| `65LGVS` | Derecho | doc |
 | `X87RX3` | Economía | doc |
 | `B6N39M` | Economía | doc |
 | `QV8YWM` | Economía | doc |
