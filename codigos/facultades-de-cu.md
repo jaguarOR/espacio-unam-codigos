@@ -359,6 +359,7 @@
 | `AK6ZWR` | Ingeniería Química | doc |
 | `RSJUH3` | Ingeniería Química | doc |
 | `LHN8GW` | Ingeniería Química | doc |
+| `J52K9A` | Ingeniería Química | doc |
 | `XZ5H3V` | Ingeniería Química Metalúrgica | doc |
 | `6JGSCT` | Ingeniería Química Metalúrgica | doc |
 | `QUQKEZ` | Ingeniería Química Metalúrgica | doc |
