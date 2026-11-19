@@ -2,20 +2,20 @@
 
 Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos a mano**: se sobrescriben en cada sincronización. Para aportar un código abre un [issue de aportación](../../../issues/new?template=aporte-codigo.yml).
 
-- Códigos del Google Doc: **5361**
+- Códigos del Google Doc: **5364**
 - Aportaciones vía GitHub: **22**
 
 | Sección | Códigos |
 |---|---:|
-| [Medallas secretas](medallas-secretas.md) | 9 |
+| [Medallas secretas](medallas-secretas.md) | 10 |
 | [Carreras que ya no existen o cambiaron de nombre](carreras-que-ya-no-existen-o-cambiaron-de-nombre.md) | 9 |
 | [CCH](cch.md) | 17 |
 | [Prepas](prepas.md) | 20 |
 | [ENES](enes.md) | 117 |
-| [FES](fes.md) | 439 |
+| [FES](fes.md) | 440 |
 | [Facultades de CU](facultades-de-cu.md) | 737 |
 | [Escuelas nacionales y otras entidades](escuelas-nacionales-y-otras-entidades.md) | 35 |
-| [Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia](instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-morelia.md) | 3 |
+| [Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia](instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-morelia.md) | 4 |
 | [Tocayo](tocayo.md) | 1073 |
 | [Casi familia](casi-familia.md) | 1026 |
 | [Pastel compartido](pastel-compartido.md) | 718 |

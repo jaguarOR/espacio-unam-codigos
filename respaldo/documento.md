@@ -134,7 +134,7 @@
 
 [Centro de  Genómicas (Cuernavaca)](#centro-de-genómicas-\(cuernavaca\))
 
-[Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Mérida)](#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-\(mérida\))
+[Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Mérida)](#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-\(mérida\)-jklrul)
 
 [APARTADO PARA EL LOGRO DE TOCAYO](#apartado-para-el-logro-de-tocayo)
 
@@ -1042,6 +1042,8 @@ Fortaleza, Orgullo, Superación, Identidad y Lealtad. Para quienes llevan años 
 
 **D0BL3TURN0**
 
+**JKLRUL**
+
 **Y4LL3GU3**
 
 Se descompuso el metro, el tráfico no avanzaba o el camión nunca pasó… y aun así llegaste a clase. Idea de Ángel Ian, Raúl, José Eduardo y Christian Yahel. Solo se gana con su código secreto.
@@ -1364,7 +1366,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Diseño Industrial:** UWJK4T, KNFKMV, 325FC5, N6DMGP, HGZBWY, 6Z52ZA, SMNMJW
 
-**Derecho: 27YHVB,** TK24MU, SB3S58, 7NSF65, 8GHZQ5, AWLR5V, YY4XRF, 2KNNQY, HQX32E, DYGJCP, PDAHU5, 65LGVS
+**Derecho: JKLRUL,  27YHVB,** TK24MU, SB3S58, 7NSF65, 8GHZQ5, AWLR5V, YY4XRF, 2KNNQY, HQX32E, DYGJCP, PDAHU5, 65LGVS
 
 **Economía:** X87RX3, B6N39M, QV8YWM , 84HDNQ, UTX29R,
 
@@ -1792,7 +1794,7 @@ Ingeniería en Energías Renovables : **6SRU4Q, BK3FVG**
 
  Genómicas: **5KX44U**
 
-### ***Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Mérida)*** {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(mérida)}
+### ***Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Mérida)***    **JKLRUL** {#instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-(mérida)-jklrul}
 
 Desarrollo y gestión interculturales:
 

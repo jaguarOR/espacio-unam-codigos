@@ -133,6 +133,7 @@
 | `HGZBWY` | Diseño Industrial | doc |
 | `6Z52ZA` | Diseño Industrial | doc |
 | `SMNMJW` | Diseño Industrial | doc |
+| `JKLRUL` | Derecho | doc |
 | `27YHVB` | Derecho | doc |
 | `TK24MU` | Derecho | doc |
 | `SB3S58` | Derecho | doc |
