@@ -14,4 +14,3 @@
 | Código | Etiqueta | Origen |
 |---|---|---|
 | `5KX44U` | Genómicas | doc |
-| `JKLRUL` | ### Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Mérida) | doc |

@@ -460,6 +460,7 @@
 | `T6DEYV` | Química Farmacéutica Biológica | doc |
 | `P5TDP6` | Química Farmacéutica Biológica | doc |
 | `TE48FW` | Química Farmacéutica Biológica | doc |
+| `FCPN4N` | Química Farmacéutica Biológica | doc |
 | `LDJN7P` | Cirujano dentista | doc |
 | `QQN4JV` | Cirujano dentista | doc |
 | `MTW6EY` | Cirujano dentista | doc |
