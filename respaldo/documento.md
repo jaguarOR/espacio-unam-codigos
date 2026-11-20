@@ -11,7 +11,7 @@
 
 [**http\://docs.google.com/spreadsheets/d/1SvWsZoNucry4\_kdDRg472s3KdWpfSO0qfrXBOsQd2rA/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1SvWsZoNucry4_kdDRg472s3KdWpfSO0qfrXBOsQd2rA/edit?usp=sharing)
 
-**Se creó un repositorio en github y una pagina web  para buscar de forma mas sencilla los códigos**
+**Se creó un repositorio en github y una pagina web  para buscar de forma más sencilla los códigos**
 
 [**https\://jaguaror.github.io/espacioLKAE3D-unam-codigos/**](https://jaguaror.github.io/espacio-unam-codigos/)
 
