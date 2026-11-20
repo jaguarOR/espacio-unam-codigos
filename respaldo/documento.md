@@ -2768,7 +2768,7 @@ SSD55C \- Zunun
 ***25*****.    3YCYBM, WUJNCD**
 ***26***    **KLVKPA, VLM6JA**
 ***27***
-***28***
+***28    QPMGLA***
 ***29***    **F3WH5B**
 
 ## **Marzo**
