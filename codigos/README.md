@@ -2,7 +2,7 @@
 
 Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos a mano**: se sobrescriben en cada sincronización. Para aportar un código abre un [issue de aportación](../../../issues/new?template=aporte-codigo.yml).
 
-- Códigos del Google Doc: **5371**
+- Códigos del Google Doc: **5372**
 - Aportaciones vía GitHub: **22**
 
 | Sección | Códigos |
@@ -20,7 +20,7 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 | [Casi familia](casi-familia.md) | 1029 |
 | [Pastel compartido](pastel-compartido.md) | 720 |
 | [Casi gemelos](casi-gemelos.md) | 548 |
-| [Cazadora de mitos](cazadora-de-mitos.md) | 14 |
+| [Cazadora de mitos](cazadora-de-mitos.md) | 15 |
 | [Compa de banca](compa-de-banca.md) | 208 |
 | [Otros](otros.md) | 2 |
 | [Grupo de WhatsApp](grupo-de-whatsapp.md) | 304 |
