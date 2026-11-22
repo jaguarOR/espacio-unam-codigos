@@ -4,7 +4,7 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `CFLQMC` | # CÓDIGO CORRECTO | doc |
+| `CFLQMC` | # papaCÓDIGO CORRECTO | doc |
 | `6WSK45` | Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en E | doc |
 | `4C7WHL` | — | doc |
 | `634MZ6` | Porfi agregueme alguien de bachillerato a distancia, aún nadie :( | doc |

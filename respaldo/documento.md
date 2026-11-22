@@ -2171,6 +2171,7 @@ GHSX27, JV4M3U, FA7FL7, MXA4B9, AQQ37Y, 4A4LJJ,  J5HYY2, RVUWJH \-  García
 325FC5 \- Garduño
 8MT3SY  \-  Garduño
 27ZGCW, SYULLG \- Garrido
+Y8MU54 García
 SNXU8D, CP69HF \- Gasca
 EBC862- Gaspar
 6TBAMV \- Garay
@@ -2418,6 +2419,7 @@ ZD6GZX \- Panohaya
 XBAVG5 \- Pegueros
 GFE3DQ \- Peralta
 42PR7M \- Peraza 🥺
+Y8MU54   Pérez
 VZ4TY9 \- Peralta
 HE4X2K, XQST48, K7HSZT, 2M56EN, ZKCCMK, V569QT, G9HCLW, RGUKR3, MFCF6H, 4QY6A9- Pérez
 JLCAW9   \- Perfecto
@@ -3529,7 +3531,7 @@ fAlguien borró las otras pestañas y no las puedo restaurar, pueden volver a po
 
 [[enlace de WhatsApp omitido]
 
-# **CÓDIGO CORRECTO: : CFLQMC**
+# **papaCÓDIGO CORRECTO: : CFLQMC**
 
 **Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en Ecosistemas y Sustentabilidad . Agréguenme porfa: 6WSK45**
 **AMISTAD NADIE ESTÁ EN ESA CARRERA ACTUALMENTE**
