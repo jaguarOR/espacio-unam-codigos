@@ -2,7 +2,7 @@
 
 Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos a mano**: se sobrescriben en cada sincronización. Para aportar un código abre un [issue de aportación](../../../issues/new?template=aporte-codigo.yml).
 
-- Códigos del Google Doc: **5380**
+- Códigos del Google Doc: **5382**
 - Aportaciones vía GitHub: **22**
 
 | Sección | Códigos |
@@ -18,8 +18,8 @@ Generado automáticamente por `scripts/sync_doc.py`. **No edites estos archivos 
 | [Instituto de Investigaciones en Ecosistemas y Sustentabilidad (Morelia](instituto-de-investigaciones-en-ecosistemas-y-sustentabilidad-morelia.md) | 3 |
 | [Tocayo](tocayo.md) | 1077 |
 | [Casi familia](casi-familia.md) | 1030 |
-| [Pastel compartido](pastel-compartido.md) | 721 |
-| [Casi gemelos](casi-gemelos.md) | 550 |
+| [Pastel compartido](pastel-compartido.md) | 722 |
+| [Casi gemelos](casi-gemelos.md) | 551 |
 | [Cazadora de mitos](cazadora-de-mitos.md) | 15 |
 | [Compa de banca](compa-de-banca.md) | 208 |
 | [Otros](otros.md) | 2 |
