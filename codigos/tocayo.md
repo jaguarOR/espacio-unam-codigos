@@ -46,6 +46,7 @@
 | `H6U52K` | Alejandro | doc |
 | `XZBWUT` | Alejandro | doc |
 | `E7U7YA` | Alejandro | doc |
+| `KSPK77` | Alejandro | doc |
 | `J4QES4` | Alessandra | doc |
 | `V9RX8Z` | Alessandra | doc |
 | `ETYJEM` | Alexa | doc |
@@ -361,6 +362,7 @@
 | `DPL3TW` | Eric | doc |
 | `JUF5W6` | Erick | doc |
 | `LHPSC9` | Erick | doc |
+| `PQZYRS` | Erick | doc |
 | `85XQ5L` | Erik | doc |
 | `S8LNQW` | Erik | doc |
 | `X4WFYP` | Erika | doc |

@@ -102,6 +102,7 @@
 | `W9L88G` | Ingeniería Ambiental | doc |
 | `6B76H7` | Ingeniería Ambiental | doc |
 | `NJSE4T` | Ingeniería Ambiental | doc |
+| `PQZYRS` | Ingeniería Civil | doc |
 | `ZT5TXN` | Ingeniería Civil | doc |
 | `UQQGXT` | Ingeniería Civil | doc |
 | `99T3U8` | Ingeniería Civil | doc |
