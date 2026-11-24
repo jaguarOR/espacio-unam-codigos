@@ -1103,7 +1103,7 @@ Ingeniería Topográfica y geodesica\!\!\!:
 
 ## **${}$SEDES** {#sedes}
 
-Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología:           CU
+Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología:
 
 CEPHCIS Mérida / Lic en Desarrollo y Gestión Interculturales :
 
@@ -1652,7 +1652,7 @@ Literatura Dramática y Teatro:, **6NDDAC**, **ZUACTS, P447L7,FUEQZD, BU4DMD,QC4
 
 Pedagogía: **AXBZDR, QGZ72B**, **6TBAMV**, **SEGK57, 2VY8SG**, **E6FYLQ, JUDSPC  Z5KZQ5, QDXBQ9, KZUHQL, 7UPPRY**
 
-Lengua y literaturas Hispanicas SUAYED**: 6XMXC5, 9MVBUH, 8N24Z3**
+Lengua y literaturas Hispanicas SUAYED**:, 9MVBUH, 8N24Z3**
 
 Pedagogía SUAyED:  **N7QNDK**, **Z59DFZ**, **74EDF4, S52R6X**, **X3TE7F, QZ7NR3, WW7T4K, X8VAHT, FENCHJ, 3DDLSL**
 
