@@ -158,6 +158,8 @@
 
 ##
 
+5
+
 ## **MEDALLAS SECRETAS** {#medallas-secretas}
 
 **3AKJEE**
@@ -1514,7 +1516,7 @@ Ingeniería En Alimentos: **HR5TVK, 985XKC**
 
 Ingeniería Ambiental: **QZ35PS**,**4RTEPW, 7QYUTX, W9L88G, 6B76H7, NJSE4T**
 
-Ingeniería Civil: **PQZYRS, ZT5TXN,, UQQGXT**, **99T3U8**, **USVWAX**, **KE6HNZ, K3DVAH, SH5L2W**
+Ingeniería Civil: **PQZYRS, ZT5TXN, UQQGXT**, **99T3U8**, **USVWAX**, **KE6HNZ, K3DVAH, SH5L2W**
 
 Ingeniería en Minas y Metalurgia:**, TZ7S35, 4VP5BY , R6YX47, M94YBG**
 
@@ -1666,7 +1668,7 @@ Historia del arte**: SYCLSN**
 
 ### ***Facultad de Ciencias Políticas y Sociales*** {#facultad-de-ciencias-políticas-y-sociales}
 
-Antropología:, **C3EXMD, P79ZDH, 8MT3SY,, FFHFFF, MGHG7B**
+Antropología:, **P79ZDH, 8MT3SY,, FFHFFF, MGHG7B**
 
 Ciencias de la Comunicación (Periodismo): **75CQF3**,  **L6KQTK, XSLEPM (SUA), YXLJ6H, KJY9A8, 4C7WHL, UJ6HJA**, **FDSTL4**, **Z85GPC**, **YAMC7X**, **3H7QTD**, , **KMKJZT**, **MW3B8F, XZBWUT, TW75Y9  (SUA), QPNKGB, U2LRPH, 4QRXH7, PTRGRY, UEYXQY, XH2446,  U7D5JF, Q2KS8F, B6PXK6, D4SJJL, KJY9A8, CRGQXT, 5X5NKZ, HHBKQS, UAW9AA**
 
@@ -2167,11 +2169,10 @@ LJWZXM  \-  Gallegos
 QLDMEH  \-  Gámez
 9U3QWM \- Garavito
 S785KG, M3SNLV, SB3S58, P992QH \-Garcia
-GHSX27, JV4M3U, FA7FL7, MXA4B9, AQQ37Y, 4A4LJJ,  J5HYY2, RVUWJH \-  García
+GHSX27, JV4M3U, FA7FL7, MXA4B9, AQQ37Y, 4A4LJJ,  J5HYY2, RVUWJH Y8MU54 \-  García
 325FC5 \- Garduño
 8MT3SY  \-  Garduño
 27ZGCW, SYULLG \- Garrido
-Y8MU54 García
 SNXU8D, CP69HF \- Gasca
 EBC862- Gaspar
 6TBAMV \- Garay
@@ -2419,9 +2420,8 @@ ZD6GZX \- Panohaya
 XBAVG5 \- Pegueros
 GFE3DQ \- Peralta
 42PR7M \- Peraza 🥺
-Y8MU54   Pérez
 VZ4TY9 \- Peralta
-HE4X2K, XQST48, K7HSZT, 2M56EN, ZKCCMK, V569QT, G9HCLW, RGUKR3, MFCF6H, 4QY6A9- Pérez
+HE4X2K, XQST48, K7HSZT, 2M56EN, ZKCCMK, V569QT, G9HCLW, RGUKR3, MFCF6H, 4QY6A9, Y8MU54 \- Pérez
 JLCAW9   \- Perfecto
 44UQUR   \-Pedro
 BGY7UX \- Peña
@@ -2513,7 +2513,7 @@ JUBN3N, R4GH96, ETW2ZZ, FL5998, SQMUC6, HDYHEQ, DBY6Z4, SEQ3QG \-  Sánchez
 8ERZAR \- Sandoval
 39M9RZ \- Santamaria
 N3MF6K \- Santana
-9RDDKY, 7GW9UE, KSPK77 \-  Santiago
+9RDDKY, 7GW9UE, KSPK77-  Santiago
 AR9SK7 \- Santillán
 E6FYLQ  \-  Santos
 H9L5AJ \- Santoyo
@@ -3531,7 +3531,7 @@ fAlguien borró las otras pestañas y no las puedo restaurar, pueden volver a po
 
 [[enlace de WhatsApp omitido]
 
-# **papaCÓDIGO CORRECTO: : CFLQMC**
+# **CÓDIGO CORRECTO: : CFLQMC**
 
 **Estimados compañeros que estudian en el CEPHCIS Merida e Instituto de Investigaciones en Ecosistemas y Sustentabilidad . Agréguenme porfa: 6WSK45**
 **AMISTAD NADIE ESTÁ EN ESA CARRERA ACTUALMENTE**

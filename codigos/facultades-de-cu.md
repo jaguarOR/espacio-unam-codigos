@@ -506,7 +506,6 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `C3EXMD` | Antropología | doc |
 | `P79ZDH` | Antropología | doc |
 | `8MT3SY` | Antropología | doc |
 | `FFHFFF` | Antropología | doc |
