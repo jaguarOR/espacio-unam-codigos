@@ -1103,7 +1103,7 @@ Ingeniería Topográfica y geodesica\!\!\!:
 
 ## **${}$SEDES** {#sedes}
 
-Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología:
+Centro de Física Aplicada y Avanzada Juriquilla / Lic tecnología:           CU
 
 CEPHCIS Mérida / Lic en Desarrollo y Gestión Interculturales :
 
