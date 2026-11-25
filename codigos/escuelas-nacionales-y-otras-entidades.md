@@ -34,7 +34,6 @@
 
 | Código | Etiqueta | Origen |
 |---|---|---|
-| `S64AYZ` | Ciencia de Datos | doc |
 | `L4RHWU` | Ciencia de Datos | doc |
 | `9KXWAP` | Ciencia de Datos | doc |
 | `9K99R3` | Matemáticas Aplicadas | doc |

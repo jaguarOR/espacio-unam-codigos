@@ -158,8 +158,6 @@
 
 ##
 
-5
-
 ## **MEDALLAS SECRETAS** {#medallas-secretas}
 
 **3AKJEE**
@@ -1670,7 +1668,7 @@ Historia del arte**: SYCLSN**
 
 Antropología:, **P79ZDH, 8MT3SY,, FFHFFF, MGHG7B**
 
-Ciencias de la Comunicación (Periodismo): **75CQF3**,  **L6KQTK, XSLEPM (SUA), YXLJ6H, KJY9A8, 4C7WHL, UJ6HJA**, **FDSTL4**, **Z85GPC**, **YAMC7X**, **3H7QTD**, , **KMKJZT**, **MW3B8F, XZBWUT, TW75Y9  (SUA), QPNKGB, U2LRPH, 4QRXH7, PTRGRY, UEYXQY, XH2446,  U7D5JF, Q2KS8F, B6PXK6, D4SJJL, KJY9A8, CRGQXT, 5X5NKZ, HHBKQS, UAW9AA**
+Ciencias de la Comunicación (Periodismo): **75CQF3**,  **L6KQTK, CDPVMG (SUA), XSLEPM (SUA), YXLJ6H, KJY9A8, 4C7WHL, UJ6HJA**, **FDSTL4**, **Z85GPC**, **YAMC7X**, **3H7QTD**, , **KMKJZT**, **MW3B8F, XZBWUT, TW75Y9  (SUA), QPNKGB, U2LRPH, 4QRXH7, PTRGRY, UEYXQY, XH2446,  U7D5JF, Q2KS8F, B6PXK6, D4SJJL, KJY9A8, CRGQXT, 5X5NKZ, HHBKQS, UAW9AA**
 
 Políticas y Administración Pública: **EBAGVV**, **UWTZBJ**, **XH2446, ZTKJWR,, YK4BPW, V7QEMW, PGPXPL, JJ3E4V**
 
@@ -1750,7 +1748,7 @@ Forense: **N9FZQC, G73Z9E, KKYHAT, PAVDZD, ZS32YZ, USQZVW, LEH2JS, 7TCYKC, BVZXZ
 
 ### ***IIMAS (Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas)*** {#iimas-(instituto-de-investigaciones-en-matemáticas-aplicadas-y-en-sistemas)}
 
-Ciencia de Datos: **S64AYZ**, **L4RHWU, 9KXWAP**
+Ciencia de Datos:, **L4RHWU, 9KXWAP**
 
 Matemáticas Aplicadas: **9K99R3**
 
@@ -3819,7 +3817,7 @@ fAlguien borró las otras pestañas y no las puedo restaurar, pueden volver a po
 **Agrega bachillerato en línea porfa: V8NHYS**
 **Agregarme plis chavos de Bachillerato en linea: QMVLT8**
 **Agregenme alguien de bachillerato a distancia, por favorr: SE28C2**
-**Amigos de Bachillerato a Distancia y Agroforestales, agregame porfis y te llevo de Tour a Ciencias ![❤][image12]gr**
+**Amigos de Bachillerato a Distancia y Agroforestales, agregame porfis y te llevo de Tour a Ciencias ![❤][image10]gr**
 **Tmb a mi porfa agregameee Y4SECU**
 
 **KY43YW**
