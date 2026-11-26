@@ -64,5 +64,7 @@ Para mejorar el extractor, la página o la documentación, lee [CONTRIBUTING.md]
 
 ---
 
+Repositorio creado y mantenido por **Ezequiel Olivera Reyes** ([@jaguarOR](https://github.com/jaguarOR)), Ingeniería en Computación, UNAM FES Aragón.
+
 Gracias a Etmis, a Runix y a todas las personas que mantienen el Doc vivo. Este proyecto no está afiliado
 oficialmente a la UNAM ni a Espacio UNAM.
