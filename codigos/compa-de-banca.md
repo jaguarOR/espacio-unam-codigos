@@ -78,6 +78,7 @@
 | `NMMG83` | MÉDICO CIRUJANO/ Facultad de Medicina/2025 | doc |
 | `EGV5ZC` | MÉDICO CIRUJANO/ Facultad de Medicina/2025 | doc |
 | `GNPVXS` | MÉDICO CIRUJANO/ Facultad de Medicina/2025 | doc |
+| `SYTYTU` | MÉDICO CIRUJANO/ Facultad de Medicina/2025 | doc |
 | `SHYLDR` | MÉDICO CIRUJANO/ Facultad de Medicina/2026 | doc |
 | `XFX8U7` | MÉDICO CIRUJANO/ Facultad de Medicina/2026 | doc |
 | `QP8C79` | MÉDICO CIRUJANO / FES Zaragoza 2023 | doc |

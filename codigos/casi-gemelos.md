@@ -223,6 +223,7 @@
 | `M8RMH9` | 13 | doc |
 | `GFES9K` | 13 | doc |
 | `ZK2VQW` | 13 | doc |
+| `SYTYTU` | 14 | doc |
 | `Y56JTV` | 15 | doc |
 | `8GHZQ5` | 16 | doc |
 | `TQFRKA` | 16 | doc |
