@@ -1042,9 +1042,17 @@ Fortaleza, Orgullo, Superación, Identidad y Lealtad. Para quienes llevan años 
 
 **D0BL3TURN0**
 
+**W4K3UPN30**
+
+Tomaste la pastilla correcta: saliste de la Matrix y entraste a Espacio. Idea de Diego. Solo se gana con su código secreto.
+
 **Y4LL3GU3**
 
 Se descompuso el metro, el tráfico no avanzaba o el camión nunca pasó… y aun así llegaste a clase. Idea de Ángel Ian, Raúl, José Eduardo y Christian Yahel. Solo se gana con su código secreto.
+
+**CU1D4D0R3S**
+
+Gracias a quienes vigilan, hacen rondines, limpian y dan mantenimiento para que la UNAM sea un lugar seguro y bonito todos los días. Serie «Gracias a quienes nos cuidan». Idea de Sofía, Jorge Emilio y Miguel Ángel. Medalla secreta.
 
 YS1S1
 
