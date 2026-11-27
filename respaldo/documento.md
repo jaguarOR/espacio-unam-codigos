@@ -1170,7 +1170,7 @@ Las medallas de carreras con menos de 500 personas en Espacio ahora brillan con 
 
 **Comunicación:**
 
-**Desarrollo territorial:** SYGFBM
+**Desarrollo territorial:** SYGFBMSYGFBM
 
 **Economía Industrial:**  H8W2VQ
 

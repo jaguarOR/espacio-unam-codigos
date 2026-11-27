@@ -9,7 +9,6 @@
 | `JN9LZY` | Agrogenómicas | doc |
 | `Z7V2DL` | Optometría | doc |
 | `ARWJMZ` | Administración Agropecuária | doc |
-| `SYGFBM` | Desarrollo territorial | doc |
 | `H8W2VQ` | Economía Industrial | doc |
 | `BASB5W` | Relaciones Internacionales SUA | doc |
 | `NLX7FH` | Turismo y Desarrollo Sostenible | doc |
