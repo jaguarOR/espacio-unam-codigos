@@ -512,18 +512,18 @@
 | `MGHG7B` | Antropología | doc |
 | `75CQF3` | Ciencias de la Comunicación (Periodismo) | doc |
 | `L6KQTK` | Ciencias de la Comunicación (Periodismo) | doc |
-| `YXLJ6H` | CDPVMG (SUA), XSLEPM (SUA) | doc |
-| `KJY9A8` | CDPVMG (SUA), XSLEPM (SUA) | doc |
-| `4C7WHL` | CDPVMG (SUA), XSLEPM (SUA) | doc |
-| `UJ6HJA` | CDPVMG (SUA), XSLEPM (SUA) | doc |
-| `FDSTL4` | CDPVMG (SUA), XSLEPM (SUA) | doc |
-| `Z85GPC` | CDPVMG (SUA), XSLEPM (SUA) | doc |
-| `YAMC7X` | CDPVMG (SUA), XSLEPM (SUA) | doc |
-| `3H7QTD` | CDPVMG (SUA), XSLEPM (SUA) | doc |
-| `KMKJZT` | CDPVMG (SUA), XSLEPM (SUA) | doc |
-| `MW3B8F` | CDPVMG (SUA), XSLEPM (SUA) | doc |
-| `XZBWUT` | CDPVMG (SUA), XSLEPM (SUA) | doc |
-| `TW75Y9` | CDPVMG (SUA), XSLEPM (SUA) | doc |
+| `YXLJ6H` | XSLEPM (SUA) | doc |
+| `KJY9A8` | XSLEPM (SUA) | doc |
+| `4C7WHL` | XSLEPM (SUA) | doc |
+| `UJ6HJA` | XSLEPM (SUA) | doc |
+| `FDSTL4` | XSLEPM (SUA) | doc |
+| `Z85GPC` | XSLEPM (SUA) | doc |
+| `YAMC7X` | XSLEPM (SUA) | doc |
+| `3H7QTD` | XSLEPM (SUA) | doc |
+| `KMKJZT` | XSLEPM (SUA) | doc |
+| `MW3B8F` | XSLEPM (SUA) | doc |
+| `XZBWUT` | XSLEPM (SUA) | doc |
+| `TW75Y9` | XSLEPM (SUA) | doc |
 | `U2LRPH` | (SUA), QPNKGB | doc |
 | `4QRXH7` | (SUA), QPNKGB | doc |
 | `PTRGRY` | (SUA), QPNKGB | doc |
@@ -572,6 +572,7 @@
 | `VFL56D` | Ciencias de la Comunicación (SUAyED) | doc |
 | `BHJJJA` | Ciencias de la Comunicación (SUAyED) | doc |
 | `DFTXBL` | Ciencias de la Comunicación (SUAyED) | doc |
+| `CDPVMG` | Ciencias de la Comunicación (SUAyED) | doc |
 
 ## Facultad de Contaduría y Administración
 

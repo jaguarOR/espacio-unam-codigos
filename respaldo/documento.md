@@ -1042,7 +1042,7 @@ Fortaleza, Orgullo, Superación, Identidad y Lealtad. Para quienes llevan años 
 
 **D0BL3TURN0**
 
-**)Y4LL3GU3**
+**Y4LL3GU3**
 
 Se descompuso el metro, el tráfico no avanzaba o el camión nunca pasó… y aun así llegaste a clase. Idea de Ángel Ian, Raúl, José Eduardo y Christian Yahel. Solo se gana con su código secreto.
 
@@ -1668,7 +1668,7 @@ Historia del arte**: SYCLSN**
 
 Antropología:, **P79ZDH, 8MT3SY,, FFHFFF, MGHG7B**
 
-Ciencias de la Comunicación (Periodismo): **75CQF3**,  **L6KQTK, CDPVMG (SUA), XSLEPM (SUA), YXLJ6H, KJY9A8, 4C7WHL, UJ6HJA**, **FDSTL4**, **Z85GPC**, **YAMC7X**, **3H7QTD**, , **KMKJZT**, **MW3B8F, XZBWUT, TW75Y9  (SUA), QPNKGB, U2LRPH, 4QRXH7, PTRGRY, UEYXQY, XH2446,  U7D5JF, Q2KS8F, B6PXK6, D4SJJL, KJY9A8, CRGQXT, 5X5NKZ, HHBKQS, UAW9AA**
+Ciencias de la Comunicación (Periodismo): **75CQF3**,  **L6KQTK, XSLEPM (SUA), YXLJ6H, KJY9A8, 4C7WHL, UJ6HJA**, **FDSTL4**, **Z85GPC**, **YAMC7X**, **3H7QTD**, , **KMKJZT**, **MW3B8F, XZBWUT, TW75Y9  (SUA), QPNKGB, U2LRPH, 4QRXH7, PTRGRY, UEYXQY, XH2446,  U7D5JF, Q2KS8F, B6PXK6, D4SJJL, KJY9A8, CRGQXT, 5X5NKZ, HHBKQS, UAW9AA**
 
 Políticas y Administración Pública: **EBAGVV**, **UWTZBJ**, **XH2446, ZTKJWR,, YK4BPW, V7QEMW, PGPXPL, JJ3E4V**
 
@@ -1678,7 +1678,7 @@ S**o**ciología: **BJ4SN6, S5Y4U2,** SPN24H**, UH9C9E, UJZHQQ, 2Q2JR9, 78WFBX, B
 
 Ciencias Políticas y AP A DISTANCIA NUEVO INGRESO: **V7QEMW**
 
-Ciencias de la Comunicación (SUAyED): **75CQF3, XSLEPM, VFL56D, BHJJJA, DFTXBL**
+Ciencias de la Comunicación (SUAyED): **75CQF3, XSLEPM, VFL56D, BHJJJA, DFTXBL , CDPVMG**
 
 ###
 
