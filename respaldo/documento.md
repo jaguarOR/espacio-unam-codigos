@@ -1058,6 +1058,8 @@ YS1S1
 
 La fe universitaria: en el examen, en la beca, en el partido. ¿Y si sí?
 
+X3N0V3N
+
 ¿Alguien tiene el código de la “startup"?
 
 **No deberías estar estudiando:** Quedarse una hora con la página de Espacio UNAM abierta Pd:si la pestaña se queda quieta más de 15 minutos sin moverte, el tiempo de reinicia.
@@ -2939,7 +2941,7 @@ SSD55C \- Zunun
 ***28w , PQZYRS***
 ***29 C2E6DR , QERZ9Y***
 ***30***   **KVJNQD, 6A6RSY**
-***31  FZ33SX9***
+***31  FZ33SX***
 **Agosto**
 ***1 BC22K2, SBXJQN***
 ***2 TDZD9Y***
